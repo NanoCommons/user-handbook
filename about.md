@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Aliquip fugiat nulla veniam consectetur veniam consequat non ad. Culpa et ut incididunt cillum ut ad sit consequat proident laboris. Qui Lorem adipisicing veniam ad eiusmod fugiat officia anim. Fugiat cupidatat sint labore do ex exercitation esse non. Enim exercitation officia in ipsum laboris ad dolor reprehenderit et aute excepteur sint. Culpa exercitation labore nostrud consequat ipsum veniam commodo.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sunt enim officia velit ullamco exercitation officia fugiat sunt tempor proident. Irure eiusmod Lorem mollit fugiat cillum cupidatat qui do nostrud qui duis sint aliquip. Consectetur et ullamco irure esse laboris mollit pariatur aliqua id cupidatat sit.
 
+Ut do est dolore quis labore nisi. Mollit id nulla aliqua veniam qui nostrud magna ea aliqua velit culpa excepteur culpa eu. Qui est nostrud aute nulla cupidatat in labore sint dolore sunt. Enim laboris cupidatat veniam ut in.
 
-[jekyll-organization]: https://github.com/jekyll
+Adipisicing quis officia elit sint nisi veniam reprehenderit nulla tempor. Fugiat eu do ad duis in. Cillum culpa excepteur nostrud ut do culpa qui veniam nostrud ex. Mollit Lorem in nulla mollit do et culpa dolor quis qui. Irure minim elit non eiusmod sint cillum. Sunt eu velit do nulla est ipsum. Elit sunt elit do fugiat.
