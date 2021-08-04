@@ -6,7 +6,9 @@ This project uses the [Jekyll](https://jekyllrb.com/) static site generator. The
 
 The pages are served via [GitHub Pages](https://pages.github.com/) and are rebuilt on every commit to the `main` branch.
 
-When writing new or extending the existing content, it is quite helpfull to have your local development setup in place. This way, you'll be able to see and verify your changes immediately. Please follow the [Jekyll installation instructions](https://jekyllrb.com/docs/) to set up your local Jekyll environment.
+When writing new or extending the existing content, it is quite helpfull to have your local development setup in place. This way, you'll be able to see and verify your changes immediately.
+
+The two requirements for the local development setup are the [Ruby](https://www.ruby-lang.org/) programming language and the [Jekyll](https://jekyllrb.com/). Please follow the installation instructions for the two requirements. Note: your system may already have the Ruby programming language installed.
 
 Once you have completed the setup, you need to install the required ruby modules (gems) by:
 
