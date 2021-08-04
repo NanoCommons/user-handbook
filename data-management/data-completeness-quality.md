@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Bar
-permalink: /docs/bar/
-parent: Docs
-nav_order: 20
+title: Data completeness and quality
+permalink: /data-management/data-completeness-quality/
+parent: Data management
+nav_order: 10
 ---
 
-# Bar
+# Data completeness and quality
 
 Ad nulla laboris amet esse officia. Tempor et fugiat nulla nisi eiusmod nulla velit cillum. Est anim sit sit pariatur. Velit Lorem incididunt aliquip sit voluptate non aliquip dolor commodo ex. Adipisicing officia amet cupidatat ex fugiat proident labore ex cupidatat.
 

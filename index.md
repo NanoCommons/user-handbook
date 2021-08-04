@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /
-projects: 
+projects:
   - url: https://nanocommons.eu
     logo: nanocommons.png
     width: 100
@@ -22,8 +22,6 @@ projects:
     width: 200
 ---
 # Data and nanoinformatics shepherds’ user guidance handbook
-{: .fs-9 }
-
 
 This is an activity of **NanoCommons** or better **MaterialCommons**, not meaning the [NanoCommons project](https://nanocommons.eu) even if it started it all but in the sense of a commons for nanomaterials following the [definition from Wikipedia](https://en.wikipedia.org/wiki/Commons):
 
@@ -45,7 +43,7 @@ The interrelationships can be visualised as two interlinked cycles together repr
 ![](images/StartingPage.png)
 
 ## Working together
-Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these. The NanoCommons infrastructure is meant to be even one level above these platforms to bring these together and gover harmonisation and interoperability aspects across platform / projects / country borders.The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]().     
+Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these. The NanoCommons infrastructure is meant to be even one level above these platforms to bring these together and gover harmonisation and interoperability aspects across platform / projects / country borders.The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]().
 
 Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
 
@@ -59,14 +57,3 @@ Information on individual tools and services including the contact points and sp
   </li>
 {% endfor %}
 </ul>
-
-
-
-## About the handbook
-
-Powered by [NanoCommons](https://nanocommons.com) and [Seven Past Nine](https://sevenpastnine.com) and
-based on [Jekyll](https://jekyllrb.com/) and [Just the Docs](https://github.com/pmarsceill/just-the-docs).
-
-The User Guidance Handbook is &copy; 2020-{{ "now" | date: "%Y" }} and distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt). 
-
-
