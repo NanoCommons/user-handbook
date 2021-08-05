@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partner projects
-nav_order: 4
+nav_order: 100
 description: List of platforms and networks keeping the commons for nanomaterials alive
 permalink: /partner-projects/
 has_children: true

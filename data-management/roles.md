@@ -5,16 +5,10 @@ title: Roles and responsibilities
 description: Roles and responsibilities in the data life cycle
 permalink: /data-management/roles/
 parent: Data management
-nav_order: 1
-
-annotater:
-  - name: Schemas
-    tooltip: a nice command line utility for fetching the content at a url
-
+nav_order: 201
 ---
 
 #  Roles and responsibilities in the data life cycle
-{% include page-annotater.html %}
 Based on: Papadiamantis, A.G.; Klaessig, F.C.; Exner, T.E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M.A.; Doganis, P.; Hoover, M.D.; Afantitis, A.; Melagraki, G.; Nolan, T.S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials 2020, 10, 2033. [https://doi.org/10.3390/nano10102033](https://doi.org/10.3390/nano10102033)
 
 ![](../../images/roles.png)

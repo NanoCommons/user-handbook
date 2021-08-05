@@ -20,7 +20,13 @@ projects:
   - url: http://www.acenano-project.eu/
     logo: acenano.png
     width: 200
+
+annotater:
+  - 
+    name: This
+    tooltip: Let's work together
 ---
+
 # Data and nanoinformatics shepherds’ user guidance handbook
 
 This is an activity of **NanoCommons** or better **NanoMaterialCommons**, not meaning the [NanoCommons project](https://nanocommons.eu) even if it started it all but in the sense of a commons for nanomaterials following the [definition from Wikipedia](https://en.wikipedia.org/wiki/Commons):

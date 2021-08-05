@@ -5,7 +5,7 @@ title: NanoCommons
 description: Short intro to NanoCommons
 permalink: /partner-projects/NanoCommons/
 parent: Partner projects
-nav_order: 1
+nav_order: 101
 ---
 #  Partner project NanoCommons
 - [Project website](https://nanocommons.eu) 

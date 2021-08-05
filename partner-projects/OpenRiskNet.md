@@ -5,7 +5,7 @@ title: OpenRiskNet
 description: Short intro to OpenRiskNet
 permalink: /partner-projects/OpenRiskNet/
 parent: Partner projects
-nav_order: 2
+nav_order: 102
 ---
 #  Partner project OpenRiskNet
 OpenRiskNet was a 3 year project funded by the European Commission within Horizon2020 EINFRA-22-2016 Programme (Grant Agreement 731075; Dec. 2016 - Nov. 2019).
