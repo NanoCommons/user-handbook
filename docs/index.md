@@ -39,18 +39,18 @@ topics:
     y: 246
     r: 70
   - name: preserving
-    title: Preserving means bringing your data so that it can be found by you but also in institutional repositories and public data respositories and warehouses 
+    title: Preserving means bringing your data so that it can be found by you but also in institutional repositories and public data repositories and warehouses 
     shape: circle
     x: 384
     y: 409
     r: 70
-  - name: aquisition
+  - name: acquisition
     title: Acquisition 
     shape: circle
     x: 526
     y: 200
     r: 50
-  - name: cleansing-prcessing
+  - name: cleansing-processing
     title: Cleansing and processing
     shape: circle
     x: 621
@@ -124,10 +124,8 @@ in the area of nanosafety, nanoinformatics or material safe-by design or want to
 
 The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects or on the three general areas in the lower part of the figure to access general information with links to individual subareas.
 
-The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects or on the three general areas in the lower part of the figure to access general information with links to individual subareas.
-
 ## Working together
-Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these. The NanoCommons infrastructure is meant to be even one level above these platforms to bring these together and gover harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
+Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these. The NanoCommons infrastructure is meant to be even one level above these platforms to bring these together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
 
 Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
 

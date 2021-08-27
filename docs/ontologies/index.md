@@ -85,7 +85,7 @@ A short introduction as video or just the slides as [pdf]({{site.baseurl}}/prese
 ## Guidance and tools for domain experts: generate a harmonised terminologies including clear definitions
 ### [EU NanoSafety Terminology Harmonizer](https://terminology-harmonizer.greendecision.eu/) 
 provided by the GRACIOUS project is a tool to work collaboratively on a collection of well defined terms to be used across the complete nanosafety community. Separate but harmonised areas exist at the moment for physicochemical characterisation, nanoinformatics and simulations, bio-nano interactions, safe-by-design, regulation and manufacturing. More areas can always be added. Everyone is welcome to contribute to these area. Besides these public areas, also project specific areas exist. 
-[![EU NanoSafety Terminology Harmonizer"]({{site.baseurl}}/images/terminology-harmonizer.jpg)](https://terminology-harmonizer.greendecision.eu/)
+[![EU NanoSafety Terminology Harmonizer]({{site.baseurl}}/images/terminology-harmonizer.jpg)](https://terminology-harmonizer.greendecision.eu/)
 
 ## Guidance and tools for ontology developments: move a collection of terms into a semantic model
 [Expanding the eNanoMapper Ontology – poster from ICBO2020](https://zenodo.org/record/4032809#.YSi-JI4zaUm)
