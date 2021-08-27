@@ -119,27 +119,8 @@ If you are a
 in the area of nanosafety, nanoinformatics or material safe-by design or want to become one, then this handbook is for you.
 {: .lead }
 
-<figure id=topics>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 890 577" >
-	<image width="890" height="577" xlink:href="images/StartingPage.png">
-	</image>
-{% for s in page.topics %}
-  {% if s.url %}
-	<a xlink:href="{{ site.baseurl }}/data-management/" title="test">
-  {% endif %}
-  {% if s.shape == "circle" %}
-		<circle cx="{{ s.x }}" cy="{{ s.y }}" fill="#fff" opacity="0" r={{ s.r }}>
-  {% elsif s.shape == "rect" %}
-  	<rect x="{{ s.x }}" y="{{ s.y }}" fill="#fff" opacity="0" width="{{ s.w }}" height="{{ s.h }}" >
- {% endif %}
-     <title>{{ s.title }}</title>
-    </{{ s.shape }} >
-  {% if s.url %}
-	</a>
-  {% endif %}
-{% endfor %}
-</svg>
-</figure>
+{% include clickable_image.html image_name="StartingPage.png" image_width=890 image_height=577 image_areas=page.topics %}
+
 
 The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects or on the three general areas in the lower part of the figure to access general information with links to individual subareas.
 
