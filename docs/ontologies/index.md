@@ -33,6 +33,15 @@ universe_topics:
     h: 172
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # Harmonised terminology, ontologies development and semantic annotation
 Establishing a more universal use of ontologies and semantic annotation, many different expertises are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness.
 {: .lead }
