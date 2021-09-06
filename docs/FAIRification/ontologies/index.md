@@ -11,26 +11,33 @@ universe_topics:
     title: Annotate your science
     url: /FAIRification/ontologies/#guidance-and-tools-for-data-producers-and-curators-annotate-your-data
     shape: rect
-    x: 11
-    y: 10 
-    w: 367
-    h: 392
+    x: 4
+    y: 2 
+    w: 590
+    h: 407
   - name: term definition
     title: Create a defined terminology with clear definitions
     url: /FAIRification/ontologies/#guidance-and-tools-for-domain-experts-generate-a-harmonised-terminologies-including-clear-definitions
     shape: rect
-    x: 350
-    y: 10 
-    w: 329
-    h: 392
+    x: 606
+    y: 2 
+    w: 590
+    h: 407
   - name: ontology development
     title: Create semantic relationships to improve the ontologies
     url: /FAIRification/ontologies/#guidance-and-tools-for-ontology-developments-move-a-collection-of-terms-into-a-semantic-model
     shape: rect
-    x: 11
-    y: 419 
-    w: 666
-    h: 172
+    x: 4
+    y: 422 
+    w: 1185
+    h: 287
+  - name: ontology governance
+    title: Organise and harmonise ontologies within and across disciplines (to be established)
+    shape: rect
+    x: 1207
+    y: 2 
+    w: 186
+    h: 706
 ---
 
 <details open markdown="block">
@@ -46,7 +53,7 @@ universe_topics:
 Establishing a more universal use of ontologies and semantic annotation, many different expertises are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness.
 {: .lead }
 
-{% include clickable_image.html image_name="OntologyUniverse.png" image_width=903 image_height=605 image_areas=page.universe_topics %}
+{% include clickable_image.html image_name="OntologyUniverse.png" image_width=1396 image_height=720 image_areas=page.universe_topics %}
 
 **The Ontology Universe:** Click on one area to be linked to relevant guidance and tools. 
 
