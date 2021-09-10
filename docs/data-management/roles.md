@@ -7,26 +7,27 @@ permalink: /data-management/roles/
 parent: Data management
 nav_order: 201
 ---
-
 #  Roles and responsibilities in the data life cycle
+
 Based on: Papadiamantis, A.G.; Klaessig, F.C.; Exner, T.E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M.A.; Doganis, P.; Hoover, M.D.; Afantitis, A.; Melagraki, G.; Nolan, T.S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials 2020, 10, 2033. [https://doi.org/10.3390/nano10102033](https://doi.org/10.3390/nano10102033)
+{: .source }
 
 ![](../../images/roles.png)
 
 
-### Data customers: 
+### Data customers:
 Requestors, accessors, users, and re-users of the needed or produced data (evaluation of the scientific and technical FAIRification step by testing for the final goal of usability and reusability in real applications)
 
 ### Data creator:
 The experimentalists (wet lab and in silico) planning and generating the data (planning, acquisition, and manipulation in the data lifecycle, scientific FAIRification steps)
 
-### Data analyst: 
+### Data analyst:
 Data handling, manipulation, analysis including modelling (processing and analysis, scientific FAIRification steps)
 
-### Data curator: 
+### Data curator:
 Data and metadata capturing and quality and completeness control (data manipulation and storage)
 
-### Data manager: 
+### Data manager:
 Data digitisation in a structured and harmonised format. Metadata implementation and link to data (storage and technical FAIRification steps)
 
 ### Data steward:

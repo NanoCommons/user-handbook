@@ -2,32 +2,49 @@
 layout: page
 title: Electronic lab notebook
 
-description: Electronic lab notebook in nanosafety 
+description: Electronic lab notebook in nanosafety
 permalink: /data-management/electronic-lab-notebooks/
 parent: Data management
 nav_order: 205
 ---
 
 #  Documenting your work with electronic lab notebooks
+
 Electronic lab notebooks (ELNs) help to document experimental but potential also nanoinformatics work directly in electronic form. Therefore, they from an important part of data management since they facilitate data input but also the use of additional information on the performed work as metadata accompanying the data.
-{: .lead } 
+{: .lead }
 
 ## Introduction of the use of ELNs in NanoCommons
-<center>
-<iframe width="364" height="273" src="//www.youtube.com/embed/tM814yEukfA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-</center>
+<iframe src="//www.youtube.com/embed/tM814yEukfA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 ## Using the SciNote ELN for nanosafety research
-Sign up and use the NanoCommons SciNote Instance to see its features and training. 
-[![NanoCommons SciNote Instance]({{site.baseurl}}/images/nanocommons-scinote.jpg)](https://scinote.sevenpastnine.com/)
 
-And getting started with the recording from the NanoCommons ELN training and hackathon
-<iframe width="364" height="273" src="//www.youtube.com/embed/mxGlvWzFnHI" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-<iframe width="364" height="273" src="//www.youtube.com/embed/mvIDkERUeHM" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-Related material is available on [Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl).
+### The NanoCommons SciNote Instance
 
-## General information on the [SciNote ELN](https://www.scinote.net/)
-<center>
-<iframe src="https://www.scinote.net/webinar-go-digital/" width="100%" height="300"></iframe>
-<iframe src="https://www.scinote.net/tutorials/" width="100%" height="300"></iframe>
-</center>
+Sign up and use the NanoCommons SciNote Instance to see its features and training.
+
+[NanoCommons SciNote instance signup](https://scinote.sevenpastnine.com/)
+{: .more-link }
+
+### NanoCommons ELN training and hackathon
+
+Get started with recordings from the NanoCommons ELN training and hackathon.
+
+[Introduction](https://www.youtube.com/watch?v=mxGlvWzFnHI&ab_channel=NanoCommons)
+{: .more-link }
+
+[Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM&ab_channel=NanoCommons)
+{: .more-link }
+
+[Related material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
+{: .more-link }
+
+### General information on the SciNote ELN
+
+[SciNote Website](https://www.scinote.net/)
+{: .more-link }
+
+[Webinar: Go digital! How to do science without lab access?](https://www.scinote.net/webinar-go-digital/)
+{: .more-link }
+
+[SciNote Video Tutorials](https://www.scinote.net/tutorials/)
+{: .more-link }
