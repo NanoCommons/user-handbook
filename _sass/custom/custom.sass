@@ -16,13 +16,11 @@ a.image-link
 
 iframe, embed
     @extend .mt-4
-    @extend .mb-4
     width: 560px
     height: 315px
 
 .more-link
     border-top: solid 1px $border-color
-    border-bottom: solid 1px $border-color
     margin: $gutter-spacing 0 !important
     padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
     color: $body-text-color-light
@@ -48,6 +46,29 @@ iframe, embed
         &:hover
             background-image: none
 
-.more-link + .more-link
+.more-link-text
+    border-top: solid 1px $border-color
+    border-bottom: solid 1px $border-color
+    margin: $gutter-spacing 0 !important
+    padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
+    position: relative
+
+.more-link-without-text
+    @extend .more-link
+    border-bottom: solid 1px $border-color
+
+.more-link-without-text + .more-link-without-text
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+.more-link + .more-link-text
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+.more-link-text + .more-link
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+.more-link-text + .more-link-without-text
     border-top: none
     margin-top: -$gutter-spacing !important
