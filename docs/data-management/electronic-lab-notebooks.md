@@ -15,6 +15,7 @@ Electronic lab notebooks (ELNs) help to document experimental and nanoinformatic
 
 ## Introduction of the use of ELNs in NanoCommons
 <iframe src="//www.youtube.com/embed/tM814yEukfA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+Introduction to ELNs and why they should be used given by Iseult Lynch (Universiy of Birmingham) as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229#.YT5tT50zZPY) (3 June, 2020)
 
 ## Using the SciNote ELN for nanosafety research
 
@@ -26,7 +27,7 @@ NanoCommons is running a SciNote instance for training and testing purpose offer
 
 ### NanoCommons ELN training and hackathon
 
-Get started with recordings from the NanoCommons ELN training and hackathon. Participants learned how to establish a workflow using Scinote-based electronic lab notebooks. It started with an introduction to the Scinote inventory and continues with hands-on instructions on how to manage, modify, create, and import protocols for assays. Tasks can be defined and assigned to different users and/or groups. Finally, data (incl. all relevant metadata) can be exported resulting in reports that facilitate data FAIRness.
+Get started with recordings from the NanoCommons ELN training and hackathon (14 July 2020). Participants learned how to establish a workflow using Scinote-based electronic lab notebooks. It started with an introduction to the Scinote inventory and continues with hands-on instructions on how to manage, modify, create, and import protocols for assays. Tasks can be defined and assigned to different users and/or groups. Finally, data (incl. all relevant metadata) can be exported resulting in reports that facilitate data FAIRness.
 
 [<img src="{{site.baseurl}}/images/icons/video.png" width="20"> Introduction](https://www.youtube.com/watch?v=mxGlvWzFnHI&ab_channel=NanoCommons)
 {: .more-link }
@@ -36,7 +37,7 @@ Video introducing the topics of the hackathon and its relationship to the NanoCo
 [<img src="{{site.baseurl}}/images/icons/video.png" width="20"> Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM&ab_channel=NanoCommons)
 {: .more-link }
 <img src="{{site.baseurl}}/images/ELN-hackathon.jpg" width="500" align="left" style="padding: 10px;">
-Capturing study design, protocols, data and metadata as they are developed and produced will save substantial time and resources, while resulting in higher quality and reproducible science. ELNs have beed develop to guide these reporting processes and provide the information already in a digital form usable for in-house and public data management and sharing. They can be implemented, through cloud services or locally, into everyday experimental practice streamlining and simplifying experimental and computational workflows, practices and data capturing. The video describes how this can be done for nanosafety research with SciNote.
+Capturing study design, protocols, data and metadata as they are developed and produced will save substantial time and resources, while resulting in higher quality and reproducible science. ELNs have been develop to guide these collection and reporting workflows and provide the information already in a digital form usable for in-house and public data management and sharing. They can be implemented, through cloud services or locally, into everyday experimental practice streamlining and simplifying experimental and computational workflows, practices and data capturing. The video by Tassos Papadiamantis (University of Birmingham) describes how this can be done for nanosafety research with SciNote.
 {: .more-link-text }
 
 [<img src="{{site.baseurl}}/images/icons/html.png" width="20"> Slides and additional material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
