@@ -23,7 +23,7 @@ Introduction to ELNs and why they should be used given by Iseult Lynch (Universi
 
 ### NanoCommons and SciNote
 
-<img src="{{site.baseurl}}/images/NanoCommons-SciNote.jpg" class="image--right">
+<img src="{{site.baseurl}}/images/nanocommons-scinote.jpg" class="image--right">
 NanoCommons is running a SciNote instance for training and testing purpose offering full functionality of the premium version. Sign up and use the instance to see its features. Deployment into individual institutions of this open-source version is possible but without further support. Commercial support is provided directly by SciNote with internal and external hosting options ([please contact SciNote directly](https://www.scinote.net/premium/)).
 
 [<img src="{{site.baseurl}}/images/icons/app.png" class="more-link-icon"> NanoCommons SciNote instance signup](https://scinote.sevenpastnine.com/)
@@ -39,7 +39,7 @@ Video introducing the topics of the hackathon and its relationship to the NanoCo
 
 Capturing study design, protocols, data and metadata as they are developed and produced will save substantial time and resources, while resulting in higher quality and reproducible science. ELNs have been develop to guide these collection and reporting workflows and provide the information already in a digital form usable for in-house and public data management and sharing. They can be implemented, through cloud services or locally, into everyday experimental practice streamlining and simplifying experimental and computational workflows, practices and data capturing.
 
-<img src="{{site.baseurl}}/images/ELN-hackathon.jpg" style="padding: 10px;">
+<img src="{{site.baseurl}}/images/ELN-hackathon.JPG" style="padding: 10px;">
 
 [<img src="{{site.baseurl}}/images/icons/video.png" class="more-link-icon"> Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM&ab_channel=NanoCommons)
 The video by Tassos Papadiamantis (University of Birmingham) describes how this can be done for nanosafety research with SciNote.
