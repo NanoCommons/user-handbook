@@ -21,6 +21,7 @@ iframe, embed
 
 .more-link
     border-top: solid 1px $border-color
+    border-bottom: solid 1px $border-color
     margin: $gutter-spacing 0 !important
     padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
     color: $body-text-color-light
@@ -46,29 +47,50 @@ iframe, embed
         &:hover
             background-image: none
 
-.more-link-text
-    border-top: solid 1px $border-color
-    border-bottom: solid 1px $border-color
-    margin: $gutter-spacing 0 !important
-    padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
-    position: relative
-
-.more-link-without-text
-    @extend .more-link
-    border-bottom: solid 1px $border-color
-
-.more-link-without-text + .more-link-without-text
+.more-link + .more-link
     border-top: none
     margin-top: -$gutter-spacing !important
 
-.more-link + .more-link-text
-    border-top: none
-    margin-top: -$gutter-spacing !important
+.more-link-icon
+    width: 20px
+    margin-bottom: -0.2rem
+    margin-right: 0.3rem
 
-.more-link-text + .more-link
-    border-top: none
-    margin-top: -$gutter-spacing !important
+.image--right
+    max-width: 45%
+    float: right
+    padding: 1rem 0 1rem 1rem
 
-.more-link-text + .more-link-without-text
-    border-top: none
-    margin-top: -$gutter-spacing !important
+.image--left
+    max-width: 45%
+    float: left
+    padding: 1rem 1rem 1rem 0
+
+
+
+// .more-link-text
+//     border-top: solid 1px $border-color
+//     border-bottom: solid 1px $border-color
+//     margin: $gutter-spacing 0 !important
+//     padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
+//     position: relative
+
+// .more-link-without-text
+//     @extend .more-link
+//     border-bottom: solid 1px $border-color
+
+// .more-link-without-text + .more-link-without-text
+//     border-top: none
+//     margin-top: -$gutter-spacing !important
+
+// .more-link + .more-link-text
+//     border-top: none
+//     margin-top: -$gutter-spacing !important
+
+// .more-link-text + .more-link
+//     border-top: none
+//     margin-top: -$gutter-spacing !important
+
+// .more-link-text + .more-link-without-text
+//     border-top: none
+//     margin-top: -$gutter-spacing !important
