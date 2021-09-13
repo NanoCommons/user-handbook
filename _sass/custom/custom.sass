@@ -1,8 +1,10 @@
+$body-text-color-light: $grey-dk-000
+
 .site-footer
     display: none
 
 .lead
-    @extend .fs-6
+    @extend .fs-5
     @extend .fw-300
     margin-top: $sp-4 !important
 
@@ -14,4 +16,52 @@ a.image-link
 
 iframe, embed
     @extend .mt-4
-    @extend .mb-4
+    width: 560px
+    height: 315px
+
+.more-link
+    border-top: solid 1px $border-color
+    border-bottom: solid 1px $border-color
+    margin: $gutter-spacing 0 !important
+    padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
+    color: $body-text-color-light
+    @extend .fs-3
+    position: relative
+
+    &:hover
+        background-color: $grey-lt-000
+
+    &:after
+        position: absolute
+        right: 0
+        top: calc(50% - 0.75rem)
+        content: "→"
+        @extend .fs-5
+        color: $link-color
+
+    a
+        display: block
+        background-image: none
+        @extend .fs-5
+
+        &:hover
+            background-image: none
+
+.more-link + .more-link
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+.more-link-icon
+    width: 20px
+    margin-bottom: -0.2rem
+    margin-right: 0.3rem
+
+.image--right
+    max-width: 45%
+    float: right
+    padding: 1rem 0 1rem 1rem
+
+.image--left
+    max-width: 45%
+    float: left
+    padding: 1rem 1rem 1rem 0

@@ -3,13 +3,14 @@ layout: page
 title: OpenRiskNet
 
 description: Short intro to OpenRiskNet
-permalink: /partner-projects/OpenRiskNet/
-parent: Partner projects
-nav_order: 2
+permalink: /about-and-partner-projects/OpenRiskNet/
+parent: About & partner projects
+nav_order: 10002
 ---
+<img src="{{ site.baseurl }}/images/openrisknet.png" width="200" align="right"/>
 #  Partner project OpenRiskNet
 
-OpenRiskNet is a 3 year project with the main objective to develop an open e-Infrastructure providing resources and services to a variety of communities requiring risk assessment, including chemicals, cosmetic ingredients, therapeutic agents and nanomaterials. OpenRiskNet is working with a network of partners, organized within an Associated Partners Programme.
+OpenRiskNet was a 3 year project (2016-2019) with the main objective to develop an open e-Infrastructure providing resources and services to a variety of communities requiring risk assessment, including chemicals, cosmetic ingredients, therapeutic agents and nanomaterials. OpenRiskNet is working with a network of partners, organized within an Associated Partners Programme.
 {: .lead }
 
 
@@ -23,7 +24,7 @@ OpenRiskNet is a 3 year project with the main objective to develop an open e-Inf
 
 ## Adoption of OpenRisknet solutions by NanoSafety community and NanoCommons infrastructure
 
-<embed src="../../presentations/The_NanoCommons_knowledge_infrastructure-OpenRiskNet.pdf" width="420" height="315"
+<embed src="{{site.baseurl}}/presentations/The_NanoCommons_knowledge_infrastructure-OpenRiskNet.pdf" width="420" height="315"
  type="application/pdf">
 
 _OpenRiskNet was a 3 year project funded by the European Commission within Horizon2020 EINFRA-22-2016 Programme (Grant Agreement 731075; Dec. 2016 - Nov. 2019)._

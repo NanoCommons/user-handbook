@@ -183,7 +183,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     racc (1.5.2)
-    rake (13.0.6)
+    rake (13.0.3)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -219,6 +219,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  x64-mingw32
   x86_64-darwin-20
 
 DEPENDENCIES

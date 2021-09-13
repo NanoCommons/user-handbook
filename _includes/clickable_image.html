@@ -1,0 +1,22 @@
+<figure id=topics>
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {{ include.image_width }} {{ include.image_height }}" >
+        <image width="{{ include.image_width }}" height="{{ include.image_height }}" xlink:href="{{ site.baseurl }}/images/{{ include.image_name }}">
+        </image>
+    {% for s in include.image_areas %}
+      {% if s.url %}
+        <a xlink:href="{{ site.baseurl }}{{ s.url }}" title="test">
+      {% endif %}
+      {% if s.shape == "circle" %}
+            <circle cx="{{ s.x }}" cy="{{ s.y }}" fill="#fff" opacity="0" r={{ s.r }}>
+      {% elsif s.shape == "rect" %}
+          <rect x="{{ s.x }}" y="{{ s.y }}" fill="#fff" opacity="0" width="{{ s.w }}" height="{{ s.h }}" >
+     {% endif %}
+         <title>{{ s.title }}</title>
+        </{{ s.shape }} >
+      {% if s.url %}
+        </a>
+      {% endif %}
+    {% endfor %}
+    </svg>
+    </figure>
+    
