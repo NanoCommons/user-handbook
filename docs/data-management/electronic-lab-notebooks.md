@@ -14,8 +14,10 @@ Electronic lab notebooks (ELNs) help to document experimental and nanoinformatic
 {: .lead }
 
 ## Introduction of the use of ELNs in NanoCommons
+Introduction to ELNs and why they should be used given by Iseult Lynch (University of Birmingham) as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229#.YT5tT50zZPY) (3 June, 2020)
+
 <iframe src="//www.youtube.com/embed/tM814yEukfA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-Introduction to ELNs and why they should be used given by Iseult Lynch (Universiy of Birmingham) as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229#.YT5tT50zZPY) (3 June, 2020)
+
 
 ## Using the SciNote ELN for nanosafety research
 
@@ -24,14 +26,14 @@ Introduction to ELNs and why they should be used given by Iseult Lynch (Universi
 <img src="{{site.baseurl}}/images/NanoCommons-SciNote.jpg" class="image--right">
 NanoCommons is running a SciNote instance for training and testing purpose offering full functionality of the premium version. Sign up and use the instance to see its features. Deployment into individual institutions of this open-source version is possible but without further support. Commercial support is provided directly by SciNote with internal and external hosting options ([please contact SciNote directly](https://www.scinote.net/premium/)).
 
-[<img src="{{site.baseurl}}/images/icons/file.svg" class="more-link-icon"> NanoCommons SciNote instance signup](https://scinote.sevenpastnine.com/)
+[<img src="{{site.baseurl}}/images/icons/app.png" class="more-link-icon"> NanoCommons SciNote instance signup](https://scinote.sevenpastnine.com/)
 {: .more-link }
 
 ### NanoCommons ELN training and hackathon
 
 Get started with recordings from the NanoCommons ELN training and hackathon (14 July 2020). Participants learned how to establish a workflow using Scinote-based electronic lab notebooks. It started with an introduction to the Scinote inventory and continues with hands-on instructions on how to manage, modify, create, and import protocols for assays. Tasks can be defined and assigned to different users and/or groups. Finally, data (incl. all relevant metadata) can be exported resulting in reports that facilitate data FAIRness.
 
-[<img src="{{site.baseurl}}/images/icons/youtube.svg" class="more-link-icon"> Introduction](https://www.youtube.com/watch?v=mxGlvWzFnHI&ab_channel=NanoCommons)
+[<img src="{{site.baseurl}}/images/icons/video_alternative.png" class="more-link-icon"> Introduction](https://www.youtube.com/watch?v=mxGlvWzFnHI&ab_channel=NanoCommons)
 Video introducing the topics of the hackathon and its relationship to the NanoCommons project given by Martin Himly (Paris Lodron Universität Salzburg)
 {: .more-link }
 
@@ -39,11 +41,11 @@ Capturing study design, protocols, data and metadata as they are developed and p
 
 <img src="{{site.baseurl}}/images/ELN-hackathon.jpg" style="padding: 10px;">
 
-[<img src="{{site.baseurl}}/images/icons/youtube.svg" class="more-link-icon"> Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM&ab_channel=NanoCommons)
+[<img src="{{site.baseurl}}/images/icons/video.png" class="more-link-icon"> Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM&ab_channel=NanoCommons)
 The video by Tassos Papadiamantis (University of Birmingham) describes how this can be done for nanosafety research with SciNote.
 {: .more-link }
 
-[<img src="{{site.baseurl}}/images/icons/file.svg" class="more-link-icon"> Slides and additional material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
+[<img src="{{site.baseurl}}/images/icons/webpages.png" class="more-link-icon"> Slides and additional material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
 {: .more-link }
 
 ### General information on the SciNote ELN
