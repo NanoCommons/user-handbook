@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Harmonising terminology
-permalink: /FAIRification/ontologies-v2
+permalink: /FAIRification/ontologies
 parent: FAIRification
 has_children: false
 nav_order: 30
@@ -43,7 +43,7 @@ universe_topics:
 # Harmonised terminology, ontologies development and semantic annotation
 {: .no_toc }
 
-Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large additional efforts to define and building the required terminologies/ontologies, to provide the support infrastructure for data input and curation but also training to foster general uptake. Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all players to understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development. 
+Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large additional efforts to define and building the required terminologies/ontologies, to provide the support infrastructure for data input and curation but also training to foster general uptake. Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all players to understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development.
 {: .lead }
 
 <details open markdown="block">
