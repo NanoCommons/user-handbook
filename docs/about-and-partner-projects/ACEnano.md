@@ -7,15 +7,20 @@ permalink: /about-and-partner-projects/ACEnano/
 parent: About & partner projects
 nav_order: 10003
 ---
-<img src="{{ site.baseurl }}/images/acenano.png" width="200" align="right"/>
+<img src="{{ site.baseurl }}/images/acenano.png" width="200" class="image--right" />
 #  Partner project ACEnano
 
 ACEnano introduced confidence, adaptability and clarity into nanomaterial risk assessment by developing a widely implementable and robust tiered approach to nanomaterials physicochemical characterisation that simplified and facilitated contextual (hazard or exposure) description and its transcription into a reliable nanomaterials grouping framework. This was achieved by the creation of a “conceptual toolbox” including a tiered approach to cost efficient nanomaterials analysis that facilitates decision-making in choice of techniques and SOPs, linked to a characterisation ontology framework for grouping and risk assessment.
 {: .lead }
 
-- [Project website](https://acenano-project.eu)
-- [Knowledge Warehouse](https://acenano.douglasconnect.com/)
-- [Videos](http://www.acenano-project.eu/about-acenano/acenano-related-videos)
+[Project website](https://acenano-project.eu)
+{: .more-link}
+
+[Knowledge Warehouse](https://acenano.douglasconnect.com/)
+{: .more-link}
+
+[Videos](http://www.acenano-project.eu/about-acenano/acenano-related-videos)
+{: .more-link}
 
 ## Introduction to the ACEnano projects and it technologies
 

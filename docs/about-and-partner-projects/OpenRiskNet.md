@@ -7,16 +7,21 @@ permalink: /about-and-partner-projects/OpenRiskNet/
 parent: About & partner projects
 nav_order: 10002
 ---
-<img src="{{ site.baseurl }}/images/openrisknet.png" width="200" align="right"/>
+<img src="{{ site.baseurl }}/images/openrisknet.png" width="200" class="image--right" />
 #  Partner project OpenRiskNet
 
 OpenRiskNet was a 3 year project (2016-2019) with the main objective to develop an open e-Infrastructure providing resources and services to a variety of communities requiring risk assessment, including chemicals, cosmetic ingredients, therapeutic agents and nanomaterials. OpenRiskNet is working with a network of partners, organized within an Associated Partners Programme.
 {: .lead }
 
 
-- [Project website](https://openrisknet.org)
-- [Service catalogue](https://openrisknet.org/e-infrastructure/services/)
-- [Additional resources](https://openrisknet.org/library/)
+[Project website](https://openrisknet.org)
+{: .more-link}
+
+[Service catalogue](https://openrisknet.org/e-infrastructure/services/)
+{: .more-link}
+
+[Additional resources](https://openrisknet.org/library/)
+{: .more-link}
 
 ## Introduction to the OpenRiskNet project, e-infrastructure and case studies
 
