@@ -1,5 +1,10 @@
 # NanoCommons User Handbook
 
+This is a resource collecting and structuring knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics. Besides covering general concepts, guidelines and recommendations, it will show, demonstrate and train real-world solutions in the form of data sources, software and workflows integrated or linked into the NanoCommons infrastructure, where both terms are meant in a very broad sense to be able to cover as many solutions as possible from all projects working in the nanosafety area and neighbouring fields.
+
+The latest published version of the handbook is available at https://nanocommons.github.io/user-handbook/
+
+
 ## Development setup
 
 This project uses the [Jekyll](https://jekyllrb.com/) static site generator. The Jekyll theme used is [Just the Docs](https://github.com/pmarsceill/just-the-docs).
