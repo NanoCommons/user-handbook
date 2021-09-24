@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electronic lab notebook
+title: Electronic lab notebooks
 
 description: Electronic lab notebook in nanosafety
 permalink: /data-management/electronic-lab-notebooks/
@@ -52,10 +52,10 @@ The video by Tassos Papadiamantis (University of Birmingham) describes how this 
 <iframe src="//www.youtube.com/embed/NWhsjR_qap4" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 [SciNote Website](https://www.scinote.net/)
-{: .more-link .more-link--file }
+{: .more-link .more-link--webpages }
 
 [Webinar: Go digital! How to do science without lab access?](https://www.scinote.net/webinar-go-digital/)
-{: .more-link .more-link--file }
+{: .more-link .more-link--webpages }
 
 [SciNote Video Tutorials](https://www.scinote.net/tutorials/)
-{: .more-link .more-link--file }
+{: .more-link .more-link--webpages }
