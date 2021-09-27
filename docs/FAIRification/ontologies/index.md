@@ -97,19 +97,25 @@ The slides show how first a simple spreadsheet was used to collect terms needed 
 ## Guidance and tools
 
 ### For data producers and curators annotating data
+Semantic annotation is needed for understanding and evaluating the data as well as finding, accessing and integrating it in a more automatic way. Nanosafety and nanoinformatics produce many different types of data, all needing specific terminology for their annotation. Currently no single ontology is able to cover all these areas. Therefore, multiple ontologies have to be used for the time being, which, fortunately, follow similar concepts with respect to searching and using of terms. Training material was generated for the eNanoMapper ontology, which is generally helpful when annotating data. 
+
+<img src="{{site.baseurl}}/images/FAIRification/eNM-bioportal.png" class="image--left" />
+The eNanoMapper ontology can be accessed through three different ways, namely online via BioPortal and AberOWL or locally using the open-source Protégé software. 
+<br clear="all">
 
 [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
-<img src="{{site.baseurl}}/images/FAIRification/eNM-bioportal.png" width="40%" class="image--right" />
-The eNM ontology can be accessed through three different ways, namely online via BioPortal and AberOWL or locally using the open-source Protégé software. The tutorial focusses on browsing through the eNM ontology when one would be interested in finding a Unique Resource Identifier (URI) for mapping a term originating from, for example, a database schema. Using URIs for database schemas will facilitate the harmonization of data originating from different sources and will make them more comparable.
-<br clear="all">
+The tutorial focusses on browsing through the eNM ontology when one would be interested in finding a Unique Resource Identifier (URI) for mapping a term originating from, for example, a database schema. Using URIs for database schemas will facilitate the harmonization of data originating from different sources and will make them more comparable.
 {: .more-link .more-link--webpages }
 
 
 ### For domain experts generating harmonised terminologies including clear definitions
+The most time consuming part of ontology development is the collection of the needed terms and agree on the preferred synonym and clear definition. This is done in different projects as described above. However, with the tools described here, everybody is able to participate and provide expert knowledge. 
 
-[EU NanoSafety Terminology Harmonizer](https://terminology-harmonizer.greendecision.eu/)
+#### EU NanoSafety Terminology Harmonizer
 Provided by the GRACIOUS project this is a tool to work collaboratively on a collection of well defined terms to be used across the complete nanosafety community. Separate but harmonised areas exist at the moment for physicochemical characterisation, nanoinformatics and simulations, bio-nano interactions, safe-by-design, regulation and manufacturing. More areas can always be added. Everyone is welcome to contribute to these area. Besides these public areas, also project specific areas exist.
-[![EU NanoSafety Terminology Harmonizer]({{site.baseurl}}/images/FAIRification/terminology-harmonizer.jpg)](https://terminology-harmonizer.greendecision.eu/)
+![EU NanoSafety Terminology Harmonizer]({{site.baseurl}}/images/FAIRification/terminology-harmonizer.jpg)
+
+[Access the harmonizer](https://terminology-harmonizer.greendecision.eu/)
 {: .more-link .more-link--app }
 
 

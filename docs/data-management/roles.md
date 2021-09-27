@@ -12,8 +12,37 @@ nav_order: 201
 Based on: Papadiamantis, A.G.; Klaessig, F.C.; Exner, T.E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M.A.; Doganis, P.; Hoover, M.D.; Afantitis, A.; Melagraki, G.; Nolan, T.S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials 2020, 10, 2033. [https://doi.org/10.3390/nano10102033](https://doi.org/10.3390/nano10102033)
 {: .source }
 
-![](../../images/data-management/roles.png)
-
+<table class="largeTable" >
+<thead>
+<tr>
+<th class="verticalTableHeader">Roles</th>
+<th class="verticalTableHeader" style="background-color:#cfe2f3">Set objectives</th>
+<th class="verticalTableHeader" style="background-color:#cfe2f3">Design Approach</th>
+<th class="verticalTableHeader" style="background-color:#9fc5e8">Collect</th>
+<th class="verticalTableHeader" style="background-color:#6fa8dc">Processing</th>
+<th class="verticalTableHeader" style="background-color:#6fa8dc">Modelling / Analysis</th>
+<th class="verticalTableHeader" style="background-color:#6fa8dc">Validate</th>
+<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Store</th>
+<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Share</th>
+<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Quality Control</th>
+<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Annotation</th>
+<th class="verticalTableHeader" style="background-color:#cfe2f3">Determine Relevance</th>
+<th class="verticalTableHeader" style="background-color:#cfe2f3">Apply</th>
+<th class="verticalTableHeader" style="background-color:#cfe2f3">Confirm Effectiveness</th>
+<th class="verticalTableHeader">Generalise</th>
+<th class="verticalTableHeader">Communication / Education</th>
+</tr>
+</thead>
+<tbody>
+<tr align="center"><td align="left">Creators</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td>X</td> <td> </td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td>X</td> <td> </td> <td>X</td></tr>
+<tr align="center"><td align="left">Analysts</td> <td> </td> <td>X</td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td>X</td> <td>X</td> <td>X</td></tr>
+<tr align="center"><td align="left">Curators</td> <td> </td> <td> </td> <td> </td> <td>X</td> <td> </td> <td>X</td> <td> </td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td>X</td> <td> </td> <td>X</td></tr>
+<tr align="center"><td align="left">Managers</td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td> </td> <td> </td> <td> </td> <td>X</td> <td> </td> <td>X</td></tr>
+<tr align="center"><td align="left">Customers</td> <td>X</td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td> </td> <td>X</td> <td> </td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td></tr>
+<tr align="center"><td align="left">Shepherds</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td> <td>X</td></tr>
+</tbody>
+</table>
+Colour coding is according to the stages in the [data management life cycle]({{ site.baseurl }}/data-management/).
 
 ### Data customers:
 Requestors, accessors, users, and re-users of the needed or produced data (evaluation of the scientific and technical FAIRification step by testing for the final goal of usability and reusability in real applications)

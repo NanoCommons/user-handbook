@@ -7,18 +7,18 @@ permalink: /about-and-partner-projects/GRACIOUS/
 parent: About & partner projects
 nav_order: 10005
 ---
-<img src="{{ site.baseurl }}/images/gracious.png" width="200" class="image--right" />
+<img src="{{ site.baseurl }}/images/logos/gracious.png" width="200" class="image--right" />
 #  Partner project GRACIOUS
 
-XXXX
+Short description
 {: .lead }
 
 
-[Project website](XXXX)
-{: .more-link}
+[Project website]()
+{: .more-link .more-link--webpages }
 
-[Service catalogue](XXXX)
-{: .more-link}
+[Service catalogue]()
+{: .more-link .more-link--app }
 
 ## Introduction to the GRACIOUS project
 

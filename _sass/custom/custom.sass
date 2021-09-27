@@ -1,5 +1,21 @@
 $body-text-color-light: $grey-dk-000
 
+h4
+    @include fs-4  
+
+h1 + .toc,
+h2 + .toc,
+h3 + .toc,
+h4 + .toc
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+h1 + h2,
+h2 + h3,
+h3 + h4
+    margin-top: 10px  !important
+
+
 .site-footer
     display: none
 
@@ -144,3 +160,25 @@ iframe, embed
 .caption
     color: $body-text-color-light
     @extend .fs-3
+
+.largeTable
+    th,
+    td
+        @include fs-1
+        min-width: 0px
+
+
+
+.verticalTableHeader
+    border-bottom: 0
+    border-left: 0
+    border-right: $border rgba($border-color, 0.5)
+    border-top: $border $border-color
+    writing-mode: vertical-lr
+    -ms-writing-mode: tb-rl
+    transform: rotate(180deg)
+    
+    &:first-of-type
+        border-right: 0
+   
+   
