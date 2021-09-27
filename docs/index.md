@@ -135,7 +135,7 @@ Information on individual tools and services including the contact points and sp
 <ul class="list-style-none mt-6">
 {% for contributor in page.projects %}
   <li class="d-inline-block mr-3 mb-3">
-     <a href="{{ contributor.url }}"><img src="images/{{ contributor.logo }}" width="{{ contributor.width }}"/></a>
+     <a href="{{ contributor.url }}"><img src="images/logos/{{ contributor.logo }}" width="{{ contributor.width }}"/></a>
   </li>
 {% endfor %}
 </ul>

@@ -48,7 +48,10 @@ iframe, embed
             @extend .fs-5
             color: $link-color
 
-        a
+        a:not(:first-child)
+            color: $body-text-color-light
+
+        a:first-child
             display: block
             background-image: none
             text-decoration: none
@@ -66,62 +69,62 @@ iframe, embed
         margin-bottom: -0.2rem
         margin-right: 0.3rem
 
-    .more-link--app a,
-    .more-link--video a,
-    .more-link--webpages a,
-    .more-link--slides a,
-    .more-link--pdf a,
-    .more-link--file a,
-    .more-link--text a
+    .more-link--app a:first-child,
+    .more-link--video a:first-child,
+    .more-link--webpages a:first-child,
+    .more-link--slides a:first-child,
+    .more-link--pdf a:first-child,
+    .more-link--file a:first-child,
+    .more-link--text a:first-child
         background-repeat: no-repeat
         background-position: left center
         background-size: 20px 20px
         padding-left: 30px
 
 
-    .more-link--app a
+    .more-link--app a:first-child
         background-image: url("/user-handbook/images/icons/app.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/app.png")
             background-size: 20px 20px
 
-    .more-link--video a
+    .more-link--video a:first-child
         background-image: url("/user-handbook/images/icons/video.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/video.png")
             background-size: 20px 20px
 
-    .more-link--webpages a
+    .more-link--webpages a:first-child
         background-image: url("/user-handbook/images/icons/webpages.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/webpages.png")
             background-size: 20px 20px
 
-    .more-link--slides a
+    .more-link--slides a:first-child
         background-image: url("/user-handbook/images/icons/slides.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/slides.png")
             background-size: 20px 20px
 
-    .more-link--pdf a
+    .more-link--pdf a:first-child
         background-image: url("/user-handbook/images/icons/pdf.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/pdf.png")
             background-size: 20px 20px
 
-    .more-link--file a
+    .more-link--file a:first-child
         background-image: url("/user-handbook/images/icons/file.svg")
 
         &:hover
             background-image: url("/user-handbook/images/icons/file.svg")
             background-size: 20px 20px
 
-    .more-link--text a
+    .more-link--text a:first-child
         background-image: url("/user-handbook/images/icons/file-text.svg")
 
         &:hover
@@ -137,3 +140,7 @@ iframe, embed
     max-width: 45%
     float: left
     padding: 1rem 1rem 1rem 0
+
+.caption
+    color: $body-text-color-light
+    @extend .fs-3

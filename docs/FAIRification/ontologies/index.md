@@ -43,7 +43,7 @@ universe_topics:
 # Harmonised terminology, ontologies development and semantic annotation
 {: .no_toc }
 
-Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large additional efforts to define and building the required terminologies/ontologies, to provide the support infrastructure for data input and curation but also training to foster general uptake. Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all players to understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development.
+Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large effort to define and build the required terminologies/ontologies, to provide the support infrastructure for data input and curation and also training to foster general uptake. Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotate their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all stakeholders understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development.
 {: .lead }
 
 <details open markdown="block">
@@ -60,25 +60,24 @@ Semantic annotation of data and generally of scientific output across all areas 
 
 {% include clickable_image.html image_name="FAIRification/OntologyUniverse.png" image_width=1396 image_height=720 image_areas=page.universe_topics %}
 
-**The Ontology universe:** Click on one area to be linked to relevant guidance and tools.
+**The Ontology universe:** Click on one area to view relevant guidance and tools.
+{: .caption }
 
 ## Nanosafety-specific ontologies
 
 This section includes information on specific nanosafety ontologies or ontology development projects.
 
 ### eNanoMapper
-The eNanoMapper ontology is one of the largest collection of nanosafety and nanoinformatics terminology. It was developed first in the eNanoMapper project, is now maintained and extended by the NanoCommons and NanoSolveIT projects and supported by many other projects providing new terms and community-agreed definitions. 
+The eNanoMapper ontology is one of the largest collections of nanosafety and nanoinformatics terminology. It was developed first in the eNanoMapper project and is now maintained and extended by the NanoCommons and NanoSolveIT projects and supported by many other projects providing new terms and community-agreed definitions.
 
 An introduction to the ontology is available in this short video:
-<center>
 <iframe width="364" height="273" src="//www.youtube.com/embed/rVIc_fr5R1Y" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
-</center>
 
 [Slides of the introduction video]({{site.baseurl}}/FAIRification/ontologies/eNanoMapper-intro/)
 {: .more-link .more-link--slides }
 
 [Extensions to the eNanoMapper Ontology by NanoCommons](https://zenodo.org/record/3601620#.YSipJY4zaUm)
-This report available on Zenodo describes the work extending the ontology done in the NanoCommons projects including a description of the system for maintenance and the major releases 5 and 6.  
+This report available on Zenodo describes the work extending the ontology done in the NanoCommons projects including a description of the system for maintenance and the major releases 5 and 6.
 {: .more-link .more-link--text }
 
 [Extensions to the eNanoMapper Ontology by NanoSolveIT]()
@@ -86,7 +85,7 @@ This report available on Zenodo describes the work extending the ontology done i
 
 
 ### ACEnano
-Due to its focus on physico-chemical characterisation, the ACEnano project collected terminology specifically in this area and proposed it to be added to the eNanoMapper ontology. 
+Due to its focus on physico-chemical characterisation, the ACEnano project collected terminology specifically in this area and proposed it to be added to the eNanoMapper ontology.
 
 [Presentation of the concept during a general assembly]({{site.baseurl}}/FAIRification/ontologies/ACEnano-WP4/)
 The slides show how first a simple spreadsheet was used to collect terms needed for annotation of the ACEnano knowledge warehouse and datasets stored in it. This is now replaced by a physico-chemical characterisation area in the [EU NanoSafety Terminology Harmonizer](#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions).
@@ -99,7 +98,7 @@ The slides show how first a simple spreadsheet was used to collect terms needed 
 
 ### For data producers and curators annotating data
 
-[Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html) 
+[Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
 <img src="{{site.baseurl}}/images/FAIRification/eNM-bioportal.png" width="40%" class="image--right" />
 The eNM ontology can be accessed through three different ways, namely online via BioPortal and AberOWL or locally using the open-source Protégé software. The tutorial focusses on browsing through the eNM ontology when one would be interested in finding a Unique Resource Identifier (URI) for mapping a term originating from, for example, a database schema. Using URIs for database schemas will facilitate the harmonization of data originating from different sources and will make them more comparable.
 <br clear="all">
@@ -122,10 +121,10 @@ This poster presented at ICBO2020 describes ow the eNanoMapper ontology was recr
 
 [Adding ontology terms to eNanoMapper](https://enanomapper.github.io/tutorials/Added%20ontology%20terms/README.html)
 <img src="{{site.baseurl}}/images/FAIRification/eNM-slicing.png" width="20%" class="image--right" />
-The eNanoMapper ontology is mostly composed of parts of other ontologies, with extensions here and there. This tutorial introduces the tools to slice parts out of these ontologies and merge them together. 
+The eNanoMapper ontology is mostly composed of parts of other ontologies, with extensions here and there. This tutorial introduces the tools to slice parts out of these ontologies and merge them together.
 <br clear="all">
 {: .more-link .more-link--webpages }
 
 [eNanoMapper issue tracker to propose new terms](https://github.com/enanomapper/ontologies/issues)
-New terms to be added to eNanoMapper can be proposed using the issue tracker on github. This should be used by the ontology development teams from the different project after the terms and corresponding definitions have been discussed and approved by the community. To generate these definitions and get community approval, the [EU NanoSafety Terminology Harmonizer](#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions) should be used.  
+New terms to be added to eNanoMapper can be proposed using the issue tracker on github. This should be used by the ontology development teams from the different project after the terms and corresponding definitions have been discussed and approved by the community. To generate these definitions and get community approval, the [EU NanoSafety Terminology Harmonizer](#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions) should be used.
 {: .more-link .more-link--app }
