@@ -51,10 +51,10 @@ universe_topics:
 </details>
 
 # Harmonised terminology, ontologies development and semantic annotation
-Establishing a more universal use of ontologies and semantic annotation, many different expertises are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness.
+Establishing a more universal use of ontologies and semantic annotation, many different kinds of expertise are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotated their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness.
 {: .lead }
 
-{% include clickable_image.html image_name="OntologyUniverse.png" image_width=1396 image_height=720 image_areas=page.universe_topics %}
+{% include clickable_image.html image_name="FAIRification/OntologyUniverse.png" image_width=1396 image_height=720 image_areas=page.universe_topics %}
 
 **The Ontology Universe:** Click on one area to be linked to relevant guidance and tools. 
 

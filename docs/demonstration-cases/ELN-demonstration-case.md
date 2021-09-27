@@ -9,15 +9,15 @@ nav_order: 1001
 ---
 
 #  NanoCommons Demonstration Case -  Electronic Laboratory Notebooks for data collection and annotation
-A collaboration between [<img src="{{ site.baseurl }}/images/logos-lnnano-rodape.png" width="80" align="middle" />](https://lnnano.cnpem.br/en/scientific-divisions-and-teams/nanotoxicology-and-nanobiotechnology/diego-stefani-teodoro-martinez/), [<img src="{{ site.baseurl }}/images/acenano.png" width="150" align="middle" />](http://www.acenano-project.eu/) and 
-[<img src="{{ site.baseurl }}/images/nanocommons.png" width="80" align="middle" />](https://nanocommons.eu)
-{: .lead }
-
 This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting.
 {: .lead }
 
+A collaboration between [<img src="{{ site.baseurl }}/images/logos/logos-lnnano-rodape.png" width="80" align="middle" />](https://lnnano.cnpem.br/en/scientific-divisions-and-teams/nanotoxicology-and-nanobiotechnology/diego-stefani-teodoro-martinez/), [<img src="{{ site.baseurl }}/images/logos/acenano.png" width="150" align="middle" />](http://www.acenano-project.eu/) and 
+[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://nanocommons.eu)
+
+
 ## Background and aims
-<img src="{{ site.baseurl }}/images/PhysChemCharacterisation.jpg" class="image--right"/>
+<img src="{{ site.baseurl }}/images/demonstration-cases/PhysChemCharacterisation.jpg" class="image--right"/>
 The rapid technological development and increasing experimental complexity of nanosafety studies have increased the requirements regarding the proper quality management and control of the experimental workflows and the produced results. At the same time, the 2019 EU Open Data Directive, which extended the Open Research Data policy, introduced during the Horizon 2020 (H2020) framework, requires the ability fojr non-sensitive data accessibility, interoperability and reuse as per the FAIR (Findable, Accessible, Interoperable, Reusable) data  principles (1,2).
 
 Based on these requirements, the presence of a detailed data management plan (DMP) is a must, describing how the respective data will be captured, described, handled, stored and shared. The DMPs need to have provisions for the required metadata, so that the data they complement are sufficiently described, understandable and reusable (3). 
@@ -34,3 +34,14 @@ Key questions of the demonstration case:
 - Is it easy for researchers to accept ELNs for their experimental practice?
 - Can ELNs be established in everyday data management practices from individual laboratories to large projects?
 - What are the current bottlenecks in ELN implementation?
+
+## Results
+### ACEnano round robin:
+
+The ELN demonstration case was performed in collaboration with the H2020 ACEnano project that performed a series of interlaboratory comparisons (round-robins) for the standardisation of physicochemical characterisation techniques for nanomaterials. The ACEnano round-robins included laboratories not only from the EU, but from Korea as well (Figure 1). This meant that a system needed to be implemented to facilitate the data capturing and sharing that would be independent of the time difference, that users would be able to access at their own time and that would allow the round-robins leader to holistically be able to monitor the experiments progress and results. The experiment that was used to test the ELN implementation was the Ultraviolet-Visible Spectroscopy (UV-ViS) that was led by the University of Birmingham (UoB). Besides UoB, the ACEnano partners that participated were the UK Centre for Ecology and Hydrology (UK-CEH), the University of Oxford (UoOxf), the German Federal Institute for Risk Assessment (BfR), the Helmholtz Centre for Environmental Research (UFZ) and the Korea Research Institute of Standards and Science (KRISS).
+
+<img src="{{ site.baseurl }}/images/demonstration-cases/ACEnano-RoundRobinMap.png"/>
+
+**Figure 1**. Schematic representation of the ACEnano partners that participated in the UV-ViS round-robins ELN demonstration case. The yellow star corresponds to UoB that led the round-robins, while the red stars correspond to the participating partners.
+
+The ELN that was used to implement the experimental workflow was the [cloud version of SciNote]({{ site.baseurl }}/data-management/electronic-lab-notebooks/). Within SciNote, a specific project was created that corresponded to the ACEnano round-robins experiments and sub-spaces were designated to each partner. All partners were then invited to create their free accounts and PIs were asked to invite their participating data generators to join the project (Figure 2). Dr. Anastasios Papadiamantis was designated as the data shepherd for the case study (for a detailed description of the [data shepherd role]({{ site.baseurl }}/data-management/roles/) see Papadiamantis et al., Nanomaterials, 2020 [(3)]()), helping the UoB ACEnano team, led by Dr. Emily Guggenheim, to work with the SciNote environment, prepare, implement and explain to the rest of the partners the functionalities and actions needed.
