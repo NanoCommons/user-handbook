@@ -39,13 +39,13 @@ topics:
     y: 246
     r: 70
   - name: preserving
-    title: Preserving means bringing your data so that it can be found by you but also in institutional repositories and public data repositories and warehouses 
+    title: Preserving means bringing your data so that it can be found by you but also in institutional repositories and public data repositories and warehouses
     shape: circle
     x: 384
     y: 409
     r: 70
   - name: acquisition
-    title: Acquisition 
+    title: Acquisition
     shape: circle
     x: 526
     y: 200
@@ -63,7 +63,7 @@ topics:
     y: 200
     r: 50
   - name: integration
-    title: Integration 
+    title: Integration
     shape: circle
     x: 717
     y: 306
@@ -75,7 +75,7 @@ topics:
     y: 368
     r: 50
   - name: analysis
-    title: Analysis 
+    title: Analysis
     shape: circle
     x: 524
     y: 307
@@ -135,7 +135,7 @@ Information on individual tools and services including the contact points and sp
 <ul class="list-style-none mt-6">
 {% for contributor in page.projects %}
   <li class="d-inline-block mr-3 mb-3">
-     <a href="{{ contributor.url }}" class="image-link"><img src="images/{{ contributor.logo }}" width="{{ contributor.width }}"/></a>
+     <a href="{{ contributor.url }}"><img src="images/{{ contributor.logo }}" width="{{ contributor.width }}"/></a>
   </li>
 {% endfor %}
 </ul>

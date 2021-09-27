@@ -11,103 +11,113 @@ $body-text-color-light: $grey-dk-000
 .source
     @extend .fs-3
 
-a.image-link
+.main-content a,
+.main-content a:not([class])
     background-image: none
+    text-decoration: underline
+    text-decoration-color: $border-color
+    -webkit-text-decoration-color: $border-color
+
+    &:hover
+        text-decoration-color: $link-color !important
+        -webkit-text-decoration-color: $link-color !important
 
 iframe, embed
     @extend .mt-4
     width: 560px
     height: 315px
 
-.more-link
-    border-top: solid 1px $border-color
-    border-bottom: solid 1px $border-color
-    margin: $gutter-spacing 0 !important
-    padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
-    color: $body-text-color-light
-    @extend .fs-3
-    position: relative
-
-    &:hover
-        background-color: $grey-lt-000
-
-    &:after
-        position: absolute
-        right: 0
-        top: calc(50% - 0.75rem)
-        content: "→"
-        @extend .fs-5
-        color: $link-color
-
-    a
-        display: block
-        background-image: none
-        @extend .fs-5
+.main-content
+    .more-link
+        border-top: solid 1px $border-color
+        border-bottom: solid 1px $border-color
+        margin: $gutter-spacing 0 !important
+        padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
+        color: $body-text-color-light
+        @extend .fs-3
+        position: relative
 
         &:hover
+            background-color: $grey-lt-000
+
+        &:after
+            position: absolute
+            right: 0.5rem
+            top: calc(50% - 0.75rem)
+            content: "→"
+            @extend .fs-5
+            color: $link-color
+
+        a
+            display: block
             background-image: none
+            text-decoration: none
+            @extend .fs-5
 
-.more-link + .more-link
-    border-top: none
-    margin-top: -$gutter-spacing !important
+            &:hover
+                background-image: none
 
-.more-link-icon
-    width: 20px
-    margin-bottom: -0.2rem
-    margin-right: 0.3rem
+    .more-link + .more-link
+        border-top: none
+        margin-top: -$gutter-spacing !important
 
-.more-link--app a,
-.more-link--video a,
-.more-link--webpages a,
-.more-link--slides a,
-.more-link--pdf a,
-.more-link--file a
-    background-repeat: no-repeat
-    background-position: left center
-    background-size: 20px 20px
-    padding-left: 30px
+    .more-link-icon
+        width: 20px
+        margin-bottom: -0.2rem
+        margin-right: 0.3rem
 
-.more-link--app a
-    background-image: url("/user-handbook/images/icons/app.png")
+    .more-link--app a,
+    .more-link--video a,
+    .more-link--webpages a,
+    .more-link--slides a,
+    .more-link--pdf a,
+    .more-link--file a
+        background-repeat: no-repeat
+        background-position: left center
+        background-size: 20px 20px
+        padding-left: 30px
 
-    &:hover
+    .more-link--app a
         background-image: url("/user-handbook/images/icons/app.png")
-        background-size: 20px 20px
 
-.more-link--video a
-    background-image: url("/user-handbook/images/icons/video.png")
+        &:hover
+            background-image: url("/user-handbook/images/icons/app.png")
+            background-size: 20px 20px
 
-    &:hover
+    .more-link--video a
         background-image: url("/user-handbook/images/icons/video.png")
-        background-size: 20px 20px
 
-.more-link--webpages a
-    background-image: url("/user-handbook/images/icons/webpages.png")
+        &:hover
+            background-image: url("/user-handbook/images/icons/video.png")
+            background-size: 20px 20px
 
-    &:hover
+    .more-link--webpages a
         background-image: url("/user-handbook/images/icons/webpages.png")
-        background-size: 20px 20px
 
-.more-link--slides a
-    background-image: url("/user-handbook/images/icons/slides.png")
+        &:hover
+            background-image: url("/user-handbook/images/icons/webpages.png")
+            background-size: 20px 20px
 
-    &:hover
+    .more-link--slides a
         background-image: url("/user-handbook/images/icons/slides.png")
-        background-size: 20px 20px
 
-.more-link--pdf a
-    background-image: url("/user-handbook/images/icons/pdf.png")
+        &:hover
+            background-image: url("/user-handbook/images/icons/slides.png")
+            background-size: 20px 20px
 
-    &:hover
+    .more-link--pdf a
         background-image: url("/user-handbook/images/icons/pdf.png")
-        background-size: 20px 20px
 
-.more-link--file a
-    background-image: url("/user-handbook/images/icons/file.svg")
+        &:hover
+            background-image: url("/user-handbook/images/icons/pdf.png")
+            background-size: 20px 20px
 
-    &:hover
+    .more-link--file a
         background-image: url("/user-handbook/images/icons/file.svg")
-        background-size: 20px 20px
+
+        &:hover
+            background-image: url("/user-handbook/images/icons/file.svg")
+            background-size: 20px 20px
 
 .image--right
     max-width: 45%
