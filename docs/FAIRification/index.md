@@ -10,3 +10,9 @@ nav_order: 300
 # FAIRification
 
 {% include childrenTOC.html page=page pages=site.pages %}
+
+<!--- To be additionally covered:
+- FAIR principles and their interpretation
+- FAIR resources
+- FAIR maturity indices
+--->
