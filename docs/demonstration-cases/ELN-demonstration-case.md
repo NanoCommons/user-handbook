@@ -10,6 +10,7 @@ nav_order: 1001
 ---
 
 #  NanoCommons Demonstration Case -  Electronic Laboratory Notebooks for data collection and annotation
+{: .no_toc}
 This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting.
 {: .lead }
 
@@ -116,6 +117,7 @@ Addressing the challenges noted above in terms of the requirement for team-work 
 
 Generalizing from the experiences in this demonstration case, we learned that the task of training users in implementation of their experiments into the ELN and the development of the support data capture techniques requires dedicated effort from both sides - the NanoCommons data shepherd must be extremely hands-on with the data generators probing all aspects of the study design and data to be captured, while the data generators need to be open to thinking about their experiments in a slightly different way and to investing time into the establishment of their workflows.  While the initial effort is quite large, the payoff is that once the workflows are established, and the metadata related to the instruments, media, organisms, etc., is collected in a single location, the subsequent experiments and the writing-up of experiments, data sharing / data analysis and other steps along the data life cycle are all made significantly easier.  As the EC and other funders move towards an increased focus on FAIR and Open data, and journals are increasingly requesting data availability statements, it is clear that processes to streamline this and integrate it directly into the data generation process are both essential and inevitable.  NanoCommons is pleased to be leading the charge here for the nanosafety community.
 
+## References
 1. 	Open access & Data management - H2020 Online Manual [Internet]. [cited 2021 Jul 9]. Available from: https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-dissemination_en.htm
 2. 	Ammar A, Bonaretti S, Winckers L, Quik J, Bakker M, Maier D, et al. A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences. Nanomaterials (Basel). 2020 Oct 20;10(10).
 3. 	Papadiamantis AG, Klaessig FC, Exner TE, Hofer S, Hofstaetter N, Himly M, et al. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials (Basel). 2020 Oct 15;10(10).
