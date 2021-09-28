@@ -123,6 +123,17 @@ Searching and browsing tool for terms across many ontologies including eNanoMapp
 
 <!--- Finally, if you do not find anything, you can request new terms using the [provisional term generator]() and immediately continue with your data annotation. --->
 
+#### Put this all into action
+Have a look at the NanoCommons Workshop “Annotating Your Experimental Data Workshop” by Egon Willighagen providing hands-on training to participants in how to enrich their (published) data to give it more impact, by linking the description of the experimental data to community terminology (ontology terms) and making their research articles findable to other researchers.
+
+[Spreadsheets in nanosafety research](https://www.youtube.com/watch?v=YSH-COr30BI&t=7s)
+{: .more-link .more-link--video }
+
+[FAIR starts with findable: data sets and nanomaterials](https://www.youtube.com/watch?v=VqerJojpBpM)
+{: .more-link .more-link--video }
+
+[Slides available on Zenodo](https://zenodo.org/record/3772185#.YVMVt7gzaUm)
+{: .more-link .more-link--webpages }
 
 ### For domain experts generating harmonised terminologies including clear definitions
 The most time consuming part of ontology development is the collection of the needed terms and agree on the preferred synonym and clear definition. This is done in different projects as described above. However, with the tools described here, everybody is able to participate and provide expert knowledge. 

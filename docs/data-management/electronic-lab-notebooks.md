@@ -47,6 +47,10 @@ Capturing study design, protocols, data and metadata as they are developed and p
 The video by Tassos Papadiamantis (University of Birmingham) describes how this can be done for nanosafety research with SciNote.
 {: .more-link .more-link--video }
 
+[SciNote setup](https://www.youtube.com/watch?v=7yhdrG4coo0&ab_channel=NanoCommons)
+The video by Tassos Papadiamantis (University of Birmingham) describes how to set up a SciNote account.
+{: .more-link .more-link--video }
+
 [Slides and additional material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
 {: .more-link .more-link--webpages }
 
