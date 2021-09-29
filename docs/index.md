@@ -23,10 +23,9 @@ projects:
   - url: http://www.nanofase.eu/
     logo: nanofase.png
     width: 200
-
-annotater:
-  - name: This
-    tooltip: Let's work together
+  - url: http://www.enanomapper.org/
+    logo: enanomapper.png
+    width: 200
 
 topics:
   - name: planning

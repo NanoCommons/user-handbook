@@ -66,11 +66,12 @@ First, it is important to place yourself into the ontology universe. Are you a d
 **The Ontology universe:** Click on one area to view relevant guidance and tools.
 {: .caption }
 
-## Nanosafety-specific ontologies
+## Nanosafety-specific ontologies and project contributions
 
 This section includes information on specific nanosafety ontologies or ontology development projects.
 
 ### eNanoMapper
+<img src="{{ site.baseurl }}/images/logos/eNanoMapper.png" width="200" class="image--right" />
 The eNanoMapper ontology is one of the largest collections of nanosafety and nanoinformatics terminology. It was developed first in the eNanoMapper project and is now maintained and extended by the NanoCommons and NanoSolveIT projects and supported by many other projects providing new terms and community-agreed definitions.
 
 An introduction to the ontology is available in this short video:
@@ -87,6 +88,7 @@ This report available on Zenodo describes the work extending the ontology done i
 {: .more-link .more-link--text } -->
 
 ### ACEnano
+<img src="{{ site.baseurl }}/images/logos/acenano.png" width="200" class="image--right" />
 Due to its focus on physico-chemical characterisation, the ACEnano project collected terminology specifically in this area and proposed it to be added to the eNanoMapper ontology.
 
 [Presentation of the concept during a general assembly]({{site.baseurl}}/FAIRification/ontologies/ACEnano-WP4/)
