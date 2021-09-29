@@ -20,6 +20,9 @@ projects:
   - url: http://www.acenano-project.eu/
     logo: acenano.png
     width: 200
+  - url: http://www.nanofase.eu/
+    logo: nanofase.png
+    width: 200
 
 annotater:
   - name: This
@@ -125,13 +128,14 @@ in the area of nanosafety, nanoinformatics or material safe-by design or want to
 The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects of the cycle. Click on any of the three general areas in the lower part of the figure to access information on that topic.
 
 ## Working together
-Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these two areas. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
+Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these two areas. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on these can and should be reproduced here, we provide [short summaries and access links to the partners' websites, platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
 
 Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
 
 
 ## A big THANK YOU to the contributing projects!
 
+<center>
 <ul class="list-style-none mt-6">
 {% for contributor in page.projects %}
   <li class="d-inline-block mr-3 mb-3">
@@ -139,3 +143,4 @@ Information on individual tools and services including the contact points and sp
   </li>
 {% endfor %}
 </ul>
+</center>
