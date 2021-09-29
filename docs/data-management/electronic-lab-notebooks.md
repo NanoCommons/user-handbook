@@ -18,7 +18,7 @@ Introduction to ELNs and why they should be used given by Iseult Lynch (Universi
 
 <iframe src="//www.youtube.com/embed/tM814yEukfA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-[ELN demonstation case]({{site.baseurl}}/demonstation-cases/ELN-demonstation-case/)
+[ELN demonstation case]({{site.baseurl}}/demonstration-cases/ELN-demonstration-case/)
 {: .more-link .more-link--video }
 
 ## Using the SciNote ELN for nanosafety research

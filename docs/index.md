@@ -109,23 +109,23 @@ topics:
 
 # Data and nanoinformatics shepherds’ user guidance handbook
 
+This online resource collects and organizes knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics.
+{: .lead }
 
 If you are a
-{: .lead }
 - scientist (wet or dry lab), who produces and wants to share data
 - data manager, curator or steward and want to become more
 - computer geek
-{: .lead }
+
 in the area of nanosafety, nanoinformatics or material safe-by design or want to become one, then this handbook is for you.
-{: .lead }
 
 {% include clickable_image.html image_name="StartingPage.png" image_width=890 image_height=577 image_areas=page.topics %}
 
 
-The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects or on the three general areas in the lower part of the figure to access general information with links to individual subareas.
+The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects of the cycle. Click on any of the three general areas in the lower part of the figure to access information on that topic.
 
 ## Working together
-Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these. The NanoCommons infrastructure is meant to be even one level above these platforms to bring these together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
+Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these two areas. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on this can and should be reproduced here, this will lead you to [short summaries and access links to the partnering platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
 
 Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
 

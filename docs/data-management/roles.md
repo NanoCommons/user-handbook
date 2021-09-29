@@ -12,25 +12,25 @@ nav_order: 201
 Based on: Papadiamantis, A.G.; Klaessig, F.C.; Exner, T.E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M.A.; Doganis, P.; Hoover, M.D.; Afantitis, A.; Melagraki, G.; Nolan, T.S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials 2020, 10, 2033. [https://doi.org/10.3390/nano10102033](https://doi.org/10.3390/nano10102033)
 {: .source }
 
-<table class="largeTable" >
+<table class="table--sm">
 <thead>
 <tr>
-<th class="verticalTableHeader">Roles</th>
-<th class="verticalTableHeader" style="background-color:#cfe2f3">Set objectives</th>
-<th class="verticalTableHeader" style="background-color:#cfe2f3">Design Approach</th>
-<th class="verticalTableHeader" style="background-color:#9fc5e8">Collect</th>
-<th class="verticalTableHeader" style="background-color:#6fa8dc">Processing</th>
-<th class="verticalTableHeader" style="background-color:#6fa8dc">Modelling / Analysis</th>
-<th class="verticalTableHeader" style="background-color:#6fa8dc">Validate</th>
-<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Store</th>
-<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Share</th>
-<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Quality Control</th>
-<th class="verticalTableHeader" style="background-color:#3d85c6; color:white">Annotation</th>
-<th class="verticalTableHeader" style="background-color:#cfe2f3">Determine Relevance</th>
-<th class="verticalTableHeader" style="background-color:#cfe2f3">Apply</th>
-<th class="verticalTableHeader" style="background-color:#cfe2f3">Confirm Effectiveness</th>
-<th class="verticalTableHeader">Generalise</th>
-<th class="verticalTableHeader">Communication / Education</th>
+<th class="vertical-table-header">Roles</th>
+<th class="vertical-table-header" style="background-color:#cfe2f3"><div>Set objectives</div></th>
+<th class="vertical-table-header" style="background-color:#cfe2f3; border-left-color: white"><div>Design Approach</div></th>
+<th class="vertical-table-header" style="background-color:#9fc5e8"><div>Collect</div></th>
+<th class="vertical-table-header" style="background-color:#6fa8dc"><div>Processing</div></th>
+<th class="vertical-table-header" style="background-color:#6fa8dc"><div>Modelling / Analysis</div></th>
+<th class="vertical-table-header" style="background-color:#6fa8dc"><div>Validate</div></th>
+<th class="vertical-table-header" style="background-color:#3d85c6; color:white"><div>Store</div></th>
+<th class="vertical-table-header" style="background-color:#3d85c6; color:white"><div>Share</div></th>
+<th class="vertical-table-header" style="background-color:#3d85c6; color:white"><div>Quality Control</div></th>
+<th class="vertical-table-header" style="background-color:#3d85c6; color:white"><div>Annotation</div></th>
+<th class="vertical-table-header" style="background-color:#cfe2f3"><div>Determine Relevance</div></th>
+<th class="vertical-table-header" style="background-color:#cfe2f3; border-left-color: white"><div>Apply</div></th>
+<th class="vertical-table-header" style="background-color:#cfe2f3; border-left-color: white"><div>Confirm Effectiveness</div></th>
+<th class="vertical-table-header"><div>Generalise</div></th>
+<th class="vertical-table-header"><div>Communication / Education</div></th>
 </tr>
 </thead>
 <tbody>

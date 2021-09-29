@@ -1,7 +1,7 @@
 $body-text-color-light: $grey-dk-000
 
 h4
-    @include fs-4  
+    @include fs-4
 
 h1 + .toc,
 h2 + .toc,
@@ -33,6 +33,7 @@ h3 + h4
     text-decoration: underline
     text-decoration-color: $border-color
     -webkit-text-decoration-color: $border-color
+    white-space: normal
 
     &:hover
         text-decoration-color: $link-color !important
@@ -147,42 +148,62 @@ iframe, embed
             background-image: url("/user-handbook/images/icons/file-text.svg")
             background-size: 20px 20px
 
-.image--right
-    max-width: 45%
-    float: right
-    padding: 1rem 0 1rem 1rem
+    .image--right
+        max-width: 45%
+        float: right
+        padding: 0.4rem 0 1rem 1rem
 
-.image--left
-    max-width: 45%
-    float: left
-    padding: 1rem 1rem 1rem 0
+    .image--left
+        max-width: 45%
+        float: left
+        padding: 0.4rem 1rem 1rem 0
 
-.caption
-    color: $body-text-color-light
-    @extend .fs-3
+    .caption
+        @extend .fs-3
+        color: $body-text-color-light
+        margin-bottom: $gutter-spacing
 
-.largeTable
-    th,
-    td
-        @include fs-1
-        min-width: 0px
+        img
+            display: block
+            margin-bottom: $gutter-spacing/4
 
+    table
+        border-collapse: collapse
+        border-spacing: 0px
 
+    .table--sm
+        th,
+        td
+            @include fs-1
+            min-width: 0px
 
-.verticalTableHeader
-    border-bottom: 0
-    border-left: 0
-    border-right: $border rgba($border-color, 0.5)
-    border-top: $border $border-color
-    writing-mode: vertical-lr
-    -ms-writing-mode: tb-rl
-    transform: rotate(180deg)
-    
-    &:first-of-type
-        border-right: 0
-   
-.leftHeader
-    th
-        @include fs-4
-        text-align: left
-   
+    .vertical-table-header
+        padding: 0
+
+        > div
+            padding: 0.5rem 0.75rem
+            writing-mode: vertical-lr
+            -ms-writing-mode: tb-rl
+            transform: rotate(180deg)
+            white-space: nowrap
+
+    dl
+        @include fs-3
+        padding: $gutter-spacing/2 $gutter-spacing/2 $gutter-spacing/4 $gutter-spacing/2
+        border-radius: $border-radius
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 12%), 0 3px 10px rgba(0, 0, 0, 8%)
+
+        dt
+            font-weight: bold
+
+        dd
+            margin-bottom: $gutter-spacing/2
+
+    .references-header
+        border-top: $border $border-color
+        margin-top: $gutter-spacing
+        padding-top: $gutter-spacing/2
+        font-weight: bold
+
+    .references
+        @include fs-3

@@ -83,10 +83,8 @@ An introduction to the ontology is available in this short video:
 This report available on Zenodo describes the work extending the ontology done in the NanoCommons projects including a description of the system for maintenance and the major releases 5 and 6.
 {: .more-link .more-link--text }
 
-<!--->
-[Extensions to the eNanoMapper Ontology by NanoSolveIT]()
-{: .more-link .more-link--text }
---->
+<!-- [Extensions to the eNanoMapper Ontology by NanoSolveIT]()
+{: .more-link .more-link--text } -->
 
 ### ACEnano
 Due to its focus on physico-chemical characterisation, the ACEnano project collected terminology specifically in this area and proposed it to be added to the eNanoMapper ontology.
@@ -101,14 +99,14 @@ The slides show how first a simple spreadsheet was used to collect terms needed 
 ## Guidance and tools
 
 ### For data producers and curators annotating data
-Semantic annotation is needed for understanding and evaluating the data as well as finding, accessing and integrating it in a more automatic way. Nanosafety and nanoinformatics produce many different types of data, all needing specific terminology for their annotation. Currently no single ontology is able to cover all these areas. Therefore, multiple ontologies have to be used for the time being, which, fortunately, follow similar concepts with respect to searching and using of terms. Training material was generated for the eNanoMapper ontology, which is generally helpful when annotating data. 
+Semantic annotation is needed for understanding and evaluating the data as well as finding, accessing and integrating it in a more automatic way. Nanosafety and nanoinformatics produce many different types of data, all needing specific terminology for their annotation. Currently no single ontology is able to cover all these areas. Therefore, multiple ontologies have to be used for the time being, which, fortunately, follow similar concepts with respect to searching and using of terms. Training material was generated for the eNanoMapper ontology, which is generally helpful when annotating data.
 
 [Using the eNanoMapper ontology](https://www.youtube.com/watch?v=WpKMukSbG7s&list=PLTxtsS5QQK1w8WvgocPu-xI5bJwDM8t2g&index=5)
 Webinar given by Janna Hastings (EMBL-EBI, UK) as part of the eNanoMapper training
 {: .more-link .more-link--video }
 
 <img src="{{site.baseurl}}/images/FAIRification/eNM-bioportal.png" class="image--left" />
-The eNanoMapper ontology can be accessed through three different ways, namely online via BioPortal and AberOWL or locally using the open-source Protégé software. 
+The eNanoMapper ontology can be accessed through three different ways, namely online via BioPortal and AberOWL or locally using the open-source Protégé software.
 <br clear="all">
 
 [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
@@ -136,7 +134,7 @@ Have a look at the NanoCommons Workshop “Annotating Your Experimental Data Wor
 {: .more-link .more-link--webpages }
 
 ### For domain experts generating harmonised terminologies including clear definitions
-The most time consuming part of ontology development is the collection of the needed terms and agree on the preferred synonym and clear definition. This is done in different projects as described above. However, with the tools described here, everybody is able to participate and provide expert knowledge. 
+The most time consuming part of ontology development is the collection of the needed terms and agree on the preferred synonym and clear definition. This is done in different projects as described above. However, with the tools described here, everybody is able to participate and provide expert knowledge.
 
 #### EU NanoSafety Terminology Harmonizer
 Provided by the GRACIOUS project this is a tool to work collaboratively on a collection of well defined terms to be used across the complete nanosafety community. Separate but harmonised areas exist at the moment for physicochemical characterisation, nanoinformatics and simulations, bio-nano interactions, safe-by-design, regulation and manufacturing. More areas can always be added. Everyone is welcome to contribute to these area. Besides these public areas, also project specific areas exist.
