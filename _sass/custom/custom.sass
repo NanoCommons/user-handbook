@@ -1,5 +1,21 @@
 $body-text-color-light: $grey-dk-000
 
+h4
+    @include fs-4
+
+h1 + .toc,
+h2 + .toc,
+h3 + .toc,
+h4 + .toc
+    border-top: none
+    margin-top: -$gutter-spacing !important
+
+h1 + h2,
+h2 + h3,
+h3 + h4
+    margin-top: 10px  !important
+
+
 .site-footer
     display: none
 
@@ -17,6 +33,7 @@ $body-text-color-light: $grey-dk-000
     text-decoration: underline
     text-decoration-color: $border-color
     -webkit-text-decoration-color: $border-color
+    white-space: normal
 
     &:hover
         text-decoration-color: $link-color !important
@@ -48,7 +65,10 @@ iframe, embed
             @extend .fs-5
             color: $link-color
 
-        a
+        a:not(:first-child)
+            color: $body-text-color-light
+
+        a:first-child
             display: block
             background-image: none
             text-decoration: none
@@ -66,65 +86,124 @@ iframe, embed
         margin-bottom: -0.2rem
         margin-right: 0.3rem
 
-    .more-link--app a,
-    .more-link--video a,
-    .more-link--webpages a,
-    .more-link--slides a,
-    .more-link--pdf a,
-    .more-link--file a
+    .more-link--app a:first-child,
+    .more-link--video a:first-child,
+    .more-link--webpages a:first-child,
+    .more-link--slides a:first-child,
+    .more-link--pdf a:first-child,
+    .more-link--file a:first-child,
+    .more-link--text a:first-child
         background-repeat: no-repeat
         background-position: left center
         background-size: 20px 20px
         padding-left: 30px
 
-    .more-link--app a
+
+    .more-link--app a:first-child
         background-image: url("/user-handbook/images/icons/app.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/app.png")
             background-size: 20px 20px
 
-    .more-link--video a
+    .more-link--video a:first-child
         background-image: url("/user-handbook/images/icons/video.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/video.png")
             background-size: 20px 20px
 
-    .more-link--webpages a
+    .more-link--webpages a:first-child
         background-image: url("/user-handbook/images/icons/webpages.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/webpages.png")
             background-size: 20px 20px
 
-    .more-link--slides a
+    .more-link--slides a:first-child
         background-image: url("/user-handbook/images/icons/slides.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/slides.png")
             background-size: 20px 20px
 
-    .more-link--pdf a
+    .more-link--pdf a:first-child
         background-image: url("/user-handbook/images/icons/pdf.png")
 
         &:hover
             background-image: url("/user-handbook/images/icons/pdf.png")
             background-size: 20px 20px
 
-    .more-link--file a
+    .more-link--file a:first-child
         background-image: url("/user-handbook/images/icons/file.svg")
 
         &:hover
             background-image: url("/user-handbook/images/icons/file.svg")
             background-size: 20px 20px
 
-.image--right
-    max-width: 45%
-    float: right
-    padding: 1rem 0 1rem 1rem
+    .more-link--text a:first-child
+        background-image: url("/user-handbook/images/icons/file-text.svg")
 
-.image--left
-    max-width: 45%
-    float: left
-    padding: 1rem 1rem 1rem 0
+        &:hover
+            background-image: url("/user-handbook/images/icons/file-text.svg")
+            background-size: 20px 20px
+
+    .image--right
+        max-width: 45%
+        float: right
+        padding: 0.4rem 0 1rem 1rem
+
+    .image--left
+        max-width: 45%
+        float: left
+        padding: 0.4rem 1rem 1rem 0
+
+    .caption
+        @extend .fs-3
+        color: $body-text-color-light
+        margin-bottom: $gutter-spacing
+
+        img
+            display: block
+            margin-bottom: $gutter-spacing/4
+
+    table
+        border-collapse: collapse
+        border-spacing: 0px
+
+    .table--sm
+        th,
+        td
+            @include fs-1
+            min-width: 0px
+
+    .vertical-table-header
+        padding: 0
+
+        > div
+            padding: 0.5rem 0.75rem
+            writing-mode: vertical-lr
+            -ms-writing-mode: tb-rl
+            transform: rotate(180deg)
+            white-space: nowrap
+
+    dl
+        @include fs-3
+        padding: $gutter-spacing/2 $gutter-spacing/2 $gutter-spacing/4 $gutter-spacing/2
+        border-radius: $border-radius
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 12%), 0 3px 10px rgba(0, 0, 0, 8%)
+
+        dt
+            font-weight: bold
+
+        dd
+            margin-bottom: $gutter-spacing/2
+
+    .references-header
+        border-top: $border $border-color
+        margin-top: $gutter-spacing
+        padding-top: $gutter-spacing/2
+        font-weight: bold
+
+    .references
+        @include fs-3
