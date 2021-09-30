@@ -168,6 +168,9 @@
                       item.toolTip.style.transitionDuration = '.5s';
                       item.toolTip.style.position = 'absolute';
                       item.toolTip.style.background = 'rgba(245,246,250,1)';
+                      item.toolTip.style.border = '1px';
+                      item.toolTip.style.borderColor = 'rgba(232,230,225,1)';
+                      item.toolTip.style.borderStyle = 'solid';
                       item.toolTip.style.pointerEvents = 'none';
                       item.toolTip.style.padding = '6px';
                       item.toolTip.style.paddingTop = '30px';
