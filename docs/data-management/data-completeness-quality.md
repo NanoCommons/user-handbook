@@ -11,7 +11,7 @@ We present here multiple sets of definitions of these terms. These build all alt
 {: .lead }
 
 ## Shorter and more focused definitions: (compared to further down)
-Based on: R. L. Marchese Robinson, I. Lynch, W. Peijnenburg, J. Rumble, F. Klaessig, C. Marquardt, H. Rauscher, T. Puzyn, R. Purian, C. Åberg, S. Karcher, H. Vriens, P. Hoet, M. D. Hoover, C. O. Hendren and S. L. Harper, Nanoscale, 2016, 8, 9919 [https://doi.org/10.1039/C5NR08944A](https://doi.org/10.1039/C5NR08944A)
+Based on: Marchese Robinson et al., 2016
 {: .source }
 
 In the recommendations given by Marchese Robinson et al., shorter definitions than the original concepts presented in the same paper were proposed to the community for the sake of clarity:
@@ -46,7 +46,7 @@ More detailed explanations to these terminology recommendations can be found in 
 6. Format compliance of a dataset is not considered a data quality issue.
 
 ## Broad and flexible definitions employed for reviewing prior work
-Based on: R. L. Marchese Robinson, I. Lynch, W. Peijnenburg, J. Rumble, F. Klaessig, C. Marquardt, H. Rauscher, T. Puzyn, R. Purian, C. Åberg, S. Karcher, H. Vriens, P. Hoet, M. D. Hoover, C. O. Hendren and S. L. Harper, Nanoscale, 2016, 8, 9919 [https://doi.org/10.1039/C5NR08944A](https://doi.org/10.1039/C5NR08944A) and references therein.
+Based on: Marchese Robinson et al., 2016 and references therein.
 {: .source }
 
 The original set of definitions, all the previous definitions are in some way or another derived from, is taken from Marchese Robinson et al.
@@ -59,3 +59,7 @@ Key concept 2 - Minimum information checklist
 
 Key concept 3 - Data quality
 : Data quality may be considered a measure of the potential usefulness, clarity, correctness and trustworthiness of data and datasets. However, there is no definitive consensus regarding exactly how data quality should be defined in the nanoscience, or wider scientific, community. <br/><br/> Data quality may be considered dependent upon the degree to which the meaning of the data is “clear” and the extent to which the data are “plausible”. In turn, this may be considered to incorporate (aspects of) data completeness (Table 1). For example, data quality may be considered to be (partly) dependent upon the “reproducibility” of data and the extent to which data are reproducible and their reproducibility can be assessed will partly depend upon the degree of data completeness in terms of the, readily accessible, available metadata and raw data. As well as “reproducibility”, data quality may be considered to incorporate a variety of related issues. These issues include systematic and random “errors” in the data, data “precision” (which may be considered related to notions such as “repeatability” or “within-laboratory reproducibility”), “accuracy” and “uncertainty”. (As indicated by the cited references, different scientists may provide somewhat different definitions for these concepts. These concepts may be considered in a qualitative or quantitative sense.) Data quality may also be considered to be dependent upon the “relevance” of the data for answering a specific question, although data “relevance” might be considered an entirely distinct issue from data quality. In the context of data curation, not only the quality of the original experimental data needs to be considered but also quality considerations associated with curated data. Quality considerations associated with curation include the probability of transcription errors and possibly whether a given dataset, structured according to some standardised format (e.g. XML based), was compliant with the rules of the applicable standardised format (e.g. as documented via an XML schema). Such compliance, amongst other possible aspects of data quality, could be determined using validation software.
+
+<script src="/user-handbook/assets/js/annotater.js"></script>
+{% include site-annotater.html %}
+{% include page-annotater.html %}
