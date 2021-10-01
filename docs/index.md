@@ -25,7 +25,7 @@ projects:
     width: 200
   - url: http://www.enanomapper.org/
     logo: enanomapper.png
-    width: 200
+    width: 150
 
 topics:
   - name: planning
