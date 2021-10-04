@@ -19,7 +19,8 @@ eNanoMapper developed concepts builds on common components and Application Progr
 
 
 [eNanoMapper prototype database](https://data.enanomapper.net/)
-Database based on the AMBIT system developed and maintained by  [IDEAconsult <img src="{{ site.baseurl }}/images/logos/idea.png" width="100"/>](https://www.ideaconsult.net)
+<img src="{{ site.baseurl }}/images/logos/idea.png" class="image--right" style="margin-top: -1.5rem" width="100"/>
+Database based on the AMBIT system developed and maintained by [IDEAconsult](https://www.ideaconsult.net)
 {: .more-link .more-link--app }
 
 [Nanosafety data interface](https://search.data.enanomapper.net/)
