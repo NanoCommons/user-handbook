@@ -115,7 +115,9 @@ The experimental-to-nanoinformatics workflow functioning in an integrated way th
 
 Generalizing from the experiences in this demonstration case, we learned that the initial TA service to learn to apply the UnitedAtoms protein corona prediction tool at UCD plus support thereafter was an excellent opportunity for early-stage researchers to get it running, even remotely via the established VNC and SSH access. Upon integration of the UA tool into the Knowledge Infrastructure, rendering it being accessible directly from the nanoparticle entry in the NanoCommons KB, the required TA time and resources will be further minimized, however, it needs to be warranted that the most recent version of tools are functionable to provide most reliable modelling results.
 
-
+<script src="/user-handbook/assets/js/annotater.js"></script>
+{% include site-annotater.html %}
+{% include page-annotater.html %}
 
 References
 {: .references-header }

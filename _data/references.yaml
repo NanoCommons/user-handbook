@@ -13,4 +13,14 @@
 - name: What makes a material function, 2017
   tooltip: 'What makes a material function? - Publications Office of the EU. [cited 2021 Jul 9]. Available from: <a href=\"https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1\">https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1)</a>'
 - name: Marchese Robinson et al., 2016
-  tooltip: Marchese Robinson RL, Lynch I, Peijnenburg W, Rumble J, Klaessig F, Marquardt C, Rauscher H, Puzyn T, Purian R, Aberg C, Karcher S, Vriens H, Hoet P, Hoover MD, Hendren CO, Harper SL, Nanoscale, 2016 8:9919 <a href=\"https://doi.org/10.1039/C5NR08944A\">https://doi.org/10.1039/C5NR08944A</a>'
+  tooltip: 'Marchese Robinson RL, Lynch I, Peijnenburg W, Rumble J, Klaessig F, Marquardt C, Rauscher H, Puzyn T, Purian R, Aberg C, Karcher S, Vriens H, Hoet P, Hoover MD, Hendren CO, Harper SL, Nanoscale, 2016 8:9919. <a href=\"https://doi.org/10.1039/C5NR08944A\">https://doi.org/10.1039/C5NR08944A</a>'
+- name: Power et al. 2017
+  tooltip: 'Power D, Rouse I, Poggio S, Brandt E, Lopez H, Lyubartsev A, et al. A multiscale model of protein adsorption on a nanoparticle surface. Modelling Simul Mater Sci Eng. 2019 Aug 15. <a href=\"https://iopscience.iop.org/article/10.1088/1361-651X/ab3b6e/meta1\">https://iopscience.iop.org/article/10.1088/1361-651X/ab3b6e/meta</a>'
+- name: Lahiri et al., 1999
+  tooltip: 'Lahiri J, Isaacs L, Tien J, Whitesides GM. A strategy for the generation of surfaces presenting ligands for studies of binding based on an active ester as a common reactive intermediate: a surface plasmon resonance study. Anal Chem. 1999 Feb;71(4):777–90.Mater Sci Eng. 2019 Aug 15. <a href=\"https://doi.org/10.1021/ac980959t1\">https://doi.org/10.1021/ac980959t</a>'
+- name: Cedervall et al., 2007
+  tooltip: 'Cedervall T, Lynch I, Lindman S, Berggård T, Thulin E, Nilsson H, et al. Understanding the nanoparticle-protein corona using methods to quantify exchange rates and affinities of proteins for nanoparticles. Proc Natl Acad Sci USA. 2007 Feb 13;104(7):2050–5. <a href=\"https://doi.org/10.1073/pnas.06085821041\">https://doi.org/10.1073/pnas.0608582104</a>'
+- name: Deng et al., 2013
+  tooltip: 'Deng ZJ, Liang M, Toth I, Monteiro M, Minchin RF. Plasma protein binding of positively and negatively charged polymer-coated gold nanoparticles elicits different biological responses. Nanotoxicology. 2013 May;7(3):314–22. <a href=\"https://doi.org/10.3109/17435390.2012.6553421\">https://doi.org/10.3109/17435390.2012.655342</a>'
+- name: Duan et al., 2020
+  tooltip: 'Duan Y, Coreas R, Liu Y, Bitounis D, Zhang Z, Parviz D, et al. Prediction of protein corona on nanomaterials by machine learning using novel descriptors. NanoImpact. 2020 Jan 16;17. <a href=\"https://doi.org/10.1016/j.impact.2020.1002071\">https://doi.org/10.1016/j.impact.2020.100207</a>'
