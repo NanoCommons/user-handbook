@@ -10,7 +10,7 @@ nav_order: 302
 
 # FAIRness and data quality scores
 Even if quality evaluation of datasets is a highly active area of research, we will cover current approaches and try to stay up-to-date with the information.
-{: .source }
+{: .lead }
 
 ## FAIRness scores
 ### FAIR Badge System
