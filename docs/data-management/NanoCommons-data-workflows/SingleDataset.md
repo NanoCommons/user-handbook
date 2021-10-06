@@ -31,7 +31,7 @@ These have to be aligned and harmonised with the workflows for [integration of c
 Following the above processes and keeping them aligned with workflows for complete databases is critical to ensuring a streamlined and straightforward process, with less bugs (or errors). 
 
 ## Data Preparation Guidelines adopted in NanoCommons
-Data are valuable resources that can be used and reused by the scientific community. The data integration and sharing functionality provided by NanoCommons facilitates new scientific inquiry, avoids duplication of experiments and data collection, and provides rich real-life resources for method validation, risk assessment of NMs, as well as education and training.  However, this is only possible if the data is generated and provided in a harmonised and interoperable way, annotated by rich metadata, and is produced following state-of-the-art quality standards. In the “Managing and Sharing Data” guide by the UK Data Archive (1,2) this is emphasised in the following way: _"A crucial part of making data user-friendly, shareable and with long lasting usability is to ensure they can be understood and interpreted by any user. This requires clear and detailed data description, annotation and contextual information"_.
+Data are valuable resources that can be used and reused by the scientific community. The data integration and sharing functionality provided by NanoCommons facilitates new scientific inquiry, avoids duplication of experiments and data collection, and provides rich real-life resources for method validation, risk assessment of NMs, as well as education and training.  However, this is only possible if the data is generated and provided in a harmonised and interoperable way, annotated by rich metadata, and is produced following state-of-the-art quality standards. In the “Managing and Sharing Data” guide by the UK Data Archive (1) this is emphasised in the following way: _"A crucial part of making data user-friendly, shareable and with long lasting usability is to ensure they can be understood and interpreted by any user. This requires clear and detailed data description, annotation and contextual information"_.
 
 Data curation sheets provided for the uploading of data to specific databases or developed through the NanoCommons project have been created considering data and metadata quality standards, and a core aspect of NanoCommons dissemination and training activities will be to promote the use of these broadly by the nanosafety community. Such standards and good data management practices should be at the heart of all credible science and should be kept in mind during the evaluation and refinement of curation sheets, the development of new data templates and during the complete processes supporting the integration of Users data into the NanoCommons KB. 
 
@@ -45,7 +45,7 @@ Following the guideline and checklists promoted by NanoCommons and outlined in t
 - anticipate difficulties in making data available and design measures to overcome these; and
 - implement and review data management practices throughout the research process as part of research progression and review.
 
-As part of the activities of NanoCommons, we are also developing a certification in Nanosafety data curation. All NanoCommons checklists are linked to existing community consensus in best practice for reporting data, including the recently published Minimum information reporting in bio–nano experimental literature (MIRIBEL)(3) suggestions, which provides a starting point for the community to build upon, and other data reporting standards.
+As part of the activities of NanoCommons, we are also developing a certification in Nanosafety data curation. All NanoCommons checklists are linked to existing community consensus in best practice for reporting data, including the recently published Minimum information reporting in bio–nano experimental literature (MIRIBEL)(2) suggestions, which provides a starting point for the community to build upon, and other data reporting standards.
 
 ## Key Concepts for Data Curation
 To allow data usage without the need to refer to external sources like publications, final reports, working papers, or the Electronic notebooks (ELN) used to generate the data, all important information should be included in the data submission. On the [data completeness and quality page of this handbook]({{ site.baseurl }}/data-management/data-completeness-quality/), the problems of how to define and evaluate data completeness and quality are addressed in great detail and different understandings are presented. 
@@ -108,9 +108,8 @@ In case no suitable database is identified or it is not available for submission
 
 References
 {: .references-header }
-1. Louise Corti, V.V.d.E., Libby Bishop, Matthew Woollard. Companion material for Managing and Sharing Research Data handbook. Managing and Sharing Research Data: a Guide to Good Practice 2014 21 February 2019]; Available from: https://www.ukdataservice.ac.uk/manage-data/handbook.
-2. Veerle Van den Eynden, L.C., Matthew Woollard, Libby Bishop, Laurence Horton. Managing and Sharing Research Data: a Guide to Good Practice. 2014 21 February 2019]; Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
-3. Faria, M., et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
+1. Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice. 2014 21 February 2019]; Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
+2. Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
 {: .references }
 
 ## Annex - The NanoCommons “User data” checklist
