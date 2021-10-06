@@ -9,7 +9,7 @@ parent: Demonstration cases
 nav_order: 1003
 ---
 
-#  NanoCommons Demonstration Case -  Data management concept for ecotoxicological information on potential environmental release of ENMs as derived from the NanoFASE project
+#  NanoCommons Demonstration Case - Data management concept for ecotoxicological information on potential environmental release of ENMs as derived from the NanoFASE project
 {: .no_toc}
 This case demonstrates how data management can be organised in a large multidisciplinary project. This case has been finalised.
 {: .lead }

@@ -9,7 +9,7 @@ parent: Demonstration cases
 nav_order: 1001
 ---
 
-#  NanoCommons Demonstration Case -  Electronic Laboratory Notebooks for data collection and annotation
+#  NanoCommons Demonstration Case - Electronic Laboratory Notebooks for data collection and annotation
 {: .no_toc}
 This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting. This case has been finalised.
 {: .lead }

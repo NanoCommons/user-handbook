@@ -9,7 +9,7 @@ parent: Demonstration cases
 nav_order: 1005
 ---
 
-#  NanoCommons Demonstration Case -  Best-practice in SOP development for nanosafety assessment
+#  NanoCommons Demonstration Case - Best-practice in SOP development for nanosafety assessment
 {: .no_toc}
 Currently, the limited sharing and the free-text format of standard operating procedures makes independent quality control and comparison of different SOPs almost impossible. Therefore, this demonstration case is meant to document the SOP development process and derive a checklist for assessment of SOP quality and completeness based on standardised reporting formats. This case is **ongoing**.
 {: .lead }
