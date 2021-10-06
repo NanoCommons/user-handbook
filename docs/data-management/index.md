@@ -23,7 +23,7 @@ The resources below will give guidance how such a distributed (meta)data collect
 
 {% include childrenTOC.html page=page pages=site.pages %}
 
-Additionally, the Demonstration Cases show highlight specific aspects like study design and SOPs and implementation:
+Additionally, the Demonstration Cases highlight specific aspects like study design and SOPs and implementation:
 
 {% for parent_page in site.pages %}
 {% if parent_page.title == "Demonstration cases" %}
