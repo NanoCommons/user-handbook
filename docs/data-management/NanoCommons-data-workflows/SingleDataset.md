@@ -78,7 +78,7 @@ about the data will be required:
 - Publication status (published, open access, under preparation, unpublished etc.) and relevant details
 - Assigned DOI or any other unique ID for the dataset. Where no DOI is present the option to acquire a NanoCommons DOI via Zenodo will be provided for the dataset.
 - Desired FAIRness and license type assigned or to be assigned to the submitted dataset, based on the tiered system developed within NanoCommons
-▪- A short summary (abstract) describing the field of study, scope and endpoints of the experiments included in the dataset.
+- A short summary (abstract) describing the field of study, scope and endpoints of the experiments included in the dataset.
 
 Based on the submitted information, the NanoCommons DW will check and identify existing relevant databases for the data to be uploaded to. In any case, the user will upload their datasets in the NanoCommons DW, to simplify the process, and if necessary, the NanoCommons data management system will redirect the data to the most appropriate database.
 
