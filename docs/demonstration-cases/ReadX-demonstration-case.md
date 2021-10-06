@@ -26,10 +26,10 @@ The demonstration case aims at surveying and documenting the status quo of the l
 ## Background
 Grouping/read-across approaches constitute one key component of the complete risk assessment framework. The tools integrated currently in the NanoCommons Infrastructure are listed in the [service catalogue](https://infrastructure.nanocommons.eu/services/). However, many other tools have been developed in other projects of the NSC and in order to be able to prioritise further integration of these existing tools and focus the development of new tools, this case study will evaluate and document the current status of the integrated tools to showcase their strengths but also identify gaps, where additional tools are needed. Besides defining a development/integration roadmap, this could also produce material on the current NanoCommons portfolio, which can be used to guide new TA projects in this area and training across the tools integrated in the workflows.
 
-Grouping/read-across is based on the empirical knowledge that similar materials may exhibit comparable properties. It has been applied to chemicals during the last 20 years, but recently this type of approach is showing inevitable growth in filling toxicological gaps for ENMs (1). The benefit of using grouping and read across methods on ENMs is that the estimation of the hazardous effects of non-tested ENMs can be achieved using data within a group of comparable ENMs for which data presently exists (2-4). ECHA has developed the Read-Across Assessment Framework (RAAF) for chemicals, which presents a detailed workflow for performing grouping/read-across (see Figure 1). This workflow has been adapted to the special needs and requirements arising from the more complex and multi-perspective characterisation of ENMs compared to chemicals (5-8) and has already successfully been used in specific case studies in the nanotoxicity area.
+Grouping/read-across is based on the empirical knowledge that similar materials may exhibit comparable properties. It has been applied to chemicals during the last 20 years, but recently this type of approach is showing inevitable growth in filling toxicological gaps for ENMs (Cronin et al., 2019). The benefit of using grouping and read across methods on ENMs is that the estimation of the hazardous effects of non-tested ENMs can be achieved using data within a group of comparable ENMs for which data presently exists (Gajewicz et al., 2017)(Oomen et al., 2015)(Lamon et al., 2018). ECHA has developed the Read-Across Assessment Framework (RAAF) for chemicals, which presents a detailed workflow for performing grouping/read-across (see Figure 1). This workflow has been adapted to the special needs and requirements arising from the more complex and multi-perspective characterisation of ENMs compared to chemicals (RAAF, 2017)(Schultz et al., 2015)(Landvik et al., 2018)(Kuempel et al., 2012) and has already successfully been used in specific case studies in the nanotoxicity area.
 
 <img src="{{ site.baseurl }}/images/demonstration-cases/ReadX-Workflow.png"/>
-**Figure 1**. Step-wise grouping/read-across approach proposed by ECHA in Appendix R.6-1 for nanoforms, from the Guidance on QSARs and Grouping of Chemicals (9).
+**Figure 1**. Step-wise grouping/read-across approach proposed by ECHA in Appendix R.6-1 for nanoforms, from the Guidance on QSARs and Grouping of Chemicals (R.6-1, 2019).
 {: .caption }
 
 ## Aims
@@ -66,16 +66,27 @@ Tasks for building the workflows are:
 - Joint paper on the grouping/read-across landscape in terms of tools available and under development, their application domain with respect to the steps of the ECHA workflow as well as the types of nanomaterials and their interoperability with other tools all demonstrated on a number of nanomaterial classes.
 - Additionally, the workflows and the needed steps to develop custom workflows from scratch or by replacing specific parts of the workflow with alternative tools will be provided as part of the NanoCommons infrastructure.
 
+<script src="/user-handbook/assets/js/annotater.js"></script>
+{% include site-annotater.html %}
+{% include page-annotater.html %}
 
 References
 {: .references-header }
-1. Cronin M, Enoch S, Madden J, Richarz AN, . Read-Across to Fill Toxicological Data Gaps: Good Practice to Ensure Success with Nanoparticles.2019. 10.1201/9780429341373-8. 
-2. 	Gajewicz A, Jagiello K, Cronin MTD, Leszczynski J, Puzyn T. Addressing a bottle neck for regulation of nanomaterials: quantitative read-across (Nano-QRA) algorithm for cases when only limited data is available. Environ Sci: Nano. 2017;4(2):346–58.
-3. 	Oomen AG, Bleeker EAJ, Bos PMJ, van Broekhuizen F, Gottardo S, Groenewold M, et al. Grouping and Read-Across Approaches for Risk Assessment of Nanomaterials. Int J Environ Res Public Health. 2015 Oct 26;12(10):13415–34.
-4. Lamon L, Asturiol D, Richarz A, Joossens E, Graepel R, Aschberger K, et al. Grouping of nanomaterials to read-across hazard endpoints: from data collection to assessment of the grouping hypothesis by application of chemoinformatic techniques. Part Fibre Toxicol. 2018 Sep 24;15(1):37.
-5. Read-Across Assessment Framework (RAAF). https://echa.europa.eu/documents/10162/13628/raaf_en.pdf.
-6. Schultz TW, Amcoff P, Berggren E, Gautier F, Klaric M, Knight DJ, et al. A strategy for structuring and reporting a read-across prediction of toxicity. Regul Toxicol Pharmacol. 2015 Aug;72(3):586–601.
-7. Landvik NE, Skaug V, Mohr B, Verbeek J, Zienolddiny S. Criteria for grouping of manufactured nanomaterials to facilitate hazard and risk assessment, a systematic review of expert opinions. Regul Toxicol Pharmacol. 2018 Jun;95:270–9.
-8. Kuempel ED, Castranova V, Geraci CL, Schulte PA. Development of risk-based nanomaterial groups for occupational exposure control. J Nanopart Res. 2012 Sep;14:1029.
-9. Guidance on information requirements and chemical safety assessment - Appendix R.6-1 for nanoforms applicable to the Guidance on QSARs and Grouping of Chemicals. https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf.
+Cronin et al., 2019: Cronin M, Enoch S, Madden J, Richarz AN, . Read-Across to Fill Toxicological Data Gaps: Good Practice to Ensure Success with Nanoparticles.2019. 10.1201/9780429341373-8. 
+{: .references }
+Gajewicz et al., 2017: Gajewicz A, Jagiello K, Cronin MTD, Leszczynski J, Puzyn T. Addressing a bottle neck for regulation of nanomaterials: quantitative read-across (Nano-QRA) algorithm for cases when only limited data is available. Environ Sci: Nano. 2017;4(2):346–58.
+{: .references }
+Oomen et al., 2015:	Oomen AG, Bleeker EAJ, Bos PMJ, van Broekhuizen F, Gottardo S, Groenewold M, et al. Grouping and Read-Across Approaches for Risk Assessment of Nanomaterials. Int J Environ Res Public Health. 2015 Oct 26;12(10):13415–34.
+{: .references }
+Lamon et al., 2018: Lamon L, Asturiol D, Richarz A, Joossens E, Graepel R, Aschberger K, et al. Grouping of nanomaterials to read-across hazard endpoints: from data collection to assessment of the grouping hypothesis by application of chemoinformatic techniques. Part Fibre Toxicol. 2018 Sep 24;15(1):37.
+{: .references }
+RAAF, 2017: Read-Across Assessment Framework (RAAF). hhttps://echa.europa.eu/documents/10162/13628/raaf_en.pdf/614e5d61-891d-4154-8a47-87efebd1851a.
+{: .references }
+Schultz et al., 2015: Schultz TW, Amcoff P, Berggren E, Gautier F, Klaric M, Knight DJ, et al. A strategy for structuring and reporting a read-across prediction of toxicity. Regul Toxicol Pharmacol. 2015 Aug;72(3):586–601.
+{: .references }
+Landvik et al., 2018: Landvik NE, Skaug V, Mohr B, Verbeek J, Zienolddiny S. Criteria for grouping of manufactured nanomaterials to facilitate hazard and risk assessment, a systematic review of expert opinions. Regul Toxicol Pharmacol. 2018 Jun;95:270–9.
+{: .references }
+Kuempel et al., 2012: Kuempel ED, Castranova V, Geraci CL, Schulte PA. Development of risk-based nanomaterial groups for occupational exposure control. J Nanopart Res. 2012 Sep;14:1029.
+{: .references }
+R.6-1, 2019: Guidance on information requirements and chemical safety assessment - Appendix R.6-1 for nanoforms applicable to the Guidance on QSARs and Grouping of Chemicals. hhttps://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf/71ad76f0-ab4c-fb04-acba-074cf045eaaa.
 {: .references }

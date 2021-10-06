@@ -24,3 +24,35 @@
   tooltip: 'Deng ZJ, Liang M, Toth I, Monteiro M, Minchin RF. Plasma protein binding of positively and negatively charged polymer-coated gold nanoparticles elicits different biological responses. Nanotoxicology. 2013 May;7(3):314–22. <a href=\"https://doi.org/10.3109/17435390.2012.6553421\">https://doi.org/10.3109/17435390.2012.655342</a>'
 - name: Duan et al., 2020
   tooltip: 'Duan Y, Coreas R, Liu Y, Bitounis D, Zhang Z, Parviz D, et al. Prediction of protein corona on nanomaterials by machine learning using novel descriptors. NanoImpact. 2020 Jan 16;17. <a href=\"https://doi.org/10.1016/j.impact.2020.1002071\">https://doi.org/10.1016/j.impact.2020.100207</a>'
+- name: Cronin et al., 2019
+  tooltip: 'Cronin M, Enoch S, Madden J, Richarz AN, . Read-Across to Fill Toxicological Data Gaps: Good Practice to Ensure Success with Nanoparticles.2019. 10.1201/9780429341373-8. <a href=\"https://doi.org/10.1201/9780429341373\">https://doi.org/10.1201/9780429341373</a>'
+- name: Gajewicz et al., 2017
+  tooltip: 'Gajewicz A, Jagiello K, Cronin MTD, Leszczynski J, Puzyn T. Addressing a bottle neck for regulation of nanomaterials: quantitative read-across (Nano-QRA) algorithm for cases when only limited data is available. Environ Sci: Nano. 2017;4(2):346–58. <a href=\"https://doi.org/10.1039/C6EN00399K\">https://doi.org/10.1039/C6EN00399K</a>'
+- name: Oomen et al., 2015
+  tooltip: 'Oomen AG, Bleeker EAJ, Bos PMJ, van Broekhuizen F, Gottardo S, Groenewold M, et al. Grouping and Read-Across Approaches for Risk Assessment of Nanomaterials. Int J Environ Res Public Health. 2015 Oct 26;12(10):13415–34. <a href=\"https://doi.org/10.3390/ijerph121013415\">https://doi.org/10.3390/ijerph121013415</a>'
+- name: Lamon et al., 2018
+  tooltip: 'Lamon L, Asturiol D, Richarz A, Joossens E, Graepel R, Aschberger K, et al. Grouping of nanomaterials to read-across hazard endpoints: from data collection to assessment of the grouping hypothesis by application of chemoinformatic techniques. Part Fibre Toxicol. 2018 Sep 24;15(1):37. <a href=\"https://doi.org/10.1186/s12989-018-0273-1\">https://doi.org/10.1186/s12989-018-0273-1</a>'
+- name: RAAF, 2017
+  tooltip: 'Read-Across Assessment Framework (RAAF). <a href=\"https://echa.europa.eu/documents/10162/13628/raaf_en.pdf/614e5d61-891d-4154-8a47-87efebd1851a\">https://echa.europa.eu/documents/10162/13628/raaf_en.pdf/614e5d61-891d-4154-8a47-87efebd1851a</a>'
+- name: Schultz et al., 2015
+  tooltip: 'Schultz TW, Amcoff P, Berggren E, Gautier F, Klaric M, Knight DJ, et al. A strategy for structuring and reporting a read-across prediction of toxicity. Regul Toxicol Pharmacol. 2015 Aug;72(3):586–601. <a href=\"https://doi.org/10.1016/j.yrtph.2015.05.016\">https://doi.org/10.1016/j.yrtph.2015.05.016</a>'
+- name: Landvik et al., 2018
+  tooltip: 'Landvik NE, Skaug V, Mohr B, Verbeek J, Zienolddiny S. Criteria for grouping of manufactured nanomaterials to facilitate hazard and risk assessment, a systematic review of expert opinions. Regul Toxicol Pharmacol. 2018 Jun;95:270–9. <a href=\"https://doi.org/10.1016/j.yrtph.2018.03.027\">https://doi.org/10.1016/j.yrtph.2018.03.027</a>'
+- name: Kuempel et al., 2012
+  tooltip: 'Kuempel ED, Castranova V, Geraci CL, Schulte PA. Development of risk-based nanomaterial groups for occupational exposure control. J Nanopart Res. 2012 Sep;14:1029. <a href=\"https://doi.org/10.1007/s11051-012-1029-8\">https://doi.org/10.1007/s11051-012-1029-8</a>'
+- name: R.6-1, 2019
+  tooltip: 'Guidance on information requirements and chemical safety assessment - Appendix R.6-1 for nanoforms applicable to the Guidance on QSARs and Grouping of Chemicals. <a href=\"https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf/71ad76f0-ab4c-fb04-acba-074cf045eaaa\">https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf/71ad76f0-ab4c-fb04-acba-074cf045eaaa</a>'
+- name: OECD, 2021
+  tooltip: 'Guidance document on the characterisation, validation and reporting of Physiologically Based Kinetic (PBK) models for regulatory purposes. <a href=\"http://www.oecd.org/chemicalsafety/risk-assessment/guidance-document-on-the-characterisation-validation-and-reporting-of-physiologically-based-kinetic-models-for-regulatory-purposes.pdf\">http://www.oecd.org/chemicalsafety/risk-assessment/guidance-document-on-the-characterisation-validation-and-reporting-of-physiologically-based-kinetic-models-for-regulatory-purposes.pdf</a>'
+- name: WHO, 2010
+  tooltip: 'WHO, Characterization and application of physiologically based pharmacokinetic models in risk assessment. International Programme on Chemical Safety. Harmonization Project Document No. 9, 2010. <a href=\"http://www.inchem.org/documents/harmproj/harmproj/harmproj9.pdf\">http://www.inchem.org/documents/harmproj/harmproj/harmproj9.pdf</a>'
+- name: EMA, 2019
+  tooltip: 'EMA, Guideline on the reporting of physiologically based pharmacokinetic (PBPK) modelling and simulation. EMA/CHMP/458101/2016, 2019. <a href=\"https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-reporting-physiologically-based-pharmacokinetic-pbpk-modelling-simulation_en.pdf\">https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-reporting-physiologically-based-pharmacokinetic-pbpk-modelling-simulation_en.pdf</a>'
+- name: US FDA, 2018
+  tooltip: 'US FDA, Physiologically based pharmacokinetic analyses — format and content guidance for industry. Food and drug administration center for drug evaluation and research (CDER), clinical pharmacology, 2018. <a href=\"https://www.fda.gov/media/101469/download\">https://www.fda.gov/media/101469/download</a>'
+- name: Tan et al., 2020
+  tooltip: 'Tan YM, Chan M, Chukwudebe A, Domoradzki J, Fisher J, Hack CE, Hinderliter P, Hirasawa K, Leonard J, Lumen A, Paini A, Qian H, Ruiz P, Wambaugh J, Zhang F, Embry M, PBPK model reporting template for chemical risk assessment applications. Regul. Toxicol. Pharmacol. 2020, 115:104691. <a href=\"https://doi.org/10.1016/j.yrtph.2020.104691\">https://doi.org/10.1016/j.yrtph.2020.104691</a>'
+- name: Paini et al., 2021
+  tooltip: 'Paini A, Worth A, Kulkarni S, Ebbrell D, Madden J. Assessment of the predictive capacity of a physiologically based kinetic model using a read-across approach. Comput Toxicol. 2021 May;18:100159. <a href=\"https://doi.org/10.1016/j.comtox.2021.100159\">https://doi.org/10.1016/j.comtox.2021.100159</a>'
+- name: Lynch et al., 2020
+  tooltip: 'Lynch I, Afantitis A, Exner T, Himly M, Lobaskin V, Doganis P, et al. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials (Basel). 2020 Dec 11;10(12). <a href=\"https://doi.org/10.3390/nano10122493\">https://doi.org/10.3390/nano10122493</a>'
