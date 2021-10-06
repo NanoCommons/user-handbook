@@ -10,6 +10,11 @@ nav_order: 202
 We present here multiple sets of definitions of these terms. These build all alternatives since there are no globally accepted definitions yet. However, we are not just presenting them in a chronological order but according to a subjective ranking. This doesn’t exclude that the definitions lower down present specific aspects better than earlier definitions or are better applicable in specific or more general situations.
 {: .lead }
 
+[FAIRness and quality scores]({{ site.baseurl}}/FAIRification/FAIRnessScores/)
+You might also be interested in approaches to score the completeness, quality and FAIRness of datasets.
+{: .more-link .more-link--text}
+
+
 ## Shorter and more focused definitions: (compared to further down)
 Based on: R. L. Marchese Robinson, I. Lynch, W. Peijnenburg, J. Rumble, F. Klaessig, C. Marquardt, H. Rauscher, T. Puzyn, R. Purian, C. Åberg, S. Karcher, H. Vriens, P. Hoet, M. D. Hoover, C. O. Hendren and S. L. Harper, Nanoscale, 2016, 8, 9919 [https://doi.org/10.1039/C5NR08944A](https://doi.org/10.1039/C5NR08944A)
 {: .source }

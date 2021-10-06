@@ -3,15 +3,15 @@ layout: page
 title: ELNs for data collection and annotation
 
 description: NanoCommons Demonstration Case - Electronic Laboratory Notebooks for data collection and annotation
-description_long: This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting.
+description_long: This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting. (ended)
 permalink: /demonstration-cases/ELN-demonstration-case/
 parent: Demonstration cases
 nav_order: 1001
 ---
 
-#  NanoCommons Demonstration Case -  Electronic Laboratory Notebooks for data collection and annotation
+#  NanoCommons Demonstration Case - Electronic Laboratory Notebooks for data collection and annotation
 {: .no_toc}
-This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting.
+This case demonstrates how electronic lab notebooks (ELNs) can be used to manage complex studies and collaborative research. It will also show current challenges especially with respect to the initial high effort to set up the customised workflows, integration with other data management tools and additional requirements when using in regulatory setting. This case has been finalised.
 {: .lead }
 
 A collaboration between [<img src="{{ site.baseurl }}/images/logos/logos-lnnano-rodape.png" width="80" align="middle" />](https://lnnano.cnpem.br/en/scientific-divisions-and-teams/nanotoxicology-and-nanobiotechnology/diego-stefani-teodoro-martinez/), [<img src="{{ site.baseurl }}/images/logos/acenano.png" width="150" align="middle" />](http://www.acenano-project.eu/) and
