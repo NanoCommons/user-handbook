@@ -3,16 +3,14 @@ layout: page
 title: FAIRness and data quality scores
 permalink: /FAIRification/FAIRnessScores/
 parent: FAIRification
-description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets. 
+description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets.
 has_children: false
 nav_order: 302
 ---
 
 # FAIRness and data quality scores
-Even if quality evaluation of datasets is a highly active area of research, we will cover current approaches and try to stay up-to-date with the information. 
-{: .source }
-
-<!-->## FAIR maturity indicators</--->
+Even if quality evaluation of datasets is a highly active area of research, we will cover current approaches and try to stay up-to-date with the information.
+{: .lead }
 
 ## FAIRness scores
 ### FAIR Badge System
@@ -45,7 +43,7 @@ A very early evaluation of "how Findable data is" was proposed as part of a [pos
 Klimisch et al. (Klimisch et al., 1997) developed a scoring system to assess the reliability of data from toxicological and ecotoxicological studies [12]. This rating system has been extended to physico-chemical studies and is now accepted by many regulatory authorities and organisations. ECHA's IUCLID 6 software includes rationale for assigning Klimisch scores for toxicology testing, based on utilisation of standard assays. To automate the process of assigning Klimisch scores, [ToxRTool (Toxicological data Reliability Assessment Tool)](https://ec.europa.eu/jrc/en/scientific-tool/toxrtool-toxicological-data-reliability-assessment-tool) (Schneider et al., 2009), an Excel-based tool, was developed by ECVAM to provide comprehensive criteria and guidance for evaluations of the inherent quality of toxicological data.
 
 ### GuideNano score
-The Klimisch score was extensively considered and adapted for application to nano studies within the GUIDEnano project. 
+The Klimisch score was extensively considered and adapted for application to nano studies within the GUIDEnano project.
 
 <img src="{{ site.baseurl }}/images/FAIRification/GuideNano-Scoring.png" />
 **Figure**. The scoring system related to test design and reporting considerations developed following the principles of

@@ -11,7 +11,7 @@ nav_order: 1004
 
 #  NanoCommons Demonstration Case -  Best-practice in nanosafety study design and its documentation via visual experimental maps
 {: .no_toc}
-This NanoCommons demonstration case is intended to define a way to document the study design in laboratories with respect to the decision making processes applied and how this can be guide the data management.  This case is **ongoing**.
+This NanoCommons demonstration case is intended to define a way to document the study design in laboratories with respect to the decision making processes applied and how this can guide data management.  This case is **ongoing**.
 {: .lead }
 
 <details open markdown="block">

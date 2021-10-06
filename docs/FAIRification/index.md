@@ -12,7 +12,7 @@ Although the human/animal health and ecotoxicological effects, environmental fat
 {: .lead }
 
 Among the benefits of FAIR and Open data are:
-1. Knowledge discovery: FAIR data in combination with semantic annotation allow data to be queried and discovered by both machines and humans, while ensuring that the queried data are similar and can be brought together for the creation of bigger datasets. 
+1. Knowledge discovery: FAIR data in combination with semantic annotation allow data to be queried and discovered by both machines and humans, while ensuring that the queried data are similar and can be brought together for the creation of bigger datasets.
 2. Data integration, harmonisation and reusability: FAIR data can be brought together and integrated in a harmonised way, thus allowing data reusability under different formats and applications.
 3. Maximum data exploitation and impact: Data reusability, in combination with other similar datasets, allows maximum exploitation through the application of different analytical and modelling tools and can lead to the identification of otherwise hidden patterns and novel insights.
 4. Improved research quality: FAIR data, implemented with the necessary metadata, will significantly improve data quality. The integration of similar datasets, and the subsequent increase of data information, will allow better data gap identification and will help refine data plausibility and/or the identification of outliers.
@@ -33,7 +33,7 @@ The updated set of guiding principles to make data Findable, Accessible, Interop
 [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 Publication on the principles.
 {: .more-link .more-link--text}
-[FAIR cookbook by the ELIXIR communities]()
+[FAIR cookbook by the ELIXIR communities](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 The FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. However, the FAIR Principles are aspirational and generic. The FAIR Cookbook guides researchers and data stewards of the Life Science domain in their FAIRification journey; and also provides policy makers and trainers with practical examples to recommend in their guidance and use in their educational material.
 {: .more-link .more-link--webpages}
 [GO FAIR](https://www.go-fair.org/)
