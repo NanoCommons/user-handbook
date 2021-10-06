@@ -28,7 +28,7 @@ Among the benefits of FAIR and Open data are:
 
 ## External FAIR resources
 [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
-The original set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
+The updated set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
 {: .more-link .more-link--text}
 [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 Publication on the principles.
