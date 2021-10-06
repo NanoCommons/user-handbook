@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminology / ontology
-permalink: /FAIRification/ontology/
+permalink: /FAIRification/ontologies/
 description_long: General and nano-specific resources for the development and usage of harmonised terminology and ontologies.
 parent: FAIRification
 has_children: true

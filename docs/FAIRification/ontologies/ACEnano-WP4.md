@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ACEnano terms
-permalink: /FAIRification/ontologies/ACEnano-WP4
+permalink: /FAIRification/ontologies/ACEnano-WP4/
 grand_parent: FAIRification
 parent: Harmonising terminology
 has_children: false

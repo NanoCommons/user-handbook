@@ -2,7 +2,7 @@
 layout: page
 title: Harmonising nano terminology
 description_long: This page gives an overview of the activities towards the development of standardised terminologies and ontologies in the nanosafety / nanoinformatics area, training resources and tool.
-permalink: /FAIRification/nano-terminology/
+permalink: /FAIRification/ontologies/nano-terminology/
 parent: Terminology / ontology
 grand_parent: FAIRification
 has_children: false

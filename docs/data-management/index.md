@@ -19,11 +19,21 @@ Despite its significance, structured (meta)data capturing and managing to allow 
 
 ![](../images/data-management/DataLifeCycle.png)
 
-The resources below will give guidance how such a distributed (meta)data collection and management can be organised:
+The resources below will give guidance how such a distributed (meta)data collection and management can be organised for the nanosafety and nanoinformatic areas:
 
 {% include childrenTOC.html page=page pages=site.pages %}
 
-Additionally, the Demonstration Cases show highlight specific aspects like study design and SOPs and implementation:
+And some big resources on data management more generally and neighbouring areas:
+
+[Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/)
+{: .more-link .more-link--webpages}
+[Chatham House Guide: Principles for Sharing the Data and Benefits of Public Health Surveillance](https://datasharing.chathamhouse.org/guide/)
+{: .more-link .more-link--webpages}
+[Chatham House Resource](https://datasharing.chathamhouse.org/resources/)
+{: .more-link .more-link--webpages}
+
+
+Additionally, the Demonstration Cases highlight specific aspects like study design and SOPs and implementation:
 
 {% for parent_page in site.pages %}
 {% if parent_page.title == "Demonstration cases" %}

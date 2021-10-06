@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How eNanoMapper works
-permalink: /FAIRification/ontologies/eNanoMapper-intro
+permalink: /FAIRification/ontologies/eNanoMapper-intro/
 grand_parent: FAIRification
 parent: Harmonising terminology
 has_children: false

@@ -2,7 +2,7 @@
 layout: page
 title: Ontologies resources
 description_long: This is a short introduction to ontologies and what they are used for.
-permalink: /FAIRification/ontology101/
+permalink: /FAIRification/ontologies/ontology101/
 parent: Terminology / ontology
 grand_parent: FAIRification
 has_children: false

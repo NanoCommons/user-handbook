@@ -14,6 +14,9 @@ Even if quality evaluation of datasets is a highly active area of research, we w
 
 ## FAIRness scores
 ### FAIR Badge System
+
+![]({{ site.baseurl }}/images/FAIRification/FAIR-Badges.jpg)
+
 This system was proposed as a proxy for data quality assessment, and aims to operationalise the original FAIR principles to ensure no interactions among the four dimensions in order to ease scoring. The system then considers Reusability as the resultant of the other three, i.e. the average FAIRness score is then (F+A+I)/3=R.
 
 [Assessing the FAIRness of Datasets in Trustworthy Digital Repositories: a 5 star scale](https://indico.cern.ch/event/588219/contributions/2384979/attachments/1426152/2188462/Dillo_Doorn_-_Assessing_FAIRness_CERN_Geneva_13-03-2017-3.pdf)

@@ -57,8 +57,12 @@
 - name: Lynch et al., 2020
   tooltip: 'Lynch I, Afantitis A, Exner T, Himly M, Lobaskin V, Doganis P, et al. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials (Basel). 2020 Dec 11;10(12). <a href=\"https://doi.org/10.3390/nano10122493\">https://doi.org/10.3390/nano10122493</a>'
 - name: Klimisch et al., 1997
-  tooltip: 'Klimisch, H.J., M. Andreae, and U. Tillmann, A Systematic Approach for Evaluating the Quality of Experimental Toxicological and Ecotoxicological Data. Regulatory Toxicology and Pharmacology, 1997. 25(1): p. 1-5. <a href=\"https://doi.org/10.1006/rtph.1996.1076\">https://doi.org/10.1006/rtph.1996.1076</a>'
+  tooltip: 'Klimisch HJ, Andreae M, Tillmann U, A Systematic Approach for Evaluating the Quality of Experimental Toxicological and Ecotoxicological Data. Regulatory Toxicology and Pharmacology, 1997. 25(1): p. 1-5. <a href=\"https://doi.org/10.1006/rtph.1996.1076\">https://doi.org/10.1006/rtph.1996.1076</a>'
 - name: Schneider et al., 2009
-  tooltip: 'Schneider, K., et al., \"ToxRTool\", a new tool to assess the reliability of toxicological data. Toxicology Letters, 2009. 189(2): p. 138-144. <a href=\"https://doi.org/10.1016/j.toxlet.2009.05.013\">https://doi.org/10.1016/j.toxlet.2009.05.013</a>'
+  tooltip: 'Schneider K, et al., \"ToxRTool\", a new tool to assess the reliability of toxicological data. Toxicology Letters, 2009. 189(2): p. 138-144. <a href=\"https://doi.org/10.1016/j.toxlet.2009.05.013\">https://doi.org/10.1016/j.toxlet.2009.05.013</a>'
 - name: Fernandez-Cruz et al., 2018
-  tooltip: 'Fernández-Cruz, M.L., et al., Quality evaluation of human and environmental toxicity studies performed with nanomaterials – the GUIDEnano approach. Environmental Science: Nano, 2018. 5(2): p. 381-397.	<a href=\"https://doi.org/10.1039/C7EN00716G\">https://doi.org/10.1039/C7EN00716G</a>'
+  tooltip: 'Fernández-Cruz ML, et al., Quality evaluation of human and environmental toxicity studies performed with nanomaterials – the GUIDEnano approach. Environmental Science: Nano, 2018. 5(2): p. 381-397.	<a href=\"https://doi.org/10.1039/C7EN00716G\">https://doi.org/10.1039/C7EN00716G</a>'
+- name: Van den Eynden et al., 2014
+  tooltip: 'Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice, 2014. <a href=\"https://data-archive.ac.uk/media/2894/managingsharing.pdf\">https://data-archive.ac.uk/media/2894/managingsharing.pdf</a>'
+- name: Faria et al., 2018
+  tooltip: 'Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9):777-785. <a href=\"https://doi.org/10.1038/s41565-018-0246-4\">https://doi.org/10.1038/s41565-018-0246-4</a>'
