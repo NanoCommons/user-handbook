@@ -15,6 +15,18 @@ _“The commons is the cultural and natural resources accessible to all members 
 
 It is one resource of our commons collecting and structuring knowledge and training materials for **the two strongly interlinked areas of data management for nanomaterials and nanoinformatics**. Besides covering general concepts, guidelines and recommendations, it will show, demonstrate and train real-world solutions in the form of data sources, software and workflows integrated or linked into the NanoMaterialCommons infrastructure, where both terms are meant in a very broad sense to be able to cover as many solutions as possible from all projects working in nanosafety, nanoinformatics and neighbouring fields. All projects, from which resources are included, are listed below.
 
+## Some thoughts on how to work together on a "commons for nanomaterials" infrastructure (MaterialCommons):
+
+[Bridging Insights and Perspectives](https://tvworldwide.com/events/nanotech/200824/default.cfm?id=17730&type=flv&test=0&live=0)
+Working Towards a Harmonized Nanosafety E-Infrastructure for Data and In Silico Tools, 2020 U.S.-EU NanoEHS COR Workshop: Bridging Insights and Perspectives, September 16-17, Virtual Meeting
+(register to see the recording)
+{: .more-link .more-link--video }
+
+## List of partnering projects, platforms and networks keeping the commons for nanomaterials alive
+{% include childrenTOC.html page=page pages=site.pages %}
+
+
+## Integrated resources
 To be able to cover relevant information and knowledge to the largest possible extend without the need to replicate existing material and knowledge resources, the handbook will rely heavily on external links. This also allows that most documents can be handled by long-terms sustained exchange platforms like Zenodo or FAIR knowledge bases providing persistent identifiers to the documents or datasets. All these external links (and some internal ones) are specifically highlighted and use the following annotation with respect to the available content:
 
 | Icon | Content type |
@@ -26,15 +38,3 @@ To be able to cover relevant information and knowledge to the largest possible e
 | ![]({{site.baseurl}}/images/icons/webpages.png){: .icon } | Extended material from external websites |
 | <img src="{{ site.baseurl }}/images/icons/file.svg">{: .icon } | Any other type of content |
 
-
-## List of platforms and networks keeping the commons for nanomaterials alive
-
-First, some thoughts on how to work together on a "commons for nanomaterials" infrastructure (MaterialCommons):
-
-[Bridging Insights and Perspectives](https://tvworldwide.com/events/nanotech/200824/default.cfm?id=17730&type=flv&test=0&live=0)
-Working Towards a Harmonized Nanosafety E-Infrastructure for Data and In Silico Tools, 2020 U.S.-EU NanoEHS COR Workshop: Bridging Insights and Perspectives, September 16-17, Virtual Meeting
-(register to see the recording)
-{: .more-link .more-link--video }
-
-## Short introduction to partnering projects
-{% include childrenTOC.html page=page pages=site.pages %}
