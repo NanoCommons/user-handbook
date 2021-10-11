@@ -2,7 +2,7 @@
 layout: page
 title: Harmonising nano terminology
 description_long: This page gives an overview of the activities towards the development of standardised terminologies and ontologies in the nanosafety / nanoinformatics area, training resources and tool.
-permalink: /FAIRification/nano-terminology/
+permalink: /FAIRification/ontologies/nano-terminology/
 parent: Terminology / ontology
 grand_parent: FAIRification
 has_children: false
@@ -138,12 +138,17 @@ Have a look at the NanoCommons Workshop “Annotating Your Experimental Data Wor
 ### For domain experts generating harmonised terminologies including clear definitions
 The most time consuming part of ontology development is the collection of the needed terms and agree on the preferred synonym and clear definition. This is done in different projects as described above. However, with the tools described here, everybody is able to participate and provide expert knowledge.
 
-#### EU NanoSafety Terminology Harmonizer
+#### EU NanoSafety Terminology Harmonizer (also known as GRACIOUS WIKI)
 Provided by the GRACIOUS project this is a tool to work collaboratively on a collection of well defined terms to be used across the complete nanosafety community. Separate but harmonised areas exist at the moment for physicochemical characterisation, nanoinformatics and simulations, bio-nano interactions, safe-by-design, regulation and manufacturing. More areas can always be added. Everyone is welcome to contribute to these area. Besides these public areas, also project specific areas exist.
 ![EU NanoSafety Terminology Harmonizer]({{site.baseurl}}/images/FAIRification/terminology-harmonizer.jpg)
 
 [Access the harmonizer](https://terminology-harmonizer.greendecision.eu/)
 {: .more-link .more-link--app }
+
+[GRACIOUS WIKI Introduction (Part 1)](https://www.youtube.com/watch?v=GaEUTYFD0SQ)
+{: .more-link .more-link--video }
+[GRACIOUS WIKI Introduction (Part 2)](https://www.youtube.com/watch?v=IjqN28OzleE)
+{: .more-link .more-link--video }
 
 
 ### For ontology developments integrating collections of terms into a semantic model
