@@ -28,12 +28,12 @@ These have to be aligned and harmonised with the workflows for [integration of c
 **Figure 1**. NanoCommons workflow for the implementation of datasets into the KB and DW.
 {: .caption }
 
-Following the above processes and keeping them aligned with workflows for complete databases is critical to ensuring a streamlined and straightforward process, with less bugs (or errors). 
+Following the above processes and keeping them aligned with workflows for complete databases is critical to ensuring a streamlined and straightforward process, with less bugs (or errors).
 
 ## Data Preparation Guidelines adopted in NanoCommons
 Data are valuable resources that can be used and reused by the scientific community. The data integration and sharing functionality provided by NanoCommons facilitates new scientific inquiry, avoids duplication of experiments and data collection, and provides rich real-life resources for method validation, risk assessment of NMs, as well as education and training.  However, this is only possible if the data is generated and provided in a harmonised and interoperable way, annotated by rich metadata, and is produced following state-of-the-art quality standards. In the “Managing and Sharing Data” guide by the UK Data Archive (1) this is emphasised in the following way: _"A crucial part of making data user-friendly, shareable and with long lasting usability is to ensure they can be understood and interpreted by any user. This requires clear and detailed data description, annotation and contextual information"_.
 
-Data curation sheets provided for the uploading of data to specific databases or developed through the NanoCommons project have been created considering data and metadata quality standards, and a core aspect of NanoCommons dissemination and training activities will be to promote the use of these broadly by the nanosafety community. Such standards and good data management practices should be at the heart of all credible science and should be kept in mind during the evaluation and refinement of curation sheets, the development of new data templates and during the complete processes supporting the integration of Users data into the NanoCommons KB. 
+Data curation sheets provided for the uploading of data to specific databases or developed through the NanoCommons project have been created considering data and metadata quality standards, and a core aspect of NanoCommons dissemination and training activities will be to promote the use of these broadly by the nanosafety community. Such standards and good data management practices should be at the heart of all credible science and should be kept in mind during the evaluation and refinement of curation sheets, the development of new data templates and during the complete processes supporting the integration of Users data into the NanoCommons KB.
 
 Following the guideline and checklists promoted by NanoCommons and outlined in this report, will help the TA and independent users to:
 - know the legal, ethical and other obligations regarding research data, for each of the  research participants, colleagues, research funders and institutions;
@@ -48,7 +48,7 @@ Following the guideline and checklists promoted by NanoCommons and outlined in t
 As part of the activities of NanoCommons, we are also developing a certification in Nanosafety data curation. All NanoCommons checklists are linked to existing community consensus in best practice for reporting data, including the recently published Minimum information reporting in bio–nano experimental literature (MIRIBEL)(2) suggestions, which provides a starting point for the community to build upon, and other data reporting standards.
 
 ## Key Concepts for Data Curation
-To allow data usage without the need to refer to external sources like publications, final reports, working papers, or the Electronic notebooks (ELN) used to generate the data, all important information should be included in the data submission. On the [data completeness and quality page of this handbook]({{ site.baseurl }}/data-management/data-completeness-quality/), the problems of how to define and evaluate data completeness and quality are addressed in great detail and different understandings are presented. 
+To allow data usage without the need to refer to external sources like publications, final reports, working papers, or the Electronic notebooks (ELN) used to generate the data, all important information should be included in the data submission. On the [data completeness and quality page of this handbook]({{ site.baseurl }}/data-management/data-completeness-quality/), the problems of how to define and evaluate data completeness and quality are addressed in great detail and different understandings are presented.
 
 In the context of data curation, not only the quality of the original experimental data needs to be considered but also quality considerations associated with curated data. Quality considerations associated with curation include the probability of transcription errors and possibly whether a given dataset, structured according to some standardised format (e.g. XML based), was compliant with the rules of the applicable standardised format (e.g. as documented via an XML schema). Such compliance, amongst other aspects of data quality, could be determined using validation software.
 
@@ -112,8 +112,8 @@ References
 2. Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
 {: .references }
 
-## Annex - The NanoCommons “User data” checklist
-{: .annex-header}
+## Appendix - The NanoCommons “User data” checklist
+{: .appendix-header}
 1. Submitter's personal information:
     1. Submitter’s name and email
     2. Submitter’s affiliation and group (academia, SMEs, industry, regulatory)
@@ -133,7 +133,7 @@ References
 3. Experimental details and metadata:
     1. The dataset format and whether is human or machine readable (e.g. Excel template, HTML, XML JSON)
     2. Experimental metadata, which include methods, protocols/SOPs, best practice guidelines utilised for reporting (if any) such as MIRIBEL, instruments used and the format used to submit the metadata (e.g. extracted from ELNs, use of ACEnano questionnaires, instance-like, free text)
-    3. Whether the data and metadata have been annotated or not and mapping of the ontological codes used (if it hasn’t been mapped, the user will be directed to the NanoCommons ontology tools implemented in the NanoCommons KB and will be guided through the process of ontologically mapping their dataset). 
+    3. Whether the data and metadata have been annotated or not and mapping of the ontological codes used (if it hasn’t been mapped, the user will be directed to the NanoCommons ontology tools implemented in the NanoCommons KB and will be guided through the process of ontologically mapping their dataset).
     4. Existing data enrichment and whether the user desires to use the enrichment functionalities offered by the NanoCommons KB.
 4. Data governance:
     1. Any data cleansing approaches applied;
@@ -142,3 +142,4 @@ References
     4. errors and uncertainties reporting;
     5. statistical methods applied (if applicable) and relevant tests applied to ensure test validity (e.g. linearity, normality, dataset size); and
     6. any ethics statements and/or ethical approvals, where applicable, for data submitted from human and/or animal in vivo and in vitro studies.
+{: .appendix-content}
