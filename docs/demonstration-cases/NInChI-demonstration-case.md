@@ -7,6 +7,7 @@ description_long: This demonstration case is will develop a new nanomaterial ide
 permalink: /demonstration-cases/NInChI-demonstration-case/
 parent: Demonstration cases
 nav_order: 1010
+has_references: true
 ---
 
 #  NanoCommons Demonstration Case - Development of an InChI for nano (NInChI)
@@ -41,13 +42,10 @@ The prototype described in the paper (Lynch et al., 2020) was meant to raise awa
 
 ## Expected outcomes
 - Endorsement of NInChI by the IUPAC InChI Trust and the nano communities as an extension to the InChI standard for nanomaterials.
-- Integration of NInChI into the NanoCommons KnowledgeBase and first showcases for its usage in data search, specification of materials in report and input generation for modelling. 
+- Integration of NInChI into the NanoCommons KnowledgeBase and first showcases for its usage in data search, specification of materials in report and input generation for modelling.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
 
 References
 {: .references-header }
-Lynch et al., 2020: Lynch I, Afantitis A, Exner T, Himly M, Lobaskin V, Doganis P, et al. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials (Basel). 2020 Dec 11;10(12).
+- Lynch et al., 2020: Lynch I, Afantitis A, Exner T, Himly M, Lobaskin V, Doganis P, et al. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials (Basel). 2020 Dec 11;10(12).
 {: .references }

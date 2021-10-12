@@ -7,6 +7,7 @@ description_long: The main objective of this case study was to establish a manag
 permalink: /demonstration-cases/NanoFASE-demonstration-case/
 parent: Demonstration cases
 nav_order: 1003
+has_references: true
 ---
 
 #  NanoCommons Demonstration Case - Data management concept for ecotoxicological information on potential environmental release of ENMs as derived from the NanoFASE project
@@ -121,11 +122,8 @@ In summary, the case provided invaluable insights on the processes needed to man
 
 However, even with this support, NanoFASE still started the project-wide data collection and management process too late. Data providers from NanoFASE are now helping to change this behaviour in new projects, in which they are involved in, by performing some of the tasks of the data shepherds. This will be further supported by NanoCommons offering data shepherd services but also by testing new approaches to provide tools, which support documentation of the study design and SOP development and provide information on these steps in form of metadata (see new set of demonstration case below), which can be linked to the final datasets pushing aspects of data management already into the first step of the data life cycle and all downstream steps.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
 
 References
 {: .references-header }
-Papadiamantis et al., 2020: Papadiamantis AG, Klaessig FC, Exner TE, Hofer S, Hofstaetter N, Himly M, et al. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials (Basel). 2020 Oct 15;10(10).
+- Papadiamantis et al., 2020: Papadiamantis AG, Klaessig FC, Exner TE, Hofer S, Hofstaetter N, Himly M, et al. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials (Basel). 2020 Oct 15;10(10).
 {: .references }

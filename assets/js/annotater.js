@@ -167,17 +167,19 @@
 
                       item.toolTip.style.transitionDuration = '.5s';
                       item.toolTip.style.position = 'absolute';
-                      item.toolTip.style.background = 'rgba(245,246,250,1)';
+                      item.toolTip.style.background = 'rgba(255,255,255,1)';
                       item.toolTip.style.border = '1px';
                       item.toolTip.style.borderColor = 'rgba(232,230,225,1)';
                       item.toolTip.style.borderStyle = 'solid';
                       item.toolTip.style.pointerEvents = 'none';
-                      item.toolTip.style.padding = '6px';
+                      item.toolTip.style.padding = '19px';
                       item.toolTip.style.paddingTop = '30px';
                       item.toolTip.style.minWidth = '500px';
                       item.toolTip.style.fontWeight = 'normal';
-                      item.toolTip.style.top = '-10px';
-                      item.toolTip.style.left = '-10px';
+                      item.toolTip.style.fontSize = '16px';
+                      item.toolTip.style.top = '-15px';
+                      item.toolTip.style.left = '-20px';
+                      item.toolTip.style.boxShadow = "0px 0px 10px 5px rgba(0,0,0,0.15)";
 
                       item.container.style.zIndex = 0;
                       item.toolTip.style.zIndex = 5;
@@ -219,8 +221,8 @@
 
       _okayToEnterNode: function( nodeInQuestion ){
           var disallow = {
-              tags: ['var', 'iframe', 'script', 'canvas', 'svg', 'textarea', 'input'],
-              classes: ['annotater-no-descend']
+              tags: ['var', 'iframe', 'script', 'canvas', 'svg', 'textarea', 'input', 'footer', 'h1', 'h2', 'h3', 'h4'],
+              classes: ['annotater-no-descend', 'side-bar', 'main-header', 'references']
           };
           if( nodeInQuestion.nodeType !== 1 ){
               return false;
@@ -267,7 +269,7 @@
           }
       }
       // cast to number nonsense
-      var topPadding = +window.getComputedStyle(this.varTag, null).lineHeight.replace(/[^0-9.]/g,'') + 10;
+      var topPadding = +window.getComputedStyle(this.varTag, null).lineHeight.replace(/[^0-9.]/g,'') + 20;
       if(this.parent.autoStyle){
           clearTimeout(this.timeout);
           this.container.style.zIndex = 1;
@@ -276,10 +278,10 @@
           this.toolTip.style.pointerEvents = 'all';
           this.toolTip.style.paddingTop = topPadding + 'px';
           if(this.varTag.getBoundingClientRect().x > (window.innerWidth/2)){
-              this.toolTip.style.right = '-10px';
+              this.toolTip.style.right = '-20px';
               this.toolTip.style.left = 'unset';
           } else {
-              this.toolTip.style.left = '-10px';
+              this.toolTip.style.left = '-20px';
               this.toolTip.style.right = 'unset';
           }
       }

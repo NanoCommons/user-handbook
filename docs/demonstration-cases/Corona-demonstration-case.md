@@ -7,6 +7,7 @@ description_long: Bio-nano interaction data (characterization of nanomaterials w
 permalink: /demonstration-cases/Corona-demonstration-case/
 parent: Demonstration cases
 nav_order: 1002
+has_references: true
 ---
 
 #  NanoCommons Demonstration Case - Alignment of <i>in silico</i> protein corona modelling with experimental analysis
@@ -115,19 +116,12 @@ The experimental-to-nanoinformatics workflow functioning in an integrated way th
 
 Generalizing from the experiences in this demonstration case, we learned that the initial TA service to learn to apply the UnitedAtoms protein corona prediction tool at UCD plus support thereafter was an excellent opportunity for early-stage researchers to get it running, even remotely via the established VNC and SSH access. Upon integration of the UA tool into the Knowledge Infrastructure, rendering it being accessible directly from the nanoparticle entry in the NanoCommons KB, the required TA time and resources will be further minimized, however, it needs to be warranted that the most recent version of tools are functionable to provide most reliable modelling results.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
 
 References
 {: .references-header }
-Power et al. 2017: Power D, Rouse I, Poggio S, Brandt E, Lopez H, Lyubartsev A, et al. A multiscale model of protein adsorption on a nanoparticle surface. Modelling Simul Mater Sci Eng. 2019 Aug 15.
-{: .references }
-Lahiri et al., 1999: Lahiri J, Isaacs L, Tien J, Whitesides GM. A strategy for the generation of surfaces presenting ligands for studies of binding based on an active ester as a common reactive intermediate: a surface plasmon resonance study. Anal Chem. 1999 Feb;71(4):777–90.Mater Sci Eng. 2019 Aug 15.
-{: .references }
-Cedervall et al., 2007: Cedervall T, Lynch I, Lindman S, Berggård T, Thulin E, Nilsson H, et al. Understanding the nanoparticle-protein corona using methods to quantify exchange rates and affinities of proteins for nanoparticles. Proc Natl Acad Sci USA. 2007 Feb 13;104(7):2050–5.
-{: .references }
-Deng et al., 2013: Deng ZJ, Liang M, Toth I, Monteiro M, Minchin RF. Plasma protein binding of positively and negatively charged polymer-coated gold nanoparticles elicits different biological responses. Nanotoxicology. 2013 May;7(3):314–22.
-{: .references }
-Duan et al., 2020: Duan Y, Coreas R, Liu Y, Bitounis D, Zhang Z, Parviz D, et al. Prediction of protein corona on nanomaterials by machine learning using novel descriptors. NanoImpact. 2020 Jan 16;17.
+- Power et al. 2017: Power D, Rouse I, Poggio S, Brandt E, Lopez H, Lyubartsev A, et al. A multiscale model of protein adsorption on a nanoparticle surface. Modelling Simul Mater Sci Eng. 2019 Aug 15.
+- Lahiri et al., 1999: Lahiri J, Isaacs L, Tien J, Whitesides GM. A strategy for the generation of surfaces presenting ligands for studies of binding based on an active ester as a common reactive intermediate: a surface plasmon resonance study. Anal Chem. 1999 Feb;71(4):777–90.Mater Sci Eng. 2019 Aug 15.
+- Cedervall et al., 2007: Cedervall T, Lynch I, Lindman S, Berggård T, Thulin E, Nilsson H, et al. Understanding the nanoparticle-protein corona using methods to quantify exchange rates and affinities of proteins for nanoparticles. Proc Natl Acad Sci USA. 2007 Feb 13;104(7):2050–5.
+- Deng et al., 2013: Deng ZJ, Liang M, Toth I, Monteiro M, Minchin RF. Plasma protein binding of positively and negatively charged polymer-coated gold nanoparticles elicits different biological responses. Nanotoxicology. 2013 May;7(3):314–22.
+- Duan et al., 2020: Duan Y, Coreas R, Liu Y, Bitounis D, Zhang Z, Parviz D, et al. Prediction of protein corona on nanomaterials by machine learning using novel descriptors. NanoImpact. 2020 Jan 16;17.
 {: .references }

@@ -7,6 +7,7 @@ description_long: This demonstration case is intended to define a way to documen
 permalink: /demonstration-cases/StudyDesign-demonstration-case/
 parent: Demonstration cases
 nav_order: 1004
+has_references: true
 ---
 
 #  NanoCommons Demonstration Case -  Best-practice in nanosafety study design and its documentation via visual experimental maps
@@ -54,15 +55,9 @@ A best practice guideline, reporting template / metadata standard linked to the 
 
 The utility of the graphical best-practice experimental design summaries as a means for assessing the quality, completeness and fitness for purpose for different re-use cases will also be evaluated. In summary, this case study documents what needs to be measured / captured for a fully complete experiment with optimal data re-usability.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
-
 References
 {: .references-header }
-Martinez et al. 2020: Martinez DST, Da Silva GH, de Medeiros AMZ, Khan LU, Papadiamantis AG, Lynch I. Effect of the Albumin Corona on the Toxicity of Combined Graphene Oxide and Cadmium to Daphnia magna and Integration of the Datasets into the NanoCommons Knowledge Base. Nanomaterials (Basel). 2020 Sep 29;10(10).
-{: .references }
-Romanos et al., 2019: Romanos N, Kalogerini M, Koumoulos EP, Morozinis AK, Sebastiani M, Charitidis C. Innovative Data Management in advanced characterization: Implications for materials design. Materials Today Communications. 2019 Sep;20:100541.
-{: .references }
-What makes a material function, 2017: What makes a material function? - Publications Office of the EU [Internet]. [cited 2021 Jul 9]. Available from: [https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1)
+- Martinez et al. 2020: Martinez DST, Da Silva GH, de Medeiros AMZ, Khan LU, Papadiamantis AG, Lynch I. Effect of the Albumin Corona on the Toxicity of Combined Graphene Oxide and Cadmium to Daphnia magna and Integration of the Datasets into the NanoCommons Knowledge Base. Nanomaterials (Basel). 2020 Sep 29;10(10).
+- Romanos et al., 2019: Romanos N, Kalogerini M, Koumoulos EP, Morozinis AK, Sebastiani M, Charitidis C. Innovative Data Management in advanced characterization: Implications for materials design. Materials Today Communications. 2019 Sep;20:100541.
+- What makes a material function, 2017: What makes a material function? - Publications Office of the EU [Internet]. [cited 2021 Jul 9]. Available from: [https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/e0845ae1-1b60-11e7-aeb3-01aa75ed71a1)
 {: .references }

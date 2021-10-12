@@ -6,6 +6,7 @@ description: Roles and responsibilities in the data life cycle
 permalink: /data-management/roles/
 parent: Data management
 nav_order: 201
+has_references: true
 ---
 #  Roles and responsibilities in the data life cycle
 
@@ -64,7 +65,3 @@ Oversight or data governance role within an organization or project, and is resp
 
 ### Data shepherd:
 A new role strongly encouraged here, who operates throughout the data lifecycle.For the data lifecycle ecosystem to be functional and successful, a moderation between its different parts is needed. In this way, it will be possible to “translate” and communicate between the different parties and guarantee the smooth transfer of data from one role to the other. Furthermore, and potentially most importantly, it will be possible to organise feedback loops to pass evaluations of the usefulness and completeness of the (meta)data coverage and to report issues and errors against the normal data flow to upstream roles for their immediate consideration and fixing and, in more severe cases, rethinking of the metadata concept. This mediation should be done by a trained data shepherd combining knowledge and insights on all other roles and requirements. The data shepherd can be described as an enhanced version of a data steward, who not only oversees the data management, handling and quality control processes, but can communicate in a clear and simple language with all parties and resolve any misunderstandings. Data shepherds need to combine experimental, computational and technical background and/or experience and be proficient enough to understand the context in which the different parties express themselves. They will need to lead the data quality control and FAIRness evaluation as well as the continuous optimisation of data workflows, including technical developments to facilitate data curation, annotation, and cleansing.
-
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}

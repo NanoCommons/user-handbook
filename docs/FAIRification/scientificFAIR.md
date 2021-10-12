@@ -6,6 +6,7 @@ parent: FAIRification
 description_long: The original principles are mainly focussed on how data should be shared, and not on what needs to be reported to make the data reusable with high confidence. Thus, a gap still exists when it comes to the scientific FAIR principles needed to ensure that high-quality data generation and collection, and metadata processing have sufficient "completeness" to facilitate the FAIRification process.
 has_children: false
 nav_order: 301
+has_references: true
 ---
 
 # Scientific FAIR principles
@@ -34,7 +35,3 @@ To help scientists to get involved and better understand their roles in the FAIR
 ## To be reusable:
 - **SR1:** Do not limit the reported metadata to fulfil only the requirements of the study for which the data was produced. Sections 6 and 7 provide examples on the usage of data in a different computational context than the experimental initially intended.
 - **SR2:** Establish a feedback loop between data creators, analysts and customers to continuously improve the metadata completeness and quality. Keep in mind that scientific progress can lead to new use cases and go beyond “standards” defined at a specific point of time.
-
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}

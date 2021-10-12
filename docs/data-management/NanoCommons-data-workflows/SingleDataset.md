@@ -6,6 +6,7 @@ parent: NanoCommons data workflows
 grand_parent: Data management
 has_children: false
 nav_order: 231
+has_references: true
 ---
 
 # Generation and upload of individual datasets
@@ -105,15 +106,10 @@ NanoCommons project, this process will be substituted by a single-sign-in option
 In case no suitable database is identified or it is not available for submissions from the "public", the NanoCommons DW will provide the hosting of the datasets. If the datasets are coming from larger consortia, and many sets of the same type and format are expected, specific data curation templates will be designed or even specific upload functionality for the DW will be developed within the TA actions (i.e. the user will be directed to apply for TA funding to support the development of bespoke tools for their datasets). This will be done through intensive collaboration between the user and the NanoCommons team and will take all the guidelines and checklists described here into account. The new templates will be aligned, harmonised and structured around existing concepts to facilitate the interoperability with the other NanoCommons data sources. Semantic annotation of the data model
 (data schema), as well as the data and metadata using the concepts developed jointly by the NanoCommons and OpenRiskNet projects and the ontologies endorsed by these will be enforced to make the datasets seamlessly integrated into the semantic model of the NanoCommons interoperability layer. The templates will also be shared with other relevant projects to facilitate their data upload also, thereby accelerating the integration of the currently disparate datasets arising from smaller-scale EU and national projects, such as for example Marie Curie ITNs, Individual Fellowships etc. A list of relevant national projects has already been compiled as part of D10.2, and this will be further updated over the coming months. The range of projects targeted as part of the TA dissemination activities will include those with a more nanomedicine or environmental applications of NMs focus (e.g. for environmental remediation, nanopesticides etc.), as many of the core issues of NMs characterisation and safety assessment will be common across fields.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
-
 References
 {: .references-header }
-Van den Eynden et al., 2014: Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice, 2014. Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
-{: .references }
-Faria et al., 2018: Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
+- Van den Eynden et al., 2014: Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice, 2014. Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
+- Faria et al., 2018: Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
 {: .references }
 
 ## Appendix - The NanoCommons “User data” checklist

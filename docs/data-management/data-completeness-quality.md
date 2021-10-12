@@ -4,6 +4,7 @@ title: Data completeness, minimum information checklist, data quality
 permalink: /data-management/data-completeness-quality/
 parent: Data management
 nav_order: 202
+has_references: true
 ---
 
 # Data completeness, minimum information checklist, data quality
@@ -64,7 +65,3 @@ Key concept 2 - Minimum information checklist
 
 Key concept 3 - Data quality
 : Data quality may be considered a measure of the potential usefulness, clarity, correctness and trustworthiness of data and datasets. However, there is no definitive consensus regarding exactly how data quality should be defined in the nanoscience, or wider scientific, community. <br/><br/> Data quality may be considered dependent upon the degree to which the meaning of the data is “clear” and the extent to which the data are “plausible”. In turn, this may be considered to incorporate (aspects of) data completeness (Table 1). For example, data quality may be considered to be (partly) dependent upon the “reproducibility” of data and the extent to which data are reproducible and their reproducibility can be assessed will partly depend upon the degree of data completeness in terms of the, readily accessible, available metadata and raw data. As well as “reproducibility”, data quality may be considered to incorporate a variety of related issues. These issues include systematic and random “errors” in the data, data “precision” (which may be considered related to notions such as “repeatability” or “within-laboratory reproducibility”), “accuracy” and “uncertainty”. (As indicated by the cited references, different scientists may provide somewhat different definitions for these concepts. These concepts may be considered in a qualitative or quantitative sense.) Data quality may also be considered to be dependent upon the “relevance” of the data for answering a specific question, although data “relevance” might be considered an entirely distinct issue from data quality. In the context of data curation, not only the quality of the original experimental data needs to be considered but also quality considerations associated with curated data. Quality considerations associated with curation include the probability of transcription errors and possibly whether a given dataset, structured according to some standardised format (e.g. XML based), was compliant with the rules of the applicable standardised format (e.g. as documented via an XML schema). Such compliance, amongst other possible aspects of data quality, could be determined using validation software.
-
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}

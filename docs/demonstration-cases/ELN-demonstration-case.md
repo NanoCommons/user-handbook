@@ -7,6 +7,7 @@ description_long: This case demonstrates how electronic lab notebooks (ELNs) can
 permalink: /demonstration-cases/ELN-demonstration-case/
 parent: Demonstration cases
 nav_order: 1001
+has_references: true
 ---
 
 #  NanoCommons Demonstration Case - Electronic Laboratory Notebooks for data collection and annotation
@@ -124,20 +125,11 @@ Addressing the challenges noted above in terms of the requirement for team-work 
 
 Generalizing from the experiences in this demonstration case, we learned that the task of training users in implementation of their experiments into the ELN and the development of the support data capture techniques requires dedicated effort from both sides - the NanoCommons data shepherd must be extremely hands-on with the data generators probing all aspects of the study design and data to be captured, while the data generators need to be open to thinking about their experiments in a slightly different way and to investing time into the establishment of their workflows.  While the initial effort is quite large, the payoff is that once the workflows are established, and the metadata related to the instruments, media, organisms, etc., is collected in a single location, the subsequent experiments and the writing-up of experiments, data sharing / data analysis and other steps along the data life cycle are all made significantly easier.  As the EC and other funders move towards an increased focus on FAIR and Open data, and journals are increasingly requesting data availability statements, it is clear that processes to streamline this and integrate it directly into the data generation process are both essential and inevitable.  NanoCommons is pleased to be leading the charge here for the nanosafety community.
 
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
-
 References
 {: .references-header }
-Open access, 2021: Open access & Data management - H2020 Online Manual. [cited 2021 Jul 9]. Available from: https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-dissemination_en.htm
+- Open access, 2021: Open access & Data management - H2020 Online Manual. [cited 2021 Jul 9]. Available from: https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-dissemination_en.htm
+- Ammar et al., 2020: Ammar A, Bonaretti S, Winckers L, Quik J, Bakker M, Maier D, et al. A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences. Nanomaterials (Basel). 2020 Oct 20;10(10).
+- Papadiamantis et al., 2020: Papadiamantis AG, Klaessig FC, Exner TE, Hofer S, Hofstaetter N, Himly M, et al. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials (Basel). 2020 Oct 15;10(10).
+- Martinez et al., 2020: Martinez DST, Da Silva GH, de Medeiros AMZ, Khan LU, Papadiamantis AG, Lynch I. Effect of the Albumin Corona on the Toxicity of Combined Graphene Oxide and Cadmium to Daphnia magna and Integration of the Datasets into the NanoCommons Knowledge Base. Nanomaterials (Basel). 2020 Sep 29;10(10).
+- ELN hackathon, 2020: Online Electronic Lab Notebook basics - Hackathon • NanoCommons. [cited 2021 Jul 9]. Available from: [https://infrastructure.nanocommons.eu/events/41/online-electronic-lab-notebook-basics-hackathon/](https://infrastructure.nanocommons.eu/events/41/online-electronic-lab-notebook-basics-hackathon/)
 {: .references }
-Ammar et al., 2020: Ammar A, Bonaretti S, Winckers L, Quik J, Bakker M, Maier D, et al. A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences. Nanomaterials (Basel). 2020 Oct 20;10(10).
-{: .references }
-Papadiamantis et al., 2020: Papadiamantis AG, Klaessig FC, Exner TE, Hofer S, Hofstaetter N, Himly M, et al. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials (Basel). 2020 Oct 15;10(10).
-{: .references }
-Martinez et al., 2020: Martinez DST, Da Silva GH, de Medeiros AMZ, Khan LU, Papadiamantis AG, Lynch I. Effect of the Albumin Corona on the Toxicity of Combined Graphene Oxide and Cadmium to Daphnia magna and Integration of the Datasets into the NanoCommons Knowledge Base. Nanomaterials (Basel). 2020 Sep 29;10(10).
-{: .references }
-ELN hackathon, 2020: Online Electronic Lab Notebook basics - Hackathon • NanoCommons. [cited 2021 Jul 9]. Available from: [https://infrastructure.nanocommons.eu/events/41/online-electronic-lab-notebook-basics-hackathon/](https://infrastructure.nanocommons.eu/events/41/online-electronic-lab-notebook-basics-hackathon/)
-{: .references }
-

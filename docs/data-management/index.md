@@ -7,6 +7,7 @@ description: General and nanosafety-specific aspects of data curation, storage a
 permalink: /data-management/
 has_children: true
 has_toc: false
+has_references: true
 ---
 # Data management: general and nanosafety-specific aspects
 
@@ -40,7 +41,3 @@ Additionally, the Demonstration Cases highlight specific aspects like study desi
 {% include childrenTOC.html page=parent_page pages=site.pages %}
 {% endif %}
 {% endfor %}
-
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}

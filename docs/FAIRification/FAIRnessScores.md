@@ -55,8 +55,3 @@ characterised and reported for the NM, including properties characterised in the
 score). These two scores (K and S) are combined to obtain an overall quality score (Q score) that can be used to select
 studies, to weight different studies, and/or to introduce uncertainty factors in the risk assessment process (Fernandez-Cruz et al., 2018).
 {: .caption }
-
-<script src="/user-handbook/assets/js/annotater.js"></script>
-{% include site-annotater.html %}
-{% include page-annotater.html %}
-
