@@ -146,9 +146,9 @@ Provided by the GRACIOUS project this is a tool to work collaboratively on a col
 {: .more-link .more-link--app }
 
 [GRACIOUS WIKI Introduction (Part 1)](https://www.youtube.com/watch?v=GaEUTYFD0SQ)
-{: .more-link .more-link--movie }
+{: .more-link .more-link--video }
 [GRACIOUS WIKI Introduction (Part 2)](https://www.youtube.com/watch?v=IjqN28OzleE)
-{: .more-link .more-link--movie }
+{: .more-link .more-link--video }
 
 
 ### For ontology developments integrating collections of terms into a semantic model
