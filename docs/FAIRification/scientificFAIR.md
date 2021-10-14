@@ -6,10 +6,11 @@ parent: FAIRification
 description_long: The original principles are mainly focussed on how data should be shared, and not on what needs to be reported to make the data reusable with high confidence. Thus, a gap still exists when it comes to the scientific FAIR principles needed to ensure that high-quality data generation and collection, and metadata processing have sufficient "completeness" to facilitate the FAIRification process.
 has_children: false
 nav_order: 301
+has_references: true
 ---
 
 # Scientific FAIR principles
-Based on: Papadiamantis, A.G.; Klaessig, F.C.; Exner, T.E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M.A.; Doganis, P.; Hoover, M.D.; Afantitis, A.; Melagraki, G.; Nolan, T.S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. Nanomaterials 2020, 10, 2033. [https://doi.org/10.3390/nano10102033](https://doi.org/10.3390/nano10102033)
+Based on: Papadiamantis et al., 2020
 {: .source }
 
 Data sharing and the commitment for doing so got an extreme push by funding agencies introducing more and more open data as a funding requirement and then especially by the release of the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). The authors were very successful in raising concerns about the amount and variability of shared data. As a result, FAIRness, FAIRification (the process of making data FAIR), and FAIR maturity indicators have been introduced as a specific area of data management, as part of the quality control of databases and individual datasets and are an essential part of data management plans. These topics are covered in more detail in the [FAIR section of this user guidance handbook](../).

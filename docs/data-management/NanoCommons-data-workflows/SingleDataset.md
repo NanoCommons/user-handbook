@@ -6,6 +6,7 @@ parent: NanoCommons data workflows
 grand_parent: Data management
 has_children: false
 nav_order: 231
+has_references: true
 ---
 
 # Generation and upload of individual datasets
@@ -31,7 +32,7 @@ These have to be aligned and harmonised with the workflows for [integration of c
 Following the above processes and keeping them aligned with workflows for complete databases is critical to ensuring a streamlined and straightforward process, with less bugs (or errors).
 
 ## Data Preparation Guidelines adopted in NanoCommons
-Data are valuable resources that can be used and reused by the scientific community. The data integration and sharing functionality provided by NanoCommons facilitates new scientific inquiry, avoids duplication of experiments and data collection, and provides rich real-life resources for method validation, risk assessment of NMs, as well as education and training.  However, this is only possible if the data is generated and provided in a harmonised and interoperable way, annotated by rich metadata, and is produced following state-of-the-art quality standards. In the “Managing and Sharing Data” guide by the UK Data Archive (1) this is emphasised in the following way: _"A crucial part of making data user-friendly, shareable and with long lasting usability is to ensure they can be understood and interpreted by any user. This requires clear and detailed data description, annotation and contextual information"_.
+Data are valuable resources that can be used and reused by the scientific community. The data integration and sharing functionality provided by NanoCommons facilitates new scientific inquiry, avoids duplication of experiments and data collection, and provides rich real-life resources for method validation, risk assessment of NMs, as well as education and training.  However, this is only possible if the data is generated and provided in a harmonised and interoperable way, annotated by rich metadata, and is produced following state-of-the-art quality standards. In the “Managing and Sharing Data” guide by the UK Data Archive (Van den Eynden et al., 2014) this is emphasised in the following way: _"A crucial part of making data user-friendly, shareable and with long lasting usability is to ensure they can be understood and interpreted by any user. This requires clear and detailed data description, annotation and contextual information"_.
 
 Data curation sheets provided for the uploading of data to specific databases or developed through the NanoCommons project have been created considering data and metadata quality standards, and a core aspect of NanoCommons dissemination and training activities will be to promote the use of these broadly by the nanosafety community. Such standards and good data management practices should be at the heart of all credible science and should be kept in mind during the evaluation and refinement of curation sheets, the development of new data templates and during the complete processes supporting the integration of Users data into the NanoCommons KB.
 
@@ -45,7 +46,7 @@ Following the guideline and checklists promoted by NanoCommons and outlined in t
 - anticipate difficulties in making data available and design measures to overcome these; and
 - implement and review data management practices throughout the research process as part of research progression and review.
 
-As part of the activities of NanoCommons, we are also developing a certification in Nanosafety data curation. All NanoCommons checklists are linked to existing community consensus in best practice for reporting data, including the recently published Minimum information reporting in bio–nano experimental literature (MIRIBEL)(2) suggestions, which provides a starting point for the community to build upon, and other data reporting standards.
+As part of the activities of NanoCommons, we are also developing a certification in Nanosafety data curation. All NanoCommons checklists are linked to existing community consensus in best practice for reporting data, including the recently published Minimum information reporting in bio–nano experimental literature (MIRIBEL)(Faria et al., 2018) suggestions, which provides a starting point for the community to build upon, and other data reporting standards.
 
 ## Key Concepts for Data Curation
 To allow data usage without the need to refer to external sources like publications, final reports, working papers, or the Electronic notebooks (ELN) used to generate the data, all important information should be included in the data submission. On the [data completeness and quality page of this handbook]({{ site.baseurl }}/data-management/data-completeness-quality/), the problems of how to define and evaluate data completeness and quality are addressed in great detail and different understandings are presented.
@@ -105,11 +106,10 @@ NanoCommons project, this process will be substituted by a single-sign-in option
 In case no suitable database is identified or it is not available for submissions from the "public", the NanoCommons DW will provide the hosting of the datasets. If the datasets are coming from larger consortia, and many sets of the same type and format are expected, specific data curation templates will be designed or even specific upload functionality for the DW will be developed within the TA actions (i.e. the user will be directed to apply for TA funding to support the development of bespoke tools for their datasets). This will be done through intensive collaboration between the user and the NanoCommons team and will take all the guidelines and checklists described here into account. The new templates will be aligned, harmonised and structured around existing concepts to facilitate the interoperability with the other NanoCommons data sources. Semantic annotation of the data model
 (data schema), as well as the data and metadata using the concepts developed jointly by the NanoCommons and OpenRiskNet projects and the ontologies endorsed by these will be enforced to make the datasets seamlessly integrated into the semantic model of the NanoCommons interoperability layer. The templates will also be shared with other relevant projects to facilitate their data upload also, thereby accelerating the integration of the currently disparate datasets arising from smaller-scale EU and national projects, such as for example Marie Curie ITNs, Individual Fellowships etc. A list of relevant national projects has already been compiled as part of D10.2, and this will be further updated over the coming months. The range of projects targeted as part of the TA dissemination activities will include those with a more nanomedicine or environmental applications of NMs focus (e.g. for environmental remediation, nanopesticides etc.), as many of the core issues of NMs characterisation and safety assessment will be common across fields.
 
-
 References
 {: .references-header }
-1. Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice. 2014 21 February 2019]; Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
-2. Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
+- Van den Eynden et al., 2014: Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice, 2014. Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
+- Faria et al., 2018: Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
 {: .references }
 
 ## Appendix - The NanoCommons “User data” checklist

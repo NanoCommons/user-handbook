@@ -4,6 +4,7 @@ title: Data completeness, minimum information checklist, data quality
 permalink: /data-management/data-completeness-quality/
 parent: Data management
 nav_order: 202
+has_references: true
 ---
 
 # Data completeness, minimum information checklist, data quality
@@ -16,7 +17,7 @@ You might also be interested in approaches to score the completeness, quality an
 
 
 ## Shorter and more focused definitions: (compared to further down)
-Based on: R. L. Marchese Robinson, I. Lynch, W. Peijnenburg, J. Rumble, F. Klaessig, C. Marquardt, H. Rauscher, T. Puzyn, R. Purian, C. Åberg, S. Karcher, H. Vriens, P. Hoet, M. D. Hoover, C. O. Hendren and S. L. Harper, Nanoscale, 2016, 8, 9919 [https://doi.org/10.1039/C5NR08944A](https://doi.org/10.1039/C5NR08944A)
+Based on: Marchese Robinson et al., 2016
 {: .source }
 
 In the recommendations given by Marchese Robinson et al., shorter definitions than the original concepts presented in the same paper were proposed to the community for the sake of clarity:
@@ -51,7 +52,7 @@ More detailed explanations to these terminology recommendations can be found in 
 6. Format compliance of a dataset is not considered a data quality issue.
 
 ## Broad and flexible definitions employed for reviewing prior work
-Based on: R. L. Marchese Robinson, I. Lynch, W. Peijnenburg, J. Rumble, F. Klaessig, C. Marquardt, H. Rauscher, T. Puzyn, R. Purian, C. Åberg, S. Karcher, H. Vriens, P. Hoet, M. D. Hoover, C. O. Hendren and S. L. Harper, Nanoscale, 2016, 8, 9919 [https://doi.org/10.1039/C5NR08944A](https://doi.org/10.1039/C5NR08944A) and references therein.
+Based on: Marchese Robinson et al., 2016 and references therein.
 {: .source }
 
 The original set of definitions, all the previous definitions are in some way or another derived from, is taken from Marchese Robinson et al.

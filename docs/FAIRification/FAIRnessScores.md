@@ -43,7 +43,7 @@ A very early evaluation of "how Findable data is" was proposed as part of a [pos
 
 ## Data quality scores
 ### Klimisch score
-Klimisch et al. (1) developed a scoring system to assess the reliability of data from toxicological and ecotoxicological studies [12]. This rating system has been extended to physico-chemical studies and is now accepted by many regulatory authorities and organisations. ECHA's IUCLID 6 software includes rationale for assigning Klimisch scores for toxicology testing, based on utilisation of standard assays. To automate the process of assigning Klimisch scores, [ToxRTool (Toxicological data Reliability Assessment Tool)](https://ec.europa.eu/jrc/en/scientific-tool/toxrtool-toxicological-data-reliability-assessment-tool) (2), an Excel-based tool, was developed by ECVAM to provide comprehensive criteria and guidance for evaluations of the inherent quality of toxicological data.
+Klimisch et al. (Klimisch et al., 1997) developed a scoring system to assess the reliability of data from toxicological and ecotoxicological studies [12]. This rating system has been extended to physico-chemical studies and is now accepted by many regulatory authorities and organisations. ECHA's IUCLID 6 software includes rationale for assigning Klimisch scores for toxicology testing, based on utilisation of standard assays. To automate the process of assigning Klimisch scores, [ToxRTool (Toxicological data Reliability Assessment Tool)](https://ec.europa.eu/jrc/en/scientific-tool/toxrtool-toxicological-data-reliability-assessment-tool) (Schneider et al., 2009), an Excel-based tool, was developed by ECVAM to provide comprehensive criteria and guidance for evaluations of the inherent quality of toxicological data.
 
 ### GuideNano score
 The Klimisch score was extensively considered and adapted for application to nano studies within the GUIDEnano project.
@@ -53,16 +53,5 @@ The Klimisch score was extensively considered and adapted for application to nan
 the Klimisch score (K score). In addition, a scoring system based on the physicochemical properties that have been
 characterised and reported for the NM, including properties characterised in the exposure medium was developed (S
 score). These two scores (K and S) are combined to obtain an overall quality score (Q score) that can be used to select
-studies, to weight different studies, and/or to introduce uncertainty factors in the risk assessment process (3).
+studies, to weight different studies, and/or to introduce uncertainty factors in the risk assessment process (Fernandez-Cruz et al., 2018).
 {: .caption }
-
-References
-{: .references-header }
-1. Klimisch, H.J., M. Andreae, and U. Tillmann, A Systematic Approach for Evaluating the
-Quality of Experimental Toxicological and Ecotoxicological Data. Regulatory Toxicology and
-Pharmacology, 1997. 25(1): p. 1-5.
-2. Schneider, K., et al., “ToxRTool”, a new tool to assess the reliability of toxicological data.
-Toxicology Letters, 2009. 189(2): p. 138-144.
-3. Fernández-Cruz, M.L., et al., Quality evaluation of human and environmental toxicity studies
-performed with nanomaterials – the GUIDEnano approach. Environmental Science: Nano, 2018. 5(2): p. 381-397.
-{: .references }
