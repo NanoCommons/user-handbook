@@ -222,7 +222,7 @@
       _okayToEnterNode: function( nodeInQuestion ){
           var disallow = {
               tags: ['var', 'iframe', 'script', 'canvas', 'svg', 'textarea', 'input', 'footer', 'h1', 'h2', 'h3', 'h4'],
-              classes: ['annotater-no-descend', 'side-bar', 'main-header', 'references']
+              classes: ['annotater-no-descend', 'side-bar', 'main-header', 'references', 'more-link']
           };
           if( nodeInQuestion.nodeType !== 1 ){
               return false;
