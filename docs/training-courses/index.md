@@ -8,7 +8,7 @@ nav_order: 900
 ---
 
 # Complete series of training materials
-Besides structuring the material by topic as done in the other sections, we list here courses and series of training materials giving an overview of nanosafety and nanoinformatics and are therefore, useful for beginners or for people looking for getting an overview of the areas. Pieces of these courses are then also linked in the sections covering the specific topic covered.
+In addition to structuring the material by topic, as was done in other sections, we list here courses and series of training materials that provide an overview of nanosafety and nanoinformatics useful for beginners or people looking to get an overview of the areas. Parts of these courses are then also linked in the sections that cover the specific topic.
 {: .lead }
 
 {% include childrenTOC.html page=page pages=site.pages %}
