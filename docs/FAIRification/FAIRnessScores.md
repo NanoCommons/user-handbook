@@ -5,7 +5,6 @@ permalink: /FAIRification/FAIRnessScores/
 parent: FAIRification
 description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets.
 has_children: false
-has_references: true
 nav_order: 302
 ---
 

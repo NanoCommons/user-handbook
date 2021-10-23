@@ -5,19 +5,17 @@ title: Nanosafety data resources
 description: Listing of important data resources for nanosafety and nanoinformatics
 permalink: /data-management/data-resources/
 parent: Data management
-has_children: true
-has_toc: false
 nav_order: 220
 ---
 # Listing of important data resources for nanosafety and nanoinformatics
 
-[ACEnano knowledge warehouse](./ACEnano-warehouse/)
+[ACEnano knowledge warehouse](https://acenano.douglasconnect.com/)
 Specializing on physico-chemical characterisation techniques, protocols and data.
-{: .more-link .more-link--webpages}
+{: .more-link .more-link--app}
 
-[NanoCommons knowledge base and data warehouse](./NanoCommons-KB/)
-One-stop shop for nanosafety data by linking in different data warehouses and also the primary home of data from different projects including NanoMile, NanoFASE and SmartNanoTox.
-{: .more-link .more-link--webpages}
+[NanoCommons knowledge base and data warehouse](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
+Home of data from different projects including NanoMile, NanoFASE and SmartNanoTox.
+{: .more-link .more-link--app}
 
 [Nanosafety data interface](https://search.data.enanomapper.net/)
 Home of data from many projects. Currently, eNanoMapper, NANoREG and NanoReg2 are publicly available.
