@@ -229,26 +229,3 @@ iframe, embed
 
     ol.appendix-content
         padding-left: 1.5rem + $gutter-spacing/2
-    
-    .large-list
-        ol 
-            list-style-type: none
-            counter-reset: step-counter
-            > li
-                &::before
-                    content: counter(step-counter, lower-roman)
-                    counter-increment: step-counter
-                ol
-                    counter-reset: sub-counter
-                    li
-                        &::before 
-                            content: counter(sub-counter, lower-alpha)
-                            counter-increment: sub-counter
-                        ol
-                            counter-reset: sub-counter
-                            li
-                                &::before 
-                                    content: counter(sub-counter, disc)
-                                    counter-increment: sub-counter
-
-
