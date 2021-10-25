@@ -108,8 +108,8 @@ In case no suitable database is identified or it is not available for submission
 
 References
 {: .references-header }
-- Van den Eynden et al., 2014: Van den Eynden V, Corti L, Woollard M, Bishop L, Horton L. Managing and Sharing Research Data: a Guide to Good Practice, 2014. Available from: https://data-archive.ac.uk/media/2894/managingsharing.pdf.
-- Faria et al., 2018: Faria, M, et al., Minimum information reporting in bio–nano experimental literature. Nature Nanotechnology, 2018. 13(9): p. 777-785.
+- Faria et al., 2018: Faria, M.; Björnmalm, M.; Thurecht, K. J.; Kent, S. J.; Parton, R. G.; Kavallaris, M.; Johnston, A. P. R.; Gooding, J. J.; Corrie, S. R.; Boyd, B. J.; Thordarson, P.; Whittaker, A. K.; Stevens, M. M.; Prestidge, C. A.; Porter, C. J. H.; Parak, W. J.; Davis, T. P.; Crampin, E. J.; Caruso, F. Minimum Information Reporting in Bio–Nano Experimental Literature. <i>Nature Nanotech</i> <b>2018</b>, <i>13</i> (9), 777–785. <a href="https://doi.org/10.1038/s41565-018-0246-4">https://doi.org/10.1038/s41565-018-0246-4</a>.
+- Van den Eynden et al., 2014: Eynden, V. van den; UK Data Archive. <i>Managing and Sharing Data: A Best Practice Guide for Researchers</i>; UK Data Archive: Colchester, 2011. <a href="http://www.data-archive.ac.uk/media/2894/managingsharing.pdf">http://www.data-archive.ac.uk/media/2894/managingsharing.pdf</a>.
 {: .references }
 
 ## Appendix - The NanoCommons “User data” checklist

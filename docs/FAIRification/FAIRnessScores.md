@@ -5,6 +5,7 @@ permalink: /FAIRification/FAIRnessScores/
 parent: FAIRification
 description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets.
 has_children: false
+has_references: true
 nav_order: 302
 ---
 
@@ -55,3 +56,10 @@ characterised and reported for the NM, including properties characterised in the
 score). These two scores (K and S) are combined to obtain an overall quality score (Q score) that can be used to select
 studies, to weight different studies, and/or to introduce uncertainty factors in the risk assessment process (Fernandez-Cruz et al., 2018).
 {: .caption }
+
+References
+{: .references-header }
+- Fernandez-Cruz et al., 2018: Fernández-Cruz, M. L.; Hernández-Moreno, D.; Catalán, J.; Cross, R. K.; Stockmann-Juvala, H.; Cabellos, J.; Lopes, V. R.; Matzke, M.; Ferraz, N.; Izquierdo, J. J.; Navas, J. M.; Park, M.; Svendsen, C.; Janer, G. Quality Evaluation of Human and Environmental Toxicity Studies Performed with Nanomaterials – the GUIDEnano Approach. <i>Environ. Sci.: Nano</i> <b>2018</b>, <i>5</i> (2), 381–397. <a href="https://doi.org/10.1039/C7EN00716G">https://doi.org/10.1039/C7EN00716G</a>.
+- Klimisch et al., 1997: Klimisch, H.-J.; Andreae, M.; Tillmann, U. A Systematic Approach for Evaluating the Quality of Experimental Toxicological and Ecotoxicological Data. <i>Regulatory Toxicology and Pharmacology</i> <b>1997</b>, <i>25</i> (1), 1–5. <a href="https://doi.org/10.1006/rtph.1996.1076">https://doi.org/10.1006/rtph.1996.1076</a>.
+- Schneider et al., 2009: Schneider, K.; Schwarz, M.; Burkholder, I.; Kopp-Schneider, A.; Edler, L.; Kinsner-Ovaskainen, A.; Hartung, T.; Hoffmann, S. “ToxRTool”, a New Tool to Assess the Reliability of Toxicological Data. <i>Toxicology Letters</i> <b>2009</b>, <i>189</i> (2), 138–144. <a href="https://doi.org/10.1016/j.toxlet.2009.05.013">https://doi.org/10.1016/j.toxlet.2009.05.013</a>.
+{: .references }
