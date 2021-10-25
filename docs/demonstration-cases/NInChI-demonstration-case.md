@@ -47,5 +47,5 @@ The prototype described in the paper (Lynch et al., 2020) was meant to raise awa
 
 References
 {: .references-header }
-- Lynch et al., 2020: Lynch, I.; Afantitis, A.; Exner, T.; Himly, M.; Lobaskin, V.; Doganis, P.; Maier, D.; Sanabria, N.; Papadiamantis, A. G.; Rybinska-Fryca, A.; Gromelski, M.; Puzyn, T.; Willighagen, E.; Johnston, B. D.; Gulumian, M.; Matzke, M.; Green Etxabe, A.; Bossa, N.; Serra, A.; Liampa, I.; Harper, S.; Tämm, K.; Jensen, A. C.; Kohonen, P.; Slater, L.; Tsoumanis, A.; Greco, D.; Winkler, D. A.; Sarimveis, H.; Melagraki, G. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? <i>Nanomaterials</i> <b>2020</b>, <i>10</i> (12), 2493. <a href="https://doi.org/10.3390/nano10122493">https://doi.org/10.3390/nano10122493</a>.
+- Lynch et al., 2020: Lynch I, Afantitis A, Exner T, Himly M, Lobaskin V, Doganis P, et al. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials (Basel). 2020 Dec 11;10(12).
 {: .references }
