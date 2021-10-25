@@ -46,7 +46,9 @@ provided that 50 per cent of all research data in Denmark follow the FAIR princi
 {: .more-link .more-link--webpages}
 
 [The Ethics of not releasing Data](https://chem-bla-ics.blogspot.com/2021/10/the-ethics-of-not-releasing-data-1.html?m=1)
-Egon's personal blog.
+Egon's personal blog on the recurrent theme of lack of useful data: There are many angles here, and this blog series starts collecting information about just only one angle. The ethics of not releasing data. <br> 
+And the first reaction: <br>
+Ineke Malsch (14 Oct, 2021): A rather picky remark is that ethics is not the same as morals. Crudely stated, ethics is a philosophical area studying ethical issues and dilemmas, while all people have (distinct) moral convictions on how they should live and what counts as good behaviour. Cultural and religious differences influence... [&#x2192; read more](https://www.ethicschool.nl/is-the-choice-to-share-research-data-an-ethical-decision)
 {: .more-link .more-link--text}
 
 
