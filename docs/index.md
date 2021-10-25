@@ -111,6 +111,23 @@ topics:
 
 # Data and nanoinformatics shepherds’ user guidance handbook
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "inLanguage": "en-US",
+  "name": "Data and nanoinformatics shepherds’ user guidance handbook",
+  "url": "https://nanocommons.github.io/user-handbook/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2021",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "discussionUrl": "https://github.com/NanoCommons/user-handbook/issues"
+}
+</script>
+
 This online resource collects and organizes knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics.
 {: .lead }
 
