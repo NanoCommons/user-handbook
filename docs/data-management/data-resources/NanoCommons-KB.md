@@ -11,7 +11,8 @@ has_toc: false
 nav_order: 222
 ---
 
-# NanoCommons Knowledge Base and Data Warehouse
+<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="100" class="image--right"/>
+# NanoCommons Knowledge Base and Data Warehouse powered by [<img src="{{ site.baseurl }}/images/logos/biomax.png" width="100"/>](https://www.biomax.com/)
 NanoCommons is providing a common user interface for accessing data from different existing resources and is also building a home for data, which is not publicly released otherwise.
 {: .lead }
 

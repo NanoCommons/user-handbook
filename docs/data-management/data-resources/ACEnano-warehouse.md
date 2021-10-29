@@ -11,6 +11,7 @@ has_toc: false
 nav_order: 221
 ---
 
+<img src="{{ site.baseurl }}/images/logos/acenano.png" width="200" class="image--right" />
 # ACEnano Knowledge Infrastructure
  This page provides information on the Knowledge Infrastructure of the ACEnano Project - Analytical and Characterisation Excellence in nanomaterial risk assessment: a tiered approach. 
  {: .lead }

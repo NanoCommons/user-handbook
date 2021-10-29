@@ -11,6 +11,7 @@ nav_exclude: true
 nav_order: 221
 ---
 
+<img src="{{ site.baseurl }}/images/logos/acenano.png" width="200" class="image--right" />
 # ACEnano Knowledge Warehouse manual
 
 **Authors**: Oana Florean, Maja Brajnik, Lucian Farcal ([Edelweiss Connect GmbH](https://edelweissconnect.com/))<br>
