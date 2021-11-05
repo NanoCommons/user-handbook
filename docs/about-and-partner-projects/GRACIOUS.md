@@ -29,7 +29,7 @@ Short description
 [Terminology harmonizer](https://terminology-harmonizer.greendecision.eu/NSC-Terminology) 
 {: .more-link .more-link--app }
 
-## Introduction to NanoCommons
+## Introduction to GRACIOUS
 <iframe width="420" height="315" src="https://www.youtube.com/embed/6DFLPI1pReQ" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
