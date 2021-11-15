@@ -17,7 +17,13 @@ NanoSolveIT's knowledge-based infrastructure for data hosting, sharing and explo
 [Project website](https://nanosolveit.eu/)
 {: .more-link .more-link--webpages }
 
-[NanoSolveIT Cloud Platform](cloud.nanosolveit.eu)
+[NanoSolveIT Cloud Platform](http://cloud.nanosolveit.eu/)
+{: .more-link .more-link--app }
+
+[NanoPharos database](https://db.nanopharos.eu/Queries/Datasets.zul)
+{: .more-link .more-link--app }
+
+[NanoSolveIT Knowledge Base](https://ssl.biomax.de/nanosolveit/cgi/login_bioxm_portal.cgi) 
 {: .more-link .more-link--app }
 
 ## Introduction to NanoFASE
