@@ -5,10 +5,6 @@ permalink: /FAIRification/
 has_children: true
 has_toc: false
 nav_order: 300
-
-annotater:
-  - name: FAIR
-    tooltip: "Findable, Accessible, Interoperable, and Reusable"
 ---
 
 # FAIRification
