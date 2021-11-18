@@ -1,10 +1,10 @@
-{% if site.data.references %} <script>
+{% if site.data.references %}
+<script>
     {% for anno in site.data.references %}
         annotater({
-        {% for notation in anno %}
-            {{notation[0]}}: "{{ notation[1] }}",
-        {% endfor %}
+            name: {% if anno.name_re %}{{ anno.name_re }}{% else %}'{{ anno.name }}'{% endif %},
+            tooltip: '{{ anno.tooltip }}',
         });
     {% endfor %}
-    
-    </script> {% endif %}
+</script>
+{% endif %}
