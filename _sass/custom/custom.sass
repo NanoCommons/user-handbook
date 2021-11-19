@@ -266,37 +266,48 @@ iframe, embed
     .large-list
         list-style-type: none
         counter-reset: step-counter
+        &.start2
+            counter-reset: step-counter 1
+        &.start3
+            counter-reset: step-counter 2
+        &.start4
+            counter-reset: step-counter 3
+        &.start5
+            counter-reset: step-counter 4
 
         li
             &::before
                 content: counter(step-counter, decimal)
                 counter-increment: step-counter
-        ol
-            counter-reset: sub-counter
-            padding-left: 2.2rem
 
-            > li
-                &::before
-                    left: -2rem
-                    content: counter(step-counter, decimal)"."counter(sub-counter, decimal)
-                    counter-increment: sub-counter
+            ol
+                counter-reset: sub-counter
+                &.sub-start0
+                    counter-reset: sub-counter -1
+                padding-left: 2.2rem
 
-                ol
-                    counter-reset: sub-sub-counter
-                    padding-left: 2.5rem
+                > li
+                    &::before
+                        left: -2rem
+                        content: counter(step-counter, decimal)"."counter(sub-counter, decimal)
+                        counter-increment: sub-counter
 
-                    li
-                        &::before
-                            left: -2.5rem
-                            content: counter(step-counter, decimal)"."counter(sub-counter, decimal)"."counter(sub-sub-counter, decimal)
-                            counter-increment: sub-sub-counter
+                    ol
+                        counter-reset: sub-sub-counter
+                        padding-left: 2.5rem
 
-                        ol
-                            padding-left: 1.5rem
-                            counter-reset: sub-sub-sub-counter
+                        li
+                            &::before
+                                left: -2.5rem
+                                content: counter(step-counter, decimal)"."counter(sub-counter, decimal)"."counter(sub-sub-counter, decimal)
+                                counter-increment: sub-sub-counter
 
-                            li
-                                &::before
-                                    left: -1.1rem
-                                    content: counter(sub-sub-sub-counter, disc)
-                                    counter-increment: sub-sub-sub-counter
+                            ol
+                                padding-left: 1.5rem
+                                counter-reset: sub-sub-sub-counter
+
+                                li
+                                    &::before
+                                        left: -1.1rem
+                                        content: counter(sub-sub-sub-counter, disc)
+                                        counter-increment: sub-sub-sub-counter
