@@ -10,10 +10,10 @@ nav_order: 979
 ---
 
 ## If you want to go far go together - Collaborative research supported by NanoCommons transnational access
-Save-by-design data and software platform interoperability and integration workshop, 9 November 2021
+Safe-by-design data and software platform interoperability and integration workshop, 9 November 2021
 {: .lead }
 
-NanoCommons, in a joint initiative with the NanoSafety Cluster (NSC), organised an online interactive workshop to foster collaborative research by trying to bring the nanosafety community together and to work hands-on on establishing ways to make data and software platforms, developed in different projects, talk to each other. 
+NanoCommons, in a joint initiative with the NanoSafety Cluster (NSC), organised an online interactive workshop to foster collaborative research by trying to bring the nanosafety community together and to work hands-on on establishing ways to make data and software platforms, developed in different projects, talk to each other.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/4FYqNR2Fv28" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
@@ -23,19 +23,27 @@ Additional information: [demonstration case of NanoFASE data management concept]
 
 [ASINA Data](https://www.youtube.com/watch?v=Pf7Ot27j_jk)
 Additional information:<br>
-- Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Initiation. [https://doi.org/10.3390/nano11061520](https://doi.org/10.3390/nano11061520)
-- Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Exposure Field Campaign Template. [https://doi.org/10.3390/nano11071818](https://doi.org/10.3390/nano11071818)
-- Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Antibacterial capturing Template. In preparation.<br>
+    - Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Initiation. [https://doi.org/10.3390/nano11061520](https://doi.org/10.3390/nano11061520)<br>
+    - Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Exposure Field Campaign Template. [https://doi.org/10.3390/nano11071818](https://doi.org/10.3390/nano11071818)<br>
+    - Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Antibacterial capturing Template. In preparation.<br>
 {: .more-link .more-link--video}
 
 [Biomax Data Services successful TAs](https://www.youtube.com/watch?v=sSXFG2B1k9Q)
 Additional information: [NanoCommons Knowledge Base]({{ site.baseurl }}/data-management/data-resources/NanoCommons-KB/)
 {: .more-link .more-link--video}
 
-[Assessment of Cytotoxicity of Metal Oxide Nanoparticles on the Basis of Immediately Available Physical-Chemical Parameters](https://www.youtube.com/watch?v=slR-5CCDiTs)
+<div class="more-link more-link--video">
+<a href="https://www.youtube.com/watch?v=slR-5CCDiTs">Assessment of Cytotoxicity of Metal Oxide Nanoparticles on the Basis of Immediately Available Physical-Chemical Parameters</a>
+<p>Additional information:</p>
+<ul>
+<li>Simeone F.C. and Costa A. Assessment of cytotoxicity of metal oxide nanoparticles on the basis of fundamental physical–chemical parameters: a robust approach to grouping. <a href="https://doi.org/10.1039/C9EN00785G">DOI	https://doi.org/10.1039/C9EN00785G</a></li></ul>
+</div>
+
+<!-- [Assessment of Cytotoxicity of Metal Oxide Nanoparticles on the Basis of Immediately Available Physical-Chemical Parameters](https://www.youtube.com/watch?v=slR-5CCDiTs)
 Additional information:<br>
 - Simeone F.C. and Costa A. Assessment of cytotoxicity of metal oxide nanoparticles on the basis of fundamental physical–chemical parameters: a robust approach to grouping. [https://doi.org/10.1039/C9EN00785G](DOI	https://doi.org/10.1039/C9EN00785G)
-{: .more-link .more-link--video .ul-morelink}
+{: .more-link .more-link--video } -->
+
 
 [Nanoinformatics Model Development and Hosting](https://www.youtube.com/watch?v=tlsF4sLG3mE)
 Additional information: [Jaqpot]({{ site.baseurl }}/nanoinformatics/nanoQSAR/)
@@ -52,4 +60,3 @@ Additional information:<br>
 
 [Training offers](https://www.youtube.com/watch?v=f3HhitaqYyQ)
 {: .more-link .more-link--video}
-
