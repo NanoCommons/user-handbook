@@ -18,10 +18,10 @@ NanoCommons, in a joint initiative with the NanoSafety Cluster (NSC), organised 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/4FYqNR2Fv28" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-<!---
 [Full playlist](https://www.youtube.com/watch?v=4FYqNR2Fv28&list=PL0Q0VZW0kRfA62029xzCwmKp0U1nPf5oL)
 {: .more-link .more-link--video}
 
+<!---
 [Slide deck]()
 {: .more-link .more-link--slides}
 --->
