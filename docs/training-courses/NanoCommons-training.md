@@ -17,7 +17,7 @@ This is a list of all recordings from training webinars offered by NanoCommons
 18 November 2021, A case study was presenting appling the freely available [Ethical Impacts Assessment (EIA) tool](http://enaloscloud.novamechanics.com/riskgone/thresholdanalysis/).
 {: .more-link .more-link--video}
 
-[Safe-by-design data and software platform interoperability and integration workshop](../2021-SbD-integration-Workshop/)
+[Safe-by-design data and software platform interoperability and integration workshop](../2021-SbD-integration-workshop/)
 9 November 2021, Collaborative research supported by NanoCommons transnational access.
 {: .more-link .more-link--video}
 
