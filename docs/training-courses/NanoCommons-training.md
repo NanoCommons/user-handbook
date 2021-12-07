@@ -10,7 +10,7 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 ---
 
 # NanoCommons Training Webinars
-This is a list of all recordings from training webinars offered by NanoCommons 
+This is a list of all recordings from training webinars offered by NanoCommons. 
 {: .lead }
 
 [EIA tool in dentistry](https://www.youtube.com/watch?v=Ek2oQS_95VY)
