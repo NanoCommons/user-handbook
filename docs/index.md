@@ -24,7 +24,7 @@ projects:
     logo: nanofase.png
     width: 200
   - url: http://www.enanomapper.org/
-    logo: enanomapper.png
+    logo: eNanoMapper.png
     width: 150
 
 topics:
