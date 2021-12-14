@@ -31,8 +31,12 @@ The session from the [2021 Nanosafety Training School]({{ site.baseurl}}/trainin
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/2yDgmajldW0?start=1290&end=2130" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
+[NanoCommons – Knowledge Base Data Workshop](https://www.youtube.com/watch?v=ZGjfPHVGFpU)
+Workshop giving a introduction to the [NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi), presenting applications to mesocosm and in _vitro_-_in silico_ workflows and describing some additional developments.
+{: .more-link .more-link--video}
+
 [Using the NanoCommons Knowledge Base](https://www.youtube.com/watch?v=_sknnv8zGlw)
-Short introduction to the functionality of the Knowledge Base by Dieter Maier, Biomax (at the Jaqpot Hackathon)
+Short introduction to the functionality of the Knowledge Base (at the Jaqpot Hackathon). Much shorter as the above but also a little outdated.
 {: .more-link .more-link--video}
 
 [Using the NanoCommons Knowledge portal for templates and annotation upload](https://www.youtube.com/watch?v=oRhVsAFiZbI)

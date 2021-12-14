@@ -14,7 +14,7 @@ This is a list of all recordings from training webinars offered by ACEnano.
 {: .lead }
 
 [ACEnano toolbox training](https://www.youtube.com/watch?v=Iy7q0BFag6A)
-28 May 2021, This event provided interested stakeholders with the opportunity to find out about the capabilities of the ACEnano Toolbox, a set of linked online tools and resources to help stakeholders choose the optimal analytical techniques for their needs.
+28 May 2021. This event provided interested stakeholders with the opportunity to find out about the capabilities of the ACEnano Toolbox, a set of linked online tools and resources to help stakeholders choose the optimal analytical techniques for their needs.
 {: .more-link .more-link--video}
 
 ## NANOTEXNOLOGY 2020 special workshop
