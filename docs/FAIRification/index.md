@@ -64,6 +64,9 @@ GO FAIR is a bottom-up, stakeholder-driven and self-governed initiative that aim
 [GO FAIR Implementation Network Advanced Nano](https://www.go-fair.org/implementation-networks/overview/advancednano/)
 This Implementation Network actively supports the implementation of the FAIR principles in the current nano-EHS databases, i.e. data on NM physicochemical characteristics, release and exposure, toxicity and functionality.
 {: .more-link .more-link--webpages}
+[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html)
+Guidance from [The Turing Way](https://the-turing-way.netlify.app/) about how to make research objects citable and consequently more findable.
+{: .more-link .more-link--webpages}
 
 
 ## Internal FAIR resources
