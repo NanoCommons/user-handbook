@@ -13,6 +13,10 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 This is a list of all recordings from training webinars offered by NanoCommons. 
 {: .lead }
 
+[Nanosafety and the semantic web]({{ site.baseurl }}//training-courses/NanoCommons-training-semantic-web/)
+8-9 December 2021, From natural language to computational processing: RDF, SPARQL and ontologies
+{: .more-link .more-link--webpages}
+
 [NanoCommons – Knowledge Base Data Workshop](https://www.youtube.com/watch?v=ZGjfPHVGFpU)
 2 December 2021. Workshop giving a introduction to the [NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi), presenting applications to mesocosm and in _vitro_-_in silico_ workflows and describing some additional developments. [More info...](https://zenodo.org/record/5752319#.YbiwD73MKUk)
 {: .more-link .more-link--video}
@@ -63,4 +67,3 @@ Part 2: [How to build SciNote Account](https://www.youtube.com/watch?v=7yhdrG4co
 [Using the NanoCommons Knowledge portal for templates and annotation upload](https://www.youtube.com/watch?v=oRhVsAFiZbI)
 8 October 2018
 {: .more-link .more-link--video}
-
