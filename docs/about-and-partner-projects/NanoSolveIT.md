@@ -26,7 +26,7 @@ NanoSolveIT's knowledge-based infrastructure for data hosting, sharing and explo
 [NanoSolveIT Knowledge Base](https://ssl.biomax.de/nanosolveit/cgi/login_bioxm_portal.cgi) 
 {: .more-link .more-link--app }
 
-## Introduction to NanoFASE
+## Introduction to NanoSolveIT
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037019305112-ga1_lrg.jpg)
 
 [Review paper on project's activities](https://www.sciencedirect.com/science/article/pii/S2001037019305112)
