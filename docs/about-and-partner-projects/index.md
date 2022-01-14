@@ -15,14 +15,13 @@ _“The commons is the cultural and natural resources accessible to all members 
 
 It is one resource of our commons collecting and structuring knowledge and training materials for **the two strongly interlinked areas of data management for nanomaterials and nanoinformatics**. Besides covering general concepts, guidelines and recommendations, it will show, demonstrate and train real-world solutions in the form of data sources, software and workflows integrated or linked into the NanoMaterialCommons infrastructure, where both terms are meant in a very broad sense to be able to cover as many solutions as possible from all projects working in nanosafety, nanoinformatics and neighbouring fields. All projects, from which resources are included, are listed below.
 
-## Contact details:
-__Contents:__ If you have questions to the contents or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Contents%20question).
+## Contact details
 
-__Issues:__ For any technical issues, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Technical%20issue).
+If you have questions about the content or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Contents%20question).
 
-or [file an issue directly on github](https://github.com/NanoCommons/user-handbook/issues).
+For any technical issues, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Technical%20issue) or [file an issue directly on github](https://github.com/NanoCommons/user-handbook/issues).
 
-## Some thoughts on how to work together on a "commons for nanomaterials" infrastructure (MaterialCommons):
+## Some thoughts on how to work together on a "commons for nanomaterials" infrastructure (MaterialCommons)
 
 [Bridging Insights and Perspectives](https://tvworldwide.com/events/nanotech/200824/default.cfm?id=17730&type=flv&test=0&live=0)
 Working Towards a Harmonized Nanosafety E-Infrastructure for Data and In Silico Tools, 2020 U.S.-EU NanoEHS COR Workshop: Bridging Insights and Perspectives, September 16-17, Virtual Meeting
@@ -44,4 +43,3 @@ To be able to cover relevant information and knowledge to the largest possible e
 | <img src="{{ site.baseurl }}/images/icons/file-text.svg">{: .icon } | Text documents like reports, papers or block posts |
 | ![]({{site.baseurl}}/images/icons/webpages.png){: .icon } | Extended material from external websites |
 | <img src="{{ site.baseurl }}/images/icons/file.svg">{: .icon } | Any other type of content |
-
