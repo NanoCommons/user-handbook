@@ -24,7 +24,7 @@ If you want to hear the many reasons why ELNs should replace hand-written notebo
 
 And if you are still not convinced, watch the presentation given as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229#.YT5tT50zZPY) (3 June, 2020)
 
-[What is the role of electronic lab notebooks in data management](https://www.youtube.com/watch?v=tM814yEukfA)
+[What is the role of electronic lab notebooks in data management?](https://www.youtube.com/watch?v=tM814yEukfA)
 {: .more-link .more-link--video }
 
 or read more on their use in the 
