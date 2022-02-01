@@ -13,6 +13,14 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 This is a list of all recordings from training webinars offered by NanoCommons. 
 {: .lead }
 
+[Electronic Lab Notebooks Webinar](https://www.youtube.com/watch?v=FWbkDrVbg6M)
+13 and 27 January 2022. This interactive online workshops on implementing Electronic Laboratory Notebooks (ELNs) for nanosafety assessment was given in two parts:<br>
+[Electronic Lab Notebooks – Live Demonstration](https://www.youtube.com/watch?v=TrqAOfm1SjY)<br>
+[Electronic Lab Notebooks – Getting Hands On](https://www.youtube.com/watch?v=MilbZJ3I61U)<br>
+[More info...](https://zenodo.org/record/5752319#.YbiwD73MKUk)
+{: .more-link .more-link--video}
+
+
 [Nanosafety and the semantic web]({{ site.baseurl }}//training-courses/NanoCommons-training-semantic-web/)
 8-9 December 2021, From natural language to computational processing: RDF, SPARQL and ontologies
 {: .more-link .more-link--webpages}
