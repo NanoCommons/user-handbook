@@ -27,26 +27,26 @@ To change this, training resources are collected here, which not only describe t
     5. Data is not used as a strategic resource for further exploitation and growth.
 7. Positive socio-economic value: a [recent study](https://ufm.dk/en/publications/2018/filer/preliminary-analysis-introduction-of-fair-data-in-denmark_oxford-research-og-hbs.pdf) commissioned by the Danish Agency for Science and Higher Education concluded that by making FAIR 50% of all data produced in Denmark, the socio-economic net present value will be about DKK 2 billion (€268mln) over a 40-year period. This estimate is based on the most conservative calculation assumptions found in literature, while disregarding the benefits that would fall to other countries if the FAIR data concept is introduced in Denmark; nor have any benefits gained from a FAIR data collaboration with other countries been included in the calculations.
 
-**And some data and experience why not sharing data is bad:**
+[**Want to read more why not sharing data is bad?**](whyFAIR)
 
-[Cost of not having FAIR research data](http://publications.europa.eu/resource/cellar/d375368c-1a0a-11e9-8d04-01aa75ed71a1.0001.01/DOC_1)
-Report written by PwC EU Services. Seven indicators were defined to
-estimate the cost of not having FAIR research data: Time spent, cost of storage, licence
-costs, research retraction, double funding, interdisciplinarity and potential economic
-growth. Estimated at €10.2bn per year in Europe, the measurable cost of not having FAIR research data makes an overwhelming case in favour of the implementation of the FAIR principles.
-{: .more-link .more-link--text}
+## Start becoming FAIR
+[FAIR CookBook: How to Register a Dataset with Wikidata](https://faircookbook.elixir-europe.org/content/recipes/findability/registeringDatasets)
+Guidance that describes how published data sets can be made more findable by sharing metadata in Wikidata.
+{: .more-link .more-link--app}
 
-[Preliminary analysis: Introduction of FAIR data in Denmark](https://ufm.dk/en/publications/2018/preliminary-analysis-introduction-of-fair-data-in-denmark)
-The analysis to estimated the benefits and costs of implementing FAIR and examined the barriers and opportunities in implementing FAIR data at the Danish research institutions. The socio-economic net present value was estimated as approx. DKK 2 billion (~270 million €) over a 40-year period,
-provided that 50 per cent of all research data in Denmark follow the FAIR principles. 
+[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html)
+Guidance from [The Turing Way](https://the-turing-way.netlify.app/) about how to make research objects citable and consequently more findable.
 {: .more-link .more-link--webpages}
 
-[The Ethics of not releasing Data](https://chem-bla-ics.blogspot.com/2021/10/the-ethics-of-not-releasing-data-1.html?m=1)
-Egon's personal blog on the recurrent theme of lack of useful data: There are many angles here, and this blog series starts collecting information about just only one angle. The ethics of not releasing data. <br> 
-And the first reaction: <br>
-Ineke Malsch (14 Oct, 2021): A rather picky remark is that ethics is not the same as morals. Crudely stated, ethics is a philosophical area studying ethical issues and dilemmas, while all people have (distinct) moral convictions on how they should live and what counts as good behaviour. Cultural and religious differences influence... [&#x2192; read more](https://www.ethicschool.nl/is-the-choice-to-share-research-data-an-ethical-decision)
-{: .more-link .more-link--text}
 
+## Internal FAIR resources
+{% include childrenTOC.html page=page pages=site.pages %}
+
+<!--- To be additionally covered:
+- FAIR principles and their interpretation
+- FAIR resources
+- FAIR maturity indices
+--->
 
 ## External FAIR resources
 [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
@@ -64,16 +64,5 @@ GO FAIR is a bottom-up, stakeholder-driven and self-governed initiative that aim
 [GO FAIR Implementation Network Advanced Nano](https://www.go-fair.org/implementation-networks/overview/advancednano/)
 This Implementation Network actively supports the implementation of the FAIR principles in the current nano-EHS databases, i.e. data on NM physicochemical characteristics, release and exposure, toxicity and functionality.
 {: .more-link .more-link--webpages}
-[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html)
-Guidance from [The Turing Way](https://the-turing-way.netlify.app/) about how to make research objects citable and consequently more findable.
-{: .more-link .more-link--webpages}
 
 
-## Internal FAIR resources
-{% include childrenTOC.html page=page pages=site.pages %}
-
-<!--- To be additionally covered:
-- FAIR principles and their interpretation
-- FAIR resources
-- FAIR maturity indices
---->
