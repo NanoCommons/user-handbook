@@ -30,3 +30,7 @@ Literature curated data describing nanomaterials in terms of their intrinsic, ex
 [Nanomaterial-biological interactions knowledgebase](http://nbi.oregonstate.edu/)
 Repository for annotated data on nanomaterial characterization (purity, size, shape, charge, composition, functionalization, agglomeration state), synthesis methods, and nanomaterial-biological interactions (beneficial, benign or deleterious) defined at multiple levels of biological organization (molecular, cellular, organismal)
 {: .more-link .more-link--app}
+
+FAIR CookBook [How to Register a Dataset with Wikidata](https://faircookbook.elixir-europe.org/content/recipes/findability/registeringDatasets)
+Guidance that describes how published data sets can be made more findable by sharing metadata in Wikidata.
+{: .more-link .more-link--app}
