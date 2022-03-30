@@ -27,9 +27,13 @@ To change this, training resources are collected here, which not only describe t
     5. Data is not used as a strategic resource for further exploitation and growth.
 7. Positive socio-economic value: a [recent study](https://ufm.dk/en/publications/2018/filer/preliminary-analysis-introduction-of-fair-data-in-denmark_oxford-research-og-hbs.pdf) commissioned by the Danish Agency for Science and Higher Education concluded that by making FAIR 50% of all data produced in Denmark, the socio-economic net present value will be about DKK 2 billion (€268mln) over a 40-year period. This estimate is based on the most conservative calculation assumptions found in literature, while disregarding the benefits that would fall to other countries if the FAIR data concept is introduced in Denmark; nor have any benefits gained from a FAIR data collaboration with other countries been included in the calculations.
 
-[**Want to read more why not sharing data is bad?**](whyFAIR)
+[**Need more reasons why not sharing data is bad?**](whyFAIR)
 
 ## Start becoming FAIR
+[Annotating Your Experimental Data](https://www.youtube.com/watch?v=YSH-COr30BI&list=PL0Q0VZW0kRfCUjAuiSbnA1SrkCz9MRiEN&index=2)
+3 June 2020. Learn to enrich your (published) data to make it have more impact. Description of experimental data was aligned to community terminology (ontology terms). Experiences were gathered how you can make your research articles findable by other researchers. [More info...](https://zenodo.org/record/3772185#.Ybiw173MKUk)
+{: .more-link .more-link--video}
+
 [FAIR CookBook: How to Register a Dataset with Wikidata](https://faircookbook.elixir-europe.org/content/recipes/findability/registeringDatasets)
 Guidance that describes how published data sets can be made more findable by sharing metadata in Wikidata.
 {: .more-link .more-link--app}
