@@ -11,7 +11,7 @@ nav_order: 979
 
 # If you want to go far go together
 Collaborative research supported by NanoCommons transnational access, 
-Safe-by-design data and software platform interoperability and integration workshop, 9 November 2021
+Safe-by-Design data and software platform interoperability and integration workshop, 9 November 2021
 {: .lead }
 
 NanoCommons, in a joint initiative with the NanoSafety Cluster (NSC), organised an online interactive workshop to foster collaborative research by trying to bring the nanosafety community together and to work hands-on on establishing ways to make data and software platforms, developed in different projects, talk to each other.
@@ -64,7 +64,7 @@ Additional information: [Jaqpot]({{ site.baseurl }}/nanoinformatics/nanoQSAR/)
 
 <div class="more-link more-link--video">
 <a href="https://www.youtube.com/watch?v=xhhjEJSfGgc">Nanoinformatics TA services: NanoCommons KNIME nodes - will they blend?</a>
-<p>Implementation of complex safe-by-design workflows using KNIME, Enalos and modelling tools from different platforms.<br> 
+<p>Implementation of complex Safe-by-Design workflows using KNIME, Enalos and modelling tools from different platforms.<br> 
 Additional information:</p>
 <ul>
 <li><a href="{{ site.baseurl }}/nanoinformatics/nanoQSAR/">Enalos</a></li>

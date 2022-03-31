@@ -12,7 +12,7 @@ nav_order: 10004
 The EU-funded NanoSolveIT project is introducing an _in silico_ Integrated Approach to Testing and Assessment (IATA) for NMs, implemented as a decision support system presented via stand-alone open software and a cloud platform. 
 {: .lead }
 
-NanoSolveIT's knowledge-based infrastructure for data hosting, sharing and exploitation via predictive modelling, supports NM grouping and risk assessment using nanodescriptors that are predictively linked to NM functionality, exposure and hazard. Project outcomes will benefit stakeholders at each stage of the NM value chain. NanoSolveIT Cloud Platform contains an extensive breadth of integrated models ranging from NM-biomolecule and cell interactions, models for omics analysis and AOP generation, release and exposure models, toxicokinetics and PBPK, and ecotoxicity, all delivered within a benchmarked IATA for nanosafety assessment, to enable safe-by-design NM development and NMs Risk Governance.  
+NanoSolveIT's knowledge-based infrastructure for data hosting, sharing and exploitation via predictive modelling, supports NM grouping and risk assessment using nanodescriptors that are predictively linked to NM functionality, exposure and hazard. Project outcomes will benefit stakeholders at each stage of the NM value chain. NanoSolveIT Cloud Platform contains an extensive breadth of integrated models ranging from NM-biomolecule and cell interactions, models for omics analysis and AOP generation, release and exposure models, toxicokinetics and PBPK, and ecotoxicity, all delivered within a benchmarked IATA for nanosafety assessment, to enable Safe-by-Design NM development and NMs Risk Governance.  
 
 [Project website](https://nanosolveit.eu/)
 {: .more-link .more-link--webpages }

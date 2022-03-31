@@ -38,6 +38,6 @@ Or choose directly from the one you like the most:
 
 ## Supporting SSbD
 
-[NanoCommons Safe-by-design data and software platform interoperability and integration workshop](../2021-SbD-integration-workshop/)
+[NanoCommons Safe-by-Design data and software platform interoperability and integration workshop]({{ site.baseurl }}/training-courses/2021-SbD-integration-workshop/)
 9 November 2021. Collaborative research supported by NanoCommons transnational access. [More info...](https://zenodo.org/record/5752073#.Ybitq73MKUk)
 {: .more-link .more-link--video}

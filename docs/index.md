@@ -136,7 +136,7 @@ If you are a
 - data manager, curator or steward and want to become more
 - computer geek
 
-in the area of nanosafety, nanoinformatics or material safe-by design or want to become one, then this handbook is for you.
+in the area of nanosafety, nanoinformatics or material Safe-by-Design or want to become one, then this handbook is for you.
 
 {% include clickable_image.html image_name="StartingPage.png" image_width=890 image_height=577 image_areas=page.topics %}
 
