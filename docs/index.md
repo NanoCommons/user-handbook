@@ -128,7 +128,7 @@ topics:
 }
 </script>
 
-This online resource collects and organizes knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics.
+This online resource collects and organizes knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics as well as areas like Safe-and-Sustainable-by-Design directly profiting from data, tools and services.
 {: .lead }
 
 If you are a
