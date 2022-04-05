@@ -11,16 +11,22 @@ nav_order: 500
 What is SSbD? 
 {: .lead }
 
-[2nd Safe and Sustainable by Design stakeholder workshop](https://www.youtube.com/watch?v=Vz1rGpI7jIU) 
+[2nd Safe and Sustainable by Design stakeholder workshop](https://www.youtube.com/watch?v=Vz1rGpI7jIU)
+Workshop organised by the European Commission streamed live on 22 March 2022 <br>
 <img src="{{ site.baseurl }}/images/SSbD/HE_SSbDWorkshop.jpg" width="200" class="image--left">
 The EU Chemicals Strategy for Sustainability action plan foresees the development of a framework towards safe and sustainable by design (SSbD) criteria for chemicals and materials. SSbD is an approach to the design, development, production and use of chemicals and materials that focuses on providing a function (or service), while avoiding or reducing harmful impacts to human health and the environment. SSbD aims at facilitating the industrial transition towards a zero pollution/toxic-free, climate-neutral and resource-efficient economy. 
 {: .more-link .more-link--video}
 
 
 Hear nano-specific SSbD definitions from speakers of [SABYDOMA's "A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design" workshop]({{ site.baseurl }}/SSbD2/SABYDOMA_SSbDWorkshop/) 
-<img src="{{ site.baseurl }}/images/SSbD/SABYDOMA_SSbDWorkshopSpeakers.jpg">
+18 Feb. 2022 <br>
+<a href="{{ site.baseurl }}/SSbD2/SABYDOMA_SSbDWorkshop/"><img src="{{ site.baseurl }}/images/SSbD/SABYDOMA_SSbDWorkshopSpeakers.jpg"></a>
 {: .more-link .more-link--webpage}
 
+[Some criteria from the European Chemical Industry Council (CEFIC)](https://cefic.org/a-solution-provider-for-sustainability/safe-and-sustainable-by-design/)
+<a href="https://cefic.org/a-solution-provider-for-sustainability/safe-and-sustainable-by-design/"><img src="{{ site.baseurl }}/images/SSbD/CEFIC-criteria.jpg" class="image--left"></a>
+_The EU chemical industry sees “Safe and sustainable-by-design” as a process to accelerate widespread market uptake of new and alternative chemical products and technologies that deliver greater consumer confidence in their safety, environmental and societal benefits and advance the transition towards a circular economy and climate-neutral society._<br clear="left">
+{: .more-link .more-link--webpage}
 
 ## Supporting SSbD
 
