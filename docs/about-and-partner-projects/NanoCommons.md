@@ -10,8 +10,10 @@ nav_order: 10001
 <img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="100" class="image--right"/>
 #  Partner project NanoCommons
 
-NanoCommons delivers a sustainable and openly accessible nanoinformatics framework (knowledgebase and integrated computational tools, supported by expert advice, data interpretation and training), for assessment of the risks of NMs, their products and their formulations. NanoCommons combines Joint Research Activities to implement the nanoinformatics Knowledge Commons, Networking Activities to facilitate engagement with the research community, industry and regulators, and provision of funded Access to the nanoinformatics tools via funded calls for Transnational Access.
+NanoCommons delivers a sustainable and openly accessible nanoinformatics framework (knowledgebase and integrated computational tools, supported by expert advice, data interpretation and training), for assessment of the risks of NMs, their products and their formulations. 
 {: .lead }
+
+NanoCommons combines Joint Research Activities to implement the nanoinformatics Knowledge Commons, Networking Activities to facilitate engagement with the research community, industry and regulators, and provision of funded Access to the nanoinformatics tools via funded calls for Transnational Access.
 
 [Project website](https://nanocommons.eu)
 {: .more-link .more-link--webpages}

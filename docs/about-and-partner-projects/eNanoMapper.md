@@ -10,9 +10,10 @@ nav_order: 10007
 <img src="{{ site.baseurl }}/images/logos/eNanoMapper.png" width="200" class="image--right" />
 #  Partner project eNanoMapper
 
-eNanoMapper developed concepts builds on common components and Application Programming Interfaces (APIs) to address data and models interoperability challenges. It used semantic technologies to characterize engineered nanomaterials, linked databases and ensured a flexible data model. The main outcomes were the eNanoMapper database, the eNanoMapper ontology and modelling tools all continued and used in many ongoing projects.
+eNanoMapper developed concepts builds on common components and Application Programming Interfaces (APIs) to address data and models interoperability challenges. 
 {: .lead }
 
+It used semantic technologies to characterize engineered nanomaterials, linked databases and ensured a flexible data model. The main outcomes were the eNanoMapper database, the eNanoMapper ontology and modelling tools all continued and used in many ongoing projects.
 
 [Project website](http://www.enanomapper.net/)
 {: .more-link .more-link--webpages }

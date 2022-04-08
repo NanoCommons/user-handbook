@@ -18,9 +18,9 @@ The EU Chemicals Strategy for Sustainability action plan foresees the developmen
 {: .more-link .more-link--video}
 
 
-Hear nano-specific SSbD definitions from speakers of [SABYDOMA's "A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design" workshop]({{ site.baseurl }}/SSbD/SABYDOMA_SSbDWorkshop/) 
+Hear nano-specific SSbD definitions from speakers of [SABYDOMA's "A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design" workshop]({{ site.baseurl }}/SSbD/SABYDOMA-SSbDWorkshop/) 
 18 Feb. 2022 <br>
-<a href="{{ site.baseurl }}/SSbD/SABYDOMA_SSbDWorkshop/"><img src="{{ site.baseurl }}/images/SSbD/SABYDOMA_SSbDWorkshopSpeakers.jpg"></a>
+<a href="{{ site.baseurl }}/SSbD/SABYDOMA-SSbDWorkshop/"><img src="{{ site.baseurl }}/images/SSbD/SABYDOMA_SSbDWorkshopSpeakers.jpg"></a>
 {: .more-link .more-link--webpage}
 
 [Steps in the approach to safe and sustainable design - European Environment Agency (EEA)](https://www.eea.europa.eu/publications/designing-safe-and-sustainable-products-1)

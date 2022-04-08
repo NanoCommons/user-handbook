@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SABYDOMA SSbD Workshop
-permalink: /SSbD/SABYDOMA_SSbDWorkshop
+permalink: /SSbD/SABYDOMA-SSbDWorkshop/
 parent: Safe-and-Sustainable-by-Design
 has_children: false
 nav_exclude: false

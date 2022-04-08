@@ -31,7 +31,7 @@ The project developed an online integrated clickable framework for the assessmen
 [Clickable Framework](http://www.nanofase.eu/exposure_assessment_framework)
 {: .more-link .more-link--webpages }
 
-[NanoFASE data can be accessed via the NanoCommons Knowledge Base](http://www.nanofase.eu/)
+[NanoFASE data can be accessed via the NanoCommons Knowledge Base](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
 {: .more-link .more-link--app }
 
 ## Introduction to NanoFASE

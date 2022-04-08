@@ -10,9 +10,10 @@ nav_order: 10005
 <img src="{{ site.baseurl }}/images/logos/gracious.png" width="200" class="image--right" />
 
 # Partner project GRACIOUS
-GRACIOUS has developed a highly innovative science-based framework that supports the assessment of risk posed by the ever increasing array of nanomaterials on the market and under development. The framework will streamline the process for assessing their risk by logically grouping nanomaterials thereby allowing extrapolation between (read-across) nanomaterials and reducing the need to assess exposure to and toxicity on a case by case basis.
-Short description
+GRACIOUS has developed a highly innovative science-based framework that supports the assessment of risk posed by the ever increasing array of nanomaterials on the market and under development. 
 {: .lead }
+
+The framework will streamline the process for assessing their risk by logically grouping nanomaterials thereby allowing extrapolation between (read-across) nanomaterials and reducing the need to assess exposure to and toxicity on a case by case basis.
 
 [Project website](https://www.h2020gracious.eu)
 {: .more-link .more-link--webpages }
