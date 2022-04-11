@@ -12,7 +12,6 @@ has_references: true
 # Data management: general and nanosafety-specific aspects
 
 ## The data management life cycle
-
 Based on: Papadiamantis et al., 2020
 {: .source }
 

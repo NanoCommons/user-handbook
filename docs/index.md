@@ -26,6 +26,9 @@ projects:
   - url: http://www.enanomapper.org/
     logo: eNanoMapper.png
     width: 150
+  - url: https://www.asina-project.eu/
+    logo: ASINA.png
+    width: 150
 
 topics:
   - name: planning
