@@ -22,4 +22,4 @@ The impact and functioning of the ASINA methodology are tested across two value 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ntD3pk3yxPI" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
-_SABYDOMA is a 3 year project funded by the European Commission within Horizon2020 (Grant Agreement 862296; 2020 - 2023)._
+_ASINA is a 4 year project funded by the European Commission within Horizon2020 (Grant Agreement 862444; 2020 - 2024)._
