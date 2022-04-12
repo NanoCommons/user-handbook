@@ -10,7 +10,8 @@ has_references: true
 ---
 #  Roles and responsibilities in the data life cycle
 
-Based on: Papadiamantis et al., 2020
+Based on: Papadiamantis et al., 2020<br>
+© 2020 by the authors. Licensee MDPI
 {: .source }
 
 <table class="table--sm">

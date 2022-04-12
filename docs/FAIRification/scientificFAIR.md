@@ -10,7 +10,8 @@ has_references: true
 ---
 
 # Scientific FAIR principles
-Based on: Papadiamantis et al., 2020
+Based on: Papadiamantis et al., 2020<br>
+© 2020 by the authors. Licensee MDPI
 {: .source }
 
 Data sharing and the commitment for doing so got an extreme push by funding agencies introducing more and more open data as a funding requirement and then especially by the release of the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). 

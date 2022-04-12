@@ -17,7 +17,8 @@ You might also be interested in approaches to score the completeness, quality an
 
 
 ## Shorter and more focused definitions: (compared to further down)
-Based on: Marchese Robinson et al., 2016
+Based on: Marchese Robinson et al., 2016<br>
+© 2016 by the authors
 {: .source }
 
 In the recommendations given by Marchese Robinson et al., shorter definitions than the original concepts presented in the same paper were proposed to the community for the sake of clarity:
@@ -52,7 +53,8 @@ More detailed explanations to these terminology recommendations can be found in 
 6. Format compliance of a dataset is not considered a data quality issue.
 
 ## Broad and flexible definitions employed for reviewing prior work
-Based on: Marchese Robinson et al., 2016 and references therein.
+Based on: Marchese Robinson et al., 2016 and references therein.<br>
+© 2016 by the authors
 {: .source }
 
 The original set of definitions, all the previous definitions are in some way or another derived from, is taken from Marchese Robinson et al.
