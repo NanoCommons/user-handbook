@@ -71,5 +71,7 @@
 - name: 'Furxhi et al., 2021a'
   tooltip: Furxhi, I.; Koivisto, A.J.; Murphy, F.; Trabucco, S.; Del Secco, B.; Arvanitis, A. Data Shepherding in Nanotechnology. The Exposure Field Campaign Template. <i>Nanomaterials</i> <b>2021</b>, <i>11</i>, 1818. <a href=\"https://doi.org/10.3390/nano11071818\">https://doi.org/10.3390/nano11071818</a>.
 - name: 'Furxhi et al., 2021b'
-  tooltip: 'Furxhi, I.; Varesano, A.; Salman, H.; Mirzaei, M.; Battistello, V.; Tomasoni, I.T.; Blosi, M. Data Shepherding in Nanotechnology: An Antimicrobial Functionality Data Capture Template. Coatings 2021, 11, 1486. <a href=\"https://doi.org/10.3390/coatings11121486\">https://doi.org/10.3390/coatings11121486</a>.'
+  tooltip: 'Furxhi, I.; Varesano, A.; Salman, H.; Mirzaei, M.; Battistello, V.; Tomasoni, I.T.; Blosi, M. Data Shepherding in Nanotechnology: An Antimicrobial Functionality Data Capture Template. <i>Coatings</i> <b>2021</b>, <i>11</i>, 1486. <a href=\"https://doi.org/10.3390/coatings11121486\">https://doi.org/10.3390/coatings11121486</a>.'
+- name: 'Furxhi, 2022'
+  tooltip: 'Furxhi, I. Health and environmental safety of nanomaterials: O Data, Where Art Thou? <i>NanoImpact</i> <b>2022</b>, <i>25</i>, 100378. <a href=\"https://doi.org/10.1016/j.impact.2021.100378\">https://doi.org/10.1016/j.impact.2021.100378</a>.'
 
