@@ -29,6 +29,9 @@ projects:
   - url: https://www.asina-project.eu/
     logo: ASINA.png
     width: 150
+  - url: https://www.sabydoma.eu/
+    logo: Sabydoma.png
+    width: 150
 
 topics:
   - name: planning
