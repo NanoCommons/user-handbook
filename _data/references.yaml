@@ -66,12 +66,18 @@
   tooltip: 'Eynden, V. van den; UK Data Archive. <i>Managing and Sharing Data: A Best Practice Guide for Researchers</i>; UK Data Archive: Colchester, 2011. <a href=\"http://www.data-archive.ac.uk/media/2894/managingsharing.pdf\">http://www.data-archive.ac.uk/media/2894/managingsharing.pdf</a>.'
 - name: Faria et al., 2018
   tooltip: 'Faria, M.; Björnmalm, M.; Thurecht, K. J.; Kent, S. J.; Parton, R. G.; Kavallaris, M.; Johnston, A. P. R.; Gooding, J. J.; Corrie, S. R.; Boyd, B. J.; Thordarson, P.; Whittaker, A. K.; Stevens, M. M.; Prestidge, C. A.; Porter, C. J. H.; Parak, W. J.; Davis, T. P.; Crampin, E. J.; Caruso, F. Minimum Information Reporting in Bio–Nano Experimental Literature. <i>Nature Nanotech</i> <b>2018</b>, <i>13</i> (9), 777–785. <a href=\"https://doi.org/10.1038/s41565-018-0246-4\">https://doi.org/10.1038/s41565-018-0246-4</a>.'
-- name: Furxhi et al., 2021
-  tooltip: 'Furxhi, I.; Arvanitis, A.; Murphy, F.; Costa, A.; Blosi, M. Data Shepherding in Nanotechnology. The Initiation. <i>Nanomaterials</i> <b>2021</b>, <i>11</i>, 1520. <a href=\"https://doi.org/10.3390/nano11061520\">https://doi.org/10.3390/nano11061520</a>.'
 - name: 'Furxhi et al., 2021a'
   tooltip: Furxhi, I.; Koivisto, A.J.; Murphy, F.; Trabucco, S.; Del Secco, B.; Arvanitis, A. Data Shepherding in Nanotechnology. The Exposure Field Campaign Template. <i>Nanomaterials</i> <b>2021</b>, <i>11</i>, 1818. <a href=\"https://doi.org/10.3390/nano11071818\">https://doi.org/10.3390/nano11071818</a>.
 - name: 'Furxhi et al., 2021b'
   tooltip: 'Furxhi, I.; Varesano, A.; Salman, H.; Mirzaei, M.; Battistello, V.; Tomasoni, I.T.; Blosi, M. Data Shepherding in Nanotechnology: An Antimicrobial Functionality Data Capture Template. <i>Coatings</i> <b>2021</b>, <i>11</i>, 1486. <a href=\"https://doi.org/10.3390/coatings11121486\">https://doi.org/10.3390/coatings11121486</a>.'
+- name: Furxhi et al., 2021
+  tooltip: 'Furxhi, I.; Arvanitis, A.; Murphy, F.; Costa, A.; Blosi, M. Data Shepherding in Nanotechnology. The Initiation. <i>Nanomaterials</i> <b>2021</b>, <i>11</i>, 1520. <a href=\"https://doi.org/10.3390/nano11061520\">https://doi.org/10.3390/nano11061520</a>.'
 - name: 'Furxhi, 2022'
   tooltip: 'Furxhi, I. Health and environmental safety of nanomaterials: O Data, Where Art Thou? <i>NanoImpact</i> <b>2022</b>, <i>25</i>, 100378. <a href=\"https://doi.org/10.1016/j.impact.2021.100378\">https://doi.org/10.1016/j.impact.2021.100378</a>.'
+- name: NanoFabNet, 2021a
+  tooltip: 'NanoFabNet. Challenges & Opportunities of Validating, Harmonising & Standardising industrial-scale Nanofabrication. <i>Report</i> <b>2021</b>. <a href=\"https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210701_NanoFabNet_Report_Challenges-and-Opportunities-of-Validating-Nanofabrication.pdf\">https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210701_NanoFabNet_Report_Challenges-and-Opportunities-of-Validating-Nanofabrication.pdf</a>.'
+- name: NanoFabNet, 2021
+  tooltip: 'NanoFabNet. Common Challenges & Opportunities in sustainable Nanofabrication. <i>Report</i> <b>2021</b>. <a href=\"https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf\">https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf</a>.'
+- name: 'Rawat, 2015'
+  tooltip: 'Rawat, R.S. Dense Plasma Focus – From Alternative Fusion Source to Versatile High Energy Density Plasma Source for Plasma Nanotechnology. <i>J. Phys.: Conf. Ser.</i> <b>2015</b>, <i>591</i>, 012021. <a href=\"https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021\">https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021</a>.' 
 
