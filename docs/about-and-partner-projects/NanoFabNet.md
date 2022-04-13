@@ -18,10 +18,10 @@ The NanoFabNet Project Partners are using their long experience with establishin
 [Project website](https://nanofabnet.eu/)
 {: .more-link .more-link--webpages }
 
-[The NanoFabNet Hub](https://nanofabnet.eu/about/the-nanofabnet-hub/)
+[The NanoFabNet Hub](www.nanofabnet.net)
 {: .more-link .more-link--webpages }
 
-[The NanoFabNet outputs](https://acumenist.com/tag/nanofabnet-project/)
+[The NanoFabNet outputs](https://www.nanofabnet.net/press-media-nanofabnet/#publications)
 {: .more-link .more-link--text }
 
 ## Introduction to NanoFabNet
