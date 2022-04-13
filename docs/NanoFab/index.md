@@ -12,11 +12,11 @@ nav_order: 500
 Nanofabrication is the essential bridge between the discoveries of the nanosciences and real-world nanotechnology products. 
 {: .lead }
 
-Based on: NanoFabNet, 2021 and NanoFabNet, 2021a<br>
-© 2021 by NanoFabNet
+Partly based on: NanoFabNet, 2021, NanoFabNet, 2021a, [https://nanofabnet.eu/](https://nanofabnet.eu/) and [https://susnanofab.eu/](https://susnanofab.eu/)<br>
+© 2021 by NanoFabNet and SUSNANOFAB
 {: .source }
 
-It encompasses many processes from the design, manipulation and control of matter at the nanoscale to the manufacture of nanoscale materials, nanostructures, components, devices and complex systems that exploit the unique physical and chemical phenomena that occur at these smaller scales, such as quantum and surface effects. The dimensional scale for nanofabrication is typically 1 to 100 nm and it is usually at this sub-micron scale that unusual or improved material behaviour is observed, which can be exploited for product development. 
+Nanofabrication has the potential to address major socio-economic challenges, from better and affordable health care to cleaner energy and transports, improved consumer goods and higher living standards. It encompasses many processes from the design, manipulation and control of matter at the nanoscale to the manufacture of nanoscale materials, nanostructures, components, devices and complex systems that exploit the unique physical and chemical phenomena that occur at these smaller scales, such as quantum and surface effects. The dimensional scale for nanofabrication is typically 1 to 100 nm. It is usually at this sub-micron scale that unusual or improved material behaviour is observed, which can be exploited for production of multifunctional devices with unique properties for a vast range of applications, thus having a profound impact on a multitude of industrial sectors. The vast potential of nanofabrication is undeniable, and it must be optimized. 
 
 The international standard ISO/TS 80004-8 Nanotechnologies -Vocabulary - Part 8: Nanomanufacturing processes makes an inventory of the different processes, which demonstrates the great diversity of existing approaches, each with their own specificities. The ISO/TS 80004-8 differentiates also between the terms "nanofabrication" and "nanomanufacturing" by arguing that nanomanufacturing encompasses a broader range of processes than does nanofabrication, as it takes into account all nanofabrication techniques, as well as techniques associated with materials processing and chemical synthesis. In the following, however, the terms nanofabrication and nanomanufacturing will be used interchangeably.
 

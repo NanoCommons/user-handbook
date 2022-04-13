@@ -13,7 +13,7 @@ projects:
     width: 256
   - url: https://www.h2020gracious.eu/
     logo: gracious.png
-    width: 200
+    width: 150
   - url: https://nanosolveit.eu/
     logo: nanosolveit.jpg
     width: 200
@@ -31,6 +31,12 @@ projects:
     width: 150
   - url: https://www.sabydoma.eu/
     logo: Sabydoma.png
+    width: 200
+  - url: https://nanofabnet.eu/
+    logo: NanoFabNet.png
+    width: 200
+  - url: https://susnanofab.eu/
+    logo: SUSNANOFAB.png
     width: 150
 
 topics:
