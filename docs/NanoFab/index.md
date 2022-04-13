@@ -28,7 +28,7 @@ nanoparticles production.
 
 ## Sustainable nanofabrication
 <img src="{{ site.baseurl }}/images/NanoFab/NanoFabNet2.jpg" class="image--right">
-As nanofabrication and sustainability are quite young fields, the cross-over between them is even more recent. By searching both combined terms with an online search engine, the first results found are for European projects such as [SusNanoFab](https://susnanofab.eu/) and [NanoFabNet](https://nanofabnet.eu/) showing that this subject is particularly on the rise. The main issues of sustainable nanofabrication were highlighted by the stakeholders during the 1st NanoFabNet Development Workshop (DW), by ranking categories on their importance on this subject. The categories considered to be of high importance are: 
+As nanofabrication and sustainability are quite young fields, the cross-over between them is even more recent. By searching both combined terms with an online search engine, the first results found are for European projects such as [SusNanoFab]({{ site.baseurl }}/about-and-partner-projects/SUSNANOFAB/) and [NanoFabNet]({{ site.baseurl }}/about-and-partner-projects/NanoFabNet/) showing that this subject is particularly on the rise. The main issues of sustainable nanofabrication were highlighted by the stakeholders during the 1st NanoFabNet Development Workshop (DW), by ranking categories on their importance on this subject. The categories considered to be of high importance are: 
 - metrology/characterisation in association with the production processes
 - sustainability, training and standardisation
 
