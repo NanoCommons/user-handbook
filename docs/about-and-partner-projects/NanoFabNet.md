@@ -5,7 +5,7 @@ title: NanoFabNet
 description: Short intro to NanoFabNet
 permalink: /about-and-partner-projects/NanoFabNet/
 parent: About & partner projects
-nav_exclude: true
+nav_exclude: false
 nav_order: 10009
 ---
 <img src="{{ site.baseurl }}/images/logos/NanoFabNet.png" width="200" class="image--right" />
@@ -18,7 +18,7 @@ The NanoFabNet Project Partners are using their long experience with establishin
 [Project website](https://nanofabnet.eu/)
 {: .more-link .more-link--webpages }
 
-[The NanoFabNet Hub](www.nanofabnet.net)
+[The NanoFabNet Hub](https://www.nanofabnet.net)
 {: .more-link .more-link--webpages }
 
 [The NanoFabNet outputs](https://www.nanofabnet.net/press-media-nanofabnet/#publications)
