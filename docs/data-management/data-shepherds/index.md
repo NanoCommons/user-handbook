@@ -9,7 +9,7 @@ has_children: true
 has_references: true
 has_toc: true
 nav_order: 220
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Data Shepherds at work

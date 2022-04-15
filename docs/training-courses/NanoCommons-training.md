@@ -13,6 +13,11 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 This is a list of all recordings from training webinars offered by NanoCommons. 
 {: .lead }
 
+[Instance Maps Breaking up your experiments into logical blocks](https://www.youtube.com/watch?v=uxs-4Nn8Vh8)
+7 April 2022. In line with NanoCommons’s overall goal of embedding data management activities much earlier in the experimental process, integrating instance maps directly into the study design, protocol development and on-the-fly (meta)data recording can bring additional advantages, e.g., when presenting complex studies to others, as part of (meta)data completeness, and for reporting or retrieving specific information from one part of a study. <!--- [More info...](https://zenodo.org/record/XXXX)--->
+{: .more-link .more-link--video}
+
+
 [Electronic Lab Notebooks Webinar](https://www.youtube.com/watch?v=FWbkDrVbg6M)
 13 and 27 January 2022. This interactive online workshops on implementing Electronic Laboratory Notebooks (ELNs) for nanosafety assessment was given in two parts:<br>
 [Electronic Lab Notebooks – Live Demonstration](https://www.youtube.com/watch?v=TrqAOfm1SjY)<br>
@@ -21,7 +26,7 @@ This is a list of all recordings from training webinars offered by NanoCommons.
 {: .more-link .more-link--video}
 
 
-[Nanosafety and the semantic web]({{ site.baseurl }}//training-courses/NanoCommons-training-semantic-web/)
+[Nanosafety and the semantic web]({{ site.baseurl }}/training-courses/NanoCommons-training-semantic-web/)
 8-9 December 2021, From natural language to computational processing: RDF, SPARQL and ontologies
 {: .more-link .more-link--webpages}
 

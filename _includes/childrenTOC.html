@@ -1,6 +1,6 @@
 {% assign children_list = include.pages | sort:"nav_order" %}
 {% for child in children_list %}
-{% if child.parent == include.page.title and child.title != include.page.title %}
+{% if child.parent == include.page.title and child.title != include.page.title and child.nav_exclude != true %}
 <p class="more-link more-link--text">
 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
 {% if child.description_long != nil %}{{ child.description_long }}{% endif %}

@@ -7,37 +7,40 @@ permalink: /
 projects:
   - url: https://nanocommons.eu
     logo: nanocommons.png
-    width: 100
+    width: 80
   - url: https://openrisknet.org
     logo: openrisknet.png
-    width: 256
+    width: 200
   - url: https://www.h2020gracious.eu/
     logo: gracious.png
-    width: 150
+    width: 120
   - url: https://nanosolveit.eu/
     logo: nanosolveit.jpg
-    width: 200
+    width: 160
   - url: http://www.acenano-project.eu/
     logo: acenano.png
-    width: 200
+    width: 160
   - url: http://www.nanofase.eu/
     logo: nanofase.png
-    width: 200
+    width: 160
   - url: http://www.enanomapper.org/
     logo: eNanoMapper.png
-    width: 150
+    width: 120
   - url: https://www.asina-project.eu/
     logo: ASINA.png
-    width: 150
+    width: 120
   - url: https://www.sabydoma.eu/
     logo: Sabydoma.png
-    width: 200
+    width: 160
   - url: https://nanofabnet.eu/
     logo: NanoFabNet.png
-    width: 200
+    width: 160
   - url: https://susnanofab.eu/
     logo: SUSNANOFAB.png
-    width: 150
+    width: 120
+  - url: https://ceint.duke.edu/research/nikc
+    logo: NIKC.png
+    width: 120
 
 topics:
   - name: planning

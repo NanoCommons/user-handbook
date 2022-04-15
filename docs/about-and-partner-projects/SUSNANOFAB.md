@@ -6,7 +6,7 @@ description: Short intro to SUSNANOFAB
 permalink: /about-and-partner-projects/SUSNANOFAB/
 parent: About & partner projects
 nav_exclude: true
-nav_order: 10009
+nav_order: 10011
 ---
 <img src="{{ site.baseurl }}/images/logos/SUSNANOFAB.png" width="200" class="image--right" />
 #  Partner project SUSNANOFAB

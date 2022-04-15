@@ -5,7 +5,7 @@ permalink: /data-management/NanoCommons-data-workflows/
 parent: Data management
 has_children: true
 has_toc: false
-nav_order: 230
+nav_order: 270
 ---
 
 # Workflows for data integrating into the infrastructure

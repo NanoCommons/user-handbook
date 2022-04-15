@@ -6,9 +6,9 @@ description: "Inspired by the publication of the concept and the benefits seen i
 permalink: /data-management/data-shepherds/ASINA-data-shepherd/
 parent: Data shepherds at work
 grand_parent: Data management
-nav_order: 211
+nav_order: 221
 has_references: true
-nav_exclude: true
+nav_exclude: false
 ---
 
 #  ASINA's data shepherd concept

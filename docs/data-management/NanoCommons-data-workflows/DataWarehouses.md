@@ -5,7 +5,7 @@ permalink: /data-management/NanoCommons-data-workflows/DataWarehouses/
 parent: NanoCommons data workflows
 grand_parent: Data management
 has_children: false
-nav_order: 232
+nav_order: 272
 ---
 
 # Integration of public data warehouses
