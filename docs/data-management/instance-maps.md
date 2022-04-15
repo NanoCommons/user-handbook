@@ -13,7 +13,7 @@ nav_order: 250
 Instance maps enabling users to follow nanomaterial transformations while capturing necessary metadata.
 {: .lead}
 
-<img src="{{ site.baseurl }}/images/data-management/NIKC-instance-map1.png" class="image--right-large" />
+<img src="{{ site.baseurl }}/images/data-management/NIKC-instance-map1.png" width="600" class="image--right-large" />
 Based on: [The NanoFASE NIKC Curation Manual]({{site.baseurl}}/presentations/data-management/Knowledge%20Base_EU-NIKC%20Curation%20Manual_text_20190826.pdf)<br>
 © 2019 by Jaleesia Amos, Christine Ogilvie Hendren, Anastasios Papadiamantis, Marianne Matzke, Lee Walker, Claus Svendsen
 {: .source}
