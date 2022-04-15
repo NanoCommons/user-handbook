@@ -3,7 +3,7 @@ layout: page
 title: NIKC
 
 description: Short intro to the NIKC
-permalink: /about-and-partner-projects/NIKC/vbg
+permalink: /about-and-partner-projects/NIKC/
 parent: About & partner projects
 nav_exclude: true
 nav_order: 10012
