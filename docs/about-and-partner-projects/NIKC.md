@@ -5,7 +5,7 @@ title: NIKC
 description: Short intro to the NIKC
 permalink: /about-and-partner-projects/NIKC/
 parent: About & partner projects
-nav_exclude: true
+nav_exclude: false
 nav_order: 10012
 ---
 <img src="{{ site.baseurl }}/images/logos/NIKC.png" width="200" class="image--right" />
@@ -26,6 +26,10 @@ The NIKC is designed to enable flexible analysis across integrated datasets to s
 
 [The NIKC](https://ceint.duke.edu/research/nikc)
 {: .more-link .more-link--webpages }
+
+[Paper with details on the NIKC](https://doi.org/10.1016/j.impact.2021.100331)
+Amos, J.D., Tian, Y., Zhang, Z., Lowry, G.V., Wiesner, M.R. and Hendren, C.O., 2021. The NanoInformatics Knowledge Commons: Capturing spatial and temporal nanomaterial transformations in diverse systems. NanoImpact, 23, p.100331. <a href="https://doi.org/10.1016/j.impact.2021.100331">https://doi.org/10.1016/j.impact.2021.100331</a>
+{: .more-link .more-link--pdf }
 
 ## Introduction to the NIKC
 ![](https://ceint.duke.edu/sites/ceint.duke.edu/files/NIKC.png)

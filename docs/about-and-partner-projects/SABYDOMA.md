@@ -5,7 +5,7 @@ title: SABYDOMA
 description: Short intro to SABYDOMA
 permalink: /about-and-partner-projects/SABYDOMA/
 parent: About & partner projects
-nav_exclude: true
+nav_exclude: false
 nav_order: 10009
 ---
 <img src="{{ site.baseurl }}/images/logos/Sabydoma.png" width="200" class="image--right" />
