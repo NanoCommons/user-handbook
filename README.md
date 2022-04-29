@@ -1,4 +1,5 @@
 # NanoCommons User Handbook
+[![DOI](https://zenodo.org/badge/392611144.svg)](https://zenodo.org/badge/latestdoi/392611144)
 
 This is a resource collecting and structuring knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics. Besides covering general concepts, guidelines and recommendations, it will show, demonstrate and train real-world solutions in the form of data sources, software and workflows integrated or linked into the NanoCommons infrastructure, where both terms are meant in a very broad sense to be able to cover as many solutions as possible from all projects working in the nanosafety area and neighbouring fields.
 
