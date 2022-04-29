@@ -125,7 +125,7 @@ topics:
 ---
 
 # Data and nanoinformatics shepherds’ user guidance handbook
-
+[![DOI](https://zenodo.org/badge/392611144.svg)](https://zenodo.org/badge/latestdoi/392611144)
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
