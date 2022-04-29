@@ -14,7 +14,7 @@ nav_exclude: false
 
 # Data Shepherds at work
 
-Reasons for introducing the concept of data shepherds and its definition can be found in Papadiamantis et al., 2020.
+Reasons for introducing the concept of data shepherds and its [definition]({{site.baseurl}}/data-management/roles/) can be found in Papadiamantis et al., 2020.
 {: .lead }
 
 [Bringing in a data shepherd supporting data curation]({{ site.baseurl }}/demonstration-cases/NanoFASE-demonstration-case/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinetics modeling
+title: Kinetics modelling
 
 description: Physiologically-based kinetics modelling for nanomaterials
 permalink: /nanoinformatics/PBK/

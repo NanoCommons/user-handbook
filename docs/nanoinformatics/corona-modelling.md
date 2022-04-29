@@ -10,7 +10,7 @@ nav_order: 450
 ---
 
 # Corona modelling approaches and tools
-[Introduction to biocorona in silico modeling around nanoparticles](https://www.youtube.com/watch?v=UhnWZCv8Iyk)
+[Introduction to biocorona in silico modelling around nanoparticles](https://www.youtube.com/watch?v=UhnWZCv8Iyk)
 {: .more-link .more-link--video }
 
 [Demonstration case]({{ site.baseurl }}/demonstration-cases/Corona-demonstration-case/)
