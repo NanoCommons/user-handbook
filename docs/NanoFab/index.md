@@ -3,7 +3,6 @@ layout: page
 title: Nanofabrication
 permalink: /NanoFab/
 has_children: false
-nav_exclude: true
 has_references: true
 nav_order: 500
 ---
