@@ -4,7 +4,7 @@ title: Nanofabrication
 permalink: /NanoFab/
 has_children: false
 has_references: true
-nav_order: 500
+nav_order: 700
 ---
 
 # Nanofabrication / nanomanufacturing 
