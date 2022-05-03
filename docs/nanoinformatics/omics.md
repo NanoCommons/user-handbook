@@ -21,7 +21,7 @@ probabilistic or Bayesian models) enable in silico simulations of the toxicity r
 ## Big data in the NanoCommons Knowledge Base (KB)
 The integration of tools for 'omics analysis and mining into the [NanoCommons Knowledge Base]({{ site.baseurl }}/data-management/data-resources/NanoCommons-KB/) serves two purposes. Firstly, to enable the identification of biological mechanisms and pathways associated with toxicity / adverse effects arising from exposure to nanomaterials, and to produce aggregated biologically enriched descriptors. Secondly, many laboratories currently process and analyse their data in a badly protocolled and irreproducible way. Standardising this processing, by providing integrated analysis tools with full capturing of metadata such as tool version, parameter settings, data version used etc. greatly improves reproducibility of analysis and thus generate trust in the results. Coupled with best-practice procedures and workflows realised by the integrated tools this will help to generate results that can be reused, validated and integrated into regulatory procedures, which is a key objective of NanoCommons.
 
-The tools for omics analysis integrated directly into the user interface of the NanoCommons Knowledge Base target non-expert users who will rely on pre-defined analysis methods and parameters without in-depth knowledge of data analysis approaches. The analyses are based on the integration of R-tools1 which have established themselves as the standard for the corresponding analysis approach in the omics data mining expert community. The definition of workflows and default parameters are based on published standards and dedicated research projects.
+The tools for omics analysis integrated directly into the user interface of the NanoCommons Knowledge Base target non-expert users who will rely on pre-defined analysis methods and parameters without in-depth knowledge of data analysis approaches. The analyses are based on the integration of R-tools which have established themselves as the standard for the corresponding analysis approach in the omics data mining expert community. The definition of workflows and default parameters are based on published standards and dedicated research projects.
 The basic workflow enables users to:
 
 1. Select experimental data (transcription, protein, metabolome) in the portal;
@@ -45,7 +45,7 @@ The following methods are currently available and are described below in detail:
 Initial set of tools directed towards analysis of “omics” datasets, including transcriptomics (analysis of changes in gene expression), proteomics (analysis of changes in protein expression), metabolomics and lipidomics (changes in expression of small molecules and lipids, respectively). 
 {: .more-link .more-link--text }
 
-eferences
+References
 {: .references-header }
 - Brown et al., 2011: Brown, M.; Wedge, D.C.; Goodacre, R.; Kell, D.B.; Baker, P.N.; Kenny, L.C.; Mamas, M.A.; Neyses, L.; Dunn, W.B. Automated workflows for accurate mass-based putative metabolite identification in LC/MS-derived metabolomic datasets. <i>Bioinformatics</i> <b>2011</b>, <i>27(8)</i>, 1108-1112. <a href="https://doi.org/10.1093/bioinformatics/btr079">https://doi.org/10.1093/bioinformatics/btr079</a>.
 - Ghosh et al., 2011: Ghosh, S.; Matsuoka, Y.; Asai, Y.; Hsin, K.Y.; Kitano, H. Software for systems biology: from tools to integrated platforms. <i>Nature Reviews Genetics</i> <b>2011</b>, <i>12</i>, 821. <a href="https://www.nature.com/articles/nrg3096">https://www.nature.com/articles/nrg3096</a>.
