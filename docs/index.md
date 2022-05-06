@@ -5,18 +5,21 @@ nav_order: 1
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /
 projects:
+  - url: https://www.nanosafetycluster.eu/
+    logo: NSC.png
+    width: 160
   - url: https://nanocommons.eu
     logo: nanocommons.png
     width: 80
   - url: https://openrisknet.org
     logo: openrisknet.png
     width: 200
-  - url: https://www.h2020gracious.eu/
-    logo: gracious.png
-    width: 120
   - url: https://nanosolveit.eu/
     logo: nanosolveit.jpg
     width: 160
+  - url: https://www.h2020gracious.eu/
+    logo: gracious.png
+    width: 120
   - url: http://www.acenano-project.eu/
     logo: acenano.png
     width: 160
@@ -31,6 +34,9 @@ projects:
     width: 120
   - url: https://www.sabydoma.eu/
     logo: Sabydoma.png
+    width: 160
+  - url: https://www.sabyna.eu/
+    logo: SAbyNA.png
     width: 160
   - url: https://nanofabnet.eu/
     logo: NanoFabNet.png
