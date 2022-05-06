@@ -22,7 +22,7 @@ Safe and sustainable innovation requires a good understanding of the potential h
 [Stay up-to-date](https://www.sabyna.eu/news/)
 {: .more-link .more-link--webpages }
 
-## Introduction to SUSNANOFAB
+## Introduction to SAbyNA
 <iframe width="420" height="315" src="https://www.youtube.com/embed/yXjHiTRbeE0" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 
