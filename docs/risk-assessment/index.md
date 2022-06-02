@@ -52,14 +52,17 @@ Exposure estimation is a pivotal module of every risk assessment workflow. An ex
 {: .more-link .more-link--webpages }
 
 ## Risk Characterization Ratio calculation
-The core component of a RA workflow aims to compare the level of exposure with the relevant hazard limit value to calculate the respective Risk Characterization Ratio (RCR).The first step for creating an exposure scenario(s) is to gather the data regarding the ENM of interest. In particular, its physicochemical properties, and detailed information related to the process (during which exposure may occur), the duration of the exposure, the exposed organism(s) as well as ecological data -if available- are incorporated into each scenario. When both the exposure level and the relevant hazard reference point are available, the calculation of the RCR is direct. If this is not the case, many alternative modelling tools and approaches for estimating the exposure levels and predicting the hazard reference points (RPs) can be employed.
+The core component of a RA workflow aims to compare the level of exposure with the relevant hazard limit value to calculate the respective Risk Characterization Ratio (RCR). The first step for creating an exposure scenario(s) is to gather the data regarding the ENM of interest. In particular, its physicochemical properties, and detailed information related to the process (during which exposure may occur), the duration of the exposure, the exposed organism(s) as well as ecological data -if available- are incorporated into each scenario. When both the exposure level and the relevant hazard reference point are available, the calculation of the RCR is direct. If this is not the case, many alternative modelling tools and approaches for estimating the exposure levels and predicting the hazard reference points (RPs) can be employed.
 
 <img src="{{ site.baseurl }}/images/risk-assessment/RAworkflow.png" />
 
 **Figure 3**. NanoCommons workflow for conducting risk assessment through the integration of exposure and hazard assessment modules
 {: .caption }
 
-A case study illustrating how the GUIDEnano exposure module, a PBPK model and a BMD analysis of transcriptomics data can be integrated in a complete RA framework.  This web application estimates the risk of triggering AOP 173 (Lung Fibrosis) due to exposure to TiO2 engineered nanoparticles. The case study can be accessed through: [http://www.enaloscloud.novamechanics.com/nanocommons/exposure/](http://www.enaloscloud.novamechanics.com/nanocommons/exposure/) 
+To demonstrate the workflow, a case study illustrates how the GUIDEnano exposure module, a PBPK model and a BMD analysis of transcriptomics data can be integrated in a complete RA framework. The web application estimates the risk of triggering AOP 173 (Lung Fibrosis) due to exposure to TiO<sub>2</sub> engineered nanoparticles. 
+
+The case study can be accessed through: [http://www.enaloscloud.novamechanics.com/nanocommons/exposure/](http://www.enaloscloud.novamechanics.com/nanocommons/exposure/) 
+{: .more-link .more-link--app }
 
 ## Risk Assessment Tools
 {% include childrenTOC.html page=page pages=site.pages %}
