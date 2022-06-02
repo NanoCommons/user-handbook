@@ -11,7 +11,7 @@
 - name: Romanos et al., 2019
   tooltip: 'Romanos, N.; Kalogerini, M.; Koumoulos, E. P.; Morozinis, A. K.; Sebastiani, M.; Charitidis, C. Innovative Data Management in Advanced Characterization: Implications for Materials Design. <i>Materials Today Communications</i> <b>2019</b>, <i>20</i>, 100541. <a href=\"https://doi.org/10.1016/j.mtcomm.2019.100541\">https://doi.org/10.1016/j.mtcomm.2019.100541</a>.'
 - name: What makes a material function, 2017
-  tooltip: 'Directorate-General for Research and Innovation (European Commission); de Baas, A. F. <i>What Makes a Material Function?: Let Me Compute the Ways : Modelling in H2020 LEIT NMBP Programme Materials and Nanotechnology Projects</i>; Publications Office of the European Union: LU, 2017. <a href=\"https://data.europa.eu/doi/10.2777/404734\">https://data.europa.eu/doi/10.2777/404734</a>.'
+  tooltip: 'Directorate-General for Research and Innovation (European Commission); de Baas, A. F. <i>What Makes a Material Function?: Let Me Compute the Ways: Modelling in H2020 LEIT NMBP Programme Materials and Nanotechnology Projects</i>; Publications Office of the European Union: LU, 2017. <a href=\"https://data.europa.eu/doi/10.2777/404734\">https://data.europa.eu/doi/10.2777/404734</a>.'
 - name: Marchese Robinson et al., 2016
   tooltip: 'Marchese Robinson, R. L.; Lynch, I.; Peijnenburg, W.; Rumble, J.; Klaessig, F.; Marquardt, C.; Rauscher, H.; Puzyn, T.; Purian, R.; Åberg, C.; Karcher, S.; Vriens, H.; Hoet, P.; Hoover, M. D.; Hendren, C. O.; Harper, S. L. How Should the Completeness and Quality of Curated Nanomaterial Data Be Evaluated? <i>Nanoscale</i> <b>2016</b>, <i>8</i> (19), 9919–9943. <a href=\"https://doi.org/10.1039/C5NR08944A\">https://doi.org/10.1039/C5NR08944A</a>.'
 - name: Power et al. 2017
@@ -80,13 +80,77 @@
   tooltip: 'NanoFabNet. Common Challenges & Opportunities in sustainable Nanofabrication. <i>Report</i> <b>2021</b>. <a href=\"https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf\">https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf</a>.'
 - name: 'Rawat, 2015'
   tooltip: 'Rawat, R.S. Dense Plasma Focus – From Alternative Fusion Source to Versatile High Energy Density Plasma Source for Plasma Nanotechnology. <i>J. Phys.: Conf. Ser.</i> <b>2015</b>, <i>591</i>, 012021. <a href=\"https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021\">https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021</a>.' 
-- name: "Ghosh et al., 2011"
+- name: \"Ghosh et al., 2011\"
   tooltip: 'Ghosh, S.; Matsuoka, Y.; Asai, Y.; Hsin, K.Y.; Kitano, H. Software for systems biology: from tools to integrated platforms. <i>Nature Reviews Genetics</i> <b>2011</b>, <i>12</i>, 821. <a href=\"https://www.nature.com/articles/nrg3096\">https://www.nature.com/articles/nrg3096</a>.'
-- name: "Brown et al., 2011"
+- name: \"Brown et al., 2011\"
   tooltip: 'Brown, M.; Wedge, D.C.; Goodacre, R.; Kell, D.B.; Baker, P.N.; Kenny, L.C.; Mamas, M.A.; Neyses, L.; Dunn, W.B. Automated workflows for accurate mass-based putative metabolite identification in LC/MS-derived metabolomic datasets. <i>Bioinformatics</i> <b>2011</b>, <i>27(8)</i>, 1108-1112. <a href=\"https://doi.org/10.1093/bioinformatics/btr079\">https://doi.org/10.1093/bioinformatics/btr079</a>.'
-- name: "Tollefsen et al., 2014"
+- name: \"Tollefsen et al., 2014\"
   tooltip: 'Tollefsen, K.E.; Scholz, S.; Cronin, M.T.; Edwards, S.W.; de Knecht, J.; Crofton, K.; Garcia-Reyero, N.; Hartung, T.; Worth, A.; Patlewicz, G. Applying Adverse Outcome Pathways (AOPs) to support Integrated Approaches to Testing and Assessment (IATA). <i>Regulatory Toxicology and Pharmacology</i> <b>2014</b>, <i>70(3)</i>, 629-640. <a href=\"https://doi.org/10.1016/j.yrtph.2014.09.009\">https://doi.org/10.1016/j.yrtph.2014.09.009</a>.'
-- name: "Walser, Studer, 2015"
+- name: \"Walser, Studer, 2015\"
   tooltip: 'Walser, T.; Studer, C. Sameness: The regulatory crux with nanomaterial identity and grouping schemes for hazard assessment. <i>Regulatory Toxicology and Pharmacology</i> <b>2015</b>, <i>72(3)</i>, 569-571. <a href=\"https://doi.org/10.1016/j.yrtph.2015.05.031\">https://doi.org/10.1016/j.yrtph.2015.05.031</a>.'
-- name: "Patinha Caldeira et al., 2022"
+- name: \"Patinha Caldeira et al., 2022\"
   tooltip: 'Patinha Caldeira, C.; Farcal, R.; Moretti, C.; Mancini, L.; Rauscher, H.; Rasmussen, K.; Riego Sintes, J.; Sala, S. Safe and Sustainable by Design chemicals and materials Review of safety and sustainability dimensions, aspects, methods, indicators, and tools, <i>EUR 30991 EN, Publications Office of the European Union, Luxembourg</i>, <b>2022</b>. <a href=\"http://dx.doi.org/10.2760/879069\">http://dx.doi.org/10.2760/879069</a>.'
+- name: Hristozov et al., 2016
+  tooltip: 'Hristozov, D.; Gottardo, S.; Semenzin, E.; Oomen, A.; Bos, P.; Peijnenburg, W.; van Tongeren, M.;  Nowack, B.; Hunt, N.; Brunelli, A.; Scott-Fordsmand, J.J.; Tran, L.; Marcomini, A. Frameworks and tools for risk assessment of manufactured nanomaterials. <i>Environ Int</i> <b>2016</b> <i>95</i>, 36–53. <a href=\"https://doi.org/10.1016/j.envint.2016.07.016\">https://doi.org/10.1016/j.envint.2016.07.016</a>'
+- name: OECD, 2016
+  tooltip: 'OECD Guidance Document for the Use of Adverse Outcome Pathways in Developing Integrated Approaches to Testing and Assessment (IATA). <i>OECD Series on Testing Assessment No. 260 JT03407308</i>, OECD Publishing, Paris, <b>2016</b>. <a href=\"https://doi.org/10.1787/44bb06c1-en\">https://doi.org/10.1787/44bb06c1-en</a>'
+- name: Oomen et al., 2018
+  tooltip: 'Oomen, A.G.; Steinhäuser, K.G.; Bleeker, E.A.J.; van Broekhuizen, F.; Sips, A.; Dekkers, S.; Winjnhoven; S.W.P., Sayre, P.G. Risk assessment frameworks for nanomaterials: Scope, link to regulations, applicability, and outline for future directions in view of needed increase in efficiency. <i>NanoImpact</i> <b>2018</b>, <i>9</i>, 1–13. <a href=\"https://doi.org/10.1016/J.IMPACT.2017.09.001\">https://doi.org/10.1016/J.IMPACT.2017.09.001</a>'
+- name: Brandmaier et al., 2012
+  tooltip: 'Brandmaier, S.; Sahlin, U.; Tetko, I.V.; Öberg, T. PLS-optimal: a stepwise D-optimal design based on latent variables. <i>Journal of Chemical Information and Modeling</i> <b>2012</b>, <i>52(4)</i>, 975–983. <a href=\"https://doi.org/10.1021/ci3000198\">https://doi.org/10.1021/ci3000198</a>'
+- name: Cassotti et al., 2014
+  tooltip: 'Cassotti, M.; Ballabio, D.; Consonni, V.; Mauri, A.; Tetko, I. V.; Todeschini, R. Prediction of acute aquatic toxicity toward Daphnia magna by using the GA-kNN method. <i>Alternatives to Laboratory Animals: ATLA</i> <b>2014</b>, <i>42(1)</i>, 31–41. <a href=\"https://doi.org/10.1177/026119291404200106\">https://doi.org/10.1177/026119291404200106</a>'
+- name: Fourches et al., 2010
+  tooltip: 'Fourches, D.; Pu, D.; Tassa, C.; Weissleder, R.; Shaw, S.Y.; Mumper, R.J.; Tropsha, A. Quantitative nanostructure-activity relationship modeling. <i>ACS Nano</i> <b>2010</b>, <i>4(10)</i>, 5703–5712. <a href=\"https://doi.org/10.1021/nn1013484\">https://doi.org/10.1021/nn1013484</a>'
+- name: Gajewicz et al., 2015
+  tooltip: 'Gajewicz, A.; Schaeublin, N.; Rasulev, B.; Hussain, S.; Leszczynska, D.; Puzyn, T.; Leszczynski, J. Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: Hints from nano-QSAR studies. <i>Nanotoxicology</i> <b>2015</b>, <i>9(3)</i>, 313–325. <a href=\"https://doi.org/10.3109/17435390.2014.930195\">https://doi.org/10.3109/17435390.2014.930195</a>'
+- name: Hansen et al., 2013
+  tooltip: 'Hansen, S.F.; Jensen, K.A.;  Baun, A. NanoRiskCat: a conceptual tool for categorization and communication of exposure potentials and hazards of nanomaterials in consumer products. <i>Journal of Nanoparticle Research</i> <b>2013</b>, <i>16(1)</i>, 2195. <a href=\"https://doi.org/10.1007/s11051-013-2195-z\">https://doi.org/10.1007/s11051-013-2195-z</a>'
+- name: Liu et al., 2013
+  tooltip: 'Liu, R.; Rallo, R.; Weissleder, R.; Tassa, C.; Shaw, S.; Cohen, Y. Nano-SAR development for bioactivity of nanoparticles with considerations of decision boundaries. <i>Small (Weinheim an Der Bergstrasse, Germany)</i> <b>2013</b>, <i>9(9–10)</i>, 1842–1852. <a href=\"https://doi.org/10.1002/smll.201201903\">https://doi.org/10.1002/smll.201201903</a>'
+- name: OECD, 2007
+  tooltip: 'OECD Guidance Document on the Validation of (Quantitative) Structure-Activity Relationship ((Q)SAR) Models. Retrieved from <a href=\"http://www.oecd.org/env/guidance-documenton-the-validation-of-quantitative-structure-activity-relationship-q-sar-models-9789264085442-en.htm\">http://www.oecd.org/env/guidance-documenton-the-validation-of-quantitative-structure-activity-relationship-q-sar-models-9789264085442-en.htm</a>  (Accessed: 31/05/19)'
+- name: Oh et al., 2016
+  tooltip: 'Oh, E.; Liu, R.; Nel, A.; Gemill, K.B.; Bilal, M.; Cohen, Y.; Medintz, I. L. Meta-analysis of cellular toxicity for cadmium-containing quantum dots. <i>Nature Nanotechnology</i> <b>2016</b>, <i>11(5)</i>, 479–486. <a href=\"https://doi.org/10.1038/nnano.2015.338\">https://doi.org/10.1038/nnano.2015.338</a>'
+- name: Pan et al., 2016
+  tooltip: 'Pan, Y.; Li, T.; Cheng, J.; Telesca, D.; Zink, J.I.; Jiang, J. Nano-QSAR modeling for predicting the cytotoxicity of metal oxide nanoparticles using novel descriptors. <i>RSC Advances</i> <b>2016</b>, <i>6(31)</i>, 25766– 25775. <a href=\"https://doi.org/10.1039/C6RA01298A\">https://doi.org/10.1039/C6RA01298A</a>'
+- name: Pandharipande et al., 2009 
+  tooltip: 'Pandharipande, P. V.; Mora, J.T.; Uppot, R.N.; Goehler, A.; Braschi, M.; Halpern, E.F.; … Harisinghani, M. G. Lymphotropic nanoparticle-enhanced MRI for independent prediction of lymph node malignancy: a logistic regression model. <i>American Journal of Roentgenology</i> <b>2009</b>, <i>193(3)</i>, W230-237. <a href=\"https://doi.org/10.2214/AJR.08.2175\">https://doi.org/10.2214/AJR.08.2175</a>'
+- name: Puzyn, et al., 2011
+  tooltip: 'Puzyn, T.; Rasulev, B.; Gajewicz, A.; Hu, X.; Dasari, T. P.; Michalkova, A.; … Leszczynski, J. Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles. <i>Nature Nanotechnology</i> <b>2011</b>, <i>6(3)</i>, 175–178. <a href=\"https://doi.org/10.1038/nnano.2011.10\">(https://doi.org/10.1038/nnano.2011.10</a>'
+- name: Puzyn et al., 2018
+  tooltip: 'Puzyn, T.; Jeliazkova, N.; Sarimveis, H.; Robinson, R.L.M.; Lobaskin, V.; Rallo, R.; ... Cronin, M.T. Perspectives from the NanoSafety Modelling Cluster on the validation criteria for (Q) SAR models used in nanotechnology. <i>Food and Chemical Toxicology</i> <b>2018</b>, <i>112</i>, 478-494. <a href=\"https://doi.org/10.1016/j.fct.2017.09.037\">https://doi.org/10.1016/j.fct.2017.09.037</a>'
+- name: Sellers et al., 2015
+  tooltip: 'Sellers, K.; Deleebeeck, N.; Messiaen, M.; Jackson, M.; Bleeker, E.A.J.; Sijm, D., van Broekhuizen, F.A. Grouping Nanomaterials - A strategy towards grouping and read-across. <a href=\"https://www.rivm.nl/bibliotheek/rapporten/2015-0061.html\">https://www.rivm.nl/bibliotheek/rapporten/2015-0061.html</a>'
+- name: Singh and Gupta, 2014
+  tooltip: 'Singh, K.P.; Gupta, S. Nano-QSAR modeling for predicting biological activity of diverse nanomaterials. <i>RSC Advances</i> <b>2014</b>, <i>4(26)</i>, 13215–13230. <a href=\"https://doi.org/10.1039/C4RA01274G\">https://doi.org/10.1039/C4RA01274G</a>'
+- name: Walkey et al., 2014
+  tooltip: 'Walkey, C.D.; Olsen, J.B.; Song, F.; Liu, R.; Guo, H.; Olsen, D.W.H.; … Chan, W.C.W. Protein Corona Fingerprinting Predicts the Cellular Interaction of Gold and Silver Nanoparticles. <i>ACS Nano</i> <b>2014</b>, <i>8(3)</i>, 2439–2455. <a href=\"https://doi.org/10.1021/nn406018q\">https://doi.org/10.1021/nn406018q</a>'
+- name: Wold et al., 2004
+  tooltip: 'Wold, S.; Josefson, M.; Gottfries, J.; Linusson, A. The utility of multivariate design in PLS modeling. <i>Journal of Chemometrics</i> <b>2004</b>, <i>18(3–4)</i>, 156–165. <a href=\"https://doi.org/10.1002/cem.861\">https://doi.org/10.1002/cem.861</a>'
+- name: Zarei et al., 2010
+  tooltip: 'Zarei, M.; Khataee, A.R.; Ordikhani-Seyedlar, R.; Fathinia, M. Photoelectro-Fenton combined with photocatalytic process for degradation of an azo dye using supported TiO2 nanoparticles and carbon nanotube cathode: Neural network modeling. <i>Electrochimica Acta</i> <b>2010</b>, <i>55(24)</i>, 7259–7265. <a href=\"https://doi.org/10.1016/j.electacta.2010.07.050\">https://doi.org/10.1016/j.electacta.2010.07.050</a>'
+- name: ECHA, 2017
+  tooltip: 'ECHA, Read Across Assessment Framework, Appendix R.6-1for nanomaterials applicable to the Guidance on QSARs and Groupingof Chemicals. Guidance on information requirements and chemical safety assessment, <b>2017</b>. <a href=\"https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf\">https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf</a>'
+- name: Varsou et al., 2017
+  tooltip: 'Varsou, D.D.; Tsiliki, G.; Nymark, P.; Kohonen, P.; Grafström, R.; Sarimveis, H. toxFlow: a web-based application for read-across toxicity prediction using omics and physicochemical data. <i>Journal of chemical information and modeling</i> <b>2017</b>, <i>58(3)</i>, 543-549. <a href=\"https://doi.org/10.1021/acs.jcim.7b00160\">https://doi.org/10.1021/acs.jcim.7b00160</a>'
+- name: Varsou et al., 2019
+  tooltip: 'Varsou, D.D.; Afantitis, A.; Melagraki, G.; & Sarimveis, H. Read-across predictions of nanoparticle hazard endpoints: a mathematical optimization approach. <i>Nanoscale Advances</i> <b>2019</b>, <i>1(9)</i>, 3485-3498. <a href=\"https://pubs.rsc.org/en/content/articlehtml/2019/na/c9na00242a\">https://pubs.rsc.org/en/content/articlehtml/2019/na/c9na00242a</a>'
+- name: Brown et al., 1997
+  tooltip: 'Brown, R.P.; Delp, M.D.; Lindstedt, S.L.; Rhomberg, L.R.; Beliles, R.P. Physiological parameter values for physiologically based pharmacokinetic models. <i>Toxicol Ind Health</i> <b>1997</b>, <i>13(4)</i>, 407–84. <a href=\"https://doi.org/10.1177/074823379701300401\">https://doi.org/10.1177/074823379701300401</a>'
+- name: Carlander et al., 2016
+  tooltip: 'Carlander, U.; Li, D.; Jolliet, O.; Emond, C.; Johanson, G.; Toward a general physiologically-based pharmacokinetic model for intravenously injected nanoparticles. <i>Int J Nanomed</i> <b>2016</b>, <i>11</i>, 625–640. <a href=\"https://doi.org/10.2147/IJN.S94370\">https://doi.org/10.2147/IJN.S94370</a>'
+- name: Kreyling et al., 2019
+  tooltip: 'Kreyling, W.G.; Holzwarth, U.; Schleh, C. et al. Quantitative biokinetics over a 28 day period of freshly generated, pristine, 20 nm titanium dioxide nanoparticle aerosols in healthy adult rats after a single two-hour inhalation exposure. <i>Part Fibre Toxicol.</i> <b>2019</b>, <i>16</i>, 29. <a href=\"https://www.doi.org/10.1186/s12989-019-0303-7\">https://www.doi.org/10.1186/s12989-019-0303-7</a>'
+- name: Li et al., 2014
+  tooltip: 'Li, D.; Johanson, G.; Emond, C.; Carlander, U.; Philbert, M.; Jolliet, O.; Physiologically based pharmacokinetic modeling of polyethylene glycol-coated polyacrylamide nanoparticles in rats. <i>Nanotoxicology</i> <b>2014</b>, <i>8</i>, 128–137. <a href=\"https://doi.org/10.3109/17435390.2013.863406\">https://doi.org/10.3109/17435390.2013.863406</a>'
+- name: Li et al., 2016
+  tooltip: 'Li, D.; Morishita, M.; Wagner, J.G.; et al. In vivo biodistribution and physiologically based pharmacokinetic modeling of inhaled fresh and aged cerium oxide nanoparticles in rats. <i>Part Fibre Toxicol.</i> <b>2016</b>, <i>13(1)</i>, 45. <a href=\"https://www.doi.org/10.1186/s12989-016-0156-2\">https://www.doi.org/10.1186/s12989-016-0156-2</a>'
+- name: Li et al., 2010
+  tooltip: 'Li, M.; Al-Jamal, K.T.; Kostarelos, K.; Reineke, J. Physiologically Based Pharmacokinetic Modeling of Nanoparticles. <i>ACS Nano</i> <b>2010</b>, <i>4(11)</i>, 6303–6317. <a href=\"https://doi.org/10.1021/nn1018818\">https://doi.org/10.1021/nn1018818</a>'
+- name: Pery et al., 2009
+  tooltip: 'Pery, A.R.R.; Brochot, C.; Hoet, P.H.M.; Nemmar, A.; Bois, F.Y. Development of a physiologically based kinetic model for 99m-Technetium-labelled carbon nanoparticles inhaled by humans. <i>Inhalation Toxicology</i> <b>2009</b>, <i>21(13)</i>, 1099-1107. <a href=\"https://doi.org/10.3109/08958370902748542\">https://doi.org/10.3109/08958370902748542</a>'
+- name: Yuan et al., 2019
+  tooltip: 'Yuan, D.; He, H.; Wu, Y.; Fan, J.; Cao, Y. Physiologically Based Pharmacokinetic Modeling of Nanoparticles. <i>J Pharm Sci</i> <b>2019</b>, <i>108(1)</i>, 58–72. <a href=\"https://doi.org/10.1016/j.xphs.2018.10.037\">https://doi.org/10.1016/j.xphs.2018.10.037</a>'
+- name: Hardy et al., 2017
+  tooltip: 'Hardy, A.; Benford, D.; Halldorsson, T.; Jeger, M.J.; Knutsen, K.H.; More, S.; Mortensen, A.; Naegeli, H.; Noteborn, H.; Ockleford, C.; Ricci, A. Update: use of the benchmark dose approach in risk assessment. <i>EFSA Journal</i> <b>2017</b>, <i>15(1)</i>. <a href=\"https://doi.org/10.2903/j.efsa.2017.4658\">https://doi.org/10.2903/j.efsa.2017.4658</a>' 
