@@ -200,9 +200,7 @@ To acquire access to the models, a user should be part of the NanoCommons organi
 
 
 ### PBPK model on polyethylene glycol-coated polyacrylamide (PAA-peg) nanoparticles on rat
-This PBPK model has been developed on a rat population to describe the biodistribution of polyethylene glycol-coated (PAA-peg) nanoparticles. It consists of 7 compartments describing the mass distribution of the nanoparticles in various organs, namely liver (LI), kidney (KI), brain (BR), bone marrow (BM), , heart (HT), spleen (SPL) and lungs (LU), one compartment to model the rest of the body (ROB) as well as two blood pools; venous (VEN) and arterial (ART). All compartments include a sub-compartment describing the uptake of nanoparticles by phagocytizing cells (PCs), while all but the blood compartments have a third component describing the distribution of nanoparticles in the capillary blood.The detailed description of the PBPK model used can be found in Li et al., 2014. The model can be accessed through:
-
-[https://app.jaqpot.org/model/lUP5Nqoa6JOTZG4CQnSJ](https://app.jaqpot.org/model/lUP5Nqoa6JOTZG4CQnSJ)
+This PBPK model has been developed on a rat population to describe the biodistribution of polyethylene glycol-coated (PAA-peg) nanoparticles. It consists of 7 compartments describing the mass distribution of the nanoparticles in various organs, namely liver (LI), kidney (KI), brain (BR), bone marrow (BM), , heart (HT), spleen (SPL) and lungs (LU), one compartment to model the rest of the body (ROB) as well as two blood pools; venous (VEN) and arterial (ART). All compartments include a sub-compartment describing the uptake of nanoparticles by phagocytizing cells (PCs), while all but the blood compartments have a third component describing the distribution of nanoparticles in the capillary blood.The detailed description of the PBPK model used can be found in Li et al., 2014. The model can be accessed through: [https://app.jaqpot.org/model/lUP5Nqoa6JOTZG4CQnSJ](https://app.jaqpot.org/model/lUP5Nqoa6JOTZG4CQnSJ)
 
 
 ### PBPK model on Titanium dioxide (TiO2) nanoparticles on mice
