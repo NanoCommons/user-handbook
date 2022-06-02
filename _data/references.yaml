@@ -154,3 +154,17 @@
   tooltip: 'Yuan, D.; He, H.; Wu, Y.; Fan, J.; Cao, Y. Physiologically Based Pharmacokinetic Modeling of Nanoparticles. <i>J Pharm Sci</i> <b>2019</b>, <i>108(1)</i>, 58–72. <a href=\"https://doi.org/10.1016/j.xphs.2018.10.037\">https://doi.org/10.1016/j.xphs.2018.10.037</a>'
 - name: Hardy et al., 2017
   tooltip: 'Hardy, A.; Benford, D.; Halldorsson, T.; Jeger, M.J.; Knutsen, K.H.; More, S.; Mortensen, A.; Naegeli, H.; Noteborn, H.; Ockleford, C.; Ricci, A. Update: use of the benchmark dose approach in risk assessment. <i>EFSA Journal</i> <b>2017</b>, <i>15(1)</i>. <a href=\"https://doi.org/10.2903/j.efsa.2017.4658\">https://doi.org/10.2903/j.efsa.2017.4658</a>' 
+- name: Beaudequin et al., 2015
+  tooltip: 'Beaudequin, D.; Harden, F.; Roiko, A.; Stratton, H.; Lemckert, C.; Mengersen, K. Beyond QMRA: modelling microbial health risk as a complex system using Bayesian networks. <i>Environ Int</i> <b>2015</b>, <i>80</i>, 8-18.<a href=\"https://doi.org/10.1016/j.envint.2015.03.013\">https://doi.org/10.1016/j.envint.2015.03.013)</a>'
+- name: Carriger et al., 2016
+  tooltip: 'Carriger, J.F.; Martin, T.M.; Barron, M.G. A Bayesian network model for predicting aquatic toxicity mode of action using two dimensional theoretical molecular descriptors. <i>Aquat Toxicol</i> <b>2016</b>, <i>180</i>, 11–24. <a href=\"https://doi.org/10.1016/j.aquatox.2016.09.006\">https://doi.org/10.1016/j.aquatox.2016.09.006</a>'
+- name: Marvin et al., 2017
+  tooltip: 'Marvin, H.J.P.; Bouzembrak, Y.; Janssen, E.M.; van der Zande, M.; Murphy, F.; Sheehan, B.; Mullins, M.; Bouwmeester, H. Application of Bayesian networks for hazard ranking of nanomaterials to support human health risk assessment. <i>Nanotoxicology</i> <b>2017</b>, <i>11(1)</i>, 123-133. <a href=\"https://doi.org/10.1080/17435390.2016.1278481\">https://doi.org/10.1080/17435390.2016.1278481</a>'
+- name: Money et al., 2012
+  tooltip: 'Money, E.S.; Reckhow, K.H.; Wiesner, M.R. The Use of Bayesian Networks for Nanoparticle Risk Forecasting: Model Formulation and Baseline Evaluation. <i>Sci Total Environ</i> <b>2012</b>, <i>426</i>, 436–445. <a href=\"https://doi.org/10.1016/j.scitotenv.2012.03.064\">https://doi.org/10.1016/j.scitotenv.2012.03.064</a>'
+- name: Money et al., 2014
+  tooltip: 'Money, E.S.; Barton, L.E.; Dawson, J.; Reckhow, K.H.; Wiesner, M.R. Validation and sensitivity of the FINE Bayesian network for forecasting aquatic exposure to nano-silver. <i>Sci Total Environ</i> <b>2014</b>, <i>473–474>/i, 685–691. <a href=\"https://doi.org/10.1016/j.scitotenv.2013.12.100\">https://doi.org/10.1016/j.scitotenv.2013.12.100</a>'
+- name: Murphy et al., 2016
+  tooltip: 'Murphy, F.; Sheehan, B.; Mullins, M.; Bouwmeester, H.; Marvin, H.J.P.; Bouzembrak, Y.; Costa, A.L.; Das, R.; Stone, V.; Tofail, S.A.M. A tractable method for measuring nanomaterial risk using Bayesian networks. <i>Nanoscale Res Lett</i> <b>2016</b>, <i>11(1)</i>, 503. <a href=\"https://doi.org/10.1186/s11671-016-1724-y\">https://doi.org/10.1186/s11671-016-1724-y</a>'
+- name: Wiesner and Bottero, 2011
+  tooltip: 'Wiesner, M.R.; Bottero, J‐Y. A risk forecasting process for nanostructured materials, and nanomanufacturing. <i>Comptes Rendus Physique</i> <b>2011</b>, <i>12(7)</i>, 659-668. doi: <a href=\"https://doi.org/10.1016/j.crhy.2011.06.008\">https://doi.org/10.1016/j.crhy.2011.06.008</a>'
