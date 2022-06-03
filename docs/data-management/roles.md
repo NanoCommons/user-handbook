@@ -51,6 +51,12 @@ Requestors, accessors, users, and re-users of the needed or produced data (evalu
 
 ### Data creator:
 The experimentalists (wet lab and in silico) planning and generating the data (planning, acquisition, and manipulation in the data lifecycle, scientific FAIRification steps)
+[LEITAT lab tour](https://toursvirtuales360.es/toursvirtuales/leitat/vtour/index.htm)
+<a href="https://toursvirtuales360.es/toursvirtuales/leitat/vtour/index.htm"><img src="{{ site.baseurl }}/images/training/LabTour.png" class="image--right"></a>
+Have a look at one place where data is produced.
+<br clear="right">
+{: .more-link .more-link--app }
+
 
 ### Data analyst:
 Data handling, manipulation, analysis including modelling (processing and analysis, scientific FAIRification steps)

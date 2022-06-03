@@ -6,7 +6,6 @@ description: Fate modelling approaches and tools
 permalink: /nanoinformatics/fate/
 parent: Nanoinformatics
 has_children: false
-nav_order: 440
 ---
 
 # Fate modelling approaches and tools

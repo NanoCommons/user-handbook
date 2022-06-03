@@ -7,7 +7,6 @@ permalink: /nanoinformatics/omics/
 parent: Nanoinformatics
 has_children: false
 has_references: true
-nav_order: 430
 ---
 
 # Big data ('omics) analysis and mining tools

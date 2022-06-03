@@ -4,11 +4,10 @@ title: Read across
 
 description: Read-across methodologies
 permalink: /nanoinformatics/read-across/
-#parent: Nanoinformatics
+parent: Nanoinformatics
 has_children: false
-nav_exclude: true
+nav_exclude: false
 has_references: true
-nav_order: 420
 ---
 
 # Read-across methodologies

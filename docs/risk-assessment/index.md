@@ -5,7 +5,7 @@ title: Risk assessment
 description: Risk assessment approaches and tools
 permalink: /risk-assessment/
 has_children: true
-nav_exclude: true
+nav_exclude: false
 has_references: true
 has_toc: false
 nav_order: 450
@@ -36,7 +36,7 @@ A series of risk assessment methodologies, web services and tools have been deve
 ## Hazard Quantification
 Hazard quantification is one of the two major risk assessment pillars, along with exposure estimation. The aim is to predict a toxicological threshold, commonly termed Point-Of-Departure (POD), that when crossed, causes significant biological perturbations that can lead to a downstream adverse outcome at the organism level. This can be realised either through drawing information directly from available literature, or through analysing in vivo or in vitro dose-response data using appropriate dose-response methodologies.  In the absence of experimental toxicology data, in silico methodologies, e.g. read-across and nano-QSAR models, can be employed for hazard estimation using existing data.
 
-[Nano-QSAR]({{ site.baseurl }}/nanoinformatics/nanoQSAR-new/)
+[Nano-QSAR]({{ site.baseurl }}/nanoinformatics/nanoQSAR/)
 {: .more-link .more-link--webpages }
 [Read-across]({{ site.baseurl }}/nanoinformatics/read-across/)
 {: .more-link .more-link--webpages }
@@ -48,7 +48,7 @@ Hazard quantification is one of the two major risk assessment pillars, along wit
 ## Exposure Estimation
 Exposure estimation is a pivotal module of every risk assessment workflow. An exposure model predicts the external concentration, which can then be used as input to a biokinetics model for determining the concentration of a substance in the various organs of the species of interest and the likelihood that a chemical reaches the target organs.
 
-[Physiologically-based kinetics modelling]({{ site.baseurl }}/nanoinformatics/PBK-new/)
+[Physiologically-based kinetics modelling]({{ site.baseurl }}/nanoinformatics/PBK/)
 {: .more-link .more-link--webpages }
 
 ## Risk Characterization Ratio calculation

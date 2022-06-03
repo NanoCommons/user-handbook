@@ -6,7 +6,6 @@ description: Corona modelling approaches and tools
 permalink: /nanoinformatics/corona-modelling/
 parent: Nanoinformatics
 has_children: false
-nav_order: 450
 ---
 
 # Corona modelling approaches and tools

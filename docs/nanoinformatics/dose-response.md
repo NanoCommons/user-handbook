@@ -4,11 +4,10 @@ title: Dose response
 
 description: Dose response methodologies
 permalink: /nanoinformatics/dose-response/
-#parent: Nanoinformatics
+parent: Nanoinformatics
 has_children: false
-nav_exclude: true
+nav_exclude: false
 has_references: true
-nav_order: 425
 ---
 
 # Dose response methodologies

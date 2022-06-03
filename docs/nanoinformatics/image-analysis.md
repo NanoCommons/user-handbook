@@ -6,7 +6,6 @@ description: Image analysis and mining tools
 permalink: /nanoinformatics/image-analysis/
 parent: Nanoinformatics
 has_children: false
-nav_order: 470
 ---
 
 # Image analysis tools
