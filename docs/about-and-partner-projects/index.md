@@ -37,9 +37,9 @@ To be able to cover relevant information and knowledge to the largest possible e
 
 | Icon | Content type |
 |:-------:|:--------|
-| ![]({{site.baseurl}}/images/icons/app.png){: .icon } | Application |
+| ![]({{site.baseurl}}/images/icons/app.png){: .icon } | Web application, software tool or other digital service |
 | ![]({{site.baseurl}}/images/icons/video.png){: .icon } | Video |
 | ![]({{site.baseurl}}/images/icons/slides.png){: .icon } | Slides from presentations or posters |
-| <img src="{{ site.baseurl }}/images/icons/file-text.svg">{: .icon } | Text documents like reports, papers or block posts |
+| <img src="{{ site.baseurl }}/images/icons/file-text.svg">{: .icon } | Text documents like reports, papers or blog posts |
 | ![]({{site.baseurl}}/images/icons/webpages.png){: .icon } | Extended material from external websites |
 | <img src="{{ site.baseurl }}/images/icons/file.svg">{: .icon } | Any other type of content |
