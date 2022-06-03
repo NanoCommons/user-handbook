@@ -6,7 +6,6 @@ description: Short intro to the NIKC
 permalink: /about-and-partner-projects/NIKC/
 parent: About & partner projects
 nav_exclude: false
-nav_order: 10013
 ---
 <img src="{{ site.baseurl }}/images/logos/NIKC.png" width="200" class="image--right" />
 #  Partner project CEINT NanoInformatics Knowledge Commons (NIKC)

@@ -5,7 +5,6 @@ title: GRACIOUS
 description: Short intro to GRACIOUS
 permalink: /about-and-partner-projects/GRACIOUS/
 parent: About & partner projects
-nav_order: 10005
 ---
 <img src="{{ site.baseurl }}/images/logos/gracious.png" width="200" class="image--right" />
 

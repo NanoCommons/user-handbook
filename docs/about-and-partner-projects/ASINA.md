@@ -5,7 +5,6 @@ title: ASINA
 description: Short intro to ASINA
 permalink: /about-and-partner-projects/ASINA/
 parent: About & partner projects
-nav_order: 10008
 ---
 <img src="{{ site.baseurl }}/images/logos/ASINA.png" width="200" class="image--right" />
 #  Partner project ASINA

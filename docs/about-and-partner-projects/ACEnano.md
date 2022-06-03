@@ -5,7 +5,6 @@ title: ACEnano
 description: Short intro to ACEnano
 permalink: /about-and-partner-projects/ACEnano/
 parent: About & partner projects
-nav_order: 10003
 ---
 <img src="{{ site.baseurl }}/images/logos/acenano.png" width="200" class="image--right" />
 #  Partner project ACEnano

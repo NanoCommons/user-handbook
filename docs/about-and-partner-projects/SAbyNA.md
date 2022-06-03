@@ -6,7 +6,6 @@ description: Short intro to SAbyNA
 permalink: /about-and-partner-projects/SAbyNA/
 parent: About & partner projects
 nav_exclude: false
-nav_order: 10011
 ---
 <img src="{{ site.baseurl }}/images/logos/SAbyNA.png" width="200" class="image--right" />
 #  Partner project SAbyNA
