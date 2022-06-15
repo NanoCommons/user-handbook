@@ -129,15 +129,15 @@ topics:
     h: 60
 
 ---
-
-# Data and nanoinformatics shepherds’ user guidance handbook
 [![DOI](https://zenodo.org/badge/392611144.svg)](https://zenodo.org/badge/latestdoi/392611144)
+
+# NanoCommons User Guidance Handbook 
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Book",
   "inLanguage": "en-US",
-  "name": "Data and nanoinformatics shepherds’ user guidance handbook",
+  "name": "NanoCommons User Guidance Handbook",
   "url": "https://nanocommons.github.io/user-handbook/",
   "publisher": {
     "@type": "Organization",
@@ -149,25 +149,27 @@ topics:
 }
 </script>
 
-This online resource collects and organizes knowledge and training materials for the two strongly interlinked areas of data management for nanomaterials and nanoinformatics as well as areas like risk assessment, Safe-and-Sustainable-by-Design and nanofabrication directly profiting from data, tools and services.
+A knowledge resource for the nanosafety community from the data and nanoinformatics shepherds
 {: .lead }
 
-If you are a
-- scientist (wet or dry lab), who produces and wants to share data
-- data manager, curator or steward and want to become more
-- computer geek
-
-in the area of nanosafety, nanoinformatics or material Safe-by-Design or want to become one, then this handbook is for you.
+This online resource started by collecting and organising knowledge and training materials for the **two strongly interconnected areas of data management for nanosafety and nanoinformatics** but will be constantly extended to also cover areas like risk assessment, Safe-and-Sustainable-by-Design and nanofabrication directly profiting from data, tools and services.
 
 {% include clickable_image.html image_name="StartingPage.png" image_width=890 image_height=577 image_areas=page.topics %}
 
+The generation of knowledge, common to all these areas, can be visualised as two interlinked cycles. You can hover over the figure to access short introductions to the different aspects of the cycle. Click on any of the three general areas in the lower part of the figure to access information on that topic.
 
-The **two strongly interlinked areas of data management for nanomaterials and nanoinformatics** covered in this handbook can be visualised as two interlinked cycles together representing the extended data life cycle. You can hover over the figure to access short introductions to the different aspects of the cycle. Click on any of the three general areas in the lower part of the figure to access information on that topic.
+If you are
+- a nano scientist (wet or dry lab), who produces and wants to access and share data and knowledge
+- a data manager, curator or steward or even shepherd
+- a computer geek interested in nano
+- want to become one of the above
+
+or are just interested in these areas, then this handbook is for you.
 
 ## Working together
-Many different research groups and projects (small and large) have and are developing data resources, software and platforms combining these two areas. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on these can and should be reproduced here, we provide [short summaries and access links to the partners' websites, platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
+Many different research groups and projects (small and large) have and are developing data resources, software and platforms. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on these can and should be reproduced here, we provide [short summaries and access links to the partners' websites, platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
 
-Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
+**If you are a fan of collaborative research and want to get involved personally or with your project in extending and strengthening this community resource, you can find contact details in the [About page]({{ site.baseurl }}/about-and-partner-projects/)**. 
 
 
 ## A big THANK YOU to the contributing projects!

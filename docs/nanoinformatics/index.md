@@ -23,3 +23,5 @@ We describe a number of computationally oriented tools and methodologies that ca
 [Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639#.YY510WDMKUl)
 Integration status of tools for data management, mining, handling, analysis and predictive modelling to facilitate their joint provision as tools and services in the infrastructure.
 {: .more-link .more-link--text }
+
+Information on individual tools and services including the contact points and specialised material can be found in the [service catalogue](https://infrastructure.nanocommons.eu/services/).
