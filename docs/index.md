@@ -136,7 +136,7 @@ topics:
 {
   "@context": "http://schema.org",
   "@type": "Book",
-  "inLanguage": "en-US",
+  "inLanguage": "en-gb",
   "name": "NanoCommons User Guidance Handbook",
   "url": "https://nanocommons.github.io/user-handbook/",
   "publisher": {
