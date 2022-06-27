@@ -22,7 +22,7 @@ __Review of safety and sustainability dimensions, aspects, methods, indicators, 
 This report aims at reviewing existing frameworks for SSbD, identifying which are the sustainability dimensions included in those framework as well as the parameters, the methods, the models, the tools and the indicators used proposed to address the key issues at stake. 
 {: .more-link .more-link--pdf}
 
-## Supporting SSbD
+## Supporting S(S)bD
 [NanoCommons Safe-by-Design data and software platform interoperability and integration workshop]({{ site.baseurl }}/training-courses/2021-SbD-integration-workshop/)
 9 November 2021. Collaborative research supported by NanoCommons transnational access. [More info...](https://zenodo.org/record/5752073#.Ybitq73MKUk)
 {: .more-link .more-link--video}
@@ -30,6 +30,7 @@ This report aims at reviewing existing frameworks for SSbD, identifying which ar
 [Mapping study for the development of sustainable-by-design criteria](https://op.europa.eu/en/publication-detail/-/publication/f679c200-a314-11eb-9585-01aa75ed71a1/language-en)
 The aim of this study is to map existing initiatives and R&I activities related to sustainability that are relevant for the development of sustainable-by-design criteria for chemicals, materials and products. It includes three main parts, 1) Identification of existing policies and initiatives that implement sustainability criteria, 2) Analysis of a sample of criteria under the relevant policies and initiatives with a focus on materials and chemicals, and 3) Analysis of the progress in R&I. (© European Union, 2021)
 {: .more-link .more-link--pdf}
+
 
 ## What is SSbD exactly and how should it be implemented? - some expert opinions   
 [2nd Safe and Sustainable by Design stakeholder workshop](https://www.youtube.com/watch?v=Vz1rGpI7jIU)
