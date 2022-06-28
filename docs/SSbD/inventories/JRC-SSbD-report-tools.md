@@ -2,9 +2,9 @@
 layout: page
 title: Tools listed in the JRC SSbD report
 permalink: /SSbD/inventories/JRC-SSbD-tools/
-parent: SSbD inventories
+parent: SSbD inventories and tools
 grand_parent: Safe-and-Sustainable-by-Design
-description_long: SSbD tools listed in the JRC Technical Report "Safe and Sustainable by Design chemicals and materials"
+description_long: SSbD tools listed in the JRC Technical Report "Safe and Sustainable by Design chemicals and materials" <br>(© 2022)
 
 has_children: false
 nav_exclude: false

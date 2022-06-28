@@ -79,7 +79,7 @@
 - name: NanoFabNet, 2021
   tooltip: 'NanoFabNet. Common Challenges & Opportunities in sustainable Nanofabrication. <i>Report</i> <b>2021</b>. <a href=\"https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf\">https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf</a>.'
 - name: 'Rawat, 2015'
-  tooltip: 'Rawat, R.S. Dense Plasma Focus – From Alternative Fusion Source to Versatile High Energy Density Plasma Source for Plasma Nanotechnology. <i>J. Phys.: Conf. Ser.</i> <b>2015</b>, <i>591</i>, 012021. <a href=\"https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021\">https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021</a>.' 
+  tooltip: 'Rawat, R.S. Dense Plasma Focus – From Alternative Fusion Source to Versatile High Energy Density Plasma Source for Plasma Nanotechnology. <i>J. Phys.: Conf. Ser.</i> <b>2015</b>, <i>591</i>, 012021. <a href=\"https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021\">https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021</a>.'
 - name: \"Ghosh et al., 2011\"
   tooltip: 'Ghosh, S.; Matsuoka, Y.; Asai, Y.; Hsin, K.Y.; Kitano, H. Software for systems biology: from tools to integrated platforms. <i>Nature Reviews Genetics</i> <b>2011</b>, <i>12</i>, 821. <a href=\"https://www.nature.com/articles/nrg3096\">https://www.nature.com/articles/nrg3096</a>.'
 - name: \"Brown et al., 2011\"
@@ -131,7 +131,7 @@
 - name: Zarei et al., 2010
   tooltip: 'Zarei, M.; Khataee, A.R.; Ordikhani-Seyedlar, R.; Fathinia, M. Photoelectro-Fenton combined with photocatalytic process for degradation of an azo dye using supported TiO2 nanoparticles and carbon nanotube cathode: Neural network modeling. <i>Electrochimica Acta</i> <b>2010</b>, <i>55(24)</i>, 7259–7265. <a href=\"https://doi.org/10.1016/j.electacta.2010.07.050\">https://doi.org/10.1016/j.electacta.2010.07.050</a>'
 - name: ECHA, 2017
-  tooltip: 'ECHA, Read Across Assessment Framework, Appendix R.6-1for nanomaterials applicable to the Guidance on QSARs and Groupingof Chemicals. Guidance on information requirements and chemical safety assessment, <b>2017</b>. <a href=\"https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf\">https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf</a>'
+  tooltip: 'ECHA, Read Across Assessment Framework, Appendix R.6-1 for nanomaterials applicable to the Guidance on QSARs and Grouping of Chemicals. Guidance on information requirements and chemical safety assessment, <b>2017</b>. <a href=\"https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf\">https://echa.europa.eu/documents/10162/23036412/appendix_r6_nanomaterials_en.pdf</a>'
 - name: Varsou et al., 2017
   tooltip: 'Varsou, D.D.; Tsiliki, G.; Nymark, P.; Kohonen, P.; Grafström, R.; Sarimveis, H. toxFlow: a web-based application for read-across toxicity prediction using omics and physicochemical data. <i>Journal of chemical information and modeling</i> <b>2017</b>, <i>58(3)</i>, 543-549. <a href=\"https://doi.org/10.1021/acs.jcim.7b00160\">https://doi.org/10.1021/acs.jcim.7b00160</a>'
 - name: Varsou et al., 2019
@@ -153,7 +153,7 @@
 - name: Yuan et al., 2019
   tooltip: 'Yuan, D.; He, H.; Wu, Y.; Fan, J.; Cao, Y. Physiologically Based Pharmacokinetic Modeling of Nanoparticles. <i>J Pharm Sci</i> <b>2019</b>, <i>108(1)</i>, 58–72. <a href=\"https://doi.org/10.1016/j.xphs.2018.10.037\">https://doi.org/10.1016/j.xphs.2018.10.037</a>'
 - name: Hardy et al., 2017
-  tooltip: 'Hardy, A.; Benford, D.; Halldorsson, T.; Jeger, M.J.; Knutsen, K.H.; More, S.; Mortensen, A.; Naegeli, H.; Noteborn, H.; Ockleford, C.; Ricci, A. Update: use of the benchmark dose approach in risk assessment. <i>EFSA Journal</i> <b>2017</b>, <i>15(1)</i>. <a href=\"https://doi.org/10.2903/j.efsa.2017.4658\">https://doi.org/10.2903/j.efsa.2017.4658</a>' 
+  tooltip: 'Hardy, A.; Benford, D.; Halldorsson, T.; Jeger, M.J.; Knutsen, K.H.; More, S.; Mortensen, A.; Naegeli, H.; Noteborn, H.; Ockleford, C.; Ricci, A. Update: use of the benchmark dose approach in risk assessment. <i>EFSA Journal</i> <b>2017</b>, <i>15(1)</i>. <a href=\"https://doi.org/10.2903/j.efsa.2017.4658\">https://doi.org/10.2903/j.efsa.2017.4658</a>'
 - name: Beaudequin et al., 2015
   tooltip: 'Beaudequin, D.; Harden, F.; Roiko, A.; Stratton, H.; Lemckert, C.; Mengersen, K. Beyond QMRA: modelling microbial health risk as a complex system using Bayesian networks. <i>Environ Int</i> <b>2015</b>, <i>80</i>, 8-18.<a href=\"https://doi.org/10.1016/j.envint.2015.03.013\">https://doi.org/10.1016/j.envint.2015.03.013)</a>'
 - name: Carriger et al., 2016
@@ -168,3 +168,31 @@
   tooltip: 'Murphy, F.; Sheehan, B.; Mullins, M.; Bouwmeester, H.; Marvin, H.J.P.; Bouzembrak, Y.; Costa, A.L.; Das, R.; Stone, V.; Tofail, S.A.M. A tractable method for measuring nanomaterial risk using Bayesian networks. <i>Nanoscale Res Lett</i> <b>2016</b>, <i>11(1)</i>, 503. <a href=\"https://doi.org/10.1186/s11671-016-1724-y\">https://doi.org/10.1186/s11671-016-1724-y</a>'
 - name: Wiesner and Bottero, 2011
   tooltip: 'Wiesner, M.R.; Bottero, J‐Y. A risk forecasting process for nanostructured materials, and nanomanufacturing. <i>Comptes Rendus Physique</i> <b>2011</b>, <i>12(7)</i>, 659-668. doi: <a href=\"https://doi.org/10.1016/j.crhy.2011.06.008\">https://doi.org/10.1016/j.crhy.2011.06.008</a>'
+- name: ECHA, 2008a
+  tooltip: 'ECHA, Guidance on information requirements and chemical safety assessment Chapter R.6: QSARs and grouping of chemicals, <b>2008</b>. <a href=\"https://echa.europa.eu/documents/10162/13632/information_requirements_r6_en.pdf/77f49f81-b76d-40ab-8513-4f3a533b6ac9\">https://echa.europa.eu/documents/10162/13632/information_requirements_r6_en.pdf/77f49f81-b76d-40ab-8513-4f3a533b6ac9</a>'
+- name: OECD, 2004
+  tooltip: 'The Report from the Expert Group on (Quantitative) Structure-Activity Relationships [(Q)SARs] on the Principles for the Validation of (Q)ARs. Retrieved from <a href=\"hhttps://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono(2004)24&doclanguage=en\">https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono(2004)24&doclanguage=en</a>  (Accessed: 28/06/22)'
+- name: Fadeel, 2013
+  tooltip: 'Fadeel, B. Nanosafety: Towards Safer Design of Nanomedicines. <i>Journal of Internal Medicine</i> <b>2013</b>, <i>274</i> (6), 578–580. <a href=\"https://doi.org/10.1111/joim.12137\">https://doi.org/10.1111/joim.12137</a>.'
+- name: Gottschalk et al., 2009
+  tooltip: 'Gottschalk, F.; Sonderer, T.; Scholz, R. W.; Nowack, B. Modeled Environmental Concentrations of Engineered Nanomaterials (TiO2, ZnO, Ag, CNT, Fullerenes) for Different Regions. <i>Environ. Sci. Technol.</i> <b>2009</b>, <i>43</i> (24), 9216–9222. <a href=\"https://doi.org/10.1021/es9015553\">https://doi.org/10.1021/es9015553</a>.'
+- name: Hjorth et al., 2017
+  tooltip: 'Hjorth, R.; van Hove, L.; Wickson, F. What Can Nanosafety Learn from Drug Development? The Feasibility of “Safety by Design.” <i>Nanotoxicology</i> <b>2017</b>, <i>11</i> (3), 305–312. <a href=\"https://doi.org/10.1080/17435390.2017.1299891\">https://doi.org/10.1080/17435390.2017.1299891</a>.'
+- name: Kell & Oliver, 2004
+  tooltip: 'Kell, D. B.; Oliver, S. G. Here Is the Evidence, Now What Is the Hypothesis? The Complementary Roles of Inductive and Hypothesis-Driven Science in the Post-Genomic Era. <i>BioEssays</i> <b>2004</b>, <i>26</i> (1), 99–105. <a href=\"https://doi.org/10.1002/bies.10385\">https://doi.org/10.1002/bies.10385</a>.'
+- name: Keller et al., 2013
+  tooltip: 'Keller, A. A.; McFerran, S.; Lazareva, A.; Suh, S. Global Life Cycle Releases of Engineered Nanomaterials. <i>J Nanopart Res</i> <b>2013</b>, <i>15</i> (6), 1692. <a href=\"https://doi.org/10.1007/s11051-013-1692-4\">https://doi.org/10.1007/s11051-013-1692-4</a>.'
+- name: Pan et al., 2018
+  tooltip: 'Pan, L.; Lee, Y. M.; Lim, T. K.; Lin, Q.; Xu, X. Quantitative Proteomics Study Reveals Changes in the Molecular Landscape of Human Embryonic Stem Cells with Impaired Stem Cell Differentiation upon Exposure to Titanium Dioxide Nanoparticles. <i>Small</i> <b>2018</b>, <i>14</i> (23), 1800190. <a href=\"https://doi.org/10.1002/smll.201800190\">https://doi.org/10.1002/smll.201800190</a>.'
+- name: Scala et al., 2018
+  tooltip: 'Scala, G.; Kinaret, P.; Marwah, V.; Sund, J.; Fortino, V.; Greco, D. Multi-Omics Analysis of Ten Carbon Nanomaterials Effects Highlights Cell Type Specific Patterns of Molecular Regulation and Adaptation. <i>NanoImpact</i> <b>2018</b>, <i>11</i>, 99–108. <a href=\"https://doi.org/10.1016/j.impact.2018.05.003\">https://doi.org/10.1016/j.impact.2018.05.003</a>.'
+- name: Schwarz-Plaschg et al., 2017
+  tooltip: 'Schwarz-Plaschg, C.; Kallhoff, A.; Eisenberger, I. Making Nanomaterials Safer by Design? <i>Nanoethics</i> <b>2017</b>, <i>11</i> (3), 277–281. <a href=\"https://doi.org/10.1007/s11569-017-0307-4\">https://doi.org/10.1007/s11569-017-0307-4</a>.'
+- name: Sørensen et al., 2019
+  tooltip: 'Sørensen, S. N.; Baun, A.; Burkard, M.; Maso, M. D.; Hansen, S. F.; Harrison, S.; Hjorth, R.; Lofts, S.; Matzke, M.; Nowack, B.; Peijnenburg, W.; Poikkimäki, M.; Quik, J. T. K.; Schirmer, K.; Verschoor, A.; Wigger, H.; Spurgeon, D. J. Evaluating Environmental Risk Assessment Models for Nanomaterials According to Requirements along the Product Innovation Stage-Gate Process. <i>Environ. Sci.: Nano</i> <b>2019</b>, <i>6</i> (2), 505–518. <a href=\"https://doi.org/10.1039/C8EN00933C\">https://doi.org/10.1039/C8EN00933C</a>.'
+- name: van Harmelen et al., 2016
+  tooltip: 'van Harmelen, T.; Zondervan-van den Beuken, E. K.; Brouwer, D. H.; Kuijpers, E.; Fransman, W.; Buist, H. B.; Ligthart, T. N.; Hincapié, I.; Hischier, R.; Linkov, I.; Nowack, B.; Studer, J.; Hilty, L.; Som, C. LICARA NanoSCAN - A Tool for the Self-Assessment of Benefits and Risks of Nanoproducts. <i>Environment International</i> <b>2016</b>, <i>91</i>, 150–160. <a href=\"https://doi.org/10.1016/j.envint.2016.02.021\">https://doi.org/10.1016/j.envint.2016.02.021</a>.'
+- name: Varsou et al., 2018
+  tooltip: 'Varsou, D.-D.; Tsiliki, G.; Nymark, P.; Kohonen, P.; Grafström, R.; Sarimveis, H. ToxFlow: A Web-Based Application for Read-Across Toxicity Prediction Using Omics and Physicochemical Data. <i>J. Chem. Inf. Model.</i> <b>2018</b>, <i>58</i> (3), 543–549. <a href=\"https://doi.org/10.1021/acs.jcim.7b00160\">https://doi.org/10.1021/acs.jcim.7b00160</a>.'
+- name: Worth et al., 2017
+  tooltip: 'Worth, A.; Aschberger, K.; Asturiol, B. D.; Bessems, J.; Gerloff, K. B.; Graepel, R.; Joossens, E.; Lamon, L.; Palosaari, T.; Richarz, A. Evaluation of the availability and applicability of computational approaches in the safety assessment of nanomaterials: Final report of the Nanocomput project (accessed 2022 -06 -28). <a href=\"https://publications.jrc.ec.europa.eu/repository/handle/JRC106386\">https://publications.jrc.ec.europa.eu/repository/handle/JRC106386</a>.'

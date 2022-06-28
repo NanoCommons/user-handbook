@@ -31,6 +31,9 @@ This report aims at reviewing existing frameworks for SSbD, identifying which ar
 The aim of this study is to map existing initiatives and R&I activities related to sustainability that are relevant for the development of sustainable-by-design criteria for chemicals, materials and products. It includes three main parts, 1) Identification of existing policies and initiatives that implement sustainability criteria, 2) Analysis of a sample of criteria under the relevant policies and initiatives with a focus on materials and chemicals, and 3) Analysis of the progress in R&I. (© European Union, 2021)
 {: .more-link .more-link--pdf}
 
+[Inventories of S(S)bD tools]({{ site.baseurl }}/SSbD/inventories/)
+Collection of inventories with tools and services supporting SSbD e.g. from the OECD mapping study and JRC technical report linked above.
+{: .more-link .more-link--webpages}
 
 ## What is SSbD exactly and how should it be implemented? - some expert opinions   
 [2nd Safe and Sustainable by Design stakeholder workshop](https://www.youtube.com/watch?v=Vz1rGpI7jIU)
