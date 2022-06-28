@@ -7,7 +7,7 @@ grand_parent: Safe-and-Sustainable-by-Design
 description_long: Inventory of SbD tools extracted from the OECD project "Moving Towards a Safe(r) Innovation Approach (SIA) for More Sustainable Nanomaterials and Nano-enabled Products"<br> (© 2020)
 
 has_children: false
-nav_exclude: false
+nav_exclude: true
 has_references: true
 nav_order: 511
 ---

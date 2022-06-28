@@ -7,7 +7,7 @@ grand_parent: Safe-and-Sustainable-by-Design
 description_long: Decision support systems currently developed in different SbD projects (Harmless)
 
 has_children: false
-nav_exclude: false
+nav_exclude: true
 has_references: true
 nav_order: 513
 ---

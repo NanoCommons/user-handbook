@@ -7,7 +7,7 @@ grand_parent: Safe-and-Sustainable-by-Design
 description_long: SSbD tools listed in the JRC Technical Report "Safe and Sustainable by Design chemicals and materials" <br>(© 2022)
 
 has_children: false
-nav_exclude: false
+nav_exclude: true
 has_references: true
 nav_order: 512
 ---
