@@ -13,6 +13,7 @@ nav_order: 511
 ---
 
 # OECD Safe(r) Innovation Approach (SIA)
+<a href="https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono(2020)36/REV1&doclanguage=en"><img src="{{ site.baseurl }}/images/SSbD/OECD-SIA.png" width="250" class="image--right"></a>
 reproduced from: <br>
 [Moving Towards a Safe(r) Innovation Approach (SIA) for More Sustainable Nanomaterials and Nano-enabled Products](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono(2020)36/REV1&doclanguage=en)<br>
 OECD Environment, Health and Safety Publications, Series on the Safety of Manufactured Nanomaterials No. 96<br>

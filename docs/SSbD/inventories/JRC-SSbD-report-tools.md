@@ -13,6 +13,7 @@ nav_order: 512
 ---
 
 # Safe and Sustainable by Design chemicals and materials
+<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC127109"><img src="{{ site.baseurl }}/images/SSbD/JRC127109_cover.jpg" width="250" class="image--right"></a>
 reproduced from: <br>
 [JRC Technical Report: Safe and Sustainable by Design chemicals and materials](https://publications.jrc.ec.europa.eu/repository/handle/JRC127109)<br>
 Review of safety and sustainability dimensions, aspects, methods, indicators, and tools<br>
