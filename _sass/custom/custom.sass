@@ -15,8 +15,31 @@ h2 + h3,
 h3 + h4
     margin-top: 10px  !important
 
+.site-logo
+    width: 150%
+    height: 150%
+    background-image: url($logo)
+    background-position: left center
+    background-repeat: no-repeat
+    background-size: contain
+
 .site-footer
     display: none
+
+.footer
+    display: flex
+    @extend .text-small
+    @extend .text-grey-dk-100
+
+    > div
+        flex: 0 1 auto
+
+.footer__logo
+    width: 200px
+
+    img
+        max-width: 100%
+        height: auto
 
 .lead
     font-size: 1.4rem
@@ -81,6 +104,8 @@ iframe, embed
             background-image: none
             text-decoration: none
             @extend .fs-5
+            line-height: 1.3
+            margin: 0.2rem 0
 
             &:hover
                 background-image: none
@@ -313,3 +338,4 @@ iframe, embed
                                     left: -1.1rem
                                     content: counter(sub-sub-sub-counter, disc)
                                     counter-increment: sub-sub-sub-counter
+
