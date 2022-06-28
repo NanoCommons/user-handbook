@@ -32,21 +32,24 @@ The review included also an analysis of online resources (databases, tools) that
  <tr>
   <th>Tool</th>
   <th>Description</th>
-  <th>Organisation, URL and/or reference</th>
+  <th>Organisation</th>
+  <th>URL and/or reference</th>
  </tr>
  <tr>
   <td>ECHA Information on Chemicals</td>
   <td>The source of information on the chemicals manufactured and
   imported in Europe. It covers their hazardous properties, classification and labelling, and information on how to use
   them safely.</td>
-  <td>ECHA, <a href="https://echa.europa.eu/information-on-chemicals">https://echa.europa.eu/information-on-chemicals</a></td>
+  <td>ECHA </td>
+  <td><a href="https://echa.europa.eu/information-on-chemicals">Information on chemicals</a></td>
  </tr>
  <tr>
   <td>EU Chemicals Legislation Finder (EUCLEF)</td>
   <td>EUCLEF gives an overview of the European Union's
   legislation on chemicals and allows searching for information on substances,
   find applicable laws and check regulatory obligations.</td>
-  <td>ECHA, <a href="https://echa.europa.eu/legislation-finder">https://echa.europa.eu/legislation-finder</a></td>
+  <td>ECHA</td>
+  <td><a href="https://echa.europa.eu/legislation-finder">Legislation finder</a></td>
  </tr>
  <tr>
   <td>GreenScreen</td>
@@ -56,7 +59,8 @@ The review included also an analysis of online resources (databases, tools) that
   design and development, materials procurement, and as part of alternatives
   assessment to meet regulatory requirements.<br>
   GreenScreen List Translator provides a "list of lists" approach to quickly identify chemicals of high concern.</td>
-  <td>GreenScreen, <a href="https://www.greenscreenchemicals.org/learn/full-greenscreen-method">https://www.greenscreenchemicals.org/learn/full-greenscreen-method</a></td>
+  <td>GreenScreen</td>
+  <td><a href="https://www.greenscreenchemicals.org/learn/full-greenscreen-method">The full GreenScreen method</a></td>
  </tr>
  <tr>
   <td>OECD Substitution and Alternatives Assessment Toolbox</td>
@@ -69,7 +73,8 @@ The review included also an analysis of online resources (databases, tools) that
       <LI> Regulations and Restrictions</LI>
     </UL>
   </td>
-  <td>OECD, <a href="http://www.oecdsaatoolbox.org/">http://www.oecdsaatoolbox.org/</a></td>
+  <td>OECD</td>
+  <td><a href="http://www.oecdsaatoolbox.org/">OECD toolbox</a></td>
  </tr>
  <tr>
   <td>SCIP Database</td>
@@ -81,7 +86,8 @@ The review included also an analysis of online resources (databases, tools) that
   cycle of products and materials, including at the waste stage. The
   information in the database is then made available to waste operators and
   consumers.</td>
-  <td>ECHA, <a href="https://echa.europa.eu/scip">https://echa.europa.eu/scip</a></td>
+  <td>ECHA</td>
+  <td><a href="https://echa.europa.eu/scip">SCIP database</a></td>
  </tr>
  <tr>
   <td>SIA (Safe Innovation Approach) toolbox</td>
@@ -91,7 +97,8 @@ The review included also an analysis of online resources (databases, tools) that
   and nanomaterial-containing products on one hand but also supporting improved
   regulatory preparedness on the other hand. All of the methods in the SIA
   toolbox have been selected to be supportive for SIA/SbD implementation.</td>
-  <td>RIVM, <a href="https://www.siatoolbox.com/">https://www.siatoolbox.com/</a></td>
+  <td>RIVM</td>
+  <td><a href="https://www.siatoolbox.com/">SIA Toolbox</a></td>
  </tr>
  <tr>
   <td>SubSelect - Guidance for the Selection of Sustainable Chemicals</td>
@@ -99,7 +106,8 @@ The review included also an analysis of online resources (databases, tools) that
   substances and mixtures to gather information on hazard, mobility, resource
   and CO2-emission aspects and prioritise substitution needs or compare
   alternatives.</td>
-  <td>German Environment Agency (UBA), <a href="https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable">https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable</a></td>
+  <td>German Environment Agency (UBA)</td>
+  <td><a href="https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable">Guidance</a></td>
  </tr>
  <tr>
   <td>Substitute It Now (SIN) list</td>
@@ -108,27 +116,29 @@ The review included also an analysis of online resources (databases, tools) that
   the globe. The Substitute It Now - implies that these chemicals should be
   removed as soon as possible as they pose a threat to human health and the
   environment.</td>
-  <td>International Chemical Secretariat (ChemSec), <a href="https://sinlist.chemsec.org/">https://sinlist.chemsec.org/</a>, <a href="https://chemsec.org/business-tool/">https://chemsec.org/business-tool/</a></td>
+  <td>International Chemical Secretariat (ChemSec)</td>
+  <td><a href="https://sinlist.chemsec.org/">SIN list</a>, <a href="https://chemsec.org/business-tool/">Business tool</a></td>
  </tr>
  <tr>
   <td>SUBSPORTplus</td>
   <td>Portal with information on substituting hazardous
   substances and assisting in finding safer alternatives.</td>
-  <td>Federal Institute for Occupational Safety and Health
-  (BAuA), <a href="https://www.subsportplus.eu/subsportplus/EN/Home/Home_node.html">https://www.subsportplus.eu/subsportplus/EN/Home/Home_node.html</a></td>
+  <td>Federal Institute for Occupational Safety and Health (BAuA)</td>
+  <td><a href="https://www.subsportplus.eu/subsportplus/EN/Home/Home_node.html">SUBSPORTplus</a></td>
  </tr>
  <tr>
   <td>ECHA 'Substance substitution' tools</td>
   <td>Various methods, tools and materials for comparative hazard
   assessment</td>
-  <td>ECHA, <a href="https://www.echa.europa.eu/web/guest/assess-compare-and-selectsubstitution">https://www.echa.europa.eu/web/guest/assess-compare-and-selectsubstitution</a></td>
+  <td>ECHA</td>
+  <td><a href="https://www.echa.europa.eu/web/guest/assess-compare-and-selectsubstitution">'Substance substitution' tools</a></td>
  </tr>
  <tr>
   <td>ProScale</td>
   <td>This tool allows for assessing chemicalsrelated health
   risks in the work environment in a life cycle perspective</td>
-  <td>Swedish Environmental Research Institute (IVL), <a href="https://www.ivl.se/download/18.556fc7e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf">https://www.ivl.se/download/18.556fc7
-  e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf</a></td>
+  <td>Swedish Environmental Research Institute (IVL)</td>
+  <td><a href="https://www.ivl.se/download/18.556fc7e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf">ProScale</a></td>
  </tr>
  <tr>
   <td>Sustainability method selection tool</td>
@@ -137,7 +147,7 @@ The review included also an analysis of online resources (databases, tools) that
   methods recommended by this tools, there are various methods for safety
   assessments as well as other methods related to other sustainability
   dimensions</td>
-  <td>Dutch National Institute for Public Health and the
-  Environment (RIVM), <a href="http://www.sustainabilitymethod.com/">http://www.sustainabilitymethod.com/</a></td>
+  <td>Dutch National Institute for Public Health and the Environment (RIVM)</td>
+  <td><a href="http://www.sustainabilitymethod.com/">Sustainability method</a></td>
  </tr>
 </table>
