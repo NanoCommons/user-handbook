@@ -18,7 +18,7 @@ reproduced from: <br>
 Review of safety and sustainability dimensions, aspects, methods, indicators, and tools<br>
 Caldeira, C. Farcal, R., Moretti, C., Mancini, L., Rauscher, H., Rasmussen, K., Riego Sintes, J., Sala, S.<br>
 2022<br>
-© European Union, 2022 
+© European Union, 2022
 {: .source }
 
 In the context of the EU Green Deal, the Chemicals Strategy for Sustainability (CSS) aims at improving the safeguard of human health and the environment as part of an ambitious approach to tackle pollution from all sources and move towards zero-pollution for air, water and soil. A key action defined in the CSS is the development of safe and sustainable by design (SSbD) criteria for chemicals. The SSbD concept promotes a holistic approach that integrates safety, circularity and functionality of chemicals, materials, products and processes throughout their entire life cycle, minimizing their environmental footprint.
@@ -31,7 +31,7 @@ The review included also an analysis of online resources (databases, tools) that
 <table>
  <tr>
   <th>Tool</th>
-  <th style='width:50%'>Description</th>
+  <th>Description</th>
   <th>Organisation, URL and/or reference</th>
  </tr>
  <tr>
@@ -91,7 +91,7 @@ The review included also an analysis of online resources (databases, tools) that
   and nanomaterial-containing products on one hand but also supporting improved
   regulatory preparedness on the other hand. All of the methods in the SIA
   toolbox have been selected to be supportive for SIA/SbD implementation.</td>
-  <td>RIVM, <a href="https://www.siatoolbox.com/"><https://www.siatoolbox.com/</a></td>
+  <td>RIVM, <a href="https://www.siatoolbox.com/">https://www.siatoolbox.com/</a></td>
  </tr>
  <tr>
   <td>SubSelect - Guidance for the Selection of Sustainable Chemicals</td>
@@ -99,7 +99,7 @@ The review included also an analysis of online resources (databases, tools) that
   substances and mixtures to gather information on hazard, mobility, resource
   and CO2-emission aspects and prioritise substitution needs or compare
   alternatives.</td>
-  <td>German Environment Agency (UBA), <a href="https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable">https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable"</a></td>
+  <td>German Environment Agency (UBA), <a href="https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable">https://www.umweltbundesamt.de/en/document/subselect-guide-for-the-selection-of-sustainable</a></td>
  </tr>
  <tr>
   <td>Substitute It Now (SIN) list</td>
@@ -108,7 +108,7 @@ The review included also an analysis of online resources (databases, tools) that
   the globe. The Substitute It Now - implies that these chemicals should be
   removed as soon as possible as they pose a threat to human health and the
   environment.</td>
-  <td>International Chemical Secretariat (ChemSec), <a href="https://sinlist.chemsec.org/">https://sinlist.chemsec.org/</a>, <a href="https://chemsec.org/business-tool/">https://chemsec.org/business-tool/"</a></td>
+  <td>International Chemical Secretariat (ChemSec), <a href="https://sinlist.chemsec.org/">https://sinlist.chemsec.org/</a>, <a href="https://chemsec.org/business-tool/">https://chemsec.org/business-tool/</a></td>
  </tr>
  <tr>
   <td>SUBSPORTplus</td>
@@ -127,8 +127,7 @@ The review included also an analysis of online resources (databases, tools) that
   <td>ProScale</td>
   <td>This tool allows for assessing chemicalsrelated health
   risks in the work environment in a life cycle perspective</td>
-  <td>Swedish Environmental Research Institute (IVL), <a href="https://www.ivl.se/download/18.556fc7
-  e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf">https://www.ivl.se/download/18.556fc7
+  <td>Swedish Environmental Research Institute (IVL), <a href="https://www.ivl.se/download/18.556fc7e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf">https://www.ivl.se/download/18.556fc7
   e17c75c8493327e78/16380922021 07/FULLTEXT01.pdf</a></td>
  </tr>
  <tr>
