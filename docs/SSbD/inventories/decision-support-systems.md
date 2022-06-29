@@ -13,11 +13,11 @@ nav_order: 513
 ---
 
 # Decision support systems
-DSS are currently under development in the different EU projects funded under the NMB-P15 and NMBP-16 calls. Information on these will be collected here to highlight synergetic effects. 
+DSS are currently under development in the different EU projects funded under the NMBP-15 and NMBP-16 calls. Information on these will be collected here to highlight synergetic effects. 
 {: .lead }
 
 ## HARMLESS
-HARMLESS develops a novel, multifaceted Safe Innovation Approach (SIA) to Multi-Component, NanoMaterials (MCNM) and High Aspect Ratio Nanoparticles (HARNs) by integrating New Approach Methodologies (NAMs).
+HARMLESS develops a novel, multifaceted Safe Innovation Approach (SIA) to Multi-Component NanoMaterials (MCNM) and High Aspect Ratio Nanoparticles (HARNs) by integrating New Approach Methodologies (NAMs).
 
 To ensure that industries, including SMEs, pick up the new approach, a user-friendly Decision Support System (DSS) was developed and validated iteratively at scale in different case studies. The HARMLESS DSS provides Safe and Sustainable by Design (SSbD) decision support to the users based on a well-established concept of Risk-Informed Decision Making and a Bayesian data and model integration approach.
 
