@@ -4,7 +4,7 @@ title: Data shepherds at work
 
 description: Implementation of data shepherds in and first experiences from EU projects 
 permalink: /data-management/data-shepherds/
-parent: Data management
+parent: Data/knowledge management
 has_children: true
 has_references: true
 has_toc: true

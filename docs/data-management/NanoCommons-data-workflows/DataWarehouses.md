@@ -3,7 +3,7 @@ layout: page
 title: Integration of public data warehouses
 permalink: /data-management/NanoCommons-data-workflows/DataWarehouses/
 parent: NanoCommons data workflows
-grand_parent: Data management
+grand_parent: Data/knowledge management
 has_children: false
 nav_order: 272
 ---

@@ -4,8 +4,8 @@ title: NanoCommons Knowledge Base
 
 description: One-stop shop for nanosafety data by linking in different data warehouses and also the primary home of data from different projects including NanoMile, NanoFASE and SmartNanoTox.
 permalink: /data-management/data-resources/NanoCommons-KB/
-parent: Nanosafety data resources
-grand_parent: Data management
+parent: Nanosafety data/knowledge resources
+grand_parent: Data/knowledge management
 has_children: false
 has_toc: false
 nav_order: 282

@@ -4,7 +4,7 @@ title: Roles and responsibilities
 
 description: Roles and responsibilities in the data life cycle
 permalink: /data-management/roles/
-parent: Data management
+parent: Data/knowledge management
 nav_order: 210
 has_references: true
 ---

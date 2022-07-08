@@ -4,7 +4,7 @@ title: Instance maps
 
 description: Instance maps to visually represent study design and experimental workflows
 permalink: /data-management/instance-maps/
-parent: Data management
+parent: Data/knowledge management
 nav_exclude: false
 nav_order: 250
 ---

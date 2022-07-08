@@ -4,8 +4,8 @@ title: ACEnano Knowledge Infrastructure
 
 description: Specializing on physico-chemical characterisation techniques, protocols and data.
 permalink: /data-management/data-resources/ACEnano-warehouse/
-parent: Nanosafety data resources
-grand_parent: Data management
+parent: Nanosafety data/knowledge resources
+grand_parent: Data/knowledge management
 has_children: false
 has_toc: false
 nav_order: 281

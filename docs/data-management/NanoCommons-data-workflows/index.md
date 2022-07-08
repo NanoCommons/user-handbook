@@ -2,7 +2,7 @@
 layout: page
 title: NanoCommons data workflows
 permalink: /data-management/NanoCommons-data-workflows/
-parent: Data management
+parent: Data/knowledge management
 has_children: true
 has_toc: false
 nav_order: 270

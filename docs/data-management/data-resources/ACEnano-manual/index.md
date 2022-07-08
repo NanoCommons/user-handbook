@@ -3,8 +3,8 @@ layout: page
 title: ACEnano - How to access the Knowledge Infrastructure
 
 permalink: /data-management/data-resources/ACEnano-warehouse/ACEnano-manual/
-parent: Nanosafety data resources
-grand_parent: Data management
+parent: Nanosafety data/knowledge resources
+grand_parent: Data/knowledge management
 has_children: false
 has_toc: false
 nav_exclude: true

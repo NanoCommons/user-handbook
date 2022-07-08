@@ -80,15 +80,15 @@
   tooltip: 'NanoFabNet. Common Challenges & Opportunities in sustainable Nanofabrication. <i>Report</i> <b>2021</b>. <a href=\"https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf\">https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210803_NanoFabNet_Report_Common-Challenges-of-sustainable-Nanofabrication.pdf</a>.'
 - name: 'Rawat, 2015'
   tooltip: 'Rawat, R.S. Dense Plasma Focus – From Alternative Fusion Source to Versatile High Energy Density Plasma Source for Plasma Nanotechnology. <i>J. Phys.: Conf. Ser.</i> <b>2015</b>, <i>591</i>, 012021. <a href=\"https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021\">https://iopscience.iop.org/article/10.1088/1742-6596/591/1/012021</a>.'
-- name: \"Ghosh et al., 2011\"
+- name: Ghosh et al., 2011
   tooltip: 'Ghosh, S.; Matsuoka, Y.; Asai, Y.; Hsin, K.Y.; Kitano, H. Software for systems biology: from tools to integrated platforms. <i>Nature Reviews Genetics</i> <b>2011</b>, <i>12</i>, 821. <a href=\"https://www.nature.com/articles/nrg3096\">https://www.nature.com/articles/nrg3096</a>.'
-- name: \"Brown et al., 2011\"
+- name: Brown et al., 2011
   tooltip: 'Brown, M.; Wedge, D.C.; Goodacre, R.; Kell, D.B.; Baker, P.N.; Kenny, L.C.; Mamas, M.A.; Neyses, L.; Dunn, W.B. Automated workflows for accurate mass-based putative metabolite identification in LC/MS-derived metabolomic datasets. <i>Bioinformatics</i> <b>2011</b>, <i>27(8)</i>, 1108-1112. <a href=\"https://doi.org/10.1093/bioinformatics/btr079\">https://doi.org/10.1093/bioinformatics/btr079</a>.'
-- name: \"Tollefsen et al., 2014\"
+- name: Tollefsen et al., 2014
   tooltip: 'Tollefsen, K.E.; Scholz, S.; Cronin, M.T.; Edwards, S.W.; de Knecht, J.; Crofton, K.; Garcia-Reyero, N.; Hartung, T.; Worth, A.; Patlewicz, G. Applying Adverse Outcome Pathways (AOPs) to support Integrated Approaches to Testing and Assessment (IATA). <i>Regulatory Toxicology and Pharmacology</i> <b>2014</b>, <i>70(3)</i>, 629-640. <a href=\"https://doi.org/10.1016/j.yrtph.2014.09.009\">https://doi.org/10.1016/j.yrtph.2014.09.009</a>.'
-- name: \"Walser, Studer, 2015\"
+- name: Walser, Studer, 2015
   tooltip: 'Walser, T.; Studer, C. Sameness: The regulatory crux with nanomaterial identity and grouping schemes for hazard assessment. <i>Regulatory Toxicology and Pharmacology</i> <b>2015</b>, <i>72(3)</i>, 569-571. <a href=\"https://doi.org/10.1016/j.yrtph.2015.05.031\">https://doi.org/10.1016/j.yrtph.2015.05.031</a>.'
-- name: \"Patinha Caldeira et al., 2022\"
+- name: Patinha Caldeira et al., 2022
   tooltip: 'Patinha Caldeira, C.; Farcal, R.; Moretti, C.; Mancini, L.; Rauscher, H.; Rasmussen, K.; Riego Sintes, J.; Sala, S. Safe and Sustainable by Design chemicals and materials Review of safety and sustainability dimensions, aspects, methods, indicators, and tools, <i>EUR 30991 EN, Publications Office of the European Union, Luxembourg</i>, <b>2022</b>. <a href=\"http://dx.doi.org/10.2760/879069\">http://dx.doi.org/10.2760/879069</a>.'
 - name: Hristozov et al., 2016
   tooltip: 'Hristozov, D.; Gottardo, S.; Semenzin, E.; Oomen, A.; Bos, P.; Peijnenburg, W.; van Tongeren, M.;  Nowack, B.; Hunt, N.; Brunelli, A.; Scott-Fordsmand, J.J.; Tran, L.; Marcomini, A. Frameworks and tools for risk assessment of manufactured nanomaterials. <i>Environ Int</i> <b>2016</b> <i>95</i>, 36–53. <a href=\"https://doi.org/10.1016/j.envint.2016.07.016\">https://doi.org/10.1016/j.envint.2016.07.016</a>'

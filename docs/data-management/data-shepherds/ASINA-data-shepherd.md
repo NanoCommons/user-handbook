@@ -5,7 +5,7 @@ title: ASINA's data shepherd
 description: "Inspired by the publication of the concept and the benefits seen in the NanoFASE demonstration case, the ASINA project assigned the task of creating a pragmatic approach of initiating, designing and implementing the Data Management Plan (DMP) and the data FAIRification process to an internal data shepherd."
 permalink: /data-management/data-shepherds/ASINA-data-shepherd/
 parent: Data shepherds at work
-grand_parent: Data management
+grand_parent: Data/knowledge management
 nav_order: 221
 has_references: true
 nav_exclude: false

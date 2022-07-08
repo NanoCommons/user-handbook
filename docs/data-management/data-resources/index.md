@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Nanosafety data resources
+title: Nanosafety data/knowledge resources
 
 description: Listing of important data resources for nanosafety and nanoinformatics
 permalink: /data-management/data-resources/
-parent: Data management
+parent: Data/knowledge management
 has_children: true
 has_references: true
 has_toc: false
 nav_order: 280
 ---
-# Where and how to find nanosafety data
+# Where and how to find nanosafety data / knowledge
 Partly based on: Furxhi, 2022<br>
 © 2021 by the author. Published by Elsevier B.V.
 {: .source }
@@ -20,7 +20,11 @@ Partly based on: Furxhi, 2022<br>
 The purpose of this review research is to transparently and comprehensively display to the nanoscience community that datasets readily available for machine learning purposes making it convenient and more efficient for the next users such as modellers or data curators to retrieve information. 
 {: .more-link .more-link--webpages}
 
-## Listing of important data resources for nanosafety and nanoinformatics
+## Listing of important data / knowledge resources for nanosafety and nanoinformatics
+
+[DaNa](https://nanopartikel.info/en/)
+Complex, toxicological issues from current materials research in an generally understandable format for (non-)scientists.
+{: .more-link .more-link--webpages}
 
 [ACEnano knowledge warehouse](./ACEnano-warehouse/)
 Specializing on physico-chemical characterisation techniques, protocols and data.

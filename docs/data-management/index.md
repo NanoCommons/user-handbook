@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Data management
+title: Data/knowledge management
 nav_order: 200
 
-description: General and nanosafety-specific aspects of data curation, storage and sharing
+description: General and nanosafety-specific aspects of data/knowledge curation, storage and sharing
 permalink: /data-management/
 has_children: true
 has_toc: false
 has_references: true
 ---
-# Data management: general and nanosafety-specific aspects
+# Data/knowledge management: general and nanosafety-specific aspects
 
 ## The data management life cycle
 Based on: Papadiamantis et al., 2020<br>

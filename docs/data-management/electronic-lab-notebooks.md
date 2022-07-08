@@ -4,7 +4,7 @@ title: Electronic lab notebooks
 
 description: Electronic lab notebook in nanosafety
 permalink: /data-management/electronic-lab-notebooks/
-parent: Data management
+parent: Data/knowledge management
 nav_order: 240
 ---
 
