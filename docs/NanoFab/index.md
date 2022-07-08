@@ -12,10 +12,23 @@ Nanofabrication is the essential bridge between the discoveries of the nanoscien
 {: .lead }
 
 Partly based on: NanoFabNet, 2021, NanoFabNet, 2021a, [https://nanofabnet.eu/](https://nanofabnet.eu/) and [https://susnanofab.eu/](https://susnanofab.eu/)<br>
-© 2021 by NanoFabNet and SUSNANOFAB
+© 2021-2022 by NanoFabNet and SUSNANOFAB
 {: .source }
 
 Nanofabrication has the potential to address major socio-economic challenges, from better and affordable health care to cleaner energy and transports, improved consumer goods and higher living standards. It encompasses many processes from the design, manipulation and control of matter at the nanoscale to the manufacture of nanoscale materials, nanostructures, components, devices and complex systems that exploit the unique physical and chemical phenomena that occur at these smaller scales, such as quantum and surface effects. The dimensional scale for nanofabrication is typically 1 to 100 nm. It is usually at this sub-micron scale that unusual or improved material behaviour is observed, which can be exploited for production of multifunctional devices with unique properties for a vast range of applications, thus having a profound impact on a multitude of industrial sectors. The vast potential of nanofabrication is undeniable, and it must be optimized. 
+
+This page is meant to link nanofabrication/nanomanufacturing to the other areas covered by the Handbook but not to be an exhaustive knowledge resource of this area. This is also not needed since there are specialised platforms designed to bring experts together to foster knowledge exchange.
+
+[NanoFabNet Hub](https://www.nanofabnet.net/)
+<a href="https://www.nanofabnet.net/"><img src="{{ site.baseurl }}/images/logos/NanoFabNet-New-Logo.png" class="image--right" width="250"></a>
+The NanoFabNet Hub is the virtual platform for the NanoFabNet network, serving as an important tool for nanotechnology professionals and entities. The NanoFabNet Hub stands for (i) a well-implemented, guided approach to high levels of safety and sustainability, (ii) trusted technical reliability and quality, and (iii) compliance with and drive of harmonisation, standardisation, and regulation requirements, amongst all of its members and along their nanofabrication value chains.
+<br clear="right">
+{: .more-link .more-link--app }
+[SUSNANOFAB digital platform](https://susnanofab.oppornet.com/)
+<a href="https://susnanofab.oppornet.com/"><img src="{{ site.baseurl }}/images/logos/SUSNANOFAB.png" class="image--right" width="200"></a>
+The Open Access Digital Platform interoperates with current platforms, projects and other initiatives at the European level. The main services and activities provided by the Digital Platform are (i) EU database with access to multiple networks, (ii) cooperation on standarisation activities, (iii) promotion of best practices, and (iv) brokerage, training and support services.
+<br clear="right">
+{: .more-link .more-link--app }
 
 The international standard ISO/TS 80004-8 Nanotechnologies -Vocabulary - Part 8: Nanomanufacturing processes makes an inventory of the different processes, which demonstrates the great diversity of existing approaches, each with their own specificities. The ISO/TS 80004-8 differentiates also between the terms "nanofabrication" and "nanomanufacturing" by arguing that nanomanufacturing encompasses a broader range of processes than does nanofabrication, as it takes into account all nanofabrication techniques, as well as techniques associated with materials processing and chemical synthesis. In the following, however, the terms nanofabrication and nanomanufacturing will be used interchangeably.
 
