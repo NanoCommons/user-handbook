@@ -29,6 +29,15 @@ To change this, training resources are collected here, which not only describe t
 
 [**Need more reasons why not sharing data is bad?**](whyFAIR)
 
+The implementation of the FAIR principles is a very active area and it is hard to keep up-to-date. Therefore, please help us to identify important developments [by editing the mural below](https://app.mural.co/t/acumenist5564/m/acumenist5564/1657266383737/eb39f2554dd859f6f7162493cb56365ca820b168?sender=u8c5a98e82311f4aac9975917). We will then transfer this information into additional Handbook pages.
+<iframe src='https://app.mural.co/embed/2e55c97e-5c82-40f7-b10d-5f1257976e22'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+
 ## Start becoming FAIR
 [Annotating Your Experimental Data](https://www.youtube.com/watch?v=YSH-COr30BI&list=PL0Q0VZW0kRfCUjAuiSbnA1SrkCz9MRiEN&index=2)
 3 June 2020. Learn to enrich your (published) data to make it have more impact. Description of experimental data was aligned to community terminology (ontology terms). Experiences were gathered how you can make your research articles findable by other researchers. [More info...](https://zenodo.org/record/3772185#.Ybiw173MKUk)

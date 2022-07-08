@@ -24,7 +24,17 @@ The resources below will give guidance how such a distributed (meta)data collect
 
 {% include childrenTOC.html page=page pages=site.pages %}
 
-And some big resources on data management more generally and neighbouring areas:
+### Did we miss something (definitely)? Please let us know.
+
+[Click here to edit the mural below.](https://app.mural.co/invitation/mural/acumenist5564/1657265160401?sender=u8c5a98e82311f4aac9975917&key=9bc484c1-ddd9-4bfc-b25c-771637ef22d4)
+<iframe src='https://app.mural.co/embed/6b9dd0cc-48d6-4b63-bb57-b44ff37a1338'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+### And some big resources on data management more generally and neighbouring areas:
 
 [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/)
 {: .more-link .more-link--webpages}
@@ -34,7 +44,7 @@ And some big resources on data management more generally and neighbouring areas:
 {: .more-link .more-link--webpages}
 
 
-Additionally, the Demonstration Cases highlight specific aspects like study design and SOPs and implementation:
+### Additionally, the Demonstration Cases highlight specific aspects like study design and SOPs and implementation:
 
 {% for parent_page in site.pages %}
 {% if parent_page.title == "Demonstration cases" %}

@@ -11,6 +11,14 @@ has_references: true
 We present here multiple sets of definitions of these terms. These build all alternatives since there are no globally accepted definitions yet. However, we are not just presenting them in a chronological order but according to a subjective ranking. This doesn’t exclude that the definitions lower down present specific aspects better than earlier definitions or are better applicable in specific or more general situations.
 {: .lead }
 
+This is a very active area and it is hard to keep up-to-date. Therefore, please help us to identify important developments [by editing the mural below](https://app.mural.co/t/acumenist5564/m/acumenist5564/1657266383737/eb39f2554dd859f6f7162493cb56365ca820b168?sender=u8c5a98e82311f4aac9975917). We will then transfer this information into additional Handbook pages.
+<iframe src='https://app.mural.co/embed/2e55c97e-5c82-40f7-b10d-5f1257976e22'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
 [FAIRness and quality scores]({{ site.baseurl}}/FAIRification/FAIRnessScores/)
 You might also be interested in approaches to score the completeness, quality and FAIRness of datasets.
 {: .more-link .more-link--text}
