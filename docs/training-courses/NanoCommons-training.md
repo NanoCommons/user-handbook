@@ -9,6 +9,7 @@ has_toc: false
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project
 ---
 
+<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="200" class="image--right" />
 # NanoCommons Training Webinars
 This is a list of all recordings from training webinars offered by NanoCommons. 
 {: .lead }
