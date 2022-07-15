@@ -12,6 +12,10 @@ has_references: true
 Setting up as a bridge between regulatory science and policy
 {: .lead} 
 
+[Introductory training on risk governance](https://www.youtube.com/watch?v=2yDgmajldW0)
+From the 10th Nanosafety Training School: from Basic Science to Risk Governance in Venice 2021, 21-25 June 2021
+{: .more-link .more-link--video}
+
 Significant progress has been achieved in relation to research regarding the safety of engineered nanomaterials and the transfer of this knowledge into regulation. Still, more needs to be done as nanotechnology reaches the market. To fill this gap, transdisciplinary risk governance is required based on a clear understanding of risk, its management practices and the societal risk perception by all stakeholders. It should propose and apply clear criteria for risk evaluation and acceptance and for transfer of acceptable risk. It should develop reinforced decision making tools incorporating those aspects and facilitate risk communication to relevant stakeholders, including industry, regulators, insurance companies and the general public.
 
 __Scope:__
