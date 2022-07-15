@@ -40,7 +40,6 @@ Additional information:</p>
 <li>Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Exposure Field Campaign Template.  <a href="https://doi.org/10.3390/nano11071818">https://doi.org/10.3390/nano11071818</a></li>
 <li>Furxhi I., et al. (2021) Data shepherding in nanotechnology. The Antibacterial capturing Template. <a href="https://doi.org/10.3390/coatings11121486">https://doi.org/10.3390/coatings11121486</a>.</li></ul>
 </div>
-{: .more-link .more-link--video}
 
 [Biomax Data Services successful TAs](https://www.youtube.com/watch?v=sSXFG2B1k9Q)
 Overview of the data from different TA applications like NanoFASE and SmartNanoTox integrated in the NanoCommons Knowledge Base. For more a training on the KB, see training offers below.<br>

@@ -9,6 +9,7 @@ has_toc: false
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project
 ---
 
+<img src="{{ site.baseurl }}/images/logos/acenano.png" width="250" class="image--right" />
 # ACEnano Training Webinars
 This is a list of all recordings from training webinars offered by ACEnano. 
 {: .lead }
