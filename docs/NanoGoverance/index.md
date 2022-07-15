@@ -38,31 +38,34 @@ __Scope:__
 (reproduced from the H2020 call text [In support of documentary standards (CSA), TOPIC ID: NMBP-34-2019](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/nmbp-13-2018))
 
 ## Why is NanoRisk Governance needed
-[Features of the NanoRisk Governance Framework in development & current NanoRisk Governance Council concepts](https://www.youtube.com/watch?v=5Q5KcvIFZGI)
-Topics covered:
-- What do we need a NRG Council for, who are its stakeholders and what are their needs?
-- What can we expect from a future NRG Council and what is the current view on its design?
-- Screening ethical issues for governance of nanorisk
-- Insight into the nanorisk governance process guided by the NanoRigo NRG framework
-- Requirements on NRG frameworks by insurances and other societal stakeholders
-{: .more-link .more-link--video}
+<div class="more-link more-link--video">
+<a href="https://www.youtube.com/watch?v=5Q5KcvIFZGI">
+Features of the NanoRisk Governance Framework in development & current NanoRisk Governance Council concepts</a>
+<p>Topics covered:</p>
+<ul>
+    <li>What do we need a NRG Council for, who are its stakeholders and what are their needs?</li>
+    <li>What can we expect from a future NRG Council and what is the current view on its design?</li>
+    <li>Screening ethical issues for governance of nanorisk</li>
+    <li>Insight into the nanorisk governance process guided by the NanoRigo NRG framework</li>
+    <li>Requirements on NRG frameworks by insurances and other societal stakeholders</li>
+</ul>
+</div>
 
 ## OECD Test Guidelines and Guidance Documents
-
 [OECD Test Guidelines for Chemicals](https://www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.htm)
 Access to all OECD Test Guidelines highlighting newly released guidelines, updates and corrections.
-{: .more-link .more-link--websites}
+{: .more-link .more-link--webpages}
 
 [Draft documents for public comments](https://www.oecd.org/chemicalsafety/testing/chemicalstestingdraftoecdguidelinesforthetestingofchemicals-sections1-5.htm)
-{: .more-link .more-link--websites}
+{: .more-link .more-link--webpages}
 
 [OECD Webinar Series on Testing and Assessment Methodologies](https://www.oecd.org/chemicalsafety/testing/webinars-on-testing-and-assessment-methodologies.htm)
 The OECD webinars on Testing and Assessment Methodologies focus on selected ongoing projects that will result in the short to medium term in new methodologies to test and assess chemicals. These free webinars are open to potential end users among regulators and contract research organisations who want to get familiar with new standards and approaches. 
-{: .more-link .more-link--websites}
+{: .more-link .more-link--webpages}
 
 ### NanoHarmony training material to support TG and GD development
 [Full list of NanoHarmony event recordings]({{ site.baseurl }}/training-courses/NanoHarmony-training/)
-{: .more-link .more-link--websites}
+{: .more-link .more-link--webpages}
 
 ## Tools for NanoRisk Governance
 [Joint glossary of key terms related to data management and knowledge infrastructure / portal / platform](https://h2020-riskgone.github.io/nmbp13-terminology/glossary/)

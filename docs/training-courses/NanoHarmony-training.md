@@ -15,13 +15,15 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 This is a list of all recordings from training webinars offered by NanoHarmony.
 {: .lead }
 
-[International NanoHarmony & NANOMET Workshop on nano-related OECD TG Development](https://video.oecd.org/ae683012a90ecc1467340e6a0a9b39cd/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html)
-29-30 June 2022. <br>
-[Day 2](https://video.oecd.org/b25febdd6a8bc50caad791509cdc941a/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html)<br>
-Agenda and posters are [here](https://nanoharmony.eu/2022/06/20/international-nanoharmony-nanomet-workshop-on-nano-related-oecd-tg-development/)
-{: .more-link .more-link--video}
-
-
+<div class="more-link more-link--video">
+<a href="https://video.oecd.org/ae683012a90ecc1467340e6a0a9b39cd/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html">
+International NanoHarmony & NANOMET Workshop on nano-related OECD TG Development</a>
+<p>29-30 June 2022.</p>
+<ul>
+    <li><a href="https://video.oecd.org/b25febdd6a8bc50caad791509cdc941a/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html">Day 2</a></li>
+    <li><a href="https://nanoharmony.eu/2022/06/20/international-nanoharmony-nanomet-workshop-on-nano-related-oecd-tg-development">Agenda and posters</a></li>
+</ul>
+</div>
 
 [Improving the OECD Test Guildelines: Phase 2 & 3](https://www.youtube.com/watch?v=Bw6wyhfxbsg)
 4 May 2022. Agenda and slides are [here](https://nanoharmony.eu/2022/05/04/nanoharmony-holds-another-webinar-in-the-improving-the-oecd-test-guidelines-process-series-dedicated-to-phases-2-and-3-technical-development-and-commenting-and-approval/)

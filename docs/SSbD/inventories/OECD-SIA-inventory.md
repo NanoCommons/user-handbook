@@ -7,7 +7,7 @@ grand_parent: Safe-and-Sustainable-by-Design
 description_long: Inventory of SbD tools extracted from the OECD project "Moving Towards a Safe(r) Innovation Approach (SIA) for More Sustainable Nanomaterials and Nano-enabled Products"<br> (© 2020)
 
 has_children: false
-nav_exclude: true
+nav_exclude: false
 has_references: true
 nav_order: 511
 ---
@@ -20,10 +20,7 @@ OECD Environment, Health and Safety Publications, Series on the Safety of Manufa
 © OECD, 2020 
 {: .source }
 
-[...] representatives from France (INERIS), the Netherlands (RIVM), the European Union (Joint Research Centre of the European Commission), and Industry (Business and Industry Advisory Committee) prepared a project proposal that was presented to the OECDs Working Party on Manufactured Nanomaterials (hereafter WPMN). The WPMN agreed to contribute to the discussion on Safe(r)-by-Design by describing the state-of-the-art frameworks available and initiatives conducted in support of future decision-making when developing more sustainable products, processes and uses
-
-## Working Descriptions 
-Safer-by-Design (SbD), also named Safe-by-Design or Safety-by-Design, is one of the terms used in different industrial fields and geographical areas to refer to essentially the same concept of reducing the various types of risks of materials, constructions and products at the design stage. The risks addressed range from accidents (e.g. tunnel or occupational safety) to the intrinsic toxicity hazards of chemicals and materials. Some other terms have also been used recently in the field of nanotechnology [e.g. Prevention through Design (PtD), green nanotechnology]. Both of the forms "Safer-by-Design" and "Safe-by-Design" have been used interchangeably at least since the 1990s in e.g. construction industry and road tunnel safety, thus predating the use of the concept in the nanotechnology context, and both forms continue to be used today. The use of the term "safer" rather than "safe" emphasises the unattainability of absolute safety (Fadeel, 2013)(Hjorth et al., 2017)(Schwarz-Plaschg et al., 2017), while the use of “safe” sets a clearer end goal than the ongoing incremental steps suggested by the term “safer”. 
+[...] representatives from France (INERIS), the Netherlands (RIVM), the European Union (Joint Research Centre of the European Commission), and Industry (Business and Industry Advisory Committee) prepared a project proposal that was presented to the OECD's Working Party on Manufactured Nanomaterials (hereafter WPMN). The WPMN agreed to contribute to the discussion on Safe(r)-by-Design by describing the state-of-the-art frameworks available and initiatives conducted in support of future decision-making when developing more sustainable products, processes and uses.
 
 In practice, the design process of e.g. nanotechnology requires finding an acceptable balance between various factors including safety, functionality and profitability. Since the desired and the potentially hazardous properties of MNMs both tend to be linked to their reactivity with their surroundings, maximal safety (non-reactivity) would easily render a MNM non-functional and therefore unmarketable (Fadeel, 2013)(Schwarz-Plaschg et al., 2017). Ultimately, the regulatory requirements for safety in various sectors are in place to prevent products that are not safe enough to fulfil certain criteria from reaching the market. The previously mentioned SbD concepts for nanotechnology aim to help industry in deciding whether or not these requirements can be fulfilled while creating a functional and profitable product, and to continue or abandon a research and design process accordingly at any particular stage.
 

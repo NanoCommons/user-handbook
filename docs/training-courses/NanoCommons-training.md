@@ -19,13 +19,16 @@ This is a list of all recordings from training webinars offered by NanoCommons.
 {: .more-link .more-link--video}
 
 
-[Electronic Lab Notebooks Webinar](https://www.youtube.com/watch?v=FWbkDrVbg6M)
-13 and 27 January 2022. This interactive online workshops on implementing Electronic Laboratory Notebooks (ELNs) for nanosafety assessment was given in two parts:<br>
-[Electronic Lab Notebooks – Live Demonstration](https://www.youtube.com/watch?v=TrqAOfm1SjY)<br>
-[Electronic Lab Notebooks – Getting Hands On](https://www.youtube.com/watch?v=MilbZJ3I61U)<br>
-[More info...](https://zenodo.org/record/5752319#.YbiwD73MKUk)
-{: .more-link .more-link--video}
-
+<div class="more-link more-link--video">
+<a href="https://www.youtube.com/watch?v=FWbkDrVbg6M">
+Electronic Lab Notebooks Webinar</a>
+<p>13 and 27 January 2022. This interactive online workshops on implementing Electronic Laboratory Notebooks (ELNs) for nanosafety assessment was given in two parts:</p>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=TrqAOfm1SjY">Electronic Lab Notebooks – Live Demonstration</a></li>
+    <li><a href="https://www.youtube.com/watch?v=MilbZJ3I61U">Electronic Lab Notebooks – Getting Hands On</a></li>
+    <li><a href="https://zenodo.org/record/5752319#.YbiwD73MKU">More info...</a></li>
+</ul>
+</div>
 
 [Nanosafety and the semantic web]({{ site.baseurl }}/training-courses/NanoCommons-training-semantic-web/)
 8-9 December 2021, From natural language to computational processing: RDF, SPARQL and ontologies
@@ -55,12 +58,16 @@ This is a list of all recordings from training webinars offered by NanoCommons.
 23 March 2021. The newly developed User Interfaces for the RDF version of WikiPathways and AOP-Wiki was presenting providing a variety of useful features to facilitate exploring the databases and linking their data with other resources. [More info...](https://zenodo.org/record/4674369#.YbiwVL3MKUk) 
 {: .more-link .more-link--video}
 
-[Online ELN basics Hackathon](https://www.youtube.com/watch?v=mxGlvWzFnHI)
-14 Jul 2020<br>
-Part 1: [Integrating ELNs into your research](https://www.youtube.com/watch?v=mvIDkERUeHM)<br>
-Part 2: [How to build SciNote Account](https://www.youtube.com/watch?v=7yhdrG4coo0)<br>
-[More info...](https://zenodo.org/record/4518805#.YbixML3MKUk)
-{: .more-link .more-link--video}
+<div class="more-link more-link--video">
+<a href="https://www.youtube.com/watch?v=mxGlvWzFnHI">
+Online ELN basics Hackathon</a>
+<p>14 Jul 2020</p>
+<ul>
+    <li>Part 1: <a href="https://www.youtube.com/watch?v=mvIDkERUeHM">Integrating ELNs into your research</a></li>
+    <li>Part 2: <a href="https://www.youtube.com/watch?v=7yhdrG4coo0"></a>How to build SciNote Account</li>
+    <li><a href="https://zenodo.org/record/4518805#.YbixML3MKUk">More info...</a></li>
+</ul>
+</div>
 
 [Jaqpot hackathon](https://www.youtube.com/watch?v=q1AKbo95VI8&list=PL0Q0VZW0kRfAlW56hD2_ckV3qOuFsN2AD)
 3 June 2020. Take your research from the bench to the community by making your models available as a web service. [More info...](https://zenodo.org/record/3908229#.Ybiwj73MKUk)
