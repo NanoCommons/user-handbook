@@ -12,7 +12,7 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 
 <img src="{{ site.baseurl }}/images/logos/nanoharmony.webp" width="200" class="image--right" />
 # NanoHarmony Training Webinars
-This is a list of all recordings from training webinars offered by NanoHarmony. 
+This is a list of all recordings from training webinars offered by NanoHarmony.
 {: .lead }
 
 [International NanoHarmony & NANOMET Workshop on nano-related OECD TG Development](https://video.oecd.org/ae683012a90ecc1467340e6a0a9b39cd/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html)
@@ -52,27 +52,33 @@ Agenda and posters are [here](https://nanoharmony.eu/2022/06/20/international-na
 16 December 2020. Agenda and slides are [here](https://nanoharmony.eu/2020/12/17/nanoharmony-holds-webinar-on-data-requirements-in-test-guideline-and-guidance-document-development/)
 {: .more-link .more-link--video}
 
-[Workshop on Gap Analysis and Data Requirements to support TG and GD Development](https://nanoharmony.eu/2020/11/09/workshop-on-gap-analysis-and-data-requirements-to-support-tg-and-gd-development/)
-3-5 November 2020. Recordings of individual presentations are available here:<br>
-- [Welcome and Introduction to NanoHarmony and OECD TG development projects](https://www.youtube.com/watch?v=0vEi3TP1MQE)<br>
-- [How OECD Deals with Test Guidelines and Guidance Documents to Accommodate Testing of Nanomaterials](https://www.youtube.com/watch?v=wethX3BHYXU)<br>
-- [Scientific basis for OECD TG on in vivo toxicokinetic study](https://www.youtube.com/watch?v=F4lbpon64zQ)<br>
-- [Determination of concentrations of ENMs in biological samples using spICP-MS](https://www.youtube.com/watch?v=jiMCzLIAkBc)<br>
-- [Data gaps identification related to intestinal fate of ingested nanomaterials](https://www.youtube.com/watch?v=M9mfAdW6uSE)<br>
-- [Addressing gaps for conducting OECD TG 201, 202, 203 assays with ENMs](https://www.youtube.com/watch?v=e-T_i-Y9ZRg)<br>
-- [Modifying the Bioaccumulation Testing Strategy with Fish for Nanomaterials](https://www.youtube.com/watch?v=ope3uvKBl5w)<br>
-- [Environmental abiotic Transformation of Nanomaterials](https://www.youtube.com/watch?v=L8IoJjUjrD0)<br>
-- [Dustiness Testing: ATEX, non-HARN, HARN and exposure models](https://www.youtube.com/watch?v=0q5liU4bCxM)<br>
-- [Identification and quantification of the surface chemistry and coatings on nano- and microscale materials new GD](https://www.youtube.com/watch?v=QFpbY7n880o)<br>
-- [Consensus-building on round-robin criteria for solubility and dissolution testing of NM in pure water and biologically relevant media](https://www.youtube.com/watch?v=5l8VbLZ9go8)<br>
-- [Solubility and dissolution rate: Over-arching issues](https://www.youtube.com/watch?v=eyROfxKswpU)<br>
-- [Summary session](https://www.youtube.com/watch?v=ZGwurrEYCSc)<br>
-{: .more-link .more-link--websites}
+<div class="more-link more-link--webpages">
+<a href="https://nanoharmony.eu/2020/11/09/workshop-on-gap-analysis-and-data-requirements-to-support-tg-and-gd-development/">
+Workshop on Gap Analysis and Data Requirements to support TG and GD Development</a>
+<p>3-5 November 2020. Recordings of individual presentations are available here:</p>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=0vEi3TP1MQE">Welcome and Introduction to NanoHarmony and OECD TG development projects</a></li>
+    <li><a href="https://www.youtube.com/watch?v=wethX3BHYXU">How OECD Deals with Test Guidelines and Guidance Documents to Accommodate Testing of Nanomaterials</a></li>
+    <li><a href="https://www.youtube.com/watch?v=F4lbpon64zQ">Scientific basis for OECD TG on in vivo toxicokinetic study</a></li>
+    <li><a href="https://www.youtube.com/watch?v=jiMCzLIAkBc">Determination of concentrations of ENMs in biological samples using spICP-MS</a></li>
+    <li><a href="https://www.youtube.com/watch?v=M9mfAdW6uSE">Data gaps identification related to intestinal fate of ingested nanomaterials</a></li>
+    <li><a href="https://www.youtube.com/watch?v=e-T_i-Y9ZRg">Addressing gaps for conducting OECD TG 201, 202, 203 assays with ENMs</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ope3uvKBl5w">Modifying the Bioaccumulation Testing Strategy with Fish for Nanomaterials</a></li>
+    <li><a href="https://www.youtube.com/watch?v=L8IoJjUjrD0">Environmental abiotic Transformation of Nanomaterials</a></li>
+    <li><a href="https://www.youtube.com/watch?v=0q5liU4bCxM">Dustiness Testing: ATEX, non-HARN, HARN and exposure models</a></li>
+    <li><a href="https://www.youtube.com/watch?v=QFpbY7n880o">Identification and quantification of the surface chemistry and coatings on nano- and microscale materials new GD</a></li>
+    <li><a href="https://www.youtube.com/watch?v=5l8VbLZ9go8">Consensus-building on round-robin criteria for solubility and dissolution testing of NM in pure water and biologically relevant media</a></li>
+    <li><a href="https://www.youtube.com/watch?v=eyROfxKswpU">Solubility and dissolution rate: Over-arching issues</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ZGwurrEYCSc">Summary session</a></li>
+</ul>
+</div>
 
-[The pathway to Test Guidelines: from science to standards for nanomaterials](https://www.youtube.com/watch?v=KAmMcpwtqa4)
-16 September 2020. Recordings of individual presentations are also available:<br>
-- [Introduction to Standards and Test Guidelines for Nanomaterials](https://www.youtube.com/watch?v=c-SucdYU4GU)<br>
-- [The Role and Processes of OECD for Global TG Development](https://www.youtube.com/watch?v=VZTQ4CQXxeI)<br>
-- [Spotlight on TG Updates for Nanomaterials](https://www.youtube.com/watch?v=5LeMfAMDr8o)
-{: .more-link .more-link--websites}
-
+<div class="more-link more-link--webpages">
+<a href="https://www.youtube.com/watch?v=KAmMcpwtqa4">The pathway to Test Guidelines: from science to standards for nanomaterials</a>
+<p>16 September 2020. Recordings of individual presentations are also available:</p>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=c-SucdYU4GU">Introduction to Standards and Test Guidelines for Nanomaterials</a>
+    <li><a href="https://www.youtube.com/watch?v=VZTQ4CQXxeI">The Role and Processes of OECD for Global TG Development</a>
+    <li><a href="https://www.youtube.com/watch?v=5LeMfAMDr8o">Spotlight on TG Updates for Nanomaterials</a>
+</ul>
+</div>
