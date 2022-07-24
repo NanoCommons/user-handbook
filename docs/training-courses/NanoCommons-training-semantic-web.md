@@ -37,6 +37,26 @@ A NanoCommons Training Workshop, 8-9 November 2021
 The workshop was covering the whole range of Semantic Approaches developed and used at the [Department of Bioinformatics at Maastricht University (BiGCaT)](https://www.maastrichtuniversity.nl/research/bioinformatics) within the nanosafety-projects. The setting was alternating between introductory presentations and hands on exercises starting with more general questions like “what is a triple and what is the link with ontologies and RDF?” all the way to writing SPARQL queries and exploring their capabilities. By the end of the workshop the participants were able to apply to tools and possibly implement them in their own work.
 
 ## 1. Introduction to RDF and SPARQL
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LearningResource",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE",
+    "@type": "CreativeWork"
+  },
+  "inLanguage": "en-gb",
+  "name": "SPARQLing Biology: a Beginners Course",
+  "url": "https://www.youtube.com/watch?v=a91OKWHKzXs",
+  "publisher": {
+    "@type": "Organization",
+    "name": "YouTube"
+  },
+  "copyrightYear": "2021",
+  "description": "The workshop was covering the whole range of Semantic Approaches developed and used at the Department of Bioinformatics at Maastricht University (BiGCaT). The setting was alternating between introductory presentations and hands on exercises starting with more general questions like “what is a triple and what is the link with ontologies and RDF?” all the way to writing SPARQL queries and exploring their capabilities. By the end of the workshop the participants were able to apply to tools and possibly implement them in their own work.",
+  "keywords": "SPARQL, RDF, biology, ontology"
+}
+</script>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/a91OKWHKzXs" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 ## 2. SPARQLing Biology: a beginners course
@@ -44,6 +64,26 @@ The workshop was covering the whole range of Semantic Approaches developed and u
 {: .more-link .more-link--webpages} 
 
 ## 3. Overview of SPARQL Endpoints
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LearningResource",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE",
+    "@type": "CreativeWork"
+  },
+  "inLanguage": "en-gb",
+  "name": "SPARQL endpoints at BiGCaT",
+  "url": "https://www.youtube.com/watch?v=r5Uloztzy7I",
+  "publisher": {
+    "@type": "Organization",
+    "name": "YouTube"
+  },
+  "copyrightYear": "2021",
+  "description": "Lecture discussing the SPARQL endpoints provided by the Maastricht Universty Dept. of Bioinformatics, BiGCaT.",
+  "keywords": "WikiPathways, AOP-Wiki, ChEMBL, SPARQL, chemistry, cheminformatics"
+}
+</script>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/r5Uloztzy7I" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 ## 4. Querying the SPARQL endpoint of your choice
