@@ -21,7 +21,7 @@ nav_order: 980 # use 1000-year for sorting
   },
   "inLanguage": "en-gb",
   "name": "NanoCommons User Guidance Handbook",
-  "url": "https://nanocommons.github.io/user-handbook/",
+  "url": "https://nanocommons.github.io/user-handbook/2020-NSC-day/",
   "publisher": {
     "@type": "Organization",
     "name": "GitHub"
