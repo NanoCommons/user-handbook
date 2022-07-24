@@ -11,6 +11,26 @@ nav_order: 980 # use 1000-year for sorting
 
 # Nanosafety Cluster Training Day
 16 + 23 Nov 2020
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@id": "https://bioschemas.org/profiles/Course/0.9-DRAFT-2020_12_08",
+    "@type": "CreativeWork"
+  },
+  "inLanguage": "en-gb",
+  "name": "NanoCommons User Guidance Handbook",
+  "url": "https://nanocommons.github.io/user-handbook/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2021",
+  "description": "This day acted as guidance for the entire NanoSafety community, including young researchers, to highlight how individual research projects fit as a puzzle piece into the wider picture. It shall be an orientation-giving and educational event depicting the overall strategy behind NanoSafe(ty).",
+  "keywords": "nanotechnology, adverse outcome pathway, hazard assessment, QSAR, life cycle assessment, FAIR"
+}
+</script>
 {: .lead }
 
 This day acted as guidance for the entire NanoSafety community, including young researchers, to highlight how individual research projects fit as a puzzle piece into the wider picture. It shall be an orientation-giving and educational event depicting the overall strategy behind NanoSafe(ty).
