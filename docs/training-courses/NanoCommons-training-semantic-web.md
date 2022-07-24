@@ -11,6 +11,26 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 ---
 
 # Nanosafety and the semantic web: from natural language to computational processing
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@id": "https://bioschemas.org/profiles/Course/0.9-DRAFT-2020_12_08",
+    "@type": "CreativeWork"
+  },
+  "inLanguage": "en-gb",
+  "name": "Nanosafety and the semantic web: from natural language to computational processing",
+  "url": "https://nanocommons.github.io/user-handbook/NanoCommons-training-semantic-web/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "copyrightYear": "2021",
+  "description": "The workshop was covering the whole range of Semantic Approaches developed and used at the Department of Bioinformatics at Maastricht University (BiGCaT). The setting was alternating between introductory presentations and hands on exercises starting with more general questions like “what is a triple and what is the link with ontologies and RDF?” all the way to writing SPARQL queries and exploring their capabilities. By the end of the workshop the participants were able to apply to tools and possibly implement them in their own work.",
+  "keywords": "nanotechnology, semantic web, SPARQL, RDF, ontology, eNanoMapper"
+}
+</script>
 A NanoCommons Training Workshop, 8-9 November 2021
 {: .lead }
 
