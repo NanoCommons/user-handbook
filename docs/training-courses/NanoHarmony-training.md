@@ -11,8 +11,8 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 ---
 
 <img src="{{ site.baseurl }}/images/logos/nanoharmony.webp" width="200" class="image--right" />
-# NanoHarmony Training Webinars
-This is a list of all recordings from training webinars offered by NanoHarmony.
+# NanoHarmony Webinars
+This is a list of all recordings from NanoHarmony webinars.
 {: .lead }
 
 <div class="more-link more-link--video">
