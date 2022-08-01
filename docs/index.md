@@ -26,6 +26,9 @@ projects:
   - url: http://www.nanofase.eu/
     logo: nanofase.png
     width: 160
+  - url: https://ceint.duke.edu/research/nikc
+    logo: NIKC.png
+    width: 120
   - url: http://www.enanomapper.org/
     logo: eNanoMapper.png
     width: 120
@@ -41,11 +44,11 @@ projects:
   - url: https://nanofabnet.eu/
     logo: NanoFabNet.png
     width: 160
+  - url: https://nanopartikel.info/en/
+    logo: dana-logo.png
+    width: 120
   - url: https://susnanofab.eu/
     logo: SUSNANOFAB.png
-    width: 120
-  - url: https://ceint.duke.edu/research/nikc
-    logo: NIKC.png
     width: 120
 
 topics:
@@ -178,7 +181,7 @@ Many different research groups and projects (small and large) have and are devel
 <ul class="list-style-none mt-6">
 {% for contributor in page.projects %}
   <li class="d-inline-block mr-3 mb-3">
-     <a href="{{ contributor.url }}"><img src="images/logos/{{ contributor.logo }}" width="{{ contributor.width }}"/></a>
+     <a href="{{ contributor.url }}"><img src="images/logos/{{ contributor.logo }}" width="{{ contributor.width }}" align="middle"/></a>
   </li>
 {% endfor %}
 </ul>
