@@ -45,8 +45,10 @@ universe_topics:
 # Harmonised terminology, ontologies development and semantic annotation
 {: .no_toc }
 
-Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large effort to define and build the required terminologies/ontologies, to provide the support infrastructure for data input and curation and also training to foster general uptake. Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotate their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all stakeholders understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development.
+Semantic annotation of data and generally of scientific output across all areas of nanosafety and nanoinformatics still requires large effort to define and build the required terminologies/ontologies, to provide the support infrastructure for data input and curation and also training to foster general uptake. 
 {: .lead }
+
+Many different competences (domain experts, ontology experts, software development experts,...) are needed and many tools have to be made available to support the ontology development as well as then the users willing to annotate their data, protocols and standard operation procedures, results and publications all leading to more open science and FAIRness. To help all stakeholders understand their roles and how to communicate with each other, this area of the user handbook provides general introductions, tutorials and training materials as well as links to a collaborative research platform for terminology development.
 
 <details open markdown="block">
   <summary>
@@ -86,6 +88,14 @@ This report available on Zenodo describes the work extending the ontology done i
 
 <!-- [Extensions to the eNanoMapper Ontology by NanoSolveIT]()
 {: .more-link .more-link--text } -->
+
+### Nanofabrication taxonomy
+![]({{ site.baseurl }}/images/FAIRification/NanoFabNet-taxonomy.png)
+
+[Implementation roadmap for infrastructures, knowledge & skills development in nanofabrication](https://acumenist.com/implementation-roadmap-for-infrastructures-knowledge-skills-development-in-nanofabrication/)
+<img src="{{ site.baseurl }}/images/logos/NanoFabNet-New-Logo.png" width="200" class="image--right" />
+The proposed NanoFabNet taxonomy currently covers ca. 80-90% of nanofabrication tools available in studied nanofabrication facilities, and is constructed in a flexible way, so that new categories can easily be added, if deemed necessary; it is thus only a starting point, which needs to be adopted and extended by a broad nanofabrication community and integrated with other nano taxonomies and ontologies to reach its full potential.
+{: .more-link .more-link--text }
 
 ### ACEnano
 <img src="{{ site.baseurl }}/images/logos/acenano.png" width="200" class="image--right" />
