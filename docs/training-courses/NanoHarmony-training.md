@@ -1,12 +1,12 @@
 ---
 layout: page
-title: NanoHarmony Training
-permalink: /training-courses/NanoHarmony-training/
+title: NanoHarmony Webinars
+permalink: /training-courses/NanoHarmony-webinars/
 description_long: This is a list of all recordings from training webinars offered by NanoHarmony
 parent: Training courses
 has_children: false
 has_toc: false
-nav_exclude: true
+nav_exclude: false
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project
 ---
 

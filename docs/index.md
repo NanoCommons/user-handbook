@@ -44,12 +44,15 @@ projects:
   - url: https://nanofabnet.eu/
     logo: NanoFabNet.png
     width: 160
-  - url: https://nanopartikel.info/en/
-    logo: dana-logo.png
-    width: 120
   - url: https://susnanofab.eu/
     logo: SUSNANOFAB.png
     width: 120
+  - url: https://nanopartikel.info/en/
+    logo: dana-logo.png
+    width: 120
+  - url: https://nanoharmony.eu
+    logo: nanoharmony.webp
+    width: 200
 
 topics:
   - name: planning

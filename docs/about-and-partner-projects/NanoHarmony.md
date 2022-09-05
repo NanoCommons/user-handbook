@@ -5,7 +5,7 @@ title: NanoHarmony
 description: Short intro to NanoHarmony
 permalink: /about-and-partner-projects/NanoHarmony/
 parent: About & partner projects
-nav_exclude: true
+nav_exclude: false
 ---
 <img src="{{ site.baseurl }}/images/logos/nanoharmony.webp" width="200" class="image--right" />
 #  Partner project NanoHarmony

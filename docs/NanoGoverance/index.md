@@ -3,7 +3,7 @@ layout: page
 title: Nano governance
 permalink: /NanoGovernance/
 has_children: false
-nav_exclude: true
+nav_exclude: false
 nav_order: 500
 has_references: true
 ---
@@ -63,8 +63,8 @@ Access to all OECD Test Guidelines highlighting newly released guidelines, updat
 The OECD webinars on Testing and Assessment Methodologies focus on selected ongoing projects that will result in the short to medium term in new methodologies to test and assess chemicals. These free webinars are open to potential end users among regulators and contract research organisations who want to get familiar with new standards and approaches. 
 {: .more-link .more-link--webpages}
 
-### NanoHarmony training material to support TG and GD development
-[Full list of NanoHarmony event recordings]({{ site.baseurl }}/training-courses/NanoHarmony-training/)
+### NanoHarmony webinars on TG and GD development
+[Full list of NanoHarmony event recordings]({{ site.baseurl }}/training-courses/NanoHarmony-webinars/)
 {: .more-link .more-link--webpages}
 
 ## Tools for NanoRisk Governance
