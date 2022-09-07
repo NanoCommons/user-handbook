@@ -15,7 +15,20 @@ nav_order: 401
 We know that this will never be complete and up-to-date but we try to do our best to cover important services.
 {: .lead}
 
+<div class="more-link more-link--app">
+<a href="http://www.enaloscloud.novamechanics.com/index.html">
+Enalos Cloud Platform with a listing of all existing tools and models and access to the KNIME notes</a>
+<p>Specific project areas:</p>
+<ul>
+    <li><a href="http://www.enaloscloud.novamechanics.com/nanocommons.html">NanoCommons</a></li>
+    <li><a href="http://www.enaloscloud.novamechanics.com/nanosolveit.html">NanoSolveIT</a></li>
+    <li><a href="http://www.enaloscloud.novamechanics.com/diagonal.html">DIAGONAL</a></li>
+    <li><a href="http://www.enaloscloud.novamechanics.com/sabydoma.html">SABYDOMA</a></li>
+</ul>
+</div>
+
 [Enalos Cloud Platform with a listing of all existing tools and models and access to the KNIME notes](http://www.enaloscloud.novamechanics.com/index.html)
+
 {: .more-link .more-link--app }
 
 [Jaqpot model development and sharing service](https://www.jaqpot.org/)
