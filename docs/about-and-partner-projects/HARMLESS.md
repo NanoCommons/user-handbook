@@ -5,7 +5,6 @@ title: HARMLESS
 description: Short intro to HARMLESS
 permalink: /about-and-partner-projects/HARMLESS/
 parent: About & partner projects
-nav_exclude: true
 ---
 <img src="{{ site.baseurl }}/images/logos/HARMLESS_Logo.png" width="200" class="image--right" />
 #  Partner project HARMLESS

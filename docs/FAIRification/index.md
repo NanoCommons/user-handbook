@@ -38,6 +38,23 @@ The implementation of the FAIR principles is a very active area and it is hard t
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
 
+Besides the tools, staying connected and active knowledge sharing within the community but also across (neighbouring) disciplines is key. Initiatives to do so include:
+
+[GO FAIR](https://www.go-fair.org/)
+GO FAIR is a bottom-up, stakeholder-driven and self-governed initiative that aims to implement the FAIR data principles, making data Findable, Accessible, Interoperable and Reusable (FAIR). It offers an open and inclusive ecosystem for individuals, institutions and organisations working together through Implementation Networks (INs). The INs are active in three activity pillars: GO CHANGE, GO TRAIN and GO BUILD.
+{: .more-link .more-link--webpages}
+[WorldFAIR](https://worldfair-project.eu/)
+In the WorldFAIR project, CODATA and the Research Data Alliance (RDA), work with a set of 11 disciplinary and cross-disciplinary case studies to advance implementation of the FAIR principles and, in particular, to improve interoperability and reusability of digital research objects, including data.
+{: .more-link .more-link--webpages}
+
+And specific to nanomaterials and nanosafety:
+
+[GO FAIR Implementation Network Advanced Nano](https://www.go-fair.org/implementation-networks/overview/advancednano/)
+This Implementation Network actively supports the implementation of the FAIR principles in the current nano-EHS databases, i.e. data on NM physicochemical characteristics, release and exposure, toxicity and functionality.
+{: .more-link .more-link--webpages}
+[WorldFAIR's Nanomaterials Use Case](https://worldfair-project.eu/use-cases-of-worldfair/#nanomaterials)
+It will test the pilot operationalisation of the FAIR principles; run conference sessions and workshops with stakeholders (including the InChI-for-nano domain experts, and international ‘nano’ database managers and their users) to apply, refine, implement, improve the metrics for FAIR nanosafety datasets; and develop an inventory of FAIR nanoinformatics models and their domains of applicability, underpinning datasets and APIs to support interoperability, including guidelines to further improve the interoperability of nanoinformatics models.
+{: .more-link .more-link--webpages}
 
 ## Start becoming FAIR
 [Annotating Your Experimental Data](https://www.youtube.com/watch?v=YSH-COr30BI&list=PL0Q0VZW0kRfCUjAuiSbnA1SrkCz9MRiEN&index=2)
@@ -56,12 +73,6 @@ Guidance from [The Turing Way](https://the-turing-way.netlify.app/) about how to
 ## Internal FAIR resources
 {% include childrenTOC.html page=page pages=site.pages %}
 
-<!--- To be additionally covered:
-- FAIR principles and their interpretation
-- FAIR resources
-- FAIR maturity indices
---->
-
 ## External FAIR resources
 [The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
 The updated set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
@@ -72,11 +83,7 @@ Publication on the principles.
 [FAIR cookbook by the ELIXIR communities](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 The FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. However, the FAIR Principles are aspirational and generic. The FAIR Cookbook guides researchers and data stewards of the Life Science domain in their FAIRification journey; and also provides policy makers and trainers with practical examples to recommend in their guidance and use in their educational material.
 {: .more-link .more-link--webpages}
-[GO FAIR](https://www.go-fair.org/)
-GO FAIR is a bottom-up, stakeholder-driven and self-governed initiative that aims to implement the FAIR data principles, making data Findable, Accessible, Interoperable and Reusable (FAIR). It offers an open and inclusive ecosystem for individuals, institutions and organisations working together through Implementation Networks (INs). The INs are active in three activity pillars: GO CHANGE, GO TRAIN and GO BUILD.
-{: .more-link .more-link--webpages}
-[GO FAIR Implementation Network Advanced Nano](https://www.go-fair.org/implementation-networks/overview/advancednano/)
-This Implementation Network actively supports the implementation of the FAIR principles in the current nano-EHS databases, i.e. data on NM physicochemical characteristics, release and exposure, toxicity and functionality.
-{: .more-link .more-link--webpages}
+[FIP Wizard](https://fip-wizard.ds-wizard.org/)
+A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources,that are intended to implement one or more of the FAIR Guiding Principles,made as a collective decision by the members of a particular community of practice.
 
 

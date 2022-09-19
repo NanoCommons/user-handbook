@@ -5,7 +5,6 @@ title: NanoFabNet
 description: Short intro to NanoFabNet
 permalink: /about-and-partner-projects/NanoFabNet/
 parent: About & partner projects
-nav_exclude: false
 ---
 <img src="{{ site.baseurl }}/images/logos/NanoFabNet.png" width="200" class="image--right" />
 #  Partner project NanoFabNet

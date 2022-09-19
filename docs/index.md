@@ -7,13 +7,16 @@ permalink: /
 projects:
   - url: https://www.nanosafetycluster.eu/
     logo: NSC.png
-    width: 160
+    width: 180
   - url: https://nanocommons.eu
     logo: nanocommons.png
+    width: 100
+  - url: https://worldfair-project.eu/
+    logo: worldfair.webp
     width: 80
   - url: https://openrisknet.org
     logo: openrisknet.png
-    width: 200
+    width: 240
   - url: https://nanosolveit.eu/
     logo: nanosolveit.jpg
     width: 160
