@@ -10,8 +10,18 @@ has_references: true
 ---
 
 # Nanomaterial identifiers and structural representations
+{: .no_toc}
 The following is a list of preferred nanomaterial identifiers to be used in datasets, publications, websites,... to allow quick retrieval of all information available for a specific material or group of materials (e.g. nanoform).
 {: .lead}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## [European Registry of Materials](https://nanocommons.github.io/identifiers/)
 <img src="{{ site.baseurl }}/images/FAIRification/ERM.webp" width="400" class="image--right" />

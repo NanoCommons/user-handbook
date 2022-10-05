@@ -7,13 +7,26 @@ has_toc: false
 nav_order: 300
 ---
 
+<img src="{{ site.baseurl }}/images/FAIRification/FAIR.png" width="400" class="image--right" />
 # FAIRification
-Although the human/animal health and ecotoxicological effects, environmental fate and risk assessment of nanomaterials (NMs) are in the centre of attention of European and international scientific research, nanosafety research is still suffering from the lack of sufficient reusable and verifiable data. This is the result of data fragmentation and inaccessibility, caused by the lack of infrastructure and knowledge in some nanosafety projects to make their data FAIR or even better publicly available, the incompatibility of the chosen solutions and the lack of coordination with international activities and consortia. 
+{: .no_toc}
+High-quality data management and sharing needs to follow [the FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples), a set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
 {: .lead }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+Although the human/animal health and ecotoxicological effects, environmental fate and risk assessment of nanomaterials (NMs) are in the centre of attention of European and international scientific research, nanosafety research is still suffering from the lack of sufficient reusable and verifiable data. This is the result of data fragmentation and inaccessibility, caused by the lack of infrastructure and knowledge in some nanosafety projects to make their data FAIR or even better publicly available, the incompatibility of the chosen solutions and the lack of coordination with international activities and consortia. 
 
 To change this, training resources are collected here, which not only describe the general concepts but provide hands-on solutions for everybody to be implemented into their daily work according to their [specific roles in the data management life cycle]({{ site.baseurl }}/data-management/roles/).
 
-**Among the benefits of FAIR and Open data are:**
+## Benefits of FAIR and Open data
 1. Knowledge discovery: FAIR data in combination with semantic annotation allow data to be queried and discovered by both machines and humans, while ensuring that the queried data are similar and can be brought together for the creation of bigger datasets.
 2. Data integration, harmonisation and reusability: FAIR data can be brought together and integrated in a harmonised way, thus allowing data reusability under different formats and applications.
 3. Maximum data exploitation and impact: Data reusability, in combination with other similar datasets, allows maximum exploitation through the application of different analytical and modelling tools and can lead to the identification of otherwise hidden patterns and novel insights.
@@ -30,6 +43,7 @@ To change this, training resources are collected here, which not only describe t
 [Need more reasons why not sharing data is bad?](whyFAIR)
 {: .more-link .more-link--webpages}
 
+## What are you using to be FAIR?
 The implementation of the FAIR principles is a very active area and it is hard to keep up-to-date. Therefore, please help us to identify important developments [by editing the mural below](https://app.mural.co/t/acumenist5564/m/acumenist5564/1657266383737/eb39f2554dd859f6f7162493cb56365ca820b168?sender=u8c5a98e82311f4aac9975917). We will then transfer this information into additional Handbook pages.
 <iframe src='https://app.mural.co/embed/2e55c97e-5c82-40f7-b10d-5f1257976e22'
         width='100%'
@@ -38,6 +52,7 @@ The implementation of the FAIR principles is a very active area and it is hard t
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
 
+## FAIR communities
 Besides the tools, staying connected and active knowledge sharing within the community but also across (neighbouring) disciplines is key. Initiatives to do so include:
 
 [GO FAIR](https://www.go-fair.org/)
@@ -74,9 +89,6 @@ Guidance from [The Turing Way](https://the-turing-way.netlify.app/) about how to
 {% include childrenTOC.html page=page pages=site.pages %}
 
 ## External FAIR resources
-[The FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples)
-The updated set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
-{: .more-link .more-link--text}
 [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 Publication on the principles.
 {: .more-link .more-link--text}

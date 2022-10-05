@@ -27,10 +27,6 @@ Enalos Cloud Platform with a listing of all existing tools and models and access
 </ul>
 </div>
 
-[Enalos Cloud Platform with a listing of all existing tools and models and access to the KNIME notes](http://www.enaloscloud.novamechanics.com/index.html)
-
-{: .more-link .more-link--app }
-
 [Jaqpot model development and sharing service](https://www.jaqpot.org/)
 {: .more-link .more-link--app }
 

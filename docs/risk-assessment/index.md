@@ -12,8 +12,18 @@ nav_order: 450
 ---
 
 # Risk assessment modelling approaches and tools
+{: .no_toc}
 “Chemicals in their nanoparticle form have properties that are completely different from their larger physical forms and may therefore interact differently with and in biological systems”. “As a result, it is necessary to assess the risks arising from any nanoparticle that will potentially come in contact with humans, other species or the environment, even if the toxicology of the chemicals that make up the nanoparticle is well known.” (Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR))
 {: .lead}
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Nanotechnology is among the fastest growing technologies over the past few years, due to a wide range of applications of engineered NMs. However, the scientific community, the regulatory agencies and the industrial sector that designs and produces NMs are highly concerned about the potential adverse effects of NMs on human health and on the environment, which may be different to those arising from conventional chemicals or from micrometric particles (with bigger sizes). Due to their size in the nanoscale, NMs have a greater surface area, which enhances their chemical reactivity and may result in higher production of reactive oxygen species (ROS), and eventually lead to toxicity. The size and shape of NMs also allows them to move through the body and reach various organs and tissues. The distinct features of NMs and their effect on safety have attracted the interest of many researchers and practitioners in the nanotechnology area and drove the development of various RA frameworks, specific to NMs. Oomen et al., 2018 published a comprehensive and detailed review, addressing the aim, regulatory readiness, advantages, and disadvantages of 14 different RA frameworks and their applicability for NMs. All frameworks assessed followed the risk assessment paradigm, consisting of hazard identification, exposure assessment and risk characterisation, but differed in their aims, applicability domains, basic assumptions and alignment to one or more regulations. It is stated in this review paper that due to NM complexity it is not possible to construct an adequate RA framework to suit all routes of exposure for mammalian and ecological receptors. In another review paper (Hristozov et al., 2016) the inclusion of in silico methods and approaches in RA frameworks is highlighted.
 

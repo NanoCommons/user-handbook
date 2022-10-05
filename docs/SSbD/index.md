@@ -9,11 +9,22 @@ has_references: true
 ---
 
 # Safe-and-Sustainable-by-Design
-<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC127109"><img src="{{ site.baseurl }}/images/SSbD/JRC127109_cover.jpg" width="250" class="image--right"></a>
+{: .no_toc}
 Partly based on: Patinha Caldeira et al., 2022 (© European Union, 2022)
 {: .source}
 _The EU Chemical Strategy for Sustainability (CSS) aims at fostering a transition towards safer and more sustainable chemicals. To ensure this transition, safety and sustainability considerations should be integrated when assessing existing chemicals as well as alternative chemicals that might substitute them._
 {: .lead }
+
+<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC127109"><img src="{{ site.baseurl }}/images/SSbD/JRC127109_cover.jpg" width="250" class="image--right"></a>
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+<br clear="right">
 
 _There is, therefore, the need to develop a new framework for the definition of criteria for SSbD chemicals and materials. A framework for SSbD requires the integration of risk assessment and safety-based considerations with life cycle-based consideration, to ensure sustainability along the entire value chain._ (Patinha Caldeira et al., 2022)
 

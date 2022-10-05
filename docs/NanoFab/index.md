@@ -8,12 +8,22 @@ nav_order: 700
 ---
 
 # Nanofabrication / nanomanufacturing 
+{: .no_toc}
 Nanofabrication is the essential bridge between the discoveries of the nanosciences and real-world nanotechnology products. 
 {: .lead }
 
 Partly based on: NanoFabNet, 2021, NanoFabNet, 2021a, [https://nanofabnet.eu/](https://nanofabnet.eu/) and [https://susnanofab.eu/](https://susnanofab.eu/)<br>
 © 2021-2022 by NanoFabNet and SUSNANOFAB
 {: .source }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Nanofabrication has the potential to address major socio-economic challenges, from better and affordable health care to cleaner energy and transports, improved consumer goods and higher living standards. It encompasses many processes from the design, manipulation and control of matter at the nanoscale to the manufacture of nanoscale materials, nanostructures, components, devices and complex systems that exploit the unique physical and chemical phenomena that occur at these smaller scales, such as quantum and surface effects. The dimensional scale for nanofabrication is typically 1 to 100 nm. It is usually at this sub-micron scale that unusual or improved material behaviour is observed, which can be exploited for production of multifunctional devices with unique properties for a vast range of applications, thus having a profound impact on a multitude of industrial sectors. The vast potential of nanofabrication is undeniable, and it must be optimized. 
 

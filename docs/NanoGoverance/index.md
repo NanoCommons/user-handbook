@@ -9,8 +9,18 @@ has_references: true
 ---
 
 # NanoRisk Governance
+{: .no_toc}
 Setting up as a bridge between regulatory science and policy
 {: .lead} 
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 [Introductory training on risk governance](https://www.youtube.com/watch?v=2yDgmajldW0)
 From the 10th Nanosafety Training School: from Basic Science to Risk Governance in Venice 2021, 21-25 June 2021

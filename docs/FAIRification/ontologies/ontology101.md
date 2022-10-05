@@ -12,8 +12,10 @@ nav_order: 311
 # Glossary, Dictionary, Taxonomy, Ontology?
 {: .no_toc }
 
-Semantic annotation is everywhere and got another push by the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). An ontology covering the full nanosafety/nanoinformations domain might be the most appealing to not only annotate the data but also be able to reason on its basis. However, the road to this is long and to be successful, changes in mentality and a lot of training will be needed. Therefore, it is important to understand, what is actually needed for each task and what can already be done today. Here, we will provide some external resources separating the different terms in the ontology world and what are the skills needed to build an ontology. Resources specifically for the nano terminology / ontology development are presented in a [separate page](../nano-terminology/).
+Semantic annotation is everywhere and got another push by the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). An ontology covering the full nanosafety/nanoinformations domain might be the most appealing to not only annotate the data but also be able to reason on its basis. 
 {: .lead }
+
+However, the road to this is long and to be successful, changes in mentality and a lot of training will be needed. Therefore, it is important to understand, what is actually needed for each task and what can already be done today. Here, we will provide some external resources separating the different terms in the ontology world and what are the skills needed to build an ontology. Resources specifically for the nano terminology / ontology development are presented in a [separate page](../nano-terminology/).
 
 ## Why do we need semantics?
 <img src="{{ site.baseurl }}/images/FAIRification/ontology-vs-data-silos.jpg" />
