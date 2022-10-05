@@ -23,14 +23,18 @@ NInChI (Lynch et al., 2020) is developed as an extension to the [IUPAC Internati
 
 [Publication on the NInChI prototype](https://www.mdpi.com/2079-4991/10/12/2493)
 {: .more-link .more-link--text}
+[NInChI generated according to the prototype definition](http://www.enaloscloud.novamechanics.com/nanocommons/NInChI/)
+[Slides of a presentation introducing the NInChI prototype server]({{site.baseurl}}/presentations/FAIRification/NInChI-Server.pdf)
+{: .more-link .more-link--app}
 [Demonstration Case developing the NInChI]({{site.baseurl}}/demonstration-cases/NInChI-demonstration-case/)
 {: .more-link .more-link--webpages }
-[Proposed modifications towards the first version (Update: Sept. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChI-WG_20220920.pdf)
+[NInChI introduction at the first working group meeting (April 2021)]({{site.baseurl}}/presentations/FAIRification/NInChI-FirstWGMeeting.pdf)
 {: .more-link .more-link--slides }
-[Nanomaterials working group of InChI Trust](https://www.inchi-trust.org/inchi-working-groups/#nano)
+[Proposed modifications towards the first version (Update: Sept. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChI-WG_20220920.pdf)
 {: .more-link .more-link--slides }
 
 See also:
+- [Nanomaterials working group of InChI Trust](https://www.inchi-trust.org/inchi-working-groups/#nano)
 - [CODATA Initiative: Extension of InChI for Nanomaterials](https://codata.org/initiatives/task-groups/extension-of-inchi-for-nanomaterials/)
 - [NInChI project of the Versailles Project on Advanced Materials and Standards (VAMAS) TWA 34 Nanoparticle Population](http://www.vamas.org/twa34/index.html)
 
