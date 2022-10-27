@@ -12,5 +12,5 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://nanocommons.github.io/handbook/
-          pages_path: ./
+#          pages_path: ./
 
