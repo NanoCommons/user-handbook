@@ -16,7 +16,7 @@ This case demonstrates how data management can be organised in a large multidisc
 {: .lead }
 
 A collaboration between [<img src="{{ site.baseurl }}/images/logos/nanofase.png" width="150" align="middle" />](http://www.nanofase.eu/) and
-[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://nanocommons.eu)
+[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://www.nanocommons.eu)
 
 <details open markdown="block">
   <summary>

@@ -16,7 +16,7 @@ Bio-nano interaction data (characterization of nanomaterials with and without al
 {: .lead }
 
 A collaboration between [<img src="{{ site.baseurl }}/images/logos/plus.png" width="150" align="middle" />](https://www.plus.ac.at/biosciences/the-department/research-groups/duschl-2/staff/martin-himly/?lang=en) and
-[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://nanocommons.eu)
+[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://www.nanocommons.eu)
 
 <details open markdown="block">
   <summary>

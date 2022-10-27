@@ -15,7 +15,7 @@ NanoCommons delivers a sustainable and openly accessible nanoinformatics framewo
 
 NanoCommons combines Joint Research Activities to implement the nanoinformatics Knowledge Commons, Networking Activities to facilitate engagement with the research community, industry and regulators, and provision of funded Access to the nanoinformatics tools via funded calls for Transnational Access.
 
-[Project website](https://nanocommons.eu)
+[Project website](https://www.nanocommons.eu)
 {: .more-link .more-link--webpages}
 
 [Transnational access](https://www.nanocommons.eu/ta-access/)
