@@ -32,7 +32,7 @@ projects:
   - url: https://ceint.duke.edu/research/nikc
     logo: NIKC.png
     width: 120
-  - url: http://www.enanomapper.org/
+  - url: http://www.enanomapper.net/
     logo: eNanoMapper.png
     width: 120
   - url: https://www.asina-project.eu/
