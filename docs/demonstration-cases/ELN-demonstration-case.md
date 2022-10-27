@@ -16,7 +16,7 @@ This case demonstrates how electronic lab notebooks (ELNs) can be used to manage
 {: .lead }
 
 A collaboration between [<img src="{{ site.baseurl }}/images/logos/logos-lnnano-rodape.png" width="80" align="middle" />](https://lnnano.cnpem.br/en/scientific-divisions-and-teams/nanotoxicology-and-nanobiotechnology/diego-stefani-teodoro-martinez/), [<img src="{{ site.baseurl }}/images/logos/acenano.png" width="150" align="middle" />](http://www.acenano-project.eu/) and
-[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://nanocommons.eu)
+[<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="80" align="middle" />](https://www.nanocommons.eu)
 
 <details open markdown="block">
   <summary>
