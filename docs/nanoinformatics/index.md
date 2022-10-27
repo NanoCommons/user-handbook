@@ -11,15 +11,15 @@ Nanoinformatics is the application of informatics to nanotechnology and, specifi
 {: .lead }
 
 ## General information on workflows and checklists to integrate nanoinformatics tools
-[A workflow and checklist of key information needed from modelling tool owners to facilitate integration into KB](https://zenodo.org/record/3603088#.YY5y6WBKiUl)
+[A workflow and checklist of key information needed from modelling tool owners to facilitate integration into KB](https://zenodo.org/record/3603088)
 For this process to be successful, a clearly defined modelling tools integration workflow needs to be developed and implemented.
 {: .more-link .more-link--text }
 
-[A workflow and checklist for experimental design and informatics workflow for risk assessment](https://zenodo.org/record/3603100#.YY5zfmBKiUl)
+[A workflow and checklist for experimental design and informatics workflow for risk assessment](https://zenodo.org/record/3603100)
 We describe a number of computationally oriented tools and methodologies that can be used for exposure modelling, hazard prediction and eventually for RA. Additionally, we present checklists and best practices for the most efficient use of the tools and workflows, as well as optimal combinations of these tools for performing RA for NMs.
 {: .more-link .more-link--text }
 
 ## Nanoinformatics areas
-[Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639#.YY510WDMKUl)
+[Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639)
 Integration status of tools for data management, mining, handling, analysis and predictive modelling to facilitate their joint provision as tools and services in the infrastructure.
 {: .more-link .more-link--text }

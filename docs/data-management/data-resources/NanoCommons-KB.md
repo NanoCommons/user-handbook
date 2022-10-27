@@ -44,7 +44,7 @@ Support for data preparation and integration into the semantic model of the Know
 {: .more-link .more-link--video}
 
 ## Descriptions of concepts and implementation
-[First version of data warehouse and collaborative knowledge infrastructure](https://zenodo.org/record/3601626#.YXLWfhpByUl)
+[First version of data warehouse and collaborative knowledge infrastructure](https://zenodo.org/record/3601626)
 {: .more-link .more-link--text}
-[Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639#.YXLWwxpByUl)
+[Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639)
 {: .more-link .more-link--text}

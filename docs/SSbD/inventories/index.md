@@ -12,8 +12,6 @@ has_toc: false
 # Inventories of S(S)bD tools and decision support
 {% include childrenTOC.html page=page pages=site.pages %}
 
-[Towards Safe and
-Sustainable Advanced
-(Nano)materials](https://www.rivm.nl/sites/default/files/2022-02/Towards_safe_sustainable_advanced%20%28nano%29materials_EWARN_feb2022.pdf)
-A proposal for an Early WArning, pRioritisation and actioN system (EWARN)
+[Towards Safe and Sustainable Advanced (Nano)materials](https://www.rivm.nl/documenten/Early4AdMa-brochure)
+A proposal for an early awareness and action system for advanced materials (Early4AdMa)
 {: .more-link .more-link--pdf}

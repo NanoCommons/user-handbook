@@ -22,7 +22,7 @@ If you want to hear the many reasons why ELNs should replace hand-written notebo
 
 <iframe src="//www.youtube.com/embed/FWbkDrVbg6M" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-And if you are still not convinced, watch the presentation given as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229#.YT5tT50zZPY) (3 June, 2020)
+And if you are still not convinced, watch the presentation given as part of the [Jaqpot hackathon](https://zenodo.org/record/3908229) (3 June, 2020)
 
 [What is the role of electronic lab notebooks in data management?](https://www.youtube.com/watch?v=tM814yEukfA)
 {: .more-link .more-link--video }
@@ -51,7 +51,7 @@ Besides the more general material presented below, trainings on the use of the S
 {: .more-link .more-link--video}
 [Electronic Lab Notebooks – Getting Hands On](https://www.youtube.com/watch?v=MilbZJ3I61U)
 {: .more-link .more-link--video}
-[Slides and other supporting material](https://zenodo.org/record/5846520#.Yflt2OrMKUk)
+[Slides and other supporting material](https://zenodo.org/record/5846520)
 {: .more-link .more-link--webpages}
 
 And some interesting things from an earlier webinar (14 July 2020). 
@@ -62,7 +62,7 @@ And some interesting things from an earlier webinar (14 July 2020).
 {: .more-link .more-link--video }
 [SciNote setup using one of the plans provided directly by SciNote](https://www.youtube.com/watch?v=7yhdrG4coo0&ab_channel=NanoCommons)
 {: .more-link .more-link--video }
-[Slides and additional material available on Zenodo](https://zenodo.org/record/4518805#.YSjw144zaUl)
+[Slides and additional material available on Zenodo](https://zenodo.org/record/4518805)
 {: .more-link .more-link--webpages }
 
 ### General information on the SciNote ELN
@@ -71,7 +71,7 @@ And some interesting things from an earlier webinar (14 July 2020).
 [SciNote Website](https://www.scinote.net/)
 {: .more-link .more-link--webpages }
 
-[Webinar: Go digital! How to do science without lab access?](https://www.scinote.net/webinar-go-digital/)
+[Webinar: Go digital! How to do science without lab access?](https://www.scinote.net/webinars/go-digital-how-to-do-science-without-lab-access/)
 {: .more-link .more-link--webpages }
 
 [SciNote Video Tutorials](https://www.scinote.net/tutorials/)

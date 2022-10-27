@@ -8,7 +8,7 @@ nav_exclude: false
 nav_order: 500
 ---
 
-# [SABYDOMA's A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design workshop](https://zenodo.org/record/6326436#.YkRloShByUk):
+# [SABYDOMA's A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design workshop](https://zenodo.org/record/6326436):
 18 Feb. 2022
 {: .lead }
 

@@ -20,7 +20,7 @@ NanoCommons, in a joint initiative with the NanoSafety Cluster (NSC), organised 
 
 [Full playlist](https://www.youtube.com/watch?v=4FYqNR2Fv28&list=PL0Q0VZW0kRfA62029xzCwmKp0U1nPf5oL)
 {: .more-link .more-link--video}
-[Slide deck](https://zenodo.org/record/5752073#.YbG5M73MKUk)
+[Slide deck](https://zenodo.org/record/5752073)
 {: .more-link .more-link--slides}
 
 
@@ -67,7 +67,7 @@ Additional information: [Jaqpot]({{ site.baseurl }}/nanoinformatics/nanoQSAR/)
 Additional information:</p>
 <ul>
 <li><a href="{{ site.baseurl }}/nanoinformatics/nanoQSAR/">Enalos</a></li>
-<li><a href="{{ site.baseurl }}/nanoinformatics/nanoQSAR/image-analysis">Image analysis</a></li></ul>
+<li><a href="{{ site.baseurl }}/nanoinformatics/image-analysis">Image analysis</a></li></ul>
 </div>
 
 ## Part 3: Putting it all together 

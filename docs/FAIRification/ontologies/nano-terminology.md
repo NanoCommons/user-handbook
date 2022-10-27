@@ -11,7 +11,7 @@ nav_order: 312
 universe_topics:
   - name: semantic annotation
     title: Annotate your science
-    url: /FAIRification/ontologies/#for-data-producers-and-curators-annotating-data
+    url: /FAIRification/ontologies/nano-terminology/#for-data-producers-and-curators-annotating-data
     shape: rect
     x: 4
     y: 2
@@ -19,7 +19,7 @@ universe_topics:
     h: 407
   - name: term definition
     title: Create a defined terminology with clear definitions
-    url: /FAIRification/ontologies/#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions
+    url: /FAIRification/ontologies/nano-terminology/#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions
     shape: rect
     x: 606
     y: 2
@@ -27,7 +27,7 @@ universe_topics:
     h: 407
   - name: ontology development
     title: Create semantic relationships to improve the ontologies
-    url: /FAIRification/ontologies/#for-ontology-developments-integrating-collections-of-terms-into-a-semantic-model
+    url: /FAIRification/ontologies/nano-terminology/#for-ontology-developments-integrating-collections-of-terms-into-a-semantic-model
     shape: rect
     x: 4
     y: 422
@@ -82,7 +82,7 @@ An introduction to the ontology is available in this short video:
 [Slides of the introduction video]({{site.baseurl}}/FAIRification/ontologies/eNanoMapper-intro/)
 {: .more-link .more-link--slides }
 
-[Extensions to the eNanoMapper Ontology by NanoCommons](https://zenodo.org/record/3601620#.YSipJY4zaUm)
+[Extensions to the eNanoMapper Ontology by NanoCommons](https://zenodo.org/record/3601620)
 This report available on Zenodo describes the work extending the ontology done in the NanoCommons projects including a description of the system for maintenance and the major releases 5 and 6.
 {: .more-link .more-link--text }
 
@@ -105,7 +105,7 @@ Due to its focus on physico-chemical characterisation, the ACEnano project colle
 The slides show how first a simple spreadsheet was used to collect terms needed for annotation of the ACEnano knowledge warehouse and datasets stored in it. This is now replaced by a physico-chemical characterisation area in the [EU NanoSafety Terminology Harmonizer](#for-domain-experts-generating-harmonised-terminologies-including-clear-definitions).
 {: .more-link .more-link--slides }
 
-[Corresponding deliverable report](https://zenodo.org/record/3753040#.YSi2Go4zaUk)
+[Corresponding deliverable report](https://zenodo.org/record/3753040)
 {: .more-link .more-link--text }
 
 ## Guidance and tools
@@ -142,7 +142,7 @@ Have a look at the NanoCommons Workshop “Annotating Your Experimental Data Wor
 [FAIR starts with findable: data sets and nanomaterials](https://www.youtube.com/watch?v=VqerJojpBpM)
 {: .more-link .more-link--video }
 
-[Slides available on Zenodo](https://zenodo.org/record/3772185#.YVMVt7gzaUm)
+[Slides available on Zenodo](https://zenodo.org/record/3772185)
 {: .more-link .more-link--webpages }
 
 ### For domain experts generating harmonised terminologies including clear definitions
@@ -163,7 +163,7 @@ Provided by the GRACIOUS project this is a tool to work collaboratively on a col
 
 ### For ontology developments integrating collections of terms into a semantic model
 
-[Expanding the eNanoMapper Ontology](https://zenodo.org/record/4032809#.YSi-JI4zaUm)
+[Expanding the eNanoMapper Ontology](https://zenodo.org/record/4032809)
 This poster presented at ICBO2020 describes ow the eNanoMapper ontology was recreated using ROBOT’s MERGE command.
 {: .more-link  .more-link--slides }
 

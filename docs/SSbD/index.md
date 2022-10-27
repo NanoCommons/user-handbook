@@ -72,7 +72,7 @@ When these requirements are complied with and confidentiality as far as requeste
 
 ## Supporting S(S)bD
 [NanoCommons Safe-by-Design data and software platform interoperability and integration workshop]({{ site.baseurl }}/training-courses/2021-SbD-integration-workshop/)
-9 November 2021. Collaborative research supported by NanoCommons transnational access. [More info...](https://zenodo.org/record/5752073#.Ybitq73MKUk)
+9 November 2021. Collaborative research supported by NanoCommons transnational access. [More info...](https://zenodo.org/record/5752073)
 {: .more-link .more-link--video}
 
 [Mapping study for the development of sustainable-by-design criteria](https://op.europa.eu/en/publication-detail/-/publication/f679c200-a314-11eb-9585-01aa75ed71a1/language-en)

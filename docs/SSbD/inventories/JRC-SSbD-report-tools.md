@@ -132,7 +132,7 @@ The review included also an analysis of online resources (databases, tools) that
   <td>Various methods, tools and materials for comparative hazard
   assessment</td>
   <td>ECHA</td>
-  <td><a href="https://www.echa.europa.eu/web/guest/assess-compare-and-selectsubstitution">'Substance substitution' tools</a></td>
+  <td><a href="https://echa.europa.eu/substitution-to-safer-chemicals">'Substance substitution' tools</a></td>
  </tr>
  <tr>
   <td>ProScale</td>
