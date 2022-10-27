@@ -12,5 +12,3 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://nanocommons.github.io/handbook/
-          pages_path: ./data-management/
-          cmd_params: '--buffer-size=8192 --max-connections=10 --color=always --skip-tls-verification --header="User-Agent:curl/7.54.0" --timeout=20'  # muffet parameters
