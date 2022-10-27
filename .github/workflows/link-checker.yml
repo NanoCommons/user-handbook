@@ -1,20 +1,17 @@
-name: Broken link check
 on: [push]
+#  schedule:
+#    - cron: '0 0 * * 0'
 
+name: Check links
 jobs:
-  broken_link_checker_job:
+  my-broken-link-checker:
+    name: Check broken links
     runs-on: ubuntu-latest
-    name: Check for broken links
     steps:
-      - name: Check for broken links
-        id: link-report
-        uses: celinekurpershoek/link-checker@v1.0.2
+      - name: Check
+        uses: ruzickap/action-my-broken-link-checker@v2
+#        uses: elliotforbes/broken-link-checker@1.0.2
         with:
-          # Required:
-          url: "https://nanocommons.github.io/user-handbook/"
-          # optional:
-          honorRobotExclusions: false
-          ignorePatterns: "github,google"
-          recursiveLinks: true # Check all URLs on all reachable pages (could take a while)
-      - name: Get the result
-        run: echo "${{steps.link-report.outputs.result}}"
+#          url: https://www.google.com
+          url: https://nanocommons.github.io/user-handbook/
+          cmd_params: "--max-connections=3 --color=always"  # Check just one page
