@@ -50,7 +50,7 @@ Repository for annotated data on nanomaterial characterization (purity, size, sh
 NECID is a database that contains information on NMs occupational exposure, with a focus on defining operational settings and working procedures at a high level of context. It includes a large variety of factors s that are unique to the workplace and the measurements.
 {: .more-link .more-link--app}
 
-[The cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.nci.nih.gov/caNanoLab/#/)
+[The cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.cancer.gov/)
 caNanoLab database facilitates knowledge sharing within the international biomedical nanotechnology community, which helps to advance nanotechnology.
 {: .more-link .more-link--app}
 
@@ -66,7 +66,7 @@ NR is curated database funded by the National Institutes of Health (NIH). It col
 NanoPharos includes computationally derived data based on simulations, characterization data and biological effects.
 {: .more-link .more-link--app}
 
-[S2NANO online database](www.s2nano.org)
+[S2NANO online database](http://www.s2nano.org)
 S2NANO including experimental results related to different sources of NMs. In earlier versions of the platform, the database had been accessible to the public and data were retrievable. However, the data are no longer accessible to the public.
 {: .more-link .more-link--app}
 

@@ -40,7 +40,7 @@ The following methods are currently available and are described below in detail:
 
  For each section additional details are available in NanoCommons Deliverable Report D5.2:
 
-[First big data (omics) analysis and mining tools integrated into KnowledgeBase](https://zenodo.org/record/3601649#.YY50q2DMKUl)
+[First big data (omics) analysis and mining tools integrated into KnowledgeBase](https://zenodo.org/record/3601649)
 Initial set of tools directed towards analysis of “omics” datasets, including transcriptomics (analysis of changes in gene expression), proteomics (analysis of changes in protein expression), metabolomics and lipidomics (changes in expression of small molecules and lipids, respectively). 
 {: .more-link .more-link--text }
 

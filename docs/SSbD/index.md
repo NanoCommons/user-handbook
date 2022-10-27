@@ -28,6 +28,12 @@ _The EU Chemical Strategy for Sustainability (CSS) aims at fostering a transitio
 
 _There is, therefore, the need to develop a new framework for the definition of criteria for SSbD chemicals and materials. A framework for SSbD requires the integration of risk assessment and safety-based considerations with life cycle-based consideration, to ensure sustainability along the entire value chain._ (Patinha Caldeira et al., 2022)
 
+
+[Strategic Research and Innovation Plan for safe and sustainable Chemicals and Materials](https://ec.europa.eu/assets/rtd/srip/2022//)
+<a href="https://ec.europa.eu/assets/rtd/srip/2022/"><img src="{{ site.baseurl }}/images/SSbD/SRIP.png" width="250" class="image--right"></a>
+The current Strategic Research and Innovation Plan (SRIP) delivers on this announcement and highlights current research and innovation (R&I) areas crucial for accelerating the transition to chemicals and materials that are safe and sustainable. The aim of the SRIP is to guide R&I funders in their decisions on investments across EU, national and private funding programmes. It is an opportunity for a more transparent communication among all relevant actors on joint R&I priorities proposed by the wider community: from academia to SMEs, large-scale industry, regulators and policymakers.
+{: .more-link .more-link--webpages}
+
 [Safe and Sustainable by Design chemicals and materials: Framework for the definition of criteria and evaluation procedure for chemicals and materials](https://op.europa.eu/en/publication-detail/-/publication/eb0a62f3-031b-11ed-acce-01aa75ed71a1/language-en)
 This report aims at proposing such a framework, presenting the dimensions, aspects, methods, and indicators that can be used to assess chemicals and materials and how criteria can be defined in order to identify those that are SSbD.
 {: .more-link .more-link--pdf}
@@ -109,7 +115,7 @@ While the development of methodologies for delivering approaches to safe and sus
 _The EU chemical industry sees “Safe and sustainable-by-design” as a process to accelerate widespread market uptake of new and alternative chemical products and technologies that deliver greater consumer confidence in their safety, environmental and societal benefits and advance the transition towards a circular economy and climate-neutral society._<br clear="left">
 {: .more-link .more-link--webpage}
 
-## [Safe-by-design and EU funded NanoSafety projects: Report on the EU nanomaterial SbD landscape in 2021](https://zenodo.org/record/4652587#.YkVgyihByUk)
+## [Safe-by-design and EU funded NanoSafety projects: Report on the EU nanomaterial SbD landscape in 2021](https://zenodo.org/record/4652587)
 The report was delivered to the European Commission as a contribution of the EU NanoSafetyCluster (NSC) to answer the request to contribute to their study on the state-of-the-art and ongoing research in the field of Safe-and-Sustainable-by-Design.
 
 <img src="{{ site.baseurl }}/images/SSbD/SABYDOMA-Word-cloud.png" width="400" class="image--right">

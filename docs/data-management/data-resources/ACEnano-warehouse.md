@@ -41,11 +41,11 @@ The Knowledge Warehouse as a part of the ACEnano Toolbox.
 {: .more-link .more-link--video}
 
 ## Descriptions of concepts and implementation
-[Design Concept for the Knowledge Warehouse](https://zenodo.org/record/3752851#.YXMZBhpBxPY)
+[Design Concept for the Knowledge Warehouse](https://zenodo.org/record/3752851)
 {: .more-link .more-link--text}
-[Guideline for Method and Protocol Standardization](https://zenodo.org/record/3716819#.YXMbwRpBxPY)
+[Guideline for Method and Protocol Standardization](https://zenodo.org/record/3716819)
 {: .more-link .more-link--text}
-[Release of the first version of the ontology for methodology part of the nanomaterial ontology](https://zenodo.org/record/3753040#.YXMZ_hpBxPY)
+[Release of the first version of the ontology for methodology part of the nanomaterial ontology](https://zenodo.org/record/3753040)
 {: .more-link .more-link--text}
-[Initial Data Management Plan](https://zenodo.org/record/3752910#.YXMZhxpBxPY)
+[Initial Data Management Plan](https://zenodo.org/record/3752910)
 {: .more-link .more-link--text}
