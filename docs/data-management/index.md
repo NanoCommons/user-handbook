@@ -38,11 +38,12 @@ The resources below will give guidance how such a distributed (meta)data collect
 
 [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/)
 {: .more-link .more-link--webpages}
-[Chatham House Guide: Principles for Sharing the Data and Benefits of Public Health Surveillance](https://datasharing.chathamhouse.org/guide/)
+[A Guide to Sharing the Data and Benefits of Public Health Surveillance](https://www.chathamhouse.org/sites/default/files/publications/research/2017-05-25-data-sharing-guide.pdf)
 {: .more-link .more-link--webpages}
+<!---
 [Chatham House Resource](https://datasharing.chathamhouse.org/resources/)
 {: .more-link .more-link--webpages}
-
+--->
 
 ### Additionally, the Demonstration Cases highlight specific aspects like study design and SOPs and implementation:
 

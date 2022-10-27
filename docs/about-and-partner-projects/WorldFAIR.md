@@ -18,7 +18,7 @@ In particular, it will improve interoperability and reusability of digital resea
 [Project website](https://worldfair-project.eu/)
 {: .more-link .more-link--webpages}
 
-[Nanomaterials Use Case](https://worldfair-project.eu/use-cases-of-worldfair/#nanomaterials)
+[Nanomaterials Use Case](https://worldfair-project.eu/case-studies-of-worldfair/#nanomaterials)
 {: .more-link .more-link--webpages}
 
 [FAIR Implementation Profiles (FIPs)](https://worldfair-project.eu/fair-implementation-profiles/)

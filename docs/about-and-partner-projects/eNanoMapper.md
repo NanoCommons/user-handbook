@@ -29,7 +29,7 @@ Project databases reusing the AMBIT-eNanoMapper system
 {: .more-link .more-link--app }
 
 [eNanoMapper ontology](http://www.enanomapper.net/ontology)
-Ontology described in more detail in the [FAIRification section]({{ site.baseurl }}/FAIRification/ontology/)
+Ontology described in more detail in the [FAIRification section]({{ site.baseurl }}/FAIRification/ontologies/)
 {: .more-link .more-link--app }
 
 [eNanoMapper modelling services](http://www.enanomapper.net/modelling)

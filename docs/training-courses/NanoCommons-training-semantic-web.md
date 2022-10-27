@@ -100,6 +100,6 @@ The workshop was covering the whole range of Semantic Approaches developed and u
 ## Other links
 [Workshop page](https://nanocommons.github.io/workshops/2021-12-08/) with the original agenda and links to all training materials 
 {: .more-link .more-link--webpages} 
-[Slides](https://zenodo.org/record/5840053#.Yd6kr98xlhE) on Zenodo 
+[Slides](https://zenodo.org/record/5840053) on Zenodo 
 {: .more-link .more-link--slides} 
 

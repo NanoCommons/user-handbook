@@ -8,7 +8,7 @@ projects:
   - url: https://www.nanosafetycluster.eu/
     logo: NSC.png
     width: 180
-  - url: https://nanocommons.eu
+  - url: https://www.nanocommons.eu
     logo: nanocommons.png
     width: 100
   - url: https://worldfair-project.eu/

@@ -67,13 +67,13 @@ And specific to nanomaterials and nanosafety:
 [GO FAIR Implementation Network Advanced Nano](https://www.go-fair.org/implementation-networks/overview/advancednano/)
 This Implementation Network actively supports the implementation of the FAIR principles in the current nano-EHS databases, i.e. data on NM physicochemical characteristics, release and exposure, toxicity and functionality.
 {: .more-link .more-link--webpages}
-[WorldFAIR's Nanomaterials Use Case](https://worldfair-project.eu/use-cases-of-worldfair/#nanomaterials)
+[WorldFAIR's Nanomaterials Use Case](https://worldfair-project.eu/case-studies-of-worldfair/#nanomaterials)
 It will test the pilot operationalisation of the FAIR principles; run conference sessions and workshops with stakeholders (including the InChI-for-nano domain experts, and international ‘nano’ database managers and their users) to apply, refine, implement, improve the metrics for FAIR nanosafety datasets; and develop an inventory of FAIR nanoinformatics models and their domains of applicability, underpinning datasets and APIs to support interoperability, including guidelines to further improve the interoperability of nanoinformatics models.
 {: .more-link .more-link--webpages}
 
 ## Start becoming FAIR
 [Annotating Your Experimental Data](https://www.youtube.com/watch?v=YSH-COr30BI&list=PL0Q0VZW0kRfCUjAuiSbnA1SrkCz9MRiEN&index=2)
-3 June 2020. Learn to enrich your (published) data to make it have more impact. Description of experimental data was aligned to community terminology (ontology terms). Experiences were gathered how you can make your research articles findable by other researchers. [More info...](https://zenodo.org/record/3772185#.Ybiw173MKUk)
+3 June 2020. Learn to enrich your (published) data to make it have more impact. Description of experimental data was aligned to community terminology (ontology terms). Experiences were gathered how you can make your research articles findable by other researchers. [More info...](https://zenodo.org/record/3772185)
 {: .more-link .more-link--video}
 
 [FAIR CookBook: How to Register a Dataset with Wikidata](https://faircookbook.elixir-europe.org/content/recipes/findability/registeringDatasets)

@@ -19,7 +19,7 @@ The NanoFabNet Project Partners are using their long experience with establishin
 [The NanoFabNet Hub](https://www.nanofabnet.net)
 {: .more-link .more-link--webpages }
 
-[The NanoFabNet outputs](https://www.nanofabnet.net/press-media-nanofabnet/#publications)
+[NanoFabNet insights](https://www.nanofabnet.net/news-and-archives/#insights)
 {: .more-link .more-link--text }
 
 ## Introduction to NanoFabNet
