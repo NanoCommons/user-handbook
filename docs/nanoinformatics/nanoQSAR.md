@@ -29,11 +29,11 @@ Computational models are evaluated based on their predictive accuracy (i.e. R2 f
 In a recent publication (Puzyn et al., 2018), written by scientists involved in five recently completed European nanosafety modelling research projects, the application of the OECD validation principles in nano-QSAR modelling was critically reviewed. A main conclusion was that the OECD principles create an appropriate framework for validating nano-QSAR models, but there are issues that need particular attention. Among them, particular attention is drawn to the need for transparency and reproducibility of nano-QSAR models, documentation through the standard QMRF (QSAR Model Reporting Format) format and model representations using the Predictive Model Markup Language (PMML). 
 
 ## Integrating nano-QSAR models into the nanoinformatics infrastructure
-[First predictive nano-QSAR models integrated into NanoCommons KnowledgeBase](https://zenodo.org/record/3603066#.YY526WDMKUl)
+[First predictive nano-QSAR models integrated into NanoCommons KnowledgeBase](https://zenodo.org/record/3603066)
 Services that have been developed and are available through the NanoCommons infrastructure for generating and validating nano-specific quantitative Structure-Activity Relationships (nano-QSAR) models and applying the models for predicting nanomaterial (NM) end-points for new materials that have not been tested experimentally. 
 {: .more-link .more-link--text }
 
-[First raw data processing and knowledge extraction tools integrated into KB and first theoretical descriptor calculation services available](https://zenodo.org/record/3603051#.XhcgBkf7SUkU)
+[First raw data processing and knowledge extraction tools integrated into KB and first theoretical descriptor calculation services available](https://zenodo.org/record/3603051)
 {: .more-link .more-link--text }
 
 ## Development of nano-QSAR model through the Jaqpot modelling platform
@@ -52,20 +52,20 @@ Jaqpot follows the microservice architecture where individual services are inter
 [Read-across predictions of nanoparticle hazard endpoints: a mathematical optimization approach](https://pubs.rsc.org/en/content/articlehtml/2019/na/c9na00242a)
 {: .more-link .more-link--text }
 
-[Jaqpot 5 Tutorial : How to access and use an existing predictive model](https://zenodo.org/record/3610173#.YY6AyWDMKUl)
+[Jaqpot 5 Tutorial : How to access and use an existing predictive model](https://zenodo.org/record/3610173)
 {: .more-link .more-link--text }
 
-[Jaqpot 5 Tutorial : User accounts](https://zenodo.org/record/3610071#.YY6Ap2DMKUl)
+[Jaqpot 5 Tutorial : User accounts](https://zenodo.org/record/3610071)
 {: .more-link .more-link--text }
 
-[Jaqpot 5 Tutorial: How to manage and use organisations](https://zenodo.org/record/3610093#.YY6At2DMKUl)
+[Jaqpot 5 Tutorial: How to manage and use organisations](https://zenodo.org/record/3610093)
 {: .more-link .more-link--text }
 
-[Jaqpot 5 Tutorial: How to deploy a predictive model using the jaqpotpy library](https://zenodo.org/record/3610171#.YY6Ag2DMKUl)
+[Jaqpot 5 Tutorial: How to deploy a predictive model using the jaqpotpy library](https://zenodo.org/record/3610171)
 {: .more-link .more-link--text }
 
 ## Enalos cloud platform
-[Enalos Cloud Platform Transnational Access Services Through NanoCommons H2020 Infrastructure Project](https://zenodo.org/record/3695647#.YY6CG2DMKUl)
+[Enalos Cloud Platform Transnational Access Services Through NanoCommons H2020 Infrastructure Project](https://zenodo.org/record/3695647)
 {: .more-link .more-link--text }
 
 [Enalos Nanoinformatics Cloud Platform: A Safe-by-Design Tool for Functionalized Nanomaterials](https://www.youtube.com/watch?v=HtUg1EXLr28)

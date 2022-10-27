@@ -115,7 +115,7 @@ While the development of methodologies for delivering approaches to safe and sus
 _The EU chemical industry sees “Safe and sustainable-by-design” as a process to accelerate widespread market uptake of new and alternative chemical products and technologies that deliver greater consumer confidence in their safety, environmental and societal benefits and advance the transition towards a circular economy and climate-neutral society._<br clear="left">
 {: .more-link .more-link--webpage}
 
-## [Safe-by-design and EU funded NanoSafety projects: Report on the EU nanomaterial SbD landscape in 2021](https://zenodo.org/record/4652587#.YkVgyihByUk)
+## [Safe-by-design and EU funded NanoSafety projects: Report on the EU nanomaterial SbD landscape in 2021](https://zenodo.org/record/4652587)
 The report was delivered to the European Commission as a contribution of the EU NanoSafetyCluster (NSC) to answer the request to contribute to their study on the state-of-the-art and ongoing research in the field of Safe-and-Sustainable-by-Design.
 
 <img src="{{ site.baseurl }}/images/SSbD/SABYDOMA-Word-cloud.png" width="400" class="image--right">

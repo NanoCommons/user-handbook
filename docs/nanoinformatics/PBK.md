@@ -16,7 +16,7 @@ Biokinetics offer a methodology for predicting the internal distribution and exp
 
 Compartmental modelling is a concept broadly used in pharmacokinetics for describing the biodistribution of a substance inside an organism. Physiologically-based pharmacokinetic (PBPK) models represent one of the two major approaches used in compartmental modelling, with empirical models being the second one. PBPK models are mechanistic; they consist of compartments representing real organs and tissues, whose number varies based on the target substance, species, administration route and available information. A common approach is to incorporate in the model the main body tissues, i.e. brain, heart, kidney, skin, spleen, liver, lung, gut, bone, adipose and muscle. In most cases, PBPK models are utilised for describing the kinetics of a substance in the whole body of a species, thus such models are more formally called “whole body physiologically-based pharmacokinetic models” (WBPBPK).
 
-[How to simulate biodistribution scenarios using custom PBPK models](https://zenodo.org/record/3610182#.YY53hWDMKUl)
+[How to simulate biodistribution scenarios using custom PBPK models](https://zenodo.org/record/3610182)
 This document provides a tutorial for simulating biodistribution scenarios using custom PBPK models that have been deployed on [Jaqpot5](https://app.jaqpot.org/).
 {: .more-link .more-link--text }
 
@@ -24,7 +24,7 @@ WBPBPK can be grouped into two classes: perfusion-limited and permeability-limit
 
 PBPK models have inherent advantages due to their mechanistic nature. Firstly, they enable predictions of concentration/mass profiles of individual organs and not just of plasma. In addition, their relation with physiology and modularity facilitate the integration of literature information, making predictions prior to in vivo experiments possible. Lastly, their biggest advantage is the ability to perform inter-species (e.g. from rat to human) or intra-species (e.g. from adults to children) extrapolation through scaling methods.
 
-See for example: [PBPK modelling on the Jaqpot web platform - a PAA-peg nanoparticles case study](https://zenodo.org/record/3691860#.YY6A3GDMKUl)
+See for example: [PBPK modelling on the Jaqpot web platform - a PAA-peg nanoparticles case study](https://zenodo.org/record/3691860)
 {: .more-link .more-link--text }
 
 
@@ -191,7 +191,7 @@ A list containing nano-PBPK models is presented in the table below:
 ## Nano-PBPK web services
 NTUA has developed all the necessary infrastructure to develop, host and share PBPK models through the Jaqpot computational platform, thus, a  series of models have been integrated with the NanoCommons KnowledgeBase through the Jaqpot Cloud Platform and can be readily integrated in risk assessment computational pipelines. Potential users can learn how to acquire predictions from these models by visiting the detailed documentation files that have been uploaded in zenodo:
 
-[Jaqpot 5: How to simulate biodistribution scenarios using custom PBPK models](https://zenodo.org/record/3610182#.YpDDXqhBy3l)
+[Jaqpot 5: How to simulate biodistribution scenarios using custom PBPK models](https://zenodo.org/record/3610182)
 This document provides a tutorial for simulating biodistribution scenarios using custom PBPK models that have been deployed on [Jaqpot5](https://app.jaqpot.org/).
 {: .more-link .more-link--text }
 
