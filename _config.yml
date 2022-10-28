@@ -27,6 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   data management for nanomaterials and nanoinformatics.
 baseurl: /user-handbook
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+plugins:
+  - jekyll-sitemap
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
