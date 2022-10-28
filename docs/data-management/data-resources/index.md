@@ -79,9 +79,3 @@ References
 {: .references-header }
 - Furxhi, 2022: Furxhi, I. Health and environmental safety of nanomaterials: O Data, Where Art Thou? <i>NanoImpact</i> <b>2022</b>, <i>25</i>, 100378. <a href="https://doi.org/10.1016/j.impact.2021.100378">https://doi.org/10.1016/j.impact.2021.100378</a>.
 {: .references }
-
-<div class="page-content">
-  <div class="wrapper">
-    {% include github-comments.html %}
-  </div>
-</div>

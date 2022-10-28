@@ -4,6 +4,9 @@ title: Home
 nav_order: 1
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /
+github_comments_issueid: "40"
+github_comments_listcomments: false
+
 projects:
   - url: https://www.nanosafetycluster.eu/
     logo: NSC.png

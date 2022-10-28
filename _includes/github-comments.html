@@ -1,8 +1,7 @@
 {% if page.github_comments_issueid and site.github_comments_repository %}
     
 <div id="gh-comments">
-    <br/><br/>
-    <h6>COMMENTS</h6>
+    <h3>Comments</h3>
     <div id="gh-comments-list"></div>
 </div>
 
@@ -11,7 +10,8 @@
 <script type="text/javascript"> 
     DoGithubComments ( 
         "{{ site.github_comments_repository }}" , 
-        "{{ page.github_comments_issueid }}" 
+        "{{ page.github_comments_issueid }}", 
+        "{{ page.github_comments_listcomments }}" 
     ); 
 </script>
 

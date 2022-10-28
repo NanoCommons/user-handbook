@@ -15,13 +15,17 @@ async function getComments(repo_name, comment_id, page_id, acc )
     for (let i = 0; i < comments.length; i++)
     {
         const comment = comments[i];
+        if (comment.reactions.eyes > 0) {
+            continue
+        }
         const date = new Date(comment.created_at);
-        acc.push( "<div id='gh-comment'>" + 
+        acc.push( "<div class='gh-comment'>" + 
                     "<img src='" + comment.user.avatar_url + "' width='24px'>" + 
                     "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>" + 
                     " posted at " + 
                     "<em>" + date.toUTCString() + "</em>" + 
-                    "<div id='gh-comment-hr'></div>" + 
+                    "<div class='.gh-comment-hr'></div>" + 
+//                    JSON.stringify(comment) + // prints full reply for testing
                     comment.body_html + 
                   "</div>" );
     }
@@ -44,7 +48,7 @@ async function getComments(repo_name, comment_id, page_id, acc )
     return acc;
 }
 
-function DoGithubComments(repo_name, comment_id)
+function DoGithubComments(repo_name, comment_id, list_flag)
 {
     document.addEventListener("DOMContentLoaded", async function() 
     {
@@ -58,7 +62,11 @@ function DoGithubComments(repo_name, comment_id)
             const commentsHtml = comments.join('');                // oldest first
             // const commentsHtml = comments.reverse().join('');   // newest first
             
-            commentsElement.innerHTML = "<form action='" + url + "' rel='nofollow'> <input type='submit' value='Post a comment on Github' /> </form>" + commentsHtml;
+            if (list_flag === 'false') {
+                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Read and post comments on Github</a></div>";
+            } else {
+                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Post a comment on Github</a></div>" + commentsHtml;
+            }
         } catch (err)
         {
             console.log( err.message );
