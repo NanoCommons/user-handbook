@@ -17,7 +17,7 @@ Partly based on: Furxhi, 2022<br>
 {: .source }
 
 
-[Health and environmental safety of nanomaterials: O Data, Where Art Thou?](https://www.sciencedirect.com/science/article/pii/S2452074821000872#bb0110)
+[Health and environmental safety of nanomaterials: O Data, Where Art Thou?](https://doi.org/10.1016/j.impact.2021.100378)
 The purpose of this review research is to transparently and comprehensively display to the nanoscience community that datasets readily available for machine learning purposes making it convenient and more efficient for the next users such as modellers or data curators to retrieve information. 
 {: .more-link .more-link--webpages}
 

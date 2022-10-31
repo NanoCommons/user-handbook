@@ -28,7 +28,7 @@ NanoSolveIT's knowledge-based infrastructure for data hosting, sharing and explo
 ## Introduction to NanoSolveIT
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2001037019305112-ga1_lrg.jpg)
 
-[Review paper on project's activities](https://www.sciencedirect.com/science/article/pii/S2001037019305112)
+[Review paper on project's activities](https://doi.org/10.1016/j.csbj.2020.02.023)
 {: .more-link .more-link--text }
 
 
