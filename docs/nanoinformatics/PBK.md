@@ -49,42 +49,42 @@ A list containing nano-PBPK models is presented in the table below:
     <td>Quantum Dot 705 (QD705)</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1021/es800254a">http://doi.org/10.1021/es800254a</a> </td>
+    <td><a href="https://doi.org/10.1021/es800254a">https://doi.org/10.1021/es800254a</a> </td>
   </tr><tr>
     <td><sup>99m</sup>Technetium - labelled carbon nanoparticles (Technegas)</td>
     <td>Male human</td>
     <td>Pulmonary</td>
-    <td><a href="http://doi.org/10.3109/08958370902748542">http://doi.org/10.3109/08958370902748542</a></td>
+    <td><a href="https://doi.org/10.3109/08958370902748542">https://doi.org/10.3109/08958370902748542</a></td>
   </tr><tr>
     <td>Silver nanoparticles</td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1016/j.biomaterials.2010.07.045">http://doi.org/10.1016/j.biomaterials.2010.07.045</a></td>
+    <td><a href="https://doi.org/10.1016/j.biomaterials.2010.07.045">https://doi.org/10.1016/j.biomaterials.2010.07.045</a></td>
   </tr><tr>
     <td>poly(lactic - co - glycolic) acid (PLGA) nanoparticles</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2147/IJN.S23758">http://doi.org/10.2147/IJN.S23758</a></td>
+    <td><a href="https://doi.org/10.2147/IJN.S23758">https://doi.org/10.2147/IJN.S23758</a></td>
   </tr><tr>
     <td>gold/dendrimer composite nanodevices (CNDs)</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1007/s11095-012-0784-7">http://doi.org/10.1007/s11095-012-0784-7</a></td>
+    <td><a href="https://doi.org/10.1007/s11095-012-0784-7">https://doi.org/10.1007/s11095-012-0784-7</a></td>
   </tr><tr>
     <td>Silver, silver alloy and ionic silver</td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2147/IJN.S46624">http://doi.org/10.2147/IJN.S46624</a> </td>
+    <td><a href="https://doi.org/10.2147/IJN.S46624">https://doi.org/10.2147/IJN.S46624</a> </td>
   </tr><tr>
     <td><sup>192</sup>Ir radio-labeled iridium particles and ultrafine carbon particles</td>
     <td>Rat</td>
     <td>Pulmonary</td>
-    <td><a href="http://doi.org/10.1115/1.4025333">http://doi.org/10.1115/1.4025333</a></td>
+    <td><a href="https://doi.org/10.1115/1.4025333">https://doi.org/10.1115/1.4025333</a></td>
   </tr><tr>
     <td>Polyacrylamide (PAA)</td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.3109/17435390.2013.863406">http://doi.org/10.3109/17435390.2013.863406</a> </td>
+    <td><a href="https://doi.org/10.3109/17435390.2013.863406">https://doi.org/10.3109/17435390.2013.863406</a> </td>
   </tr><tr>
     <td>Gold nanoparticles</td>
     <td>Mouse</td>
@@ -94,52 +94,52 @@ A list containing nano-PBPK models is presented in the table below:
     <td>Silver nanoparticles</td>
     <td>Rat</td>
     <td>Intragastric</td>
-    <td><a href="http://doi.org/10.1134/S1995078015020081">http://doi.org/10.1134/S1995078015020081</a></td>
+    <td><a href="https://doi.org/10.1134/S1995078015020081">https://doi.org/10.1134/S1995078015020081</a></td>
   </tr><tr>
     <td>Titanium dioxide (TiO<sub>2</sub>) nanoparticles</td>
     <td>Mouse, Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.3109/17435390.2014.940404">http://doi.org/10.3109/17435390.2014.940404</a></td>
+    <td><a href="https://doi.org/10.3109/17435390.2014.940404">https://doi.org/10.3109/17435390.2014.940404</a></td>
   </tr><tr>
     <td>Zinc oxide (ZnO) and Zinc Nitrate (Zn(NO<sub>3</sub>)<sub>2</sub>) nanoparticles</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2147/IJN.S86785">http://doi.org/10.2147/IJN.S86785</a> </td>
+    <td><a href="https://doi.org/10.2147/IJN.S86785">https://doi.org/10.2147/IJN.S86785</a> </td>
   </tr><tr>
     <td>Cadmium telluride/cadmium sulphide quantum dots (CdTe/CDS Qds)</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1021/acs.nanolett.5b03854">http://doi.org/10.1021/acs.nanolett.5b03854</a></td>
+    <td><a href="https://doi.org/10.1021/acs.nanolett.5b03854">https://doi.org/10.1021/acs.nanolett.5b03854</a></td>
   </tr><tr>
     <td>Silver and Carbon black (CB) nanoparticles</td>
     <td>Mouse</td>
     <td>Pulmonary</td>
-    <td><a href="http://doi.org/10.1371/journal.pone.0080917">http://doi.org/10.1371/journal.pone.0080917</a> </td>
+    <td><a href="https://doi.org/10.1371/journal.pone.0080917">https://doi.org/10.1371/journal.pone.0080917</a> </td>
   </tr><tr>
     <td>PAA, Gold, TiO<sub>2</sub></td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2147/IJN.S94370">http://doi.org/10.2147/IJN.S94370</a></td>
+    <td><a href="https://doi.org/10.2147/IJN.S94370">https://doi.org/10.2147/IJN.S94370</a></td>
   </tr><tr>
     <td>QD705</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1021/nl803481q">http://doi.org/10.1021/nl803481q</a></td>
+    <td><a href="https://doi.org/10.1021/nl803481q">https://doi.org/10.1021/nl803481q</a></td>
   </tr><tr>
     <td>TiO2</td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1371/journal.pone.0124490">http://doi.org/10.1371/journal.pone.0124490</a></td>
+    <td><a href="https://doi.org/10.1371/journal.pone.0124490">https://doi.org/10.1371/journal.pone.0124490</a></td>
   </tr><tr>
     <td>Amphiphilic block copolymers poly (ethylene glycol) (PEG) - caprolactone) (PCL) bearing pendant cyclic ketals</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1002/psp4.13">http://doi.org/10.1002/psp4.13</a> </td>
+    <td><a href="https://doi.org/10.1002/psp4.13">https://doi.org/10.1002/psp4.13</a> </td>
   </tr><tr>
     <td>Nanocrystals of SNX-2112</td>
     <td>Rat</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2147/IJN.S79734">http://doi.org/10.2147/IJN.S79734</a></td>
+    <td><a href="https://doi.org/10.2147/IJN.S79734">https://doi.org/10.2147/IJN.S79734</a></td>
   </tr><tr>
     <td><sup>192</sup>Ir radio - labelled iridium and silver nanoparticles</td>
     <td>Rat</td>
@@ -149,7 +149,7 @@ A list containing nano-PBPK models is presented in the table below:
     <td>Gold</td>
     <td>Mouse, rat, pig</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.2217/nnm.15.177">http://doi.org/10.2217/nnm.15.177</a></td>
+    <td><a href="https://doi.org/10.2217/nnm.15.177">https://doi.org/10.2217/nnm.15.177</a></td>
   </tr><tr>
     <td>PAA</td>
     <td>Rat</td>
@@ -174,17 +174,17 @@ A list containing nano-PBPK models is presented in the table below:
     <td>Cerium dioxide (CeO<sub>2</sub>)</td>
     <td>Rat</td>
     <td>Pulmonary</td>
-    <td><a href="http://doi.org/10.1186/s12989-016-0156-2">http://doi.org/10.1186/s12989-016-0156-2</a></td>
+    <td><a href="https://doi.org/10.1186/s12989-016-0156-2">https://doi.org/10.1186/s12989-016-0156-2</a></td>
   </tr><tr>
     <td>CeO<sub>2</sub></td>
     <td>Rat</td>
     <td>Pulmonary, Intravenous, oral or its instillation</td>
-    <td><a href="http://doi.org/10.2147/IJN.S157210">http://doi.org/10.2147/IJN.S157210</a></td>
+    <td><a href="https://doi.org/10.2147/IJN.S157210">https://doi.org/10.2147/IJN.S157210</a></td>
   </tr><tr>
     <td>Superparamagnetic iron oxide nanoparticles (SPIONs)</td>
     <td>Mouse</td>
     <td>Intravenous</td>
-    <td><a href="http://doi.org/10.1515/ejnm-2017-0001">http://doi.org/10.1515/ejnm-2017-0001</a></td>
+    <td><a href="https://doi.org/10.1515/ejnm-2017-0001">https://doi.org/10.1515/ejnm-2017-0001</a></td>
   </tr>
 </table>
 
