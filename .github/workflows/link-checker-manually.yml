@@ -1,10 +1,8 @@
 on: 
 #  [push]
-  - workflow_dispatch
-  - schedule:
-    - cron: '0 0 * * 0'
+  workflow_dispatch
 
-name: Check links
+name: Check links manually
 jobs:
   my-broken-link-checker:
     name: Check broken links
