@@ -1,0 +1,19 @@
+on: 
+#  [push]
+  - workflow_dispatch
+  - schedule:
+    - cron: '0 0 * * 0'
+
+name: Check links
+jobs:
+  my-broken-link-checker:
+    name: Check broken links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check
+        uses: ruzickap/action-my-broken-link-checker@v2
+        with:
+          url: https://nanocommons.github.io/user-handbook/
+#          pages_path: ./
+          cmd_params: '--max-connections=3 --color=always --exclude="(https://nanocommons.github.io/identifiers/|https://nanocommons.github.io/tutorials/|https://nanocommons.github.io/workshops/|https://doi.org/|https://app.mural.co/)"'
+
