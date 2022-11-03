@@ -9,7 +9,7 @@ description_long: SSbD tools listed in the JRC Technical Report "Safe and Sustai
 has_children: false
 nav_exclude: false
 has_references: true
-nav_order: 512
+nav_order: 522
 ---
 
 # Safe and Sustainable by Design chemicals and materials

@@ -5,7 +5,7 @@ permalink: /SSbD/inventories/
 parent: Safe-and-Sustainable-by-Design
 has_children: true
 nav_exclude: false
-nav_order: 510
+nav_order: 520
 has_toc: false
 ---
 
