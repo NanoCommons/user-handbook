@@ -9,7 +9,7 @@ description_long: Decision support systems currently developed in different SbD 
 has_children: false
 nav_exclude: false
 has_references: true
-nav_order: 513
+nav_order: 523
 ---
 
 # Decision support systems

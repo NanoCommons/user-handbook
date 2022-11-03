@@ -5,7 +5,7 @@ permalink: /SSbD/SABYDOMA-SSbDWorkshop/
 parent: Safe-and-Sustainable-by-Design
 has_children: false
 nav_exclude: false
-nav_order: 500
+nav_order: 510
 ---
 
 # [SABYDOMA's A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design workshop](https://zenodo.org/record/6326436):
