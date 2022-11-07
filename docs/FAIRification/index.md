@@ -97,5 +97,5 @@ The FAIR Principles put specific emphasis on enhancing the ability of machines t
 {: .more-link .more-link--webpages}
 [FIP Wizard](https://fip-wizard.ds-wizard.org/)
 A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources,that are intended to implement one or more of the FAIR Guiding Principles,made as a collective decision by the members of a particular community of practice.
-
+{: .more-link .more-link--app}
 
