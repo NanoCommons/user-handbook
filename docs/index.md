@@ -138,8 +138,12 @@ topics:
     h: 60
 
 ---
-[![DOI](https://zenodo.org/badge/392611144.svg)](https://zenodo.org/badge/latestdoi/392611144)
-
+<table class="table--no-border">
+  <tr>
+    <td><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></td>
+    <td align="right"><a href="{{ site.baseurl }}/changelog">See the newest changes</a></td>
+  </tr>
+</table>
 # NanoCommons User Guidance Handbook 
 <script type="application/ld+json">
 {
