@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-nav_order: 1
+nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
