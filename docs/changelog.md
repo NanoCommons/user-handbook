@@ -73,7 +73,7 @@ changes:
     <tr>
       <td>{{ change.date  | date: "%d %b %Y" }}</td>
       <td width="70%">{{ change.description }}</td>
-      <td><a href="{{ site.baseurl }}/{{ changes.url }}">{{ change.url }}</a></td>
+      <td><a href="{{ site.baseurl }}/{{ change.url }}">{{ change.url }}</a></td>
     </tr>
 {% endfor %}
 </table>
