@@ -34,7 +34,7 @@ _There is, therefore, the need to develop a new framework for the definiti
 The current Strategic Research and Innovation Plan (SRIP) delivers on this announcement and highlights current research and innovation (R&I) areas crucial for accelerating the transition to chemicals and materials that are safe and sustainable. The aim of the SRIP is to guide R&I funders in their decisions on investments across EU, national and private funding programmes. It is an opportunity for a more transparent communication among all relevant actors on joint R&I priorities proposed by the wider community: from academia to SMEs, large-scale industry, regulators and policymakers.
 {: .more-link .more-link--webpages}
 
-[Collection of international concept documents related to SSbD]({{ site.baseurl}}/SSbD/regulatory-guidance/)
+[Collection of concept documents and webinars related to SSbD by the EU and the OECD]({{ site.baseurl}}/SSbD/regulatory-guidance/)
 {: .more-link .more-link--webpages}
 
 ## Working definitions of SbD

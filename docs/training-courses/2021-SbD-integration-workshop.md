@@ -77,7 +77,7 @@ Additional information:</p>
 <p>Summary of the collaborative approaches for data and software harmonisation and integration and ways how NanoCommons supports these activities and their dissemination.<br> 
 Additional information:</p>
 <ul>
-<li><a href="https://github.com/NanoCommons/user-handbook/">Provide content</a> to this NanoMaterialsCommons User Handbook directly or by contacting one of the authors.</li>
+<li><a href="https://github.com/NanoCommons/user-handbook/">Provide content</a> to this NanoCommons User Guidance Handbook directly or by contacting one of the authors.</li>
 <li>And also contact us if you have a service to be listed in the <a href="https://infrastructure.nanocommons.eu/services/">service catalogue</a>.</li></ul>
 </div>
 

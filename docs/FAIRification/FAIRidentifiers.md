@@ -40,8 +40,15 @@ NInChI (Lynch et al., 2020) is developed as an extension to the [IUPAC Internati
 {: .more-link .more-link--webpages }
 [NInChI introduction at the first working group meeting (April 2021)]({{site.baseurl}}/presentations/FAIRification/NInChI-FirstWGMeeting.pdf)
 {: .more-link .more-link--slides }
-[Proposed modifications towards the first version (Update: Sept. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChI-WG_20220920.pdf)
+[Proposed modifications towards the first version - Version 2 (Update: Sept. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChI-WG_20220920.pdf)
 {: .more-link .more-link--slides }
+[Feedback on proposed modifications (Update: Oct. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChIChemistry.pdf)
+{: .more-link .more-link--slides }
+[Proposed modifications towards the second version - Version 2.1 (Update: Nov. 2022)]({{site.baseurl}}/presentations/FAIRification/NInChIProposal-V2.1.pdf)
+Have a look at the Oct. slides to see the feedback the changes are based on.
+{: .more-link .more-link--slides }
+
+If you want to be added to the NInChI working group mailing list, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20NInChI%20WG)
 
 See also:
 - [Nanomaterials working group of InChI Trust](https://www.inchi-trust.org/inchi-working-groups/#nano)

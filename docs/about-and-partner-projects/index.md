@@ -7,7 +7,7 @@ permalink: /about-and-partner-projects/
 has_children: true
 has_toc: false
 ---
-# About NanoMaterialsCommons
+# About NanoCommons
 {: .no_toc}
 This User Guidance Handbook is an activity of **NanoCommons**, not meaning the [NanoCommons project](https://www.nanocommons.eu), even if it started it all, but in the sense of a commons for nanomaterials following the [definition from Wikipedia](https://en.wikipedia.org/wiki/Commons):
 {: .lead }
@@ -27,9 +27,9 @@ The handbook is one resource of our commons collecting and structuring knowledge
 
 ## Contact details
 
-If you have questions about the content or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Contents%20question).
+If you have questions about the content or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20Contents%20question).
 
-For any technical issues, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoMaterialsCommons]%20Technical%20issue) or [file an issue directly on github](https://github.com/NanoCommons/user-handbook/issues).
+For any technical issues, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20Technical%20issue) or [file an issue directly on github](https://github.com/NanoCommons/user-handbook/issues).
 
 ## Some thoughts on how to work together on a "commons for nanomaterials" infrastructure (NanoCommons)
 
