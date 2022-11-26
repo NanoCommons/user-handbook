@@ -27,6 +27,8 @@ The handbook is one resource of our commons collecting and structuring knowledge
 
 ## Disclaimer
 The content of this Handbook is the sole responsibility of the individual contributors and does not necessarily represent the views of the NanoCommons or Partnering Projects. Mention of trade names or commercial products does not constitute endorsement by any of the Partners. The Partners and the NanoCommons Project also bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links.
+
+We strive to ensure that our web content is always up-to-date and is correct and complete in terms of content. Nevertheless, we cannot completely exclude the occurrence of errors. The NanoCommons project, contributing partners and Seven Past Nine assume no liability for the updates, accuracy of content, or for the completeness of the information provided on this website.
  
 ## Contact details
 If you have questions about the content or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20Contents%20question).
