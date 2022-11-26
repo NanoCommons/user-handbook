@@ -67,3 +67,8 @@ github_comments_repository: NanoCommons/user-handbook
 
 collections:
   - topics
+
+nav_external_links:
+  - title: Privacy policy
+    url: "/about-and-partner-projects/#gdpr-privacy-policy"
+    hide_icon: true

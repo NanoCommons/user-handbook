@@ -10,7 +10,8 @@ async function getComments(repo_name, comment_id, page_id, acc )
     }
 
     const comments = await resp.json();
-    
+    let newcomments = 0;
+
     // Individual comments
     for (let i = 0; i < comments.length; i++)
     {
@@ -19,10 +20,14 @@ async function getComments(repo_name, comment_id, page_id, acc )
             continue
         }
         const date = new Date(comment.created_at);
+        const now = new Date();
+        if (30 >= Math.floor((now - date) / (1000 * 60 * 60 * 24)))
+        {
+            newcomments = newcomments + 1;
+        }
+
         acc.push( "<div class='gh-comment'>" + 
-                    "<img src='" + comment.user.avatar_url + "' width='24px'>" + 
-                    "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>" + 
-                    " posted at " + 
+                    "Posted at " + 
                     "<em>" + date.toUTCString() + "</em>" + 
                     "<div class='.gh-comment-hr'></div>" + 
 //                    JSON.stringify(comment) + // prints full reply for testing
@@ -45,11 +50,13 @@ async function getComments(repo_name, comment_id, page_id, acc )
             }
         }
     }
-    return acc;
+    return [acc, comments.length, newcomments];
 }
 
 function DoGithubComments(repo_name, comment_id, list_flag)
 {
+    const date = new Date();
+    date.setDate(date.getDate() - 30); // new comments are less than 30 days old
     document.addEventListener("DOMContentLoaded", async function() 
     {
         try {
@@ -59,13 +66,15 @@ function DoGithubComments(repo_name, comment_id, list_flag)
             const commentsElement = document.getElementById('gh-comments-list');
 
             // choose one of the next two lines to determine display order (newest or oldest first).
-            const commentsHtml = comments.join('');                // oldest first
+            const commentsHtml = comments[0].join('');             // oldest first
             // const commentsHtml = comments.reverse().join('');   // newest first
             
+            const count = "<div  class='gh-comment'>Total number of comments: " + comments[1] + "<br>New comments since " + date.toUTCString() + ": " + comments[2] + "</div>"
+
             if (list_flag === 'false') {
-                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Read and post comments on Github</a></div>";
+                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Read and post comments on Github</a></div>" + count;
             } else {
-                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Post a comment on Github</a></div>" + commentsHtml;
+                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Post a comment on Github</a></div>" + commentsHtml + count;
             }
         } catch (err)
         {
