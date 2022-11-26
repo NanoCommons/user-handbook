@@ -26,8 +26,8 @@ _“The commons is the cultural and natural resources accessible to all members 
 The handbook is one resource of our commons collecting and structuring knowledge and training materials for **the two strongly interlinked areas of data management for nanomaterials and nanoinformatics**. Besides covering general concepts, guidelines and recommendations, it will show, demonstrate and train real-world solutions in the form of data sources, software and workflows integrated or linked into the NanoCommons infrastructure, where both terms are meant in a very broad sense to be able to cover as many solutions as possible from all projects working in nanosafety, nanoinformatics and neighbouring fields. All projects, from which resources are included, are listed below.
 
 ## Disclaimer
-The content of this Handbook is the sole responsibility of the individual contributors and does not necessarily represent the views of the Partner projects. Mention of trade names or commercial products does not constitute endorsement by any of the Partners.
-
+The content of this Handbook is the sole responsibility of the individual contributors and does not necessarily represent the views of the NanoCommons or Partnering Projects. Mention of trade names or commercial products does not constitute endorsement by any of the Partners. The Partners and the NanoCommons Project also bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links.
+ 
 ## Contact details
 If you have questions about the content or want to propose modifications and additions, please contact [info@nanocommons.eu](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20Contents%20question).
 
