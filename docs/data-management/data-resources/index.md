@@ -22,14 +22,6 @@ The purpose of this review research is to transparently and comprehensively disp
 
 ## Listing of important data / knowledge resources for nanosafety and nanoinformatics
 
-[DaNa](https://nanopartikel.info/en/)
-Complex, toxicological issues from current materials research in an generally understandable format for (non-)scientists.
-{: .more-link .more-link--webpages}
-
-[ACEnano knowledge warehouse](./ACEnano-warehouse/)
-Specializing on physico-chemical characterisation techniques, protocols and data.
-{: .more-link .more-link--webpages}
-
 [NanoCommons knowledge base and data warehouse](./NanoCommons-KB/)
 One-stop shop for nanosafety data by linking in different data warehouses and also the primary home of data from different projects including NanoMile, NanoFASE and SmartNanoTox.
 {: .more-link .more-link--webpages}
@@ -37,6 +29,18 @@ One-stop shop for nanosafety data by linking in different data warehouses and al
 [Nanosafety data interface based on the eNanoMapper database system](https://search.data.enanomapper.net/)
 Home of data from many projects. Currently, eNanoMapper, NANoREG and NanoReg2 are publicly available.
 {: .more-link .more-link--app}
+
+[NanoPharos database](./NanoPharos/)
+NanoPharos includes computationally derived data based on simulations, characterization data and biological effects.
+{: .more-link .more-link--app}
+
+[DaNa](https://nanopartikel.info/en/)
+Complex, toxicological issues from current materials research in an generally understandable format for (non-)scientists.
+{: .more-link .more-link--webpages}
+
+[ACEnano knowledge warehouse](./ACEnano-warehouse/)
+Specializing on physico-chemical characterisation techniques, protocols and data.
+{: .more-link .more-link--webpages}
 
 [CEINT NanoInformatics Knowledge Commons (NIKC)](https://ceint.duke.edu/research/nikc)
 Literature curated data describing nanomaterials in terms of their intrinsic, extrinsic (system-dependent), and social (e.g. anticipated use scenarios, matrix, concentration in products) properties, system characteristics (environmental, biological, laboratory, etc.), exposure and hazard measurements, calculations, and estimates.

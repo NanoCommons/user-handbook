@@ -16,15 +16,36 @@ nav_order: 282
 NanoCommons is providing a common user interface for accessing data from different existing resources and is also building a home for data, which is not publicly released otherwise.
 {: .lead }
 
+## Access
+[NanoCommons knowledge base and data warehouse](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
+{: .more-link .more-link--app}
+[Short manual]({{ site.baseurl }}/data-management/data-resources/NanoCommons-KB-manual/)
+{: .more-link .more-link--app}
+
 To be able to distinguish between these two tasks, the platform is referred to by the two terms:
 1. NanoCommons Knowledge Base (KB) establishes the links to the data sources including the NanoCommons Data Warehouse and provides the user interface and application programming interfaces (APIs) for advanced data visualisation, searching, browsing and accessing features.
 2. NanoCommons Data Warehouse (DW) is a part of the NanoCommons KB, containing the data that is made publicly available for the first time (and not just linked to) by NanoCommons.
 
 For the data user, the separation between these two parts is not relevant since all data can be search and browsed via the same interface even if there might then be differences in the access. In contrast, data providers will follow different workflows to prepare and upload the data depending on the solution they want to use for storing their data. More information on these workflows is provided in the [NanoCommons data workflows section]({{ site.baseurl}}/data-management/NanoCommons-data-workflows/) of this handbook. 
 
-## Access
-[NanoCommons knowledge base and data warehouse](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
-{: .more-link .more-link--app}
+## Integration of project data directly or by linking to other resources
+
+
+
+## Extended data upload mechanism and templates
+Based on feedback from users of the NanoCommons KB, the standard data upload mechanism and associated templates were extended. The upload now allows batch import of NMs
+
+![]({{ site.baseurl }}/images/data-management/NanoCommonsKB1.png)
+
+of measurement parameters (“endpoints”)
+
+![]({{ site.baseurl }}/images/data-management/NanoCommonsKB2.png)
+
+and of actual measurement data 
+
+![]({{ site.baseurl }}/images/data-management/NanoCommonsKB3.png)
+
+Due to the fast technological and scientific development in this field, the full set of measurement parameters, which have to be accommodated by the NanoCommons infrastructure, cannot be well defined currently and will probably have to continuously be extended in the future. At the same time the infrastructure capability needs to extend beyond simple data archives to encompass also semantically undefined measurement parameters. Therefore an upload and mapping mechanism has been developed, which allows users to dynamically extend the measurement parameters accommodated by the system while at the same time ensuring semantic mapping of new parameters via ontologies.
 
 ## Training
 The session from the [2021 Nanosafety Training School]({{ site.baseurl}}/training-courses/2021-training-school/) give a motivation on why and information on how to use the Knowledge Base using an _in vitro_ experimental to _in silico_ modelling workflow. Background on the present FAIR data initiative in the context of nanosafety assessment and risk governance for nanomaterials and nanotechnology-based research & development are given first. Then. it covers the data life cycle, explains the concept of metadata completeness and what a data shepherd does or is responsible for. A practical example is worked through investigating the protein corona formation around nanoparticles by a suite of experimental analyses combined with _in silico_ modelling of the protein corona and making use of FAIR data provision using the NanoCommons Knowledge Base. Herein you can define your self-produced nanomaterial and deposit all relevant physicochemical parameters that you have determined. You have access to the ontology terms and can look them up. You also find the NanoXtract TEM image analysis tool as well as the protein corona prediction tool and can start them from within the Knowledge Base.
