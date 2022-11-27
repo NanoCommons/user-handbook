@@ -14,7 +14,7 @@ changes:
   - url: FAIRification/FAIRidentifiers/
     description: NInChI updates from working group meeting
     date: 2022-11-16
-  - url: training-courses/NanoHarmony-training/
+  - url: training-courses/NanoHarmony-webinars/
     description: New partner project NanoHarmony
     date: 2022-09-05
   - url: NanoFab/
@@ -26,10 +26,10 @@ changes:
   - url: NanoGovernance/
     description: New nanorisk governance area
     date: 2022-07-14
-  - url: New risk assessment area
-    description: nanoinformatics/
+  - url: nanoinformatics/
+    description: New risk assessment area
     date: 2022-06-02
-  - url: ata-management/instance-maps/
+  - url: data-management/instance-maps/
     description: Description of the instance maps concept and tool
     date: 2022-04-15
   - url: SSbD/
