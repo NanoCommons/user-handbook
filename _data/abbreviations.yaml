@@ -1,0 +1,44 @@
+- name: AOP 
+  tooltip: 'Adverse Outcome Pathway' 
+- name: API
+  tooltip: 'Application Programming Interface'
+- name: ECHA
+  tooltip: 'European Chemicals Agency'
+- name: ELN
+  tooltip: 'Electronic Laboratory Notebook'
+- name: ERM
+  tooltip: 'European Registry of Materials'
+- name: FAIR
+  tooltip: 'Findable, Accessible, Interoperable and Reusable' 
+- name: FAQ
+  tooltip: 'Frequently Asked Questions'
+- name: FP7
+  tooltip: 'Framework Programme 7 (2007-2013)'
+- name: GDPR
+  tooltip: 'General Data Protection Regulations'
+- name: H2020
+  tooltip: 'Horizon 2020 (Framework Programme 2014-2020)'
+- name: KB
+  tooltip: 'Knowledge Base'
+- name: KI
+  tooltip: 'Knowledge Infrastructure'
+- name: KW
+  tooltip: 'Knowledge Warehouse'
+- name: NM
+  tooltip: 'Nanomaterial'
+- name: PID
+  tooltip: 'Persistent Identifier'
+- name: PDI
+  tooltip: 'polydispersity index' 
+- name: QC/QA
+  tooltip: 'Quality Control / Quality Assurance'
+- name: QSAR
+  tooltip: 'Quantitative Structure Activity Relationships'
+- name: RA
+  tooltip: 'Risk Assessment' 
+- name: STEM
+  tooltip: 'Scanning transmission electron microscopy'
+- name: TA
+  tooltip: 'Transnational Access'
+- name: TEM
+  tooltip: 'Transmission electron microscopy'

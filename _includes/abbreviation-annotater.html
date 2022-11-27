@@ -1,0 +1,10 @@
+{% if site.data.abbreviations %} <script>
+    {% for anno in site.data.abbreviations %}
+        annotater({
+        {% for notation in anno %}
+            {{notation[0]}}: "{{ notation[1] }}",
+        {% endfor %}
+        });
+    {% endfor %}
+    
+    </script> {% endif %}

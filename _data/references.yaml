@@ -198,3 +198,9 @@
   tooltip: 'Worth, A.; Aschberger, K.; Asturiol, B. D.; Bessems, J.; Gerloff, K. B.; Graepel, R.; Joossens, E.; Lamon, L.; Palosaari, T.; Richarz, A. Evaluation of the availability and applicability of computational approaches in the safety assessment of nanomaterials: Final report of the Nanocomput project (accessed 2022 -06 -28). <a href=\"https://publications.jrc.ec.europa.eu/repository/handle/JRC106386\">https://publications.jrc.ec.europa.eu/repository/handle/JRC106386</a>.'
 - name: van Rijn et al., 2022
   tooltip: 'van Rijn, J.; Afantitis, A.; Culha, M.; Dusinska, M.; Exner, T.E.; Jeliazkova, N.; Longhin, E.M.; Lynch, I.; Melagraki, G.; Nymark, P.; Papadiamantis, A.G.; Winkler, D.A.; Yilmaz, H.; Willighagen, E. European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. <i>J. Cheminform.</i> <b>2022</b>, <i>14</i>, 57. <a href=\"https://doi.org/10.1186/s13321-022-00614-7\">https://doi.org/10.1186/s13321-022-00614-7</a>.'
+- name: Losko and Heumann, 2009
+  tooltip: 'Losko, S.; Heumann, K. Semantic data integration and knowledge management to represent biological network associations. <i>Methods Mol Biol.</i> <b>2009</b>, <i>563</i>, 241–258. <a href=\"https://doi.org/10.1007/978-1-60761-175-2_13\">https://doi.org/10.1007/978-1-60761-175-2_13</a>.'
+- name: Maier et al., 2011
+  tooltip: 'Maier D, Kalus W, Wolff M, Kalko SG, Roca J, Marin de Mas I, et al. Knowledge management for systems biology a general and visually driven framework applied to translational medicine. <i>BMC Syst Biol.</i> <b>2011</b> 5: 38. <a href=\"https://doi.org/10.1186/1752-0509-5-38\">https://doi.org/10.1186/1752-0509-5-38</a>.'
+  
+
