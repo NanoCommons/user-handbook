@@ -8,19 +8,35 @@ parent: Nanosafety data/knowledge resources
 grand_parent: Data/knowledge management
 has_children: false
 has_toc: false
+has_references: true
 nav_order: 282
 ---
 
 <img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="100" class="image--right"/>
+
 # NanoCommons Knowledge Base and Data Warehouse powered by [<img src="{{ site.baseurl }}/images/logos/biomax.png" width="100"/>](https://www.biomax.com/)
+{: .no_toc}
 NanoCommons is providing a common user interface for accessing data from different existing resources and is also building a home for data, which is not publicly released otherwise.
 {: .lead }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Access
 [NanoCommons knowledge base and data warehouse](https://ssl.biomax.de/nanocommons/cgi/login_bioxm_portal.cgi)
 {: .more-link .more-link--app}
 [Short manual]({{ site.baseurl }}/data-management/data-resources/NanoCommons-KB-manual/)
 {: .more-link .more-link--app}
+
+The NanoCommons data infrastructure was designed to become the one-stop information source on nanosafety by:
+1. Providing access according to the FAIR principles to data not publicly available until now, which might come from projects or individual users. This is achieved by either integrating the data directly into the NanoCommons data warehouse but also alternatively by suggesting existing databases specialised for specific types of data or by creating custom-made data warehouses if these allow to access advanced features for the specific data types.
+2. Integration of existing data warehouses from European and international projects.
 
 To be able to distinguish between these two tasks, the platform is referred to by the two terms:
 1. NanoCommons Knowledge Base (KB) establishes the links to the data sources including the NanoCommons Data Warehouse and provides the user interface and application programming interfaces (APIs) for advanced data visualisation, searching, browsing and accessing features.
@@ -29,6 +45,20 @@ To be able to distinguish between these two tasks, the platform is referred to b
 For the data user, the separation between these two parts is not relevant since all data can be search and browsed via the same interface even if there might then be differences in the access. In contrast, data providers will follow different workflows to prepare and upload the data depending on the solution they want to use for storing their data. More information on these workflows is provided in the [NanoCommons data workflows section]({{ site.baseurl}}/data-management/NanoCommons-data-workflows/) of this handbook. 
 
 ## Integration of project data directly or by linking to other resources
+As described above, the NanoCommons KB has two ways, how (meta)data is integrated to then be shown to the users using the common interface. These will be described in more detail using examples from specific EU projects.
+
+### Providing data for the first time
+The first version of the approach that has evolved to become the NanoCommons KB was established within the Framework Programme 7 (FP7) project NanoMILE  which initially included Biomax as a partner to handle the omics datasets, but which quickly identified a significant gap in how NMs data is captured, and in particular identified a gap in terms of the evolution of NMs in contact with biological and environmental milieu, and the wide range of transformation reactions that NMs undergo. Thus, in NanoMILE, the goal was to develop a system that allowed the characteristics of NMs as received to be linked to the properties of the NMs dispersed in different media, and to the characteristics of the NMs following various ageing and transformation processes, such that we could query the data to identify whether, for example, pristine of transformed properties were more predictive of toxicological impact, and whether transformation increased or decreased the “similarity” of NMs of the same NM produced by different routes or with different initial capping agents, for example, and indeed whether NMs of different compositions aged to similar surface compositions and whether this lead to similar fates and toxicities.
+
+A large volume of data was generated in NanoMILE, spanning NMs characterisation, high content screening analysis in human cells and zebrafish embryos, and toxicity and ecotoxicity studies on a small subset of the total NanoMILE NMs library, which consisted of >100 well characterised NMs.  However, the processes for integration of the data were not yet developed while NanoMILE was generating its datasets, and thus while some of the data is integrated into the KB, work is underway to integrate the rest of the data. The physico-chemical characterisation data and the high throughput screening data are integrated (and are also published as in Joossens et al., 2019,  and the data deposited in the JRC data repository), as are the omics datasets including some protein corona datasets, and the computational data generated from the Quantitative Structure Activity Relationships (QSAR) models.  
+
+The Horizon 2020 project NanoFASE built upon the initial NanoMILE database, with the NanoFASE data warehouse being version 2.0 of what is now the NanoCommons KB. NanoFASE focussed entirely on characterising (and developing a model to predict) the transformations of NMs in various environmental compartments, including air, water, sediment, soil, during wastewater treatment / in sludge, during incineration and following uptake into organisms and plants. In addition to the individual compartment / species studies, NanoFASE undertook some ambitious mesocosm studies. As a [demonstration study for NanoCommons]({{ site.baseurl }}/demonstration-cases/NanoFASE-demonstration-case/), detailed data capture templates were developed to support the integration of the NanoFASE mesocosm data into the NanoFASE/NanoCommons database. NanoFASE also focussed on the development of functional assays that can predict key transformations of NMs without needing to run full mesocosms or pilot waste treatment plant scale experiments. The datasets are based on the [NIKC template](https://ceint.duke.edu/research/nikc) that was developed by NanoCommons partners the Center for the Environmental Implications of Nanotechnology. They are Excel based to facilitate data input by experimentalists and enable quick and easy upload. All templates are ontologically mapped to NanoCommons-incorporated ontologies to facilitate the semantic mapping and subsequent data mining, data harvesting and data re-use. 
+
+### Integrating and mapping of (meta)data from external data resources
+- eNanoMapper / NANoREG / Nanoreg2 / ...
+- ACEnano
+
+__<span style="color:red">@Dieter: Could you please add here what can already be disclosed to not jeopardize your paper (perhaps also from NanoSolveIT?</span>__
 
 
 
@@ -69,3 +99,8 @@ Support for data preparation and integration into the semantic model of the Know
 {: .more-link .more-link--text}
 [Initial Knowledge Infrastructure Functionalities and Services Implemented](https://zenodo.org/record/3601639)
 {: .more-link .more-link--text}
+
+References
+{: .references-header }
+- Joossens et al., 2019: Joossens, E.; Macko, P.; Palosaari, T.; Gerloff, K.; Ojea-Jiménez, I.; Gilliland, D.; et al. A high throughput imaging database of toxicological effects of nanomaterials tested on HepaRG cells. <i>Sci Data</i> <b>2019</b>, <i>6</i>, 46. <a href="https://doi.org/10.1038/s41597-019-0053-2">https://doi.org/10.1038/s41597-019-0053-2</a>.
+{: .references }

@@ -15,8 +15,10 @@ _Adverse Outcome Pathways (AOPs) are a conceptual framework for organizing, synt
 {: .more-link .more-link--webpages }
 
 ## Search the AOP-WIKI with SPARQL
+__<span style="color:red">@Marvin: Could you please add here (not only from NanoCommons but also from OpenRiskNet, NanoSolveIT, ...)?</span>__
 
 ## AOP database (AOP-DB)
+__<span style="color:red">@Marvin: Could you please add here (not only from NanoCommons but also from OpenRiskNet, NanoSolveIT, ...)?</span>__
 
 ## NanoCommons MIE gene set database (NanoCommons GS-MIE DB)
 Toxicity testing and regulation of advanced materials at the nanoscale i.e., nanosafety, is challenged by the growing number of NMs. The Adverse Outcome Pathway (AOP)-based approaches provide pragmatic insights to promote the development of alternative testing strategies. A molecular initiating event (MIE) is the first step in an AOP and can be considered as a chemical interaction between a chemical toxicant and a biological molecule. To facilitate reconstruction of initial events in a sequential chain of Key Events in a particular AOP, the NanoCommons MIE gene set database (NanoCommons GS-MIE DB) was developed. The database captures gene signatures of MIEs by integrating knowledge from public gene databases including KEGG, REACTOME, GO and WikiPathways and custom gene sets from published data. To date, 132 gene sets representing three different types of MIE actions have been manually collected:

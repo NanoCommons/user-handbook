@@ -119,5 +119,5 @@ To facilitate dataset owners, who are generally experimentalists with limited ex
 References
 {: .references-header }
 - Losko and Heumann, 2009: Losko, S.; Heumann, K. Semantic data integration and knowledge management to represent biological network associations. <i>Methods Mol Biol.</i> <b>2009</b>, <i>563</i>, 241–258. <a href="https://doi.org/10.1007/978-1-60761-175-2_13">https://doi.org/10.1007/978-1-60761-175-2_13</a>.
-- Maier et al., 2011: Maier D, Kalus W, Wolff M, Kalko SG, Roca J, Marin de Mas I, et al. Knowledge management for systems biology a general and visually driven framework applied to translational medicine. <i>BMC Syst Biol.</i> <b>2011</b> 5: 38. <a href="https://doi.org/10.1186/1752-0509-5-38">https://doi.org/10.1186/1752-0509-5-38</a>.
+- Maier et al., 2011: Maier, D.; Kalus, W.; Wolff. M.; Kalko, S.G.; Roca, J.; Marin de Mas, I.; et al. Knowledge management for systems biology a general and visually driven framework applied to translational medicine. <i>BMC Syst Biol.</i> <b>2011</b> 5: 38. <a href="https://doi.org/10.1186/1752-0509-5-38">https://doi.org/10.1186/1752-0509-5-38</a>.
 {: .references }
