@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: FAIRification/
+    description: WorldFAIR deliverable on FAIR Implementation Profiles and FAIR Connect (platform providing information on FAIR Supporting Resources) added.
+    date: 2022-12-02
   - url: SSbD/regulatory-guidance/
     description: OECD webinar - Safer & Sustainable Innovation Approach for More Sustainable Nanomaterials & Nano-enabled
     date: 2022-11-21
