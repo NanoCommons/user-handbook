@@ -14,6 +14,10 @@
   tooltip: 'Directorate-General for Research and Innovation (European Commission); de Baas, A. F. <i>What Makes a Material Function?: Let Me Compute the Ways: Modelling in H2020 LEIT NMBP Programme Materials and Nanotechnology Projects</i>; Publications Office of the European Union: LU, 2017. <a href=\"https://data.europa.eu/doi/10.2777/404734\">https://data.europa.eu/doi/10.2777/404734</a>.'
 - name: Marchese Robinson et al., 2016
   tooltip: 'Marchese Robinson, R. L.; Lynch, I.; Peijnenburg, W.; Rumble, J.; Klaessig, F.; Marquardt, C.; Rauscher, H.; Puzyn, T.; Purian, R.; Åberg, C.; Karcher, S.; Vriens, H.; Hoet, P.; Hoover, M. D.; Hendren, C. O.; Harper, S. L. How Should the Completeness and Quality of Curated Nanomaterial Data Be Evaluated? <i>Nanoscale</i> <b>2016</b>, <i>8</i> (19), 9919–9943. <a href=\"https://doi.org/10.1039/C5NR08944A\">https://doi.org/10.1039/C5NR08944A</a>.'
+- name: Martens et al., 2022
+  tooltip: 'Martens, M.; Evelo, C. T.; Willighagen, E. L. (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology, aivt.2021.0010. <a href=\"https://doi.org/10.1089/aivt.2021.0010\">https://doi.org/10.1089/aivt.2021.0010</a>.'
+- name: Mortensen et al., 2022
+  tooltip: 'Mortensen, H. M.; Martens, M.; Senn, J.; Levey, T.; Evelo, C. T.; Willighagen, E. L.; Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. Frontiers in Toxicology, 4, 803983. <a href=\"https://doi.org/10.3389/ftox.2022.803983\">https://doi.org/10.3389/ftox.2022.803983</a>.'
 - name: Power et al. 2017
   tooltip: 'Power, D.; Rouse, I.; Poggio, S.; Brandt, E.; Lopez, H.; Lyubartsev, A.; Lobaskin, V. A Multiscale Model of Protein Adsorption on a Nanoparticle Surface. <i>Modelling Simul. Mater. Sci. Eng.</i> <b>2019</b>, <i>27</i> (8), 084003. <a href=\"https://doi.org/10.1088/1361-651X/ab3b6e\">https://doi.org/10.1088/1361-651X/ab3b6e</a>.'
 - name: Lahiri et al., 1999
