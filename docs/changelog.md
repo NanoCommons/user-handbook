@@ -5,6 +5,21 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: /FAIRification/FAIRnessScores/
+    description: Description of NanoSolveIT / NanoCommons completeness score
+    date: 2022-12-03
+  - url: nanoinformatics/corona-modelling/
+    description: Details to Corona modelling tools
+    date: 2022-12-03
+  - url: nanoinformatics/adverse-outcome-pathways/
+    description: Tools for querying AOP-related data added
+    date: 2022-12-03
+  - url: data-management/data-resources/NanoCommons-KB-manual/
+    description: Short NanoCommons KB manual
+    date: 2022-12-03
+  - url: data-management/data-resources/NanoPharos/
+    description: NanoPharos added
+    date: 2022-12-03
   - url: FAIRification/
     description: WorldFAIR deliverable on FAIR Implementation Profiles and FAIR Connect (platform providing information on FAIR Supporting Resources) added.
     date: 2022-12-02

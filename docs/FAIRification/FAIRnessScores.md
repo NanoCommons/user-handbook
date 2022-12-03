@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAIRness and data quality scores
+title: FAIRness, completeness, and data quality scores
 permalink: /FAIRification/FAIRnessScores/
 parent: FAIRification
 description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets.
@@ -9,9 +9,19 @@ has_references: true
 nav_order: 303
 ---
 
-# FAIRness and data quality scores
+# FAIRness, completeness and data quality scores
+{: .no_toc}
 Even if quality evaluation of datasets is a highly active area of research, we will cover current approaches and try to stay up-to-date with the information.
 {: .lead }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## FAIRness scores
 ### FAIR Badge System
@@ -41,6 +51,11 @@ A very early evaluation of "how Findable data is" was proposed as part of a [pos
 |★★★| As (2) plus non-proprietary format (e.g. CSV instead of Microsoft Excel)|
 |★★★★| All the above, plus: Use open standards from W3C (RDF and SPARQL) to identify things, so that people can point at your stuff|
 |★★★★★| All the above, plus: Link your data to other people’s data to provide context|
+
+## Data completeness scores
+### NanoSolveIT / NanoCommons KB
+The “data completeness” check developed as part of the NanoSolveIT project is based on a set of previously published use cases, e.g., ECHA grouping/read-across requirements, REACH nanoform definition, QSAR Tox prediction or NInChI generation, which each define a set of information about a NM as required to execute the corresponding use case. The implemented “data completeness” check performs a search across all available information associated with a specific NM to discover how much of the required information for each use case is available. The information is visualised and provided numerically. As this method is of generic applicability and of public interest for all NMs, the score became a new feature of the [NanoCommons KB]({{ site.baseurl }}/data-management/data-resources/NanoCommons-KB/):
+![]({{ site.baseurl }}/images/FAIRification/NanoSolveIT-completeness.png)
 
 ## Data quality scores
 ### Klimisch score

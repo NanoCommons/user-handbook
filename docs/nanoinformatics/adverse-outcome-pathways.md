@@ -5,6 +5,7 @@ title: Adverse outcome pathways
 description: Modelling approaches and tools for AOPs
 permalink: /nanoinformatics/adverse-outcome-pathways/
 parent: Nanoinformatics
+has_references: true
 has_children: false
 ---
 
@@ -67,6 +68,6 @@ This software implementation enables the nanotoxicology community to easily acce
 
 References
 {: .references-header }
-- Martens, M.; Evelo, C. T.; Willighagen, E. L. (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology, aivt.2021.0010. <a href=\"https://doi.org/10.1089/aivt.2021.0010\">https://doi.org/10.1089/aivt.2021.0010</a>
-- Mortensen, H. M.; Martens, M.; Senn, J.; Levey, T.; Evelo, C. T.; Willighagen, E. L.; Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. Frontiers in Toxicology, 4, 803983. <a href=\"https://doi.org/10.3389/ftox.2022.803983\">https://doi.org/10.3389/ftox.2022.803983</a>
+- Martens, M.; Evelo, C. T.; Willighagen, E. L. (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology, aivt.2021.0010. <a href="https://doi.org/10.1089/aivt.2021.0010">https://doi.org/10.1089/aivt.2021.0010</a>
+- Mortensen, H. M.; Martens, M.; Senn, J.; Levey, T.; Evelo, C. T.; Willighagen, E. L.; Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. Frontiers in Toxicology, 4, 803983. <a href="https://doi.org/10.3389/ftox.2022.803983">https://doi.org/10.3389/ftox.2022.803983</a>
 {: .references }
