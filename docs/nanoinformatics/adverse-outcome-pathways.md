@@ -14,11 +14,28 @@ _Adverse Outcome Pathways (AOPs) are a conceptual framework for organizing, synt
 [AOP-Wiki: Central resource of AOPs and training material on the concepts](https://aopwiki.org/)
 {: .more-link .more-link--webpages }
 
-## Search the AOP-WIKI with SPARQL
-__<span style="color:red">@Marvin: Could you please add here (not only from NanoCommons but also from OpenRiskNet, NanoSolveIT, ...)?</span>__
+## Search the AOP-Wiki with SPARQL
+The AOP-Wiki has been made FAIR using an semantic web approach (Martens et al., 2022) and can be queries using the SPARQL query language
+at the [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/) website. For example, the following
+query can be used to list the experimental methods related to AOP 12 and AOP 57:
+
+```sparql
+SELECT  DISTINCT ?aop ?ke (group_concat(distinct ?speciesname;separator=" | ") as ?speciesnames) ?method
+WHERE {
+    ?aop a aopo:AdverseOutcomePathway ;
+        rdfs:label ?aop_id;
+        aopo:has_key_event ?ke.
+    ?ke ncbitaxon:131567 ?taxon.
+    ?taxon a ncbitaxon:131567; dc:title ?speciesname
+    OPTIONAL {?ke mmo:0000000 ?method.}
+VALUES ?aop_id {"AOP 12" "AOP 57"}
+} ORDER BY ASC (?aop)
+```
 
 ## AOP database (AOP-DB)
-__<span style="color:red">@Marvin: Could you please add here (not only from NanoCommons but also from OpenRiskNet, NanoSolveIT, ...)?</span>__
+Another resource that makes AOP-Wiki knowledge available is the AOP-DB developed by the US EPA (Mortensen et al., 2022).
+The AOP-DB ([https://aopdb.epa.gov/](https://aopdb.epa.gov/)) provides information about the biological and mechanistic
+characterization and a broad, systems-level overview of the biological context of AOPs. 
 
 ## NanoCommons MIE gene set database (NanoCommons GS-MIE DB)
 Toxicity testing and regulation of advanced materials at the nanoscale i.e., nanosafety, is challenged by the growing number of NMs. The Adverse Outcome Pathway (AOP)-based approaches provide pragmatic insights to promote the development of alternative testing strategies. A molecular initiating event (MIE) is the first step in an AOP and can be considered as a chemical interaction between a chemical toxicant and a biological molecule. To facilitate reconstruction of initial events in a sequential chain of Key Events in a particular AOP, the NanoCommons MIE gene set database (NanoCommons GS-MIE DB) was developed. The database captures gene signatures of MIEs by integrating knowledge from public gene databases including KEGG, REACTOME, GO and WikiPathways and custom gene sets from published data. To date, 132 gene sets representing three different types of MIE actions have been manually collected:
@@ -47,3 +64,9 @@ This software implementation enables the nanotoxicology community to easily acce
 
 [GS-MIE DB training](https://www.youtube.com/watch?v=gkHy-H7jggg)
 {: .more-link .more-link--video }
+
+References
+{: .references-header }
+- Martens, M.; Evelo, C. T.; Willighagen, E. L. (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology, aivt.2021.0010. <a href=\"https://doi.org/10.1089/aivt.2021.0010\">https://doi.org/10.1089/aivt.2021.0010</a>
+- Mortensen, H. M.; Martens, M.; Senn, J.; Levey, T.; Evelo, C. T.; Willighagen, E. L.; Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. Frontiers in Toxicology, 4, 803983. <a href=\"https://doi.org/10.3389/ftox.2022.803983\">https://doi.org/10.3389/ftox.2022.803983</a>
+{: .references }
