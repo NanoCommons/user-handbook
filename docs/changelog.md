@@ -5,6 +5,12 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: data-management/roles/
+    description: Roles according to ELIXIR RDMkit added with link to role specific training resources.
+    date: 2022-12-04
+  - url: FAIRification/
+    description: Link to ELIXIR RDMkit pages with training resources on the data life cycle, roles and FAIRification tools added.
+    date: 2022-12-04
   - url: /FAIRification/FAIRnessScores/
     description: Description of NanoSolveIT / NanoCommons completeness score
     date: 2022-12-03
