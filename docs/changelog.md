@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: training-courses/SABYDOMA-training/
+    description: SABYDOMA webinars
+    date: 2022-12-05
   - url: data-management/roles/
     description: Roles according to ELIXIR RDMkit added with link to role specific training resources.
     date: 2022-12-04
