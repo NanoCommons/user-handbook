@@ -28,7 +28,7 @@ Video presentation of the EU H2020 project SABYDOMA. The video was presented dur
 [SABYDOMA - SSbD Workshop - Part 1](https://www.youtube.com/watch?v=4QRcJLRqBkU)
 18 Feb. 2022.<br>
 The SABYDOMA project, funded by the EU H2020 programme (grant agreement no. 862296), organised virtually its workshop – A Stakeholder’s Perspective of Safe-and-Sustainable-by-Design (SSbD) – on 18th February 2022.<br>
-Different experts from Academia, Industry, EU Institutions, Standardization and Regulatory bodies, and NGOs will present their understanding and definition of SSbD. This is currently a ‘hot’ topic which will be enriched by the opinions of those from a diverse range of communities. Furthermore, policy consequences of adopting one concrete “concept” will be evaluated.{: .more-link .more-link--video}
+Different experts from Academia, Industry, EU Institutions, Standardization and Regulatory bodies, and NGOs will present their understanding and definition of SSbD. This is currently a ‘hot’ topic which will be enriched by the opinions of those from a diverse range of communities. Furthermore, policy consequences of adopting one concrete “concept” will be evaluated.
 {: .more-link .more-link--video}
 
 [SABYDOMA - SSbD Workshop - Part 2](https://www.youtube.com/watch?v=fZkQ6M8AcmU)
