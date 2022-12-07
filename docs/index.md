@@ -148,7 +148,7 @@ topics:
 <table class="table--no-border">
   <tr>
     <td><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></td>
-    <td align="right"><a href="{{ site.baseurl }}/changelog">See what's new</a></td>
+    <td align="right"><a href="{{ site.baseurl }}/changelog"><img src="{{ site.baseurl }}/images/icons/update.png" width="32"> See what's new</a></td>
   </tr>
 </table>
 # NanoCommons User Guidance Handbook 
