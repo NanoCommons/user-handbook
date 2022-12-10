@@ -5,6 +5,10 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: SSbD/regulatory-guidance/
+    description: European Commission recommendation and infographic on SSbD
+    date: 2022-12-10
+  - url: data-management/roles/
   - url: training-courses/SABYDOMA-training/
     description: SABYDOMA webinars
     date: 2022-12-05
