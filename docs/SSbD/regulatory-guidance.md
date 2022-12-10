@@ -13,6 +13,15 @@ nav_order: 501
 
 # Collection of international concept documents related to SSbD
 ## European Union and JRC
+<iframe width="420" height="315" src="//www.youtube.com/embed/qL2iSv9EASs" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
+[Commission Recommendation: A European assessment framework for safe and sustainable by design chemicals and materials](https://research-and-innovation.ec.europa.eu/system/files/2022-12/Commission%20recommendation%20-%20establishing%20a%20European%20assessment%20framework%20for%20safe%20and%20sustainable%20by%20design.PDF)
+<a href="https://research-and-innovation.ec.europa.eu/system/files/2022-12/Commission%20recommendation%20-%20establishing%20a%20European%20assessment%20framework%20for%20safe%20and%20sustainable%20by%20design.PDF"><img src="https://op.europa.eu/o/opportal-service/thumbnail/cellar/11cd64f5-76a8-11ed-9887-01aa75ed71a1.0001.01/DOC_2" class="image--right"></a>
+On 8 Dec. 2022, the European Commission adopted a recommendation to promote a framework to assess safety and sustainability of chemicals and materials. The proposed European framework sets a common baseline for evaluating safety and sustainability – an important step to increase the protection of human health and the environment against hazardous substances.<br>
+[Infographic](https://data.europa.eu/doi/10.2777/86120) shown to the right
+<br clear="right">
+{: .more-link .more-link--pdf}
+
 [Strategic Research and Innovation Plan for safe and sustainable Chemicals and Materials](https://ec.europa.eu/assets/rtd/srip/2022//)
 <a href="https://ec.europa.eu/assets/rtd/srip/2022/"><img src="{{ site.baseurl }}/images/SSbD/SRIP.png" width="250" class="image--right"></a>
 The current Strategic Research and Innovation Plan (SRIP) delivers on this announcement and highlights current research and innovation (R&I) areas crucial for accelerating the transition to chemicals and materials that are safe and sustainable. The aim of the SRIP is to guide R&I funders in their decisions on investments across EU, national and private funding programmes. It is an opportunity for a more transparent communication among all relevant actors on joint R&I priorities proposed by the wider community: from academia to SMEs, large-scale industry, regulators and policymakers.
