@@ -5,6 +5,15 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: about-and-partner-projects/
+    description: Functionality to add comments added
+    date: 2022-11-26
+  - url: about-and-partner-projects/
+    description: Privacy policy added
+    date: 2022-11-26
+  - url: SSbD/regulatory-guidance/
+    description: OECD webinar - Safer & Sustainable Innovation Approach for More Sustainable Nanomaterials & Nano-enabled
+    date: 2022-11-21
   - url: SSbD/regulatory-guidance/
     description: European Commission recommendation and infographic on SSbD
     date: 2022-12-10
