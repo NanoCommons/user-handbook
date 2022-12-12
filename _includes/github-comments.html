@@ -2,8 +2,6 @@
     
 <div id="gh-comments">
     <h1>Comments</h1>
-    <div class="text--right">
-            <a href="{{ site.baseurl }}/about-and-partner-projects/#how-comments-work-on-the-handbook">Details on how comments work on the Handbook</a></div>
      <div id="gh-comments-list"></div>
 </div>
 
@@ -13,7 +11,8 @@
     DoGithubComments ( 
         "{{ site.github_comments_repository }}" , 
         "{{ page.github_comments_issueid }}", 
-        "{{ page.github_comments_listcomments }}" 
+        "{{ page.github_comments_listcomments }}",
+        "{{ site.baseurl }}"
     ); 
 </script>
 
