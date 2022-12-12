@@ -95,7 +95,14 @@ Publication on the principles.
 [FAIR cookbook by the ELIXIR communities](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 The FAIR Principles put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. However, the FAIR Principles are aspirational and generic. The FAIR Cookbook guides researchers and data stewards of the Life Science domain in their FAIRification journey; and also provides policy makers and trainers with practical examples to recommend in their guidance and use in their educational material.
 {: .more-link .more-link--webpages}
+[RDMkit](https://rdmkit.elixir-europe.org/)
+The ELIXIR Research Data Management Kit (RDMkit) has been designed to guide life scientists in their efforts to better manage their research data following the FAIR Principles. It is based on the various steps of the data lifecycle, although not all the steps will be relevant to everyone. The contents are generated and maintained by the ELIXIR community coming together as part of the ELIXIR-CONVERGE project.
+{: .more-link .more-link--webpages}
 [FIP Wizard](https://fip-wizard.ds-wizard.org/)
-A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources,that are intended to implement one or more of the FAIR Guiding Principles,made as a collective decision by the members of a particular community of practice.
+A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources, that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.<br>
+__See lessons learned from different communities:__ [FAIR Implementation Profiles (FIPs) in WorldFAIR: What Have We Learnt?](https://zenodo.org/record/7378109)
 {: .more-link .more-link--app}
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-kdumYGLWyU" frameborder="0">&nbsp;</iframe>
+[FAIR Connect](https://fairconnect.pro/)
+This (upcoming) platform facilitates and supports the (citable) publication of FAIR descriptions, complemented with concise living review articles, limited to FAIR Supporting Resources (FSRs), making these themselves Findable, Accessible, Interoperable and ultimately Reusable, while at the same time preventing the needless re-invention of wheels.
+{: .more-link .more-link--webpages}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: See what's new
 nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
@@ -15,6 +15,22 @@ changes:
     description: OECD webinar - Safer & Sustainable Innovation Approach for More Sustainable Nanomaterials & Nano-enabled
     date: 2022-11-21
   - url: SSbD/regulatory-guidance/
+    description: European Commission recommendation and infographic on SSbD
+    date: 2022-12-10
+  - url: data-management/roles/
+  - url: training-courses/SABYDOMA-training/
+    description: SABYDOMA webinars
+    date: 2022-12-05
+  - url: data-management/roles/
+    description: Roles according to ELIXIR RDMkit added with link to role specific training resources.
+    date: 2022-12-04
+  - url: FAIRification/
+    description: Link to ELIXIR RDMkit pages with training resources on the data life cycle, roles and FAIRification tools added.
+    date: 2022-12-04
+  - url: FAIRification/
+    description: WorldFAIR deliverable on FAIR Implementation Profiles and FAIR Connect (platform providing information on FAIR Supporting Resources) added.
+    date: 2022-12-02
+  - url: SSbD/regulatory-guidance/
     description: OECD webinar - Safer & Sustainable Innovation Approach for More Sustainable Nanomaterials & Nano-enabled
     date: 2022-11-21
   - url: changelog
@@ -23,7 +39,7 @@ changes:
   - url: FAIRification/FAIRidentifiers/
     description: NInChI updates from working group meeting
     date: 2022-11-16
-  - url: training-courses/NanoHarmony-training/
+  - url: training-courses/NanoHarmony-webinars/
     description: New partner project NanoHarmony
     date: 2022-09-05
   - url: NanoFab/
@@ -35,8 +51,8 @@ changes:
   - url: NanoGovernance/
     description: New nanorisk governance area
     date: 2022-07-14
-  - url: New risk assessment area
-    description: nanoinformatics/
+  - url: nanoinformatics/
+    description: New risk assessment area
     date: 2022-06-02
   - url: data-management/instance-maps/
     description: Description of the instance maps concept and tool
@@ -71,12 +87,12 @@ changes:
 
 ---
 # Log of changes made to the Handbook 
-<table  id="changelog">
+<table  id="table-changelog">
 {% assign changes = page.changes | sort:"date" | reverse %} 
   <tr>
-    <th>Date <button onclick="sortTable(1)">&#11015;</button></th>
+    <th>Date <button onclick="sortTable(0)">&#11015;</button></th>
     <th width="70%">Description</th>
-    <th>Area <button onclick="sortTable(3)">&#11015;</button></th>
+    <th>Area <button onclick="sortTable(2)">&#11015;</button></th>
   </tr>
 {% for change in changes %}
     <tr>
@@ -90,51 +106,54 @@ changes:
 <script>
 function sortTable(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("changelog");
+  table = document.getElementById("table-changelog");
   switching = true;
-  //Set the sorting direction to ascending:
-  dir = "asc"; 
-  /*Make a loop that will continue until
-  no switching has been done:*/
+
+  dir = "asc";
+
   while (switching) {
-    //start by saying: no switching is done:
     switching = false;
     rows = table.rows;
-    /*Loop through all table rows (except the
-    first, which contains table headers):*/
     for (i = 1; i < (rows.length - 1); i++) {
-      //start by saying there should be no switching:
       shouldSwitch = false;
-      /*Get the two elements you want to compare,
-      one from current row and one from the next:*/
+
       x = rows[i].getElementsByTagName("TD")[n];
       y = rows[i + 1].getElementsByTagName("TD")[n];
-      /*check if the two rows should switch place,
-      based on the direction, asc or desc:*/
+      
+      xdate = Date.parse(x.innerHTML);
+      ydate = Date.parse(y.innerHTML);
+      
       if (dir == "asc") {
-        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
-          //if so, mark as a switch and break the loop:
-          shouldSwitch= true;
-          break;
+        if (isNaN(xdate) || isNaN(xdate)) {
+          if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        } else {
+          if (xdate > ydate) {
+            shouldSwitch = true;
+            break;
+          }
         }
       } else if (dir == "desc") {
-        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
-          //if so, mark as a switch and break the loop:
-          shouldSwitch = true;
-          break;
+        if (isNaN(xdate) || isNaN(xdate)) {
+          if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        } else {
+          if (xdate < ydate) {
+              shouldSwitch = true;
+              break;
+          }
         }
       }
     }
     if (shouldSwitch) {
-      /*If a switch has been marked, make the switch
-      and mark that a switch has been done:*/
       rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
       switching = true;
-      //Each time a switch is done, increase this count by 1:
-      switchcount ++;      
+      switchcount ++;
     } else {
-      /*If no switching has been done AND the direction is "asc",
-      set the direction to "desc" and run the while loop again.*/
       if (switchcount == 0 && dir == "asc") {
         dir = "desc";
         switching = true;

@@ -141,12 +141,18 @@ topics:
     h: 60
 
 ---
-<table class="table--no-border">
-  <tr>
-    <td><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></td>
-    <td align="right"><a href="{{ site.baseurl }}/changelog">See the newest changes</a></td>
-  </tr>
-</table>
+<style>
+  .table-wrapper {
+    box-shadow: none;
+    margin-bottom: none;
+  }
+</style>
+
+<div class="d-flex flex-justify-between v-align-middle">
+<div><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></div>
+<div><a href="{{ site.baseurl }}/changelog"><span class="material-symbols-outlined">update</span>See what's new</a></div>
+</div>
+
 # NanoCommons User Guidance Handbook 
 <script type="application/ld+json">
 {
