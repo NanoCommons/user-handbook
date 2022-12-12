@@ -9,6 +9,7 @@ has_children: true
 has_references: true
 has_toc: false
 nav_order: 280
+github_comments_issueid: "38"
 ---
 # Where and how to find nanosafety data / knowledge
 Partly based on: Furxhi, 2022<br>

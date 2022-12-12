@@ -4,6 +4,9 @@ title: Home
 nav_order: 1
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /
+github_comments_issueid: "40"
+github_comments_listcomments: false
+
 projects:
   - url: https://www.nanosafetycluster.eu/
     logo: NSC.png
@@ -145,12 +148,11 @@ topics:
   }
 </style>
 
-<table class="table--no-border">
-  <tr>
-    <td><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></td>
-    <td align="right"><a href="{{ site.baseurl }}/changelog"><img src="{{ site.baseurl }}/images/icons/update.png" width="32"> See what's new</a></td>
-  </tr>
-</table>
+<div class="d-flex flex-justify-between v-align-middle">
+<div><a href="https://zenodo.org/badge/latestdoi/392611144"><img src="https://zenodo.org/badge/392611144.svg"></a></div>
+<div><a href="{{ site.baseurl }}/changelog"><span class="material-symbols-outlined">update</span>See what's new</a></div>
+</div>
+
 # NanoCommons User Guidance Handbook 
 <script type="application/ld+json">
 {

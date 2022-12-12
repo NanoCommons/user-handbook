@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0')
 $body-text-color-light: $grey-dk-000
 
 h4
@@ -47,6 +48,9 @@ h3 + h4
     color: darken($grey-dk-000, 20%)
     line-height: 1.5
     margin-top: $sp-4 !important
+
+.text--right
+    text-align: right
 
 .source
     @extend .fs-3
@@ -353,3 +357,21 @@ iframe, embed
                                     content: counter(sub-sub-sub-counter, disc)
                                     counter-increment: sub-sub-sub-counter
 
+
+
+    .gh-comment-tr
+        @extend .fs-5
+
+    .gh-comment
+        border-bottom: solid 1px $border-color
+        margin: $gutter-spacing 0 !important
+        padding: $gutter-spacing/2 $gutter-spacing $gutter-spacing/2 $gutter-spacing/2
+        color: $body-text-color-light
+        @extend .fs-3
+        position: relative
+
+    .more-link + .gh-comment
+        margin-top: -$gutter-spacing !important
+
+    .gh-comment + .gh-comment
+        margin-top: -$gutter-spacing !important
