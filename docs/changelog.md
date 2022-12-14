@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: /
+    description: EU US Roadmap Nanoinformatics 2030
+    date: 2022-12-14
   - url: about-and-partner-projects/
     description: Functionality to add comments added
     date: 2022-11-26

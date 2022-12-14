@@ -24,6 +24,12 @@ Even if quality evaluation of datasets is a highly active area of research, we w
 </details>
 
 ## FAIRness scores
+### FAIR assessment tools
+The use of tools assessing the FAIRness of data helps the future improvement of data FAIRness and therefore their re-use.
+
+[FAIR assessment tools: evaluating use and performance](https://doi.org/10.1016/j.impact.2022.100402)
+{: .more-link .more-link--pdf}
+
 ### FAIR maturity indicators
 To remedy the proliferation of FAIRness measurements based on different interpretations of
 the principles, the RDA Working Group “FAIR data maturity model” established in January
@@ -55,7 +61,7 @@ This system was proposed as a proxy for data quality assessment, and aims to ope
 [FAIR data assessment tool](http://blog.ukdataservice.ac.uk/fair-data-assessment-tool/)
 {: .more-link .more-link--app}
 
-### GO FAIR
+### GO FAIR Metrics
 A team of FAIR principles authors and drivers have published a core set of semi-quantitative metrics for the evaluation of FAIRness.
 
 [GO FAIR Metrics for the evaluation of FAIRness](https://www.go-fair.org/2017/12/11/metrics-evaluation-fairness/)
