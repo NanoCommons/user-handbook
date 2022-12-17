@@ -103,5 +103,4 @@ References
 {: .references-header }
 - Joossens et al., 2019: Joossens, E.; Macko, P.; Palosaari, T.; Gerloff, K.; Ojea-Jiménez, I.; Gilliland, D.; et al. A high throughput imaging database of toxicological effects of nanomaterials tested on HepaRG cells. <i>Sci Data</i> <b>2019</b>, <i>6</i>, 46. <a href="https://doi.org/10.1038/s41597-019-0053-2">https://doi.org/10.1038/s41597-019-0053-2</a>.
 - Losko and Heumann, 2017: Losko, S.; Heumann, K. Semantic data integration and knowledge management to represent biological network associations. <i>Methods Mol Biol.</i> <b>2017</b>, <i>1613</i>, 403–423. <a href="https://doi.org/10.1007/978-1-4939-7027-8_16">https://doi.org/10.1007/978-1-4939-7027-8_16</a>.
-Joossens, E.; Macko, P.; Palosaari, T.; Gerloff, K.; Ojea-Jiménez, I.; Gilliland, D.; et al. A high throughput imaging database of toxicological effects of nanomaterials tested on HepaRG cells. <i>Sci Data</i> <b>2019</b>, <i>6</i>, 46. <a href="https://doi.org/10.1038/s41597-019-0053-2">https://doi.org/10.1038/s41597-019-0053-2</a>.
 {: .references }
