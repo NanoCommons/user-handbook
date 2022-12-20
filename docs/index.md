@@ -189,6 +189,19 @@ If you are
 or are just interested in these areas, then this handbook is for you.
 
 ## Working together
+Even if much has been achieved as documented in this handbook, there are still many challenges as presented in the nanoinformatics roadmap. 
+
+[EU US Roadmap Nanoinformatics 2030](https://zenodo.org/record/1486012)
+This roadmap has been jointly developed in trustful cooperation among scientists of the European Union, the United States of America and a few other countries. Scientists with different scientific backgrounds, working in the field of nanotechnology, have cooperated with the main objective to provide as broad an overview as possible about the young and rapidly evolving field of “nanoinformatics”.
+{: .more-link .more-link--pdf }
+
+These are best addressed as collaboration of the complete community, intensive knowledge sharing and connecting everything resulting in a common data and nanoinformatics ecosystem.
+
+[Bridging Insights and Perspectives](https://tvworldwide.com/events/nanotech/200824/default.cfm?id=17730&type=flv&test=0&live=0)
+Working Towards a Harmonized Nanosafety E-Infrastructure for Data and In Silico Tools, 2020 U.S.-EU NanoEHS COR Workshop: Bridging Insights and Perspectives, September 16-17, Virtual Meeting
+(register to see the recording)
+{: .more-link .more-link--video }
+
 Many different research groups and projects (small and large) have and are developing data resources, software and platforms. The NanoCommons infrastructure is meant to be even one level above these platforms to bring them together and govern harmonisation and interoperability aspects across platform / projects / country borders. The success is dependent on the underlying platforms and services and since not all information on these can and should be reproduced here, we provide [short summaries and access links to the partners' websites, platforms and networks]({{ site.baseurl }}/about-and-partner-projects/).
 
 **If you are a fan of collaborative research and want to get involved personally or with your project in extending and strengthening this community resource, you can find contact details in the [About page]({{ site.baseurl }}/about-and-partner-projects/)**. 

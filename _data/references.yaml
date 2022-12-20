@@ -14,6 +14,10 @@
   tooltip: 'Directorate-General for Research and Innovation (European Commission); de Baas, A. F. <i>What Makes a Material Function?: Let Me Compute the Ways: Modelling in H2020 LEIT NMBP Programme Materials and Nanotechnology Projects</i>; Publications Office of the European Union: LU, 2017. <a href=\"https://data.europa.eu/doi/10.2777/404734\">https://data.europa.eu/doi/10.2777/404734</a>.'
 - name: Marchese Robinson et al., 2016
   tooltip: 'Marchese Robinson, R. L.; Lynch, I.; Peijnenburg, W.; Rumble, J.; Klaessig, F.; Marquardt, C.; Rauscher, H.; Puzyn, T.; Purian, R.; Åberg, C.; Karcher, S.; Vriens, H.; Hoet, P.; Hoover, M. D.; Hendren, C. O.; Harper, S. L. How Should the Completeness and Quality of Curated Nanomaterial Data Be Evaluated? <i>Nanoscale</i> <b>2016</b>, <i>8</i> (19), 9919–9943. <a href=\"https://doi.org/10.1039/C5NR08944A\">https://doi.org/10.1039/C5NR08944A</a>.'
+- name: Martens et al., 2022
+  tooltip: 'Martens, M.; Evelo, C. T.; Willighagen, E. L. (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology, aivt.2021.0010. <a href=\"https://doi.org/10.1089/aivt.2021.0010\">https://doi.org/10.1089/aivt.2021.0010</a>.'
+- name: Mortensen et al., 2022
+  tooltip: 'Mortensen, H. M.; Martens, M.; Senn, J.; Levey, T.; Evelo, C. T.; Willighagen, E. L.; Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. Frontiers in Toxicology, 4, 803983. <a href=\"https://doi.org/10.3389/ftox.2022.803983\">https://doi.org/10.3389/ftox.2022.803983</a>.'
 - name: Power et al. 2017
   tooltip: 'Power, D.; Rouse, I.; Poggio, S.; Brandt, E.; Lopez, H.; Lyubartsev, A.; Lobaskin, V. A Multiscale Model of Protein Adsorption on a Nanoparticle Surface. <i>Modelling Simul. Mater. Sci. Eng.</i> <b>2019</b>, <i>27</i> (8), 084003. <a href=\"https://doi.org/10.1088/1361-651X/ab3b6e\">https://doi.org/10.1088/1361-651X/ab3b6e</a>.'
 - name: Lahiri et al., 1999
@@ -198,3 +202,24 @@
   tooltip: 'Worth, A.; Aschberger, K.; Asturiol, B. D.; Bessems, J.; Gerloff, K. B.; Graepel, R.; Joossens, E.; Lamon, L.; Palosaari, T.; Richarz, A. Evaluation of the availability and applicability of computational approaches in the safety assessment of nanomaterials: Final report of the Nanocomput project (accessed 2022 -06 -28). <a href=\"https://publications.jrc.ec.europa.eu/repository/handle/JRC106386\">https://publications.jrc.ec.europa.eu/repository/handle/JRC106386</a>.'
 - name: van Rijn et al., 2022
   tooltip: 'van Rijn, J.; Afantitis, A.; Culha, M.; Dusinska, M.; Exner, T.E.; Jeliazkova, N.; Longhin, E.M.; Lynch, I.; Melagraki, G.; Nymark, P.; Papadiamantis, A.G.; Winkler, D.A.; Yilmaz, H.; Willighagen, E. European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. <i>J. Cheminform.</i> <b>2022</b>, <i>14</i>, 57. <a href=\"https://doi.org/10.1186/s13321-022-00614-7\">https://doi.org/10.1186/s13321-022-00614-7</a>.'
+- name: Losko and Heumann, 2009
+  tooltip: 'Losko, S.; Heumann, K. Semantic data integration and knowledge management to represent biological network associations. <i>Methods Mol Biol.</i> <b>2009</b>, <i>563</i>, 241–258. <a href=\"https://doi.org/10.1007/978-1-60761-175-2_13\">https://doi.org/10.1007/978-1-60761-175-2_13</a>.'
+- name: Losko and Heumann, 2017
+  tooltip: 'Losko, S.; Heumann, K. Semantic data integration and knowledge management to represent biological network associations. <i>Methods Mol Biol.</i> <b>2017</b>, <i>1613</i>, 403–423. <a href=\"https://doi.org/10.1007/978-1-4939-7027-8_16\">https://doi.org/10.1007/978-1-4939-7027-8_16</a>.'
+- name: Maier et al., 2011
+  tooltip: 'Maier, D.; Kalus, W.; Wolff. M.; Kalko, S.G.; Roca, J.; Marin de Mas, I.; et al. Knowledge management for systems biology a general and visually driven framework applied to translational medicine. <i>BMC Syst Biol.</i> <b>2011</b> 5: 38. <a href=\"https://doi.org/10.1186/1752-0509-5-38\">https://doi.org/10.1186/1752-0509-5-38</a>.'
+- name: Joossens et al., 2019
+  tooltip: 'Joossens, E.; Macko, P.; Palosaari, T.; Gerloff, K.; Ojea-Jiménez, I.; Gilliland, D.; et al. A high throughput imaging database of toxicological effects of nanomaterials tested on HepaRG cells. <i>Sci Data</i> <b>2019</b>, <i>6</i>, 46. <a href=\"https://doi.org/10.1038/s41597-019-0053-2\">https://doi.org/10.1038/s41597-019-0053-2</a>.'
+- name: Power et al., 2019
+  tooltip: 'Power, D.; Rouse, I.; Poggio, S.; Brandt, E.; Lopez, H.; Lyubartsev, A.;  Lobaskin, V. A multiscale model of protein adsorption on a nanoparticle surface. <i>Modelling Simul. Mater. Sci. Eng.</i> <b>2019</b>, <i>27</i>, 084003. <a href=\"https://doi.org/10.1088/1361-651X/ab3b6e\">https://doi.org/10.1088/1361-651X/ab3b6e</a>.'
+- name: An et al., 2015
+  tooltip: 'An, D.; Su, J.; Li, C.; Li, J. Computational studies on the interactions of nanomaterials with proteins and their impact. <i>Chin. Phys. B</i> <b>2015</b>, <i>24</i>, 120504. <a href=\"https://doi.org/10.1088/1674-1056/24/12/120504\">https://doi.org/10.1088/1674-1056/24/12/120504</a>.'
+- name: Brancolini et al., 2012
+  tooltip: 'Brancolini, G.; Kokh, D.B.; Calzolai, L.; Wade, R.; Corni, S. Docking of ubiquitin to gold nanoparticles. <i>ACS Nano</i> <b>2012</b>, <i>6</i>, 9863–78. <a href=\"https://doi.org/10.1021/nn303444b\">https://doi.org/10.1021/nn303444b</a>.'
+- name: Ding et al., 2013
+  tooltip: 'Ding, F.; Radic, S.; Chen, R.; Chen, P.; Geitner, N.; Brown, J.; Ke, P. Direct observation of a single nanoparticle–ubiquitin corona formation. <i>Nanoscale</i> <b>2013</b>, <i>5</i>, 9162–9. <a href=\"https://doi.org/10.1039/C3NR02147E\">https://doi.org/10.1039/C3NR02147E</a>.'
+- name: Khan et al., 2013
+  tooltip: 'Khan, S.; Gupta, A.; Nandi, C. Controlling the fate of protein corona by tuning surface properties of nanoparticles. <i>J. Phys. Chem. Lett.</i> <b>2013</b>, <i>4</i>, 3747–52.<a href=\"https://doi.org/10.1021/jz401874u\">https://doi.org/10.1021/jz401874u</a>.'
+- name: Hasenkopf et al., 2022
+  tooltip: 'Hasenkopf, I.; Mills-Goodlet, R.; Johnson, L.; Rouse, I.; Geppert, M.; Duschl, A.; Maier, D.; Lobaskin, V.; Lynch, I.; Himly, M. Computational prediction and experimental analysis of the nanoparticle-protein corona: Showcasing an in vitro-in silico workflow providing FAIR data <i>NanoToday</i> <b>2022</b>, <i>46</i>, 101561. <a href=\"https://doi.org/10.1016/j.nantod.2022.101561\">https://doi.org/10.1016/j.nantod.2022.101561</a>.'
+

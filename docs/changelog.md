@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: /
+    description: EU US Roadmap Nanoinformatics 2030
+    date: 2022-12-14
   - url: about-and-partner-projects/
     description: Functionality to add comments added
     date: 2022-11-26
@@ -21,12 +24,30 @@ changes:
   - url: training-courses/SABYDOMA-training/
     description: SABYDOMA webinars
     date: 2022-12-05
+  - url: FAIRification/FAIRnessScores/
+    description: FAIR maturity indicators in the life science
+    date: 2022-12-06
   - url: data-management/roles/
     description: Roles according to ELIXIR RDMkit added with link to role specific training resources.
     date: 2022-12-04
   - url: FAIRification/
     description: Link to ELIXIR RDMkit pages with training resources on the data life cycle, roles and FAIRification tools added.
     date: 2022-12-04
+  - url: /FAIRification/FAIRnessScores/
+    description: Description of NanoSolveIT / NanoCommons completeness score
+    date: 2022-12-03
+  - url: nanoinformatics/corona-modelling/
+    description: Details to Corona modelling tools
+    date: 2022-12-03
+  - url: nanoinformatics/adverse-outcome-pathways/
+    description: Tools for querying AOP-related data added
+    date: 2022-12-03
+  - url: data-management/data-resources/NanoCommons-KB-manual/
+    description: Short NanoCommons KB manual
+    date: 2022-12-03
+  - url: data-management/data-resources/NanoPharos/
+    description: NanoPharos added
+    date: 2022-12-03
   - url: FAIRification/
     description: WorldFAIR deliverable on FAIR Implementation Profiles and FAIR Connect (platform providing information on FAIR Supporting Resources) added.
     date: 2022-12-02
