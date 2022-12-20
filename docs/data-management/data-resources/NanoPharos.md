@@ -16,7 +16,9 @@ nav_order: 283
 NanoPharos provides curated data for modellers.
 {: .lead }
 
-[Access the NanoPharos database](https://db.nanopharos.eu/ )
+[Access the NanoPharos database](https://db.nanopharos.eu/)
+{: .more-link .more-link--app}
+[Datasets available on NanoPharos](https://db.nanopharos.eu/Queries/Datasets.zul)
 {: .more-link .more-link--app}
 
  For the development of nanoinformatics models, data needs are often more focussed on finding as many materials as possible for which the specific endpoint is known to allow building of sufficient sized training and test sets.  Additionally, the data needs to be organised in a very defined tabular format (one NM and treatment condition (time, concentration etc.) per row) with all end-points available organised as consecutive columns. To support the nanoinformatics and modelling activities, the NanoPharos  the computational database was co-developed by NanoCommons and NanoSolveIT projects specifically to provide curated data that is ready-to-use for modelling purposes and, in this way, is complementary to, and integrated into, the NanoCommons KB user interface.

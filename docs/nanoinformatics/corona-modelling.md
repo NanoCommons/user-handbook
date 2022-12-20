@@ -33,10 +33,10 @@ This gives information on:
 - Generation of the core potential
 - Evaluation of the adsorption free energy
 - Simulation parameters
-as well as the software used and na example of using the tool within the NanoCommons KB for evaluation of adsorption energy of human serum albumin (HSA) protein onto gold NM .
+as well as the software used (UnitedAtom, Power et al., 2019) and an example of using the tool within the NanoCommons KB for evaluation of adsorption energy of human serum albumin (HSA) protein onto gold NM .
 
 <img src="{{ site.baseurl }}/images/nanoinformatics/Au-corona.png" class="image--right-large" />
-Orientation-specific binding energy E of HSA on an R = 5 nm (top) and R = 50 nm (bottom) Au NM (Power et al., 2019).
+Orientation-specific binding energy E of HSA on an R = 5 nm (top) and R = 50 nm (bottom) Au NM calculated using the UnitedAtom software (Power et al., 2019).
 <br clear="all">
 
 Additional training and an integrated approach using predictions and experimental data is available here:
@@ -48,18 +48,18 @@ Additional training and an integrated approach using predictions and experimenta
 
 
 ## NanoXtract corona prediction model
-An integrated workflow based on the NanoXtract image analysis system enables experimental groups to upload NM images, extract multiple physical properties (size, diameter, roundness etc.) by image processing and feed this information into a data-driven Corona prediction model to derive predictions about the absorption of specific proteins and to compare these with experimental data.
+An integrated workflow based on the NanoXtract image analysis system enables experimental groups to upload NM images, extract multiple physical properties (size, diameter, roundness etc.) by image processing and feed this information into the physics-based binding energy prediction model (Power et al., 2019) to derive predictions about the absorption of specific proteins and to compare these with experimental data. Further post-processing is required to convert binding energies to a corona prediction to account for the specific concentrations of proteins, NM and protein geometry etc, (see Hasenkopf et al., 2022), with this tool providing a first screening to determine whether a protein is likely to feature in the corona and if so in which binding orientation.
 
 <img src="{{ site.baseurl }}/images/nanoinformatics/corona-prediction1.png" class="image--left-large" />
 NanoXtract Image analysis tool integrated into the NanoCommons KB, enabling upload of TEM images of NMs and automated extraction of a range of NM image descriptors.
 <br clear="all">
 
 <img src="{{ site.baseurl }}/images/nanoinformatics/corona-prediction2.png" class="image--left-large" />
-Corona analysis results list indicating the NM ID, the specific protein ID and the protein binding heatmap and the related outputs.
+Binding energy analysis results list indicating the NM ID, the specific protein ID and the protein binding heatmap generated using UnitedAtom and the related outputs.
 <br clear="all">
 
 <img src="{{ site.baseurl }}/images/nanoinformatics/corona-prediction3.png" class="image--left-large" />
-Results of Corona prediction for one specific NM (Amorphous SiO2 NMs with a particular coating and surface functionalisation) interacting with one specific protein (major pollen allergen Bet v 1A in this case), indicating the heatmap and providing links to the mapping and logfile.
+Results of binding energy prediction for one specific NM (Amorphous SiO2 NMs with a particular coating and surface functionalisation) interacting with one specific protein (major pollen allergen Bet v 1A in this case), indicating the heatmap and providing links to the mapping and logfile.
 <br clear="all">
 
 <img src="{{ site.baseurl }}/images/nanoinformatics/corona-prediction4.png" class="image--left-large" />
@@ -71,6 +71,7 @@ References
 - An et al., 2015: An, D.; Su, J.; Li, C.; Li, J. Computational studies on the interactions of nanomaterials with proteins and their impact. <i>Chin. Phys. B</i> <b>2015</b>, <i>24</i>, 120504. <a href="https://doi.org/10.1088/1674-1056/24/12/120504">https://doi.org/10.1088/1674-1056/24/12/120504</a>.
 - Brancolini et al., 2012: Brancolini, G.; Kokh, D.B.; Calzolai, L.; Wade, R.; Corni, S. Docking of ubiquitin to gold nanoparticles. <i>ACS Nano</i> <b>2012</b>, <i>6</i>, 9863–78. <a href="https://doi.org/10.1021/nn303444b">https://doi.org/10.1021/nn303444b</a>.
 - Ding et al., 2013: Ding, F.; Radic, S.; Chen, R.; Chen, P.; Geitner, N.; Brown, J.; Ke, P. Direct observation of a single nanoparticle–ubiquitin corona formation. <i>Nanoscale</i> <b>2013</b>, <i>5</i>, 9162–9. <a href="https://doi.org/10.1039/C3NR02147E">https://doi.org/10.1039/C3NR02147E</a>.
+- Hasenkopf et al., 2022: Hasenkopf, I.; Mills-Goodlet, R.; Johnson, L.; Rouse, I.; Geppert, M.; Duschl, A.; Maier, D.; Lobaskin, V.; Lynch, I.; Himly, M. Computational prediction and experimental analysis of the nanoparticle-protein corona: Showcasing an in vitro-in silico workflow providing FAIR data <i>NanoToday</i> <b>2022</b>, <i>46</i>, 101561. <a href="https://doi.org/10.1016/j.nantod.2022.101561">https://doi.org/10.1016/j.nantod.2022.101561</a>.
 - Khan et al., 2013: Khan, S.; Gupta, A.; Nandi, C. Controlling the fate of protein corona by tuning surface properties of nanoparticles. <i>J. Phys. Chem. Lett.</i> <b>2013</b>, <i>4</i>, 3747–52.<a href="https://doi.org/10.1021/jz401874u">https://doi.org/10.1021/jz401874u</a>.
 - Power et al., 2019: Power, D.; Rouse, I.; Poggio, S.; Brandt, E.; Lopez, H.; Lyubartsev, A.;  Lobaskin, V. A multiscale model of protein adsorption on a nanoparticle surface. <i>Modelling Simul. Mater. Sci. Eng.</i> <b>2019</b>, <i>27</i>, 084003. <a href="https://doi.org/10.1088/1361-651X/ab3b6e">https://doi.org/10.1088/1361-651X/ab3b6e</a>.
 {: .references }

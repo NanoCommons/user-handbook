@@ -29,11 +29,30 @@ The PEROSH nanomaterials training project is meant to do this by addressing the 
 [Position papers](https://perosh.eu/download-categorie/position-papers/)
 {: .more-link .more-link--webpages}
 
-[Webinar on musculoskeletal disorders (MSD) research](https://perosh.eu/repository/webinar-on-msd/)
+[All training resources](https://perosh.eu/repository/)
+{: .more-link .more-link--webpages}
+
+[An OSH contribution to "Safe and sustainable by design"](https://perosh.eu/repository/an-osh-contribution-to-safe-and-sustainableby-design/)
+18 Nov. 2022
+{: .more-link .more-link--video}
+
+[Exposure to metalworking fluids and markers of early health effect among metal industry workers](https://perosh.eu/repository/exposure-to-metalworking-fluids-and-markersof-early-health-effect-among-metal-industry-workers/)
+18 Nov. 2022
+{: .more-link .more-link--video}
+
+[For the sake of OSH: Risk assessment of exoskeletons](https://perosh.eu/repository/risk-assessment-of-exoskeletons/)
 25 May 2022
 {: .more-link .more-link--video}
 
-[Webinar video available on PEROSH joint research program](https://perosh.eu/repository/webinar-video-available-on-perosh-joint-research-program/)
+[Staying at work – Return to work](https://perosh.eu/repository/staying-at-work-return-to-work/)
+25 May 2022
+{: .more-link .more-link--video}
+
+[An online workplace-friendly risk assessment tool to reduce the risk of musculoskeletal injury from pushing and pulling operations](https://perosh.eu/repository/msd_hse_matt_birtles/)
+25 May 2022
+{: .more-link .more-link--video}
+
+[Webinar video on the PEROSH joint research program](https://perosh.eu/repository/webinar-video-available-on-perosh-joint-research-program/)
 27 September 2021
 {: .more-link .more-link--video}
 
