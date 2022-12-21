@@ -7,6 +7,7 @@ description_long: Documentation of ongoing activities and approaches to evaluate
 has_children: false
 has_references: true
 nav_order: 303
+github_comments_issueid: "46"
 ---
 
 # FAIRness and data quality scores
