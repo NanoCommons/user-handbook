@@ -35,16 +35,8 @@ If you have questions about the content or want to propose modifications and add
 
 For any technical issues, please contact [info@sevenpastnine.com](mailto:info@sevenpastnine.com?subject=[NanoCommons]%20Technical%20issue) or [file an issue directly on github](https://github.com/NanoCommons/user-handbook/issues).
 
-## Some thoughts on how to work together on a "commons for nanomaterials" infrastructure (NanoCommons)
-
-[Bridging Insights and Perspectives](https://tvworldwide.com/events/nanotech/200824/default.cfm?id=17730&type=flv&test=0&live=0)
-Working Towards a Harmonized Nanosafety E-Infrastructure for Data and In Silico Tools, 2020 U.S.-EU NanoEHS COR Workshop: Bridging Insights and Perspectives, September 16-17, Virtual Meeting
-(register to see the recording)
-{: .more-link .more-link--video }
-
 ## List of partnering projects, platforms and networks keeping the commons for nanomaterials alive
 {% include childrenTOC.html page=page pages=site.pages %}
-
 
 ## Integrated resources
 To be able to cover relevant information and knowledge to the largest possible extend without the need to replicate existing material and knowledge resources, the handbook will rely heavily on external links. This also allows that most documents can be handled by long-terms sustained exchange platforms like Zenodo or FAIR knowledge bases providing persistent identifiers to the documents or datasets. All these external links (and some internal ones) are specifically highlighted and use the following annotation with respect to the available content:
