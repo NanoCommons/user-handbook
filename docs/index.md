@@ -6,6 +6,7 @@ description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /
 github_comments_issueid: "40"
 github_comments_listcomments: false
+github_comments_in_footer: false
 
 projects:
   - url: https://www.nanosafetycluster.eu/
@@ -218,3 +219,18 @@ Many different research groups and projects (small and large) have and are devel
 {% endfor %}
 </ul>
 </center>
+
+<div class="page-content">
+    <div class="wrapper">
+      {% include github-comments.html %}
+    </div>
+</div>  
+
+If you like to make comments specifically on new approaches and tools, please look at:
+
+[Data resources]({{ site.baseurl }}/data-management/data-resources/)
+{: .more-link .more-link--webpages }
+[Nanoinformatics software and models]({{ site.baseurl }}/nanoinformatics/software-and-models/)
+{: .more-link .more-link--webpages }
+[Quality, completeness and FAIRness]({{ site.baseurl }}/FAIRification/FAIRnessScores/)
+{: .more-link .more-link--webpages }

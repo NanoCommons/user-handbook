@@ -70,12 +70,12 @@ function DoGithubComments(repo_name, comment_id, list_flag, site_baseurl)
             // const commentsHtml = comments.reverse().join('');   // newest first
             
             const count = "<div  class='gh-comment'>Total number of comments: " + comments[1] + "<br>New comments since " + date.toUTCString() + ": " + comments[2] + "</div>"
-            const howto = "<div class='more-link more-link--webpage'><a href=\""+site_baseurl+"/about-and-partner-projects/#how-comments-work-in-the-handbook\">Details on how comments work in the Handbook</a></div>"
+            const howto = "<div class='more-link more-link--webpages'><a href=\""+site_baseurl+"/about-and-partner-projects/#how-comments-work-in-the-handbook\">Details on how comments work in the Handbook</a></div>"
 
             if (list_flag === 'false') {
-                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Read and post comments on Github</a></div>" + howto + count;
+                commentsElement.innerHTML = "<div class='more-link more-link--webpages'><a href='" + url + "'>Read and post comments on Github</a></div>" + howto + count;
             } else {
-                commentsElement.innerHTML = "<div class='more-link more-link--webpage'><a href='" + url + "'>Post a comment on Github</a></div>" + howto + commentsHtml + count;
+                commentsElement.innerHTML = "<div class='more-link more-link--webpages'><a href='" + url + "'>Post a comment on Github</a></div>" + howto + commentsHtml + count;
             }
         } catch (err)
         {

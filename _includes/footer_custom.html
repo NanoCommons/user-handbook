@@ -1,8 +1,10 @@
+{% if page.github_comments_in_footer %}
 <div class="page-content">
     <div class="wrapper">
       {% include github-comments.html %}
     </div>
-  </div>  
+</div>  
+{% endif %}
 
 <div class="footer">
     <div class="d-none d-sm-block footer__logo pr-5"><img src="{{ site.baseurl }}/images/logos/7P9-3.png"></div>
