@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PEROSH nano training project
-permalink: /training-courses/PEROSH-nano-training-project/
+permalink: /training-courses/PEROSH-nano-training/
 description_long: "Training on emerging risks in R&D and production of new and advanced materials and nanomaterials: providing systematic approaches to deal with uncertainties"
 parent: Training courses
 has_children: false
@@ -10,16 +10,10 @@ nav_exclude: true
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project
 ---
 
-<img src="{{ site.baseurl }}/images/logos/perosh_logo_2colors-02.svg" width="200" class="image--right" />
+<img src="{{ site.baseurl }}/images/logos/logo_inail.jpg" width="200" class="image--right" />
 # PEROSH nanomaterials training project
  
-{: .lead }
-Currently, there are very limited initiatives providing training on new emerging materials and NMs, despite an increased number of guidelines on both risk assessment and management, and the inclusion of specific requirements for NMs in several EU regulations.
-
-Therefore, the current situation suggests a need for the development of training programs, shared and recognized by OSH authorities, and tailored to the need of different research and industry actors dealing with nanomaterials, and more in general with new and emerging materials.
-
-<img src="{{ site.baseurl }}/images/logos/logo_inail.jpg" width="200" class="image--right" />
-The PEROSH nanomaterials training project is meant to do this by addressing the following objectives:
+The PEROSH nanomaterials training project is meant to provide training on nanomaterial Occupational Safety and Health (OSH) by addressing the following objectives:
 - To review and compare EU risk management and communication approaches and training experiences in the field of occupational safety and health (OSH) in dealing with emerging risks in R&D and production of advanced materials and nanomaterials (NMs).
 - To propose a PEROSH/EU relevant guidance document on harmonized training modules addressed to employers and workers involved in the sector.
 
@@ -31,6 +25,22 @@ The PEROSH nanomaterials training project is meant to do this by addressing the 
 
 [All training resources](https://perosh.eu/repository/)
 {: .more-link .more-link--webpages}
+
+[Sustainable Work in Europe; introducing the recent publication](https://perosh.eu/repository/sustainable-work-in-europe-introducing-the-recent-publication/)
+9 Dec. 2022
+{: .more-link .more-link--video}
+
+[Sustainable work – for health and job longevity](https://perosh.eu/repository/sustainable-work-for-health-and-job-longevity/)
+9 Dec. 2022
+{: .more-link .more-link--video}
+
+[Monotonous and repetitive work: some people are more unequal than others](https://perosh.eu/repository/monotonous-and-repetitive-work/)
+9 Dec. 2022
+{: .more-link .more-link--video}
+
+[Promoting health and safety for sustainable workplaces: A PEROSH perspective](https://perosh.eu/repository/promoting-health-and-safety-for-sustainable-workplaces-a-perosh-perspective/)
+9 Dec. 2022
+{: .more-link .more-link--video}
 
 [An OSH contribution to "Safe and sustainable by design"](https://perosh.eu/repository/an-osh-contribution-to-safe-and-sustainableby-design/)
 18 Nov. 2022

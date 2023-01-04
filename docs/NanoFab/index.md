@@ -85,16 +85,9 @@ Building on the NanoFabNet report ‘Nanofabrication Competence Map: Infrastruct
 {: .more-link .more-link--text }
 
 ## Training
-[SUSNANOFAB Training: Initiation to nano-enabled composites parts through the presentation of an industrial use case](https://susnanofab.eu/trainings-by-ipc/)
-This session introduces the capability to provide high added-value functionalities to composite parts thanks to nanotechnologies.
-{: .more-link .more-link--video }
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1MeJTPBmPEQ" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-<iframe width="210" height="315" src="https://www.youtube.com/embed/yAX1sAvGyDI" frameborder="0" allowfullscreen="allowfullscreen" align="right">&nbsp;</iframe>
-{: .iframe-small }
-
-Additional SUSNANOFAB trainings:
-- [Part 1: Nanofabrication technics to create added value properties to plastic parts – An initiation to micro/nano surfaces texturing and eco-design](https://susnanofab.eu/trainings-nanofab/)
-- [Part 2: Metals nanostructuration by Severe Plastic Deformation Techniques](https://susnanofab.eu/trainings-by-rina/)
+Additional trainings: [SUSNANOFAB webinars]({{ site.baseurl }}/training-courses/SUSNANOFAB-training/) 
 
 ## Standardisation
 [Challenges & Opportunities of Validating, Harmonising & Standardising industrial-scale Nanofabrication](https://acumenist.com/wp-content/uploads/simple-file-list/AcumenIST-Press/20210701_NanoFabNet_Report_Challenges-and-Opportunities-of-Validating-Nanofabrication.pdf)

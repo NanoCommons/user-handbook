@@ -5,6 +5,12 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: training-courses/PEROSH-nano-training/
+    description: PEROSH nanomaterial training
+    date: 2023-01-04
+  - url: training-courses/SUSNANOFAB-training/
+    description: SUSNANOFAB training
+    date: 2023-01-04
   - url: /
     description: EU US Roadmap Nanoinformatics 2030
     date: 2022-12-14
