@@ -5,7 +5,7 @@ title: PEROSH
 description: Short intro to the PEROSH nano training project
 permalink: /about-and-partner-projects/PEROSH-nano-training-project/
 parent: About & partner projects
-nav_exclude: true
+nav_exclude: false
 ---
 
 #  Partner project PEROSH nano training

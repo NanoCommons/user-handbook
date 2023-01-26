@@ -106,3 +106,8 @@ __See lessons learned from different communities:__ [FAIR Implementation Profile
 [FAIR Connect](https://fairconnect.pro/)
 This (upcoming) platform facilitates and supports the (citable) publication of FAIR descriptions, complemented with concise living review articles, limited to FAIR Supporting Resources (FSRs), making these themselves Findable, Accessible, Interoperable and ultimately Reusable, while at the same time preventing the needless re-invention of wheels.
 {: .more-link .more-link--webpages}
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1dEv5x5imBw" frameborder="0">&nbsp;</iframe>
+[FAIR Points](https://fairpoints.org/)
+The event series highlighting pragmatic measures developed by the community towards the implementation of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
+{: .more-link .more-link--webpages}

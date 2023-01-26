@@ -60,6 +60,12 @@ projects:
   - url: https://nanoharmony.eu
     logo: nanoharmony.webp
     width: 200
+  - url: https://perosh.eu/
+    logo: perosh_logo_2colors-02.svg
+    width: 120
+  - url: https://www.inail.it/cs/internet/home.html
+    logo: logo_inail.jpg
+    width: 120
 
 topics:
   - name: planning

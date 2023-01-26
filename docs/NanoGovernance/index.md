@@ -25,6 +25,9 @@ Setting up as a bridge between regulatory science and policy
 [Introductory training on risk governance](https://www.youtube.com/watch?v=2yDgmajldW0)
 From the 10th Nanosafety Training School: from Basic Science to Risk Governance in Venice 2021, 21-25 June 2021
 {: .more-link .more-link--video}
+[Nano-Risk Governance Portal](https://nanoriskgov.eu/index.html)
+Much more information on risk governance is available from the three NMBP-13 projects RiskGONE, NANORIGO and Gov4Nano. It covers guidance, a list of tools, available data, and related platforms (including this Handbook <span class="material-symbols-outlined"><font size="1">sentiment_satisfied</font></span>).  
+{: .more-link .more-link--webpages}
 
 Significant progress has been achieved in relation to research regarding the safety of engineered nanomaterials and the transfer of this knowledge into regulation. Still, more needs to be done as nanotechnology reaches the market. To fill this gap, transdisciplinary risk governance is required based on a clear understanding of risk, its management practices and the societal risk perception by all stakeholders. It should propose and apply clear criteria for risk evaluation and acceptance and for transfer of acceptable risk. It should develop reinforced decision making tools incorporating those aspects and facilitate risk communication to relevant stakeholders, including industry, regulators, insurance companies and the general public.
 
@@ -78,6 +81,11 @@ The OECD webinars on Testing and Assessment Methodologies focus on selected ongo
 {: .more-link .more-link--webpages}
 
 ## Tools for NanoRisk Governance
+
+[Tools listed on the Nano-Risk Governance Portal](https://nanoriskgov.eu/library.html)
+{: .more-link .more-link--app}
+[Data listed on the Nano-Risk Governance Portal](https://nanoriskgov.eu/data.html)
+{: .more-link .more-link--webpages}
 [Joint glossary of key terms related to data management and knowledge infrastructure / portal / platform](https://h2020-riskgone.github.io/nmbp13-terminology/glossary/)
 The glossary resulted from activities of the Core Group on Data Management organized jointly by the three projects funded under the H2020 NMBP-13 call: Gov4Nano, NANORIGO and RiskGONE.
-{: .more-link .more-link--video}
+{: .more-link .more-link--webpages}

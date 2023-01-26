@@ -16,6 +16,9 @@ github_comments_issueid: "41"
 We know that this will never be complete and up-to-date but we try to do our best to cover important services.
 {: .lead}
 
+[Tools related to governance listed on the Nano-Risk Governance Portal](https://nanoriskgov.eu/library.html)
+{: .more-link .more-link--app}
+
 <div class="more-link more-link--app">
 <a href="http://www.enaloscloud.novamechanics.com/index.html">
 Enalos Cloud Platform with a listing of all existing tools and models and access to the KNIME notes</a>

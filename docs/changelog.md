@@ -5,6 +5,12 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: training-courses/PARC/
+    description: PARC FAIR Data and Tools webinar series
+    date: 2023-01-26
+  - url: NanoGovernance/
+    description: Multiple links to the Nano-Risk Governance Portal
+    date: 2023-01-24
   - url: training-courses/PEROSH-nano-training/
     description: PEROSH nanomaterial training
     date: 2023-01-04

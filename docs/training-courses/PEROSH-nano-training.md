@@ -6,7 +6,7 @@ description_long: "Training on emerging risks in R&D and production of new and a
 parent: Training courses
 has_children: false
 has_toc: false
-nav_exclude: true
+nav_exclude: false
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project
 ---
 
@@ -22,6 +22,8 @@ The PEROSH nanomaterials training project is meant to provide training on nanoma
 
 [Position papers](https://perosh.eu/download-categorie/position-papers/)
 {: .more-link .more-link--webpages}
+
+The PEROSH Nano training project is making resources available starting from the mid of 2023. Examples of training activities developed by PEROSH in other projects relevant here include:
 
 [All training resources](https://perosh.eu/repository/)
 {: .more-link .more-link--webpages}
