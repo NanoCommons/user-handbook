@@ -5,7 +5,7 @@ title: eNanoMapper
 description: Short intro to eNanoMapper
 permalink: /about-and-partner-projects/eNanoMapper/
 parent: About & partner projects
-nav_order: 10004
+nav_order: 10006
 ---
 <img src="{{ site.baseurl }}/images/logos/eNanoMapper.png" width="200" class="image--right" />
 #  Partner project eNanoMapper

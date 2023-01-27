@@ -5,7 +5,7 @@ title: OpenRiskNet
 description: Short intro to OpenRiskNet
 permalink: /about-and-partner-projects/OpenRiskNet/
 parent: About & partner projects
-nav_order: 10003
+nav_order: 10005
 ---
 <img src="{{ site.baseurl }}/images/logos/openrisknet.png" width="200" class="image--right" />
 #  Partner project OpenRiskNet
