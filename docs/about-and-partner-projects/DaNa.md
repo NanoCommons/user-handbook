@@ -7,7 +7,7 @@ permalink: /about-and-partner-projects/DaNa/
 parent: About & partner projects
 nav_exclude: false
 ---
-<img src="{{ site.baseurl }}/images/logos/dana-logo.png" width="200" class="image--right" />
+<img src="{{ site.baseurl }}/images/logos/dana-logo.png" width="150" class="image--right" />
 #  Partner project DaNa4.0
 Data on new, innovative and application-safe materials
 {: .lead }

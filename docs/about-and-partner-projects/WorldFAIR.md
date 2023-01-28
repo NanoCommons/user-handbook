@@ -7,7 +7,7 @@ permalink: /about-and-partner-projects/WorldFAIR/
 parent: About & partner projects
 nav_order: 10002
 ---
-<img src="{{ site.baseurl }}/images/logos/worldfair.webp" width="100" class="image--right"/>
+<img src="{{ site.baseurl }}/images/logos/worldfair.webp" width="150" class="image--right"/>
 #  Partner project WorldFAIR
 
 In the WorldFAIR project, the Committee on Data of the International Science Council (CODATA) and the Research Data Alliance (RDA) work with a set of 11 disciplinary and cross-disciplinary case studies to advance implementation of the FAIR principles. 

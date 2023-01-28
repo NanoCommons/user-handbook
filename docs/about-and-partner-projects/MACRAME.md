@@ -6,12 +6,14 @@ description: Short intro to MACRAMÉ
 permalink: /about-and-partner-projects/MACRAME/
 parent: About & partner projects
 nav_order: 10003
-nav_exclude: true
+nav_exclude: false
 ---
-<img src="{{ site.baseurl }}/images/logos/MACRAME.png" width="150" class="image--right"/>
+<img src="{{ site.baseurl }}/images/logos/MACRAME.png" width=200" class="image--right"/>
 #  Partner project MACRAMÉ
-The MACRAMÉ R&I Approach aims to widen the development of harmonised test guidelines (TGs) and guidance documents (GDs) (OECD) and standards (CEN, ISO) to market-relevant Advanced Materials (AdMas) in their complex product matrices. 
+Advanced Characterisation Methodologies to assess and predict the Health and Environmental Risks of Advanced Materials 
 {: .lead }
+
+The MACRAMÉ R&I Approach aims to widen the development of harmonised test guidelines (TGs) and guidance documents (GDs) (OECD) and standards (CEN, ISO) to market-relevant Advanced Materials (AdMas) in their complex product matrices. 
 
 This will be achieved by defining the R&I Strategy through life-cycle assessment for five market-relevant industrial MACRAMÉ Use-Cases. Activities include a range of novel sample preparation techniques and ambitious quantitative detection and imaging methodologies that support reliable and reproducible determination of AdMas in different complex matrices (AdMa@CMs) and using inhalation as their main exposure route.
 

@@ -6,9 +6,11 @@ description: Short intro to the European Partnership on the Assessment of Risks 
 permalink: /about-and-partner-projects/PARC/
 parent: About & partner projects
 nav_order: 10004
-nav_exclude: true
+nav_exclude: false
 ---
+<!---
 <img src="{{ site.baseurl }}/images/logos/PARC.png" width="150" class="image--right"/>
+--->
 #  Partner project European Partnership on the Assessment of Risks from Chemicals (PARC)
 The overarching aim of this partnership is to enhance our knowledge about chemical substances to better safeguard human health and the environment against harmful effects. 
 {: .lead }

@@ -7,7 +7,7 @@ permalink: /about-and-partner-projects/NanoCommons/
 parent: About & partner projects
 nav_order: 10001
 ---
-<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="100" class="image--right"/>
+<img src="{{ site.baseurl }}/images/logos/nanocommons.png" width="150" class="image--right"/>
 #  Partner project NanoCommons
 
 NanoCommons delivers a sustainable and openly accessible nanoinformatics framework (knowledgebase and integrated computational tools, supported by expert advice, data interpretation and training), for assessment of the risks of NMs, their products and their formulations. 
