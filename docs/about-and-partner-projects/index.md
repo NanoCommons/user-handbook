@@ -90,7 +90,7 @@ The privacy policy explains how the personal data we collect from you when you u
     - In addition, we may use third party services such as Google Analytics which collects, monitors and analyses this information.
 8. __Cookies__    
     Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.  
-    For further information, visit [allaboutcookies.org](allaboutcookies.org).
+    For further information, visit [allaboutcookies.org](https://allaboutcookies.org).
 9. __How do we use cookies?__  
     Currently, no cookies are used.
 10. __What types of cookies do we use?__
