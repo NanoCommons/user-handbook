@@ -8,9 +8,9 @@ parent: About & partner projects
 nav_order: 10004
 nav_exclude: false
 ---
-<!---
-<img src="{{ site.baseurl }}/images/logos/PARC.png" width="150" class="image--right"/>
---->
+
+<img src="{{ site.baseurl }}/images/logos/parc.png" width="150" class="image--right"/>
+
 #  Partner project European Partnership on the Assessment of Risks from Chemicals (PARC)
 The overarching aim of this partnership is to enhance our knowledge about chemical substances to better safeguard human health and the environment against harmful effects. 
 {: .lead }
@@ -20,8 +20,12 @@ The overarching aim of this partnership is to enhance our knowledge about chemic
 - 200 partners in 28 countries and at EU level, national agencies and research organisations working in the areas of the environment or public health, the European Chemical Agency (ECHA), the European Food Safety Authority (EFSA) and the European Environment Agency (EEA)
 - A budget of 400 million euros, 50% funded by the European Union and 50% by Member States
 
-[Project website](https://www.anses.fr/en/content/european-partnership-assessment-risks-chemicals-parc)
+[Project website](https://eu-parc.eu)
 {: .more-link .more-link--webpages}
+
+[Mission, vision and objectives](https://www.eu-parc.eu/what-we-do/mission-vision-and-objectives)
+{: .more-link .more-link--webpages}
+
 
 [PARC FAIR Data and Tools webinar series]({{ site.baseurl }}/training-courses/PARC-training/)
 {: .more-link .more-link--webpages}

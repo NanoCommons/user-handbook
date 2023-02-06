@@ -21,6 +21,8 @@ webinars:
     date: 2023-02-23
 ---
 
+<img src="{{ site.baseurl }}/images/logos/parc.png" width="150" class="image--right"/>
+
 # PARC FAIR Data and Tools webinar series
 The European Partnership for the Assessment of Risks from Chemicals (PARC) is an EU-wide research and innovation partnership programme 
 {: .lead }

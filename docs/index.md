@@ -18,6 +18,12 @@ projects:
   - url: https://worldfair-project.eu/
     logo: worldfair.webp
     width: 80
+  - url: https://macrame-project.eu/
+    logo: MACRAME.png
+    width: 180
+  - url: https:/eu-parc.eu/
+    logo: parc.png
+    width: 150
   - url: https://openrisknet.org
     logo: openrisknet.png
     width: 240
