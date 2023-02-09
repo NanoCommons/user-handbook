@@ -19,6 +19,18 @@ webinars:
   - title: FAIR Implementation Profiles – Introduction & their use PARC
     speaker: Barbara Magagna, GO FAIR Foundation
     date: 2023-02-23
+  - title: Visualisation of complex experimental workflows
+    speaker: Thomas Exner, SevenPastNine
+    date: 2023-03-09
+  - title: Making (nano)toxicity data FAIR – experiences from Gov4Nano & Data Re-use examples
+    speaker: Penny Nymark, Karolinska University
+    date: 2023-03-23
+  - title: Analysis of FAIRness of Online DMP Tools
+    speaker: Iseult Lynch, University of Birmingham
+    date: 2023-04-06
+  - title: "Example FIPs – WorldFAIR project: Chemistry & Nanomaterials"
+    speaker: Leah McEwan, Cornell University / Thomas Exner, SevenPastNine
+    date: 2023-04-20
 ---
 
 <img src="{{ site.baseurl }}/images/logos/parc.png" width="150" class="image--right"/>
