@@ -16,7 +16,7 @@ webinars:
   - title: Experience as a data shepherd in NanoCommons – bridging the knowledge gap and changing cultures around data management
     speaker: Anastasios Papadiamantis, University of Birmingham
     date: 2023-02-09
-  - title: FAIR Implementation Profiles – Introduction & their use PARC
+  - title: FAIR Implementation Profiles – Introduction & their use in PARC
     speaker: Barbara Magagna, GO FAIR Foundation
     date: 2023-02-23
   - title: Visualisation of complex experimental workflows
