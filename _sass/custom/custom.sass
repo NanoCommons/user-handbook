@@ -28,15 +28,28 @@ h3 + h4
     display: none
 
 .footer
-    display: flex
     @extend .text-small
     @extend .text-grey-dk-100
 
-    > div
-        flex: 0 1 auto
+.footer__logos
+    display: flex
+    justify-content: space-between
+    align-items: center
 
+    > div
+        display: flex
+        justify-content: flex-end
+        align-items: center
+        
 .footer__logo
-    width: 150px
+    width: 75px
+
+    img
+        max-width: 100%
+        height: auto
+
+.footer__EUlogo
+    width: 300px
 
     img
         max-width: 100%
