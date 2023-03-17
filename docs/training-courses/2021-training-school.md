@@ -3,7 +3,7 @@ layout: page
 title: Nanosafety training school 2021
 permalink: /training-courses/2021-training-school/
 description_long: The School features keynote speeches a variety of hands-on sessions aimed to transfer state-of-the-art knowledge on a variety of topics from key experts to the new generation of nano-environmental, health and safety, and biomedicine professionals, using interprofessional education.
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_order: 979

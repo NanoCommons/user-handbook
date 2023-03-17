@@ -3,7 +3,7 @@ layout: page
 title: NanoHarmony Webinars
 permalink: /training-courses/NanoHarmony-webinars/
 description_long: This is a list of all recordings from training webinars offered by NanoHarmony
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_exclude: false

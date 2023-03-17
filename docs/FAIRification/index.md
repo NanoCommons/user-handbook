@@ -98,10 +98,7 @@ The FAIR Principles put specific emphasis on enhancing the ability of machines t
 [RDMkit](https://rdmkit.elixir-europe.org/)
 The ELIXIR Research Data Management Kit (RDMkit) has been designed to guide life scientists in their efforts to better manage their research data following the FAIR Principles. It is based on the various steps of the data lifecycle, although not all the steps will be relevant to everyone. The contents are generated and maintained by the ELIXIR community coming together as part of the ELIXIR-CONVERGE project.
 {: .more-link .more-link--webpages}
-[FIP Wizard](https://fip-wizard.ds-wizard.org/)
-A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources, that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.<br>
-__See lessons learned from different communities:__ [FAIR Implementation Profiles (FIPs) in WorldFAIR: What Have We Learnt?](https://zenodo.org/record/7378109)
-{: .more-link .more-link--app}
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/-kdumYGLWyU" frameborder="0">&nbsp;</iframe>
 [FAIR Connect](https://fairconnect.pro/)
 This (upcoming) platform facilitates and supports the (citable) publication of FAIR descriptions, complemented with concise living review articles, limited to FAIR Supporting Resources (FSRs), making these themselves Findable, Accessible, Interoperable and ultimately Reusable, while at the same time preventing the needless re-invention of wheels.
@@ -111,3 +108,32 @@ This (upcoming) platform facilitates and supports the (citable) publication of F
 [FAIR Points](https://fairpoints.org/)
 The event series highlighting pragmatic measures developed by the community towards the implementation of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
 {: .more-link .more-link--webpages}
+
+[Effective and Ethical Data Sharing at Scale](https://www.data4sdgs.org/effective-and-ethical-data-sharing-scale)
+A cookbook for data producers, donors, policymakers, and other development practitioners by the Global Partnership for Sustainable Development Data
+{: .more-link .more-link--webpages}
+
+[FIP Wizard](https://fip-wizard.ds-wizard.org/)
+A FAIR Implementation Profile (FIP) is a list of declared technology choices, also referred to as FAIR Enabling Resources, that are intended to implement one or more of the FAIR Guiding Principles, made as a collective decision by the members of a particular community of practice.<br>
+__See lessons learned from different communities:__ [FAIR Implementation Profiles (FIPs) in WorldFAIR: What Have We Learnt?](https://zenodo.org/record/7378109)
+{: .more-link .more-link--app}
+
+<div class="more-link more-link--video">
+<a href="https://iupac.org/project/2022-012-1-024/">IUPAC FAIR Chemistry</a>
+<p>One of the 11 WorldFAIR case studies is Chemistry. The goal is to align chemistry data standards with the FAIR data principles to enhance interoperability with other domains like nanomaterials (another WorldFAIR case, see above).</p>
+<ul>
+<li><a href="https://iupac.org/project/2022-027-1-024/">IUPAC Reporting Guidance</a></li>
+<li><a href="https://iupac.org/project/2022-028-1-024/">IUPAC FAIR Chemistry Cookbook</a></li>
+<li><a href="https://iupac.org/project/2022-029-1-024/">IUPAC FAIR Chemistry Protocol Services</a></li>
+<li>What is a chemical? webinar series:
+  <ol>
+  <li><a href="https://zenodo.org/record/7259102">Handling Chemical Data Across Disciplines</a></li>
+  <li><a href="https://zenodo.org/record/7259509">Applying Chemical Data to Industry Challenges</a></li>
+  <li><a href="https://zenodo.org/record/7435185">User Perspectives on Digital Machine-Readable Depictions</a></li>
+  <li><a href="https://zenodo.org/record/7683142">Innovation in Chemical Descriptions</a></li>
+  </ol>
+</li>
+</ul>
+</div>
+
+

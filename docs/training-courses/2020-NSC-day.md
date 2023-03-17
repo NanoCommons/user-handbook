@@ -3,7 +3,7 @@ layout: page
 title: NSC day 2020
 permalink: /training-courses/2020-NSC-day/
 description_long: This day acted as guidance for the entire NanoSafety community, including young researchers, to highlight how individual research projects fit as a puzzle piece into the wider picture. It shall be an orientation-giving and educational event depicting the overall strategy behind NanoSafe(ty).
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_order: 980 # use 1000-year for sorting

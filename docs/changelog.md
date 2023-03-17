@@ -6,6 +6,21 @@ description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
   - url: training-courses/PARC-training/
+    description: New PARC FAIR Data and Tools webinars announced
+    date: 2023-03-17
+  - url: NanoGovernance/
+    description: "NMBP 13 final online event: Future-proof Approaches for Risk Governance"
+    date: 2023-03-17
+  - url: training-courses/2022-regulatory-workshop/
+    description: Regulatory stakeholders workshop
+    date: 2023-03-17
+  - url: FAIRification/
+    description: New resources from Global Partnership for Sustainable Development Data and FAIR Chemistry
+    date: 2023-03-17
+  - url: training-courses/CUSP-training/
+    description: CUSP webinar series on micro-/nano-plastics
+    date: 2023-03-17
+  - url: training-courses/PARC-training/
     description: PARC FAIR Data and Tools webinar series
     date: 2023-01-26
   - url: NanoGovernance/

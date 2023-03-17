@@ -3,7 +3,7 @@ layout: page
 title: Regulatory stakeholder workshop 2022
 permalink: /training-courses/2022-regulatory-workshop/
 description_long: "The workshop scope aimed to provide an overview of actual and future regulations related to engineered nanomaterials (ENMs)."
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_exclude: true
@@ -31,7 +31,7 @@ nav_order: 978 # use 1000-year for sorting
 }
 </script>
 
-# Regulatory stakeholders Workshop 
+# Regulatory stakeholders workshop 
 ## “Guiding Industry in the Nanoform Registration Process: An overview of the requirements by the different regulatory bodies & available infrastructure for safety assessment”
 2 June 2022
 {: .lead }

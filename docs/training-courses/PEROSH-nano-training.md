@@ -3,7 +3,7 @@ layout: page
 title: PEROSH nano training project
 permalink: /training-courses/PEROSH-nano-training/
 description_long: "Training on emerging risks in R&D and production of new and advanced materials and nanomaterials: providing systematic approaches to deal with uncertainties"
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_exclude: false

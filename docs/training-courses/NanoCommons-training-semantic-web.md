@@ -3,7 +3,7 @@ layout: page
 title: NanoCommons Semantic Web Training
 permalink: /training-courses/NanoCommons-training-semantic-web/
 description_long: Semantic web training offered by BiGCaT
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_exclude: true

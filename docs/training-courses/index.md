@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training courses
+title: Training courses and webinars
 permalink: /training-courses/
 has_children: true
 has_toc: false

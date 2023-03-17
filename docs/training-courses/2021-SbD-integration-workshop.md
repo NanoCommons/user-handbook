@@ -3,7 +3,7 @@ layout: page
 title: SbD integration 2021
 permalink: /training-courses/2021-SbD-integration-workshop/
 description_long: If you want to go far go together - Collaborative research supported by NanoCommons transnational access
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_order: 979

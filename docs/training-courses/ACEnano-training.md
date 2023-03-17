@@ -3,7 +3,7 @@ layout: page
 title: ACEnano Training
 permalink: /training-courses/ACEnano-training/
 description_long: This is a list of all recordings from training webinars offered by ACEnano
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by a project

@@ -3,7 +3,7 @@ layout: page
 title: PARC Data and FAIR Training
 permalink: /training-courses/PARC-training/
 description_long: The schedule for the PARC FAIR Data and Tools webinar series also providing the recordings as we go.
-parent: Training courses
+parent: Training courses and webinars
 has_children: false
 has_toc: false
 nav_order: 977 # use 1000-year for sorting / 1000 for all trainings offered by a project
