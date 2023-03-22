@@ -25,6 +25,13 @@ To get their data onto the NanoCommons KB, the [NanoFASE project]({{ site.baseur
 Inspired by the publication of the concept and the benefits seen in the NanoFASE demonstration case, the [ASINA project]({{ site.baseurl }}/about-and-partner-projects/ASINA/) assigned the task of creating a pragmatic approach of initiating, designing and implementing the Data Management Plan (DMP) and the data FAIRification process to an internal data shepherd.
 {: .more-link .more-link--webpages}
 
+## One important task is to support data stewards. Therefore here some resources:
+[Towards Data Stewardship in ELIXIR: Training and Portal](https://elixir-europe.org/internal-projects/commissioned-services/towards-data-stewardship)
+{: .more-link .more-link--webpages}
+[FAIR Connect](https://fairconnect.pro/)
+{: .more-link .more-link--webpages}
+
+
 References
 {: .references-header }
 - Papadiamantis et al., 2020: Papadiamantis, A. G.; Klaessig, F. C.; Exner, T. E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M. A.; Doganis, P.; Hoover, M. D.; Afantitis, A.; Melagraki, G.; Nolan, T. S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. <i>Nanomaterials</i> <b>2020</b>, <i>10</i> (10), 2033. <a href="https://doi.org/10.3390/nano10102033">https://doi.org/10.3390/nano10102033</a>.

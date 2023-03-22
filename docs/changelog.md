@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: SSbD/
+    description: Workshop on Safe and Sustainable by Design case studies
+    date: 2023-03-22
   - url: training-courses/PARC-training/
     description: New PARC FAIR Data and Tools webinars announced
     date: 2023-03-17

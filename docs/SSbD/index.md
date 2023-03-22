@@ -36,6 +36,11 @@ The current Strategic Research and Innovation Plan (SRIP) delivers on this annou
 
 [Collection of concept documents and webinars related to SSbD by the EU and the OECD]({{ site.baseurl}}/SSbD/regulatory-guidance/)
 {: .more-link .more-link--webpages}
+[Safe and Sustainable by Design case studies](https://www.youtube.com/watch?v=OcGydn2wyE0)
+The European Commission presents an overview of the proposed SSbD framework application to case studies, in order to evaluate the applicability of the framework in assessing existing chemicals and to identify challenges and limitations to be addressed in future stages.<br>
+[Second day](https://www.youtube.com/watch?v=SKTrtKrAr6Y) 
+{: .more-link .more-link--video}
+
 
 ## Working definitions of SbD
 <a href="https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=env/jm/mono(2020)36/REV1&doclanguage=en"><img src="{{ site.baseurl }}/images/SSbD/OECD-SIA.png" width="250" class="image--right"></a>
