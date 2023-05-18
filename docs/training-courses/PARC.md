@@ -31,6 +31,9 @@ webinars:
   - title: "Example FIPs – WorldFAIR project: Chemistry & Nanomaterials"
     speaker: Leah McEwan, Cornell University / Thomas Exner, SevenPastNine
     date: 2023-04-20
+  - title: "FAIR metrics & FAIR assessment tools"
+    speaker: Ammar Ammar, Maastricht University
+    date: 2023-05-18
 ---
 
 <img src="{{ site.baseurl }}/images/logos/parc.png" width="150" class="image--right"/>
