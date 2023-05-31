@@ -3,7 +3,7 @@ layout: page
 title: Data completeness, minimum information checklist, data quality
 permalink: /data-management/data-completeness-quality/
 parent: Data/knowledge management
-nav_order: 230
+nav_order: 240
 has_references: true
 ---
 

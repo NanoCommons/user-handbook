@@ -222,4 +222,6 @@
   tooltip: 'Khan, S.; Gupta, A.; Nandi, C. Controlling the fate of protein corona by tuning surface properties of nanoparticles. <i>J. Phys. Chem. Lett.</i> <b>2013</b>, <i>4</i>, 3747–52.<a href=\"https://doi.org/10.1021/jz401874u\">https://doi.org/10.1021/jz401874u</a>.'
 - name: Hasenkopf et al., 2022
   tooltip: 'Hasenkopf, I.; Mills-Goodlet, R.; Johnson, L.; Rouse, I.; Geppert, M.; Duschl, A.; Maier, D.; Lobaskin, V.; Lynch, I.; Himly, M. Computational prediction and experimental analysis of the nanoparticle-protein corona: Showcasing an in vitro-in silico workflow providing FAIR data <i>NanoToday</i> <b>2022</b>, <i>46</i>, 101561. <a href=\"https://doi.org/10.1016/j.nantod.2022.101561\">https://doi.org/10.1016/j.nantod.2022.101561</a>.'
+- name: Thomas et al., 2013
+  tooltip: 'Thomas, D. G.; Gaheen, S.; Harper, S. L.; Fritts, M.; Klaessig, F.; Hahn-Dantona, E.; Paik, D.; Pan, S.; Stafford, G. A.; Freund, E. T.; Klemm, J. D.; Baker, N. A. ISA-TAB-Nano: A Specification for Sharing Nanomaterial Research Data in Spreadsheet-based Format <i>BMC Biotechnology</i> <b>2013</b>, <i>13</i>, 2. <a href=\"https://doi.org/10.1186/1472-6750-13-2\">https://doi.org/10.1186/1472-6750-13-2</a>.'
 
