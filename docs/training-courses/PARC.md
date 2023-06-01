@@ -60,7 +60,7 @@ Passcode:438719
 
 ## Confirmed presentations (many more to come)
 <table  id="table-parc">
-{% assign webinars = page.webinars | sort:"date" %} 
+{% assign webinars = page.webinars | sort:"date" | reverse %} 
   <tr>
     <th>Date</th>
     <th width="70%">Title</th>
