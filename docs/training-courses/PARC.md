@@ -34,6 +34,12 @@ webinars:
   - title: "FAIR metrics & FAIR assessment tools"
     speaker: Ammar Ammar, Maastricht University
     date: 2023-05-18
+  - title: "Philosophical reflections and practical perspectives for ontology development"
+    speaker: Luke Slater, University of Birmingham
+    date: 2023-05-18
+  - title: "The FAIRCat service: mapping dataset metadata from heterogeneous repository to DCAT (the Data Catalog Vocabulary)"
+    speaker: Yann Le Franc, e-Science Data Factory
+    date: 2023-05-18
 ---
 
 <img src="{{ site.baseurl }}/images/logos/parc.png" width="150" class="image--right"/>
