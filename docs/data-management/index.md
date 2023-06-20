@@ -24,7 +24,7 @@ The resources below will give guidance how such a distributed (meta)data collect
 
 {% include childrenTOC.html page=page pages=site.pages %}
 
-### Did we miss something (definitely)? Please let us know.
+### Did we miss something (we definitely did)? Please let us know.
 
 [Click here to edit the mural below.](https://app.mural.co/invitation/mural/acumenist5564/1657265160401?sender=u8c5a98e82311f4aac9975917&key=9bc484c1-ddd9-4bfc-b25c-771637ef22d4)
 <iframe src='https://app.mural.co/embed/6b9dd0cc-48d6-4b63-bb57-b44ff37a1338'

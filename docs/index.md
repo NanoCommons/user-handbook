@@ -33,7 +33,7 @@ projects:
   - url: https://www.h2020gracious.eu/
     logo: gracious.png
     width: 120
-  - url: http://www.acenano-project.eu/
+  - url: https://cordis.europa.eu/project/id/720952
     logo: acenano.png
     width: 160
   - url: http://www.nanofase.eu/

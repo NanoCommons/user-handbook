@@ -19,6 +19,10 @@ As a follow-up of the nanosafety metadata stewardship paper (Papadiamantis et al
 
 {% include childrenTOC.html page=page pages=site.pages %}
 
+The metadata stewardship papers and the supporting material presented on this page are collaborations of many people and we acknowledge here their contributions also to earlier versions of the papers, which unfortunately did not make it into the final versions. Even if this is only a small compensation for their work, at least the text is living on here.
+
+The following is hopefully a complete list of all authors, who have contributed to one or more of the sections above: Anastasios G. Papadiamantis, Georgia Melagraki, Jaleesia D. Amos, Nathan Bossa, Giorgos Gakis, Costas A. Charitidis, Geert Cornelis, Anna L. Costa, Philip Doganis, Lucian Farcal,  Steffi Friedrichs, Irini Furxhi, Frederick C. Klaessig, Vladimir Lobaskin, Dieter Maier, John Rumble, Haralambos Sarimveis, Blanca Suarez-Merino, Socorro Vázquez, Mark R. Wiesner, Antreas Afantitis, Barry Hardy, Eugenia Valsmai-Jones, Andrea Haase, Claus Svendson, Lee Walker, Amaia Green Etxabe, Georgios Konstantopoulos, Nikos Nikoloudakis, Konstantinos Kotsis, Martin Himly, Beatriz Alfaro, Andreas Falk, Jan Schüürman, Frank von der Kammer,Iseult Lynch, Thomas E. Exner
+
 
 References
 {: .references-header }

@@ -21,12 +21,11 @@ For this reason, the European Commission has decided to fund five research proje
 7 Feb. 2023. Agenda and slides are [here](https://zenodo.org/record/7625279)
 {: .more-link .more-link--video}
 
-[Human health risk assessment frameworks for micro- and nanoplastics]()
-14 March 2023. Agenda and slides are [here](https://polyrisk.science/wp-content/uploads/2023/02/CUSP_RAWorkshop_Agenda_March14_FINAL-1.pdf)
-{: .more-link .more-link--video}
+[Human health risk assessment frameworks for micro- and nanoplastics](https://cusp-research.eu/cusp-workshop-on-human-health-risk-assessment-frameworks-for-mnps/)
+14 March 2023.
+{: .more-link .more-link--slides}
 
-
-[Data and information gaps]()
-31 April 2023. <!---Agenda and slides are [here]()--->
-{: .more-link .more-link--video}
+[Data and information gaps](https://www.eventbrite.de/e/human-risk-assessment-of-mnps-workshop-3-tickets-594811706827)
+21 April 2023.
+{: .more-link .more-link--slides}
 

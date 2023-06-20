@@ -48,3 +48,10 @@ References
 - Papadiamantis et al., 2020: Papadiamantis, A. G.; Klaessig, F. C.; Exner, T. E.; Hofer, S.; Hofstaetter, N.; Himly, M.; Williams, M. A.; Doganis, P.; Hoover, M. D.; Afantitis, A.; Melagraki, G.; Nolan, T. S.; Rumble, J.; Maier, D.; Lynch, I. Metadata Stewardship in Nanosafety Research: Community-Driven Organisation of Metadata Schemas to Support FAIR Nanoscience Data. <i>Nanomaterials</i> <b>2020</b>, <i>10</i> (10), 2033. <a href="https://doi.org/10.3390/nano10102033">https://doi.org/10.3390/nano10102033</a>.
 - Thomas et al., 2013: Thomas, D. G.; Gaheen, S.; Harper, S. L.; Fritts, M.; Klaessig, F.; Hahn-Dantona, E.; Paik, D.; Pan, S.; Stafford, G. A.; Freund, E. T.; Klemm, J. D.; Baker, N. A. ISA-TAB-Nano: A Specification for Sharing Nanomaterial Research Data in Spreadsheet-based Format <i>BMC Biotechnology</i> <b>2013</b>, <i>13</i>, 2. <a href="https://doi.org/10.1186/1472-6750-13-2">https://doi.org/10.1186/1472-6750-13-2</a>.
 {: .references }
+
+## Keep on reading about (meta)data concepts
+{% for sitepage in site.pages %}
+    {% if sitepage.title == page.parent %}
+        {% include childrenTOC.html page=sitepage pages=site.pages %}
+    {% endif %}
+{% endfor %}
