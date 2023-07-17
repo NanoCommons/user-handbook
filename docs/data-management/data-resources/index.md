@@ -67,10 +67,6 @@ NIL was developed by the National Institute for Occupational Safety and Health (
 NR is curated database funded by the National Institutes of Health (NIH). It collects data on the human and environmental effects of NMs from a variety of sources, including caNanoLab, NBI, and NIL.
 {: .more-link .more-link--app}
 
-[NanoPharos database](https://db.nanopharos.eu/ )
-NanoPharos includes computationally derived data based on simulations, characterization data and biological effects.
-{: .more-link .more-link--app}
-
 [S2NANO online database](http://www.s2nano.org)
 S2NANO including experimental results related to different sources of NMs. In earlier versions of the platform, the database had been accessible to the public and data were retrievable. However, the data are no longer accessible to the public.
 {: .more-link .more-link--app}
