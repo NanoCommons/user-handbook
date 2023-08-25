@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why FAIR is necessary?
-permalink: /FAIRification/whyFAIR/
+permalink: /FAIRification/why-FAIR/
 parent: FAIRification
 description_long: "Some data and experience why not sharing data is bad"
 has_children: false

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAIRness, completeness, and data quality scores
-permalink: /FAIRification/FAIRnessScores/
+permalink: /FAIRification/FAIRness-scores/
 parent: FAIRification
 description_long: Documentation of ongoing activities and approaches to evaluate the FAIRness and quality of datasets.
 has_children: false

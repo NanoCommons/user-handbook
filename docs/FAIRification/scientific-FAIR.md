@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific FAIR principles
-permalink: /FAIRification/scientificFAIR/
+permalink: /FAIRification/scientific-FAIR/
 parent: FAIRification
 description_long: The original principles are mainly focussed on how data should be shared, and not on what needs to be reported to make the data reusable with high confidence. Thus, a gap still exists when it comes to the scientific FAIR principles needed to ensure that high-quality data generation and collection, and metadata processing have sufficient "completeness" to facilitate the FAIRification process.
 has_children: false

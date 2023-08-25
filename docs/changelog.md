@@ -5,6 +5,15 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: FAIRification/ontologies/
+    description: OBO Semantic Engineering Training
+    date: 2023-08-25
+  - url: FAIRification/FAIR-implementation-profiles/
+    description: FAIR implementation profiles and FAIR digital objects
+    date: 2023-08-25
+  - url: FAIRification/data-documentation/
+    description: CODATA-DDI (Meta)data documentation standards
+    date: 2023-08-25
   - url: SSbD/
     description: Workshop on Safe and Sustainable by Design case studies
     date: 2023-03-22

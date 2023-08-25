@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nanomaterial identifiers and structural representations
-permalink: /FAIRification/FAIRidentifiers/
+permalink: /FAIRification/FAIR-identifiers/
 parent: FAIRification
 description_long: List of (unique) identifiers and structural representations used for nanomaterials
 has_children: false
