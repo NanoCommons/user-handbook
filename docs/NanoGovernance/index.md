@@ -76,8 +76,18 @@ Access to all OECD Test Guidelines highlighting newly released guidelines, updat
 The OECD webinars on Testing and Assessment Methodologies focus on selected ongoing projects that will result in the short to medium term in new methodologies to test and assess chemicals. These free webinars are open to potential end users among regulators and contract research organisations who want to get familiar with new standards and approaches. 
 {: .more-link .more-link--webpages}
 
-### NanoHarmony webinars on TG and GD development
-[Full list of NanoHarmony event recordings]({{ site.baseurl }}/training-courses/NanoHarmony-webinars/)
+<img src="{{ site.baseurl }}/images/NanoGovernance/Nanoharmony_News.webp" width="300" class="image--right" />
+### NanoHarmony: Towards harmonized test methods for nanomaterials
+The NanoHarmony project supported the development of OECD Test Guidelines and Guidance Documents for eight endpoints where nanomaterial-adapted test methods have been identified as a regulatory priority. Based on this work, it provides recommendations to address issues, which might jeopardise keeping pace with new scientific developments, to ensure engagement of all the relevant stakeholders, not least those in the academic community, and to make the process of TG development more effective.
+
+[White Paper: From Science to Regulation](https://nanoharmony.eu/white-paper/)
+{: .more-link .more-link--webpages}
+
+[OECD TG/GD Process Mentor](https://www.testguideline-development.org/)
+The NanoHarmony Process Mentor provides guidance and understanding on developing OECD Test Guidelines (TGs) and Guidance Documents (GDs), including when and how to prepare for required activities, highlighting key start and finish dates of the development process, plus who to involve in which activities and when. 
+{: .more-link .more-link--app}
+
+[NanoHarmony training and event recordings]({{ site.baseurl }}/training-courses/NanoHarmony-webinars/)
 {: .more-link .more-link--webpages}
 
 ### NMBP 13 final online event: Future-proof Approaches for Risk Governance

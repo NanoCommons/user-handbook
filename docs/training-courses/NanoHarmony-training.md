@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NanoHarmony Webinars
-permalink: /training-courses/NanoHarmony-webinars/
-description_long: This is a list of all recordings from training webinars offered by NanoHarmony
+title: NanoHarmony Training
+permalink: /training-courses/NanoHarmony-training/
+description_long: Training material and recordings from training webinars offered by NanoHarmony
 parent: Training courses and webinars
 has_children: false
 has_toc: false
@@ -11,9 +11,18 @@ nav_order: 1000 # use 1000-year for sorting / 1000 for all trainings offered by 
 ---
 
 <img src="{{ site.baseurl }}/images/logos/nanoharmony.webp" width="200" class="image--right" />
-# NanoHarmony Webinars
-This is a list of all recordings from NanoHarmony webinars.
+# NanoHarmony Training and Webinars
+This links in the NanoHarmony Training Material into the handbook and gives a list of recordings from NanoHarmony webinars.
 {: .lead }
+
+The EU-funded project NanoHarmony developed in mid-2023 a Training Material for students and young researchers, scientists involved in research projects, which work towards development of standardised and harmonised test methods, supervisors of PhDs/PostDocs, coordinators of Horizon Europe projects and interested groups with little foreknowledge about the OECD and its respective processes. The set of slides provides a low-level entry into the topic of standards and harmonised OECD Test Guidelines and how science can contribute to this. 
+
+[NanoHarmony Training Material - From science to standards and harmonised OECD Test Guidelines](https://www.testguideline-development.org/useful-resources#Introduction-OECD-standardisation)
+{: .more-link .more-link--webpages}
+
+This training is part of the [NanoHarmony Process Mentor](https://www.testguideline-development.org/) providing guidance and understanding on developing OECD Test Guidelines (TGs) and Guidance Documents (GDs), including when and how to prepare for required activities, highlighting key start and finish dates of the development process, plus who to involve in which activities and when. 
+
+During its runtime, NanoHarmony gave a number of webinars and online trainings, which provide starting points for self-training or creating new trainings using the material above and using the Process Mentor.
 
 <div class="more-link more-link--video">
 <a href="https://video.oecd.org/ae683012a90ecc1467340e6a0a9b39cd/or/International-NanoHarmony-NANOMET-Workshop-on-nano-related-OECD-Test-Guideline-Development.html">

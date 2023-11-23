@@ -5,6 +5,12 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: NanoGovernance/#nanoharmony-towards-harmonized-test-methods-for-nanomaterials
+    description: NanoHarmony white paper and Process Mentor
+    date: 2023-11-23
+  - url: training-courses/NanoHarmony-training/
+    description: NanoHarmony Training Material - From science to standards and harmonised OECD Test Guidelines
+    date: 2023-11-23
   - url: FAIRification/ontologies/
     description: OBO Semantic Engineering Training
     date: 2023-08-25
