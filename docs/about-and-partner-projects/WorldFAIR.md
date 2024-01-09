@@ -13,21 +13,42 @@ nav_order: 10002
 In the WorldFAIR project, the Committee on Data of the International Science Council (CODATA) and the Research Data Alliance (RDA) work with a set of 11 disciplinary and cross-disciplinary case studies to advance implementation of the FAIR principles. 
 {: .lead }
 
-In particular, it will improve interoperability and reusability of digital research objects, including data. Particular attention is paid to the articulation of an interoperability framework for each case study and research domain. One of the case studies will test the pilot operationalisation of the FAIR principles within the nanomaterials community; run conference sessions and workshops with stakeholders (including the InChI-for-nano domain experts, and international ‘nano’ database managers and their users) to apply, refine, implement, improve the metrics for FAIR nanosafety datasets; and develop an inventory of FAIR nanoinformatics models and their domains of applicability, underpinning datasets and APIs to support interoperability, including guidelines to further improve the interoperability of nanoinformatics models.
+The project aims to join up disconnected initiatives on data management, data stewardship, and FAIR data practices, within and across disciplines and internationally and to co-design and harmonise interoperability frameworks and recommendations first for each case study and research domain and finally across disciplines.
 
 [Project website](https://worldfair-project.eu/)
 {: .more-link .more-link--webpages}
 
-[Nanomaterials Use Case](https://worldfair-project.eu/case-studies-of-worldfair/#nanomaterials)
+[FAIR Implementation Profiles (FIPs)](https://worldfair-project.eu/fair-implementation-profiles/)
+FIPs are a methodology, developed by GO FAIR, through which a research community expresses its practices and decisions around FAIR. The approach involves a series of questions on how the community makes data and metadata FAIR and what ‘FAIR Enabling Resources’ (FERs) are used.
+{: .more-link .more-link--app}
+
+[Cross-Domain Interoperability Framework](https://worldfair-project.eu/cross-domain-interoperability-framework/)
+The Cross-Domain Interoperability Framework (CDIF) is an emerging idea for a set of guidelines around domain-agnostic standards for supporting the implementation of interoperability and reusability of FAIR data, especially across domain- and institutional boundaries.
 {: .more-link .more-link--webpages}
 
-[FAIR Implementation Profiles (FIPs)](https://worldfair-project.eu/fair-implementation-profiles/)
-{: .more-link .more-link--app}
+[Deliverables and Milestones](https://worldfair-project.eu/cross-domain-interoperability-framework/)
+{: .more-link .more-link--pdf}
+
+And more:
+- [YouTube channel](https://www.youtube.com/@worldfairproject)
+- [Zenodo community](https://zenodo.org/communities/worldfair-project)
+
+One of the case studies is testing the pilot operationalisation of the FAIR principles within the nanomaterials community; run conference sessions and workshops with stakeholders (including the InChI-for-nano domain experts, and international ‘nano’ database managers and their users) to apply, refine, implement, improve the metrics for FAIR nanosafety datasets; and develop an inventory of FAIR nanoinformatics models and their domains of applicability, underpinning datasets and APIs to support interoperability, including guidelines to further improve the interoperability of nanoinformatics models.
+
+[Nanomaterials Use Case](https://worldfair-project.eu/nanomaterials/)
+{: .more-link .more-link--webpages}
+
+[Nanomaterials specific FAIR guidance including the WorldFAIR reference FIP]({{ site.baseurl }}/FAIRification/)
+{: .more-link .more-link--webpages}
+
+[D4.1: Nanomaterials domain-specific FAIRification mapping](https://zenodo.org/records/7887341)
+{: .more-link .more-link--pdf}
+
+[MS11: Nanomaterials prototype](https://zenodo.org/records/10213878)
+{: .more-link .more-link--pdf}
 
 
 ## Introduction to WorldFAIR
-The WorldFAIR project is a major new global collaboration between partners from thirteen countries across Africa, Australasia, Europe, and North and South America. WorldFAIR will advance implementation of the FAIR data principles, in particular those for Interoperability, by developing a cross-domain interoperability framework and recommendations for FAIR assessment in a set of eleven disciplines or cross-disciplinary research areas.
-
-... more too come soon.
+<iframe width="420" height="315" src="//www.youtube.com/embed/Dx5TlxSTtpw" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 _WorldFAIR is a 2 years project funded by the European Commission within Horizon Europe (Grant Agreement 101058393; June 2022 - May 2024)._
