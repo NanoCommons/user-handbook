@@ -227,6 +227,8 @@
 - name: Baker, 2016
   tooltip: 'Baker, M. 1,500 scientists lift the lid on reproducibility. <i>Nature</i> <b>2016</b>, <i>533</i>, 452–454. <a href=\"https://doi.org/10.1038/533452a\">https://doi.org/10.1038/533452a</a>.'
 - name: Houweling and Willighagen, 2023
-  tooltip: Houweling, J.; Willighagen, E. Research Output Management. <i>Qeios</i> <b>2023</b>. <a href=\"https://doi.org/10.32388/ZNWI7T\">https://doi.org/10.32388/ZNWI7T</a>.'
+  tooltip: 'Houweling, J.; Willighagen, E. Research Output Management. <i>Qeios</i> <b>2023</b>. <a href=\"https://doi.org/10.32388/ZNWI7T\">https://doi.org/10.32388/ZNWI7T</a>.'
 - name: Willighagen et al., 2018
-  tooltip: Willighagen, E.; Najko Jahn; Nielsen, F. Å. The EU NanoSafety Cluster as Linked Data Visualized with Scholia. <i>NSC Newsl.</i> <b>2018</b>. <a href=\"https://doi.org/10.6084/M9.FIGSHARE.6727931\">https://doi.org/10.6084/M9.FIGSHARE.6727931</a>.
+  tooltip: 'Willighagen, E.; Najko Jahn; Nielsen, F. Å. The EU NanoSafety Cluster as Linked Data Visualized with Scholia. <i>NSC Newsl.</i> <b>2018</b>. <a href=\"https://doi.org/10.6084/M9.FIGSHARE.6727931\">https://doi.org/10.6084/M9.FIGSHARE.6727931</a>.'
+- name: Karcher et al., 2017
+  tooltip: 'Karcher, S.; Willighagen, E. L.; Rumble, J.; Ehrhart, F.; Evelo, C. T.; Fritts, M.; Gaheen, S.; Harper, S. L.; Hoover, M. D.; Jeliazkova, N.; Lewinski, N.; Marchese Robinson, R. L.; Mills, K. C.; Mustad, A. P.; Thomas, D. G.; Tsiliki, G.; Hendren, C. O. Integration among Databases and Data Sets to Support Productive Nanotechnology: Challenges and Recommendations. <i>NanoImpact</i> <b>2017</b>, 9, 85–101. <a href="https://doi.org/10.1016/j.impact.2017.11.002">https://doi.org/10.1016/j.impact.2017.11.002</a>.'
