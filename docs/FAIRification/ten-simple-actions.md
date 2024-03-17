@@ -31,6 +31,8 @@ The integration of data sources to support nanosafety research was identified by
 
 ## Findable in Zenodo
 
+<img src="{{ site.baseurl }}/images/FAIRification/TenActions_Zenodo.png" />
+
 To get a globally unique identifier for research output can easily be done with the
 digital object identifier (DOI). DOIs are routine minted by NSC projects using
 <a href="https://figshare.com/search?q=nanosafety">Figshare</a> and
@@ -55,7 +57,9 @@ and <a href="https://zenodo.org/communities/sbd4nano">SbD4Nano</a>.
 Link your research output on Zenodo to at least the
 <a href="https://zenodo.org/communities/nsc">NSC Community</a>.
 
-## Findable in Zenodo
+## Findable in the NSC Website
+
+<img src="{{ site.baseurl }}/images/FAIRification/TenActions_NSC.png" />
 
 The DOI makes it possible for other efforts to propagate the metadata of the research
 output. For example, <a href="https://datacite.org/">DataCite</a> indexes output in
