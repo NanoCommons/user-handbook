@@ -22,7 +22,7 @@ A lot has been written about the FAIR principles for making data findable, acces
 {:toc}
 </details>
 
-This document is an adoption of an earlier published contribution to the 2024 NSC Update #01, see [https://zenodo.org/records/10533126](https://zenodo.org/records/10533126).
+This document is an adaptation of an earlier published contribution to the 2024 NSC Update #01, see [https://zenodo.org/records/10533126](https://zenodo.org/records/10533126).
 It describes a few solutions adopted by the NSC that can be used
 by any NSC project partner. Here, we widen the focus from data to research output, as proposed by Houweling and Willighagen (Houweling and Willighagen, 2023).
 We can even push this all the way to make NSC projects themselves more FAIR, as described in this newsletter
