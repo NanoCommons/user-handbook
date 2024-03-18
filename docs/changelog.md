@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: FAIRification/ten-simple-actions
+    description: Ten simple actions to make NSC Research Output more Findable
+    date: 2024-03-18
   - url: NanoGovernance/#nanoharmony-towards-harmonized-test-methods-for-nanomaterials
     description: NanoHarmony white paper and Process Mentor
     date: 2023-11-23
