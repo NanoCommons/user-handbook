@@ -22,7 +22,7 @@ A lot has been written about the FAIR principles for making data findable, acces
 {:toc}
 </details>
 
-This document is an adoption of an earlier published contribution to the 2024 NSC Update #01, see [https://zenodo.org/records/10533126](https://zenodo.org/records/10533126).
+This document is an adaptation of an earlier published contribution to the 2024 NSC Update #01, see [https://zenodo.org/records/10533126](https://zenodo.org/records/10533126).
 It describes a few solutions adopted by the NSC that can be used
 by any NSC project partner. Here, we widen the focus from data to research output, as proposed by Houweling and Willighagen (Houweling and Willighagen, 2023).
 We can even push this all the way to make NSC projects themselves more FAIR, as described in this newsletter
@@ -30,6 +30,8 @@ in 2018 (Willighagen et al., 2018). To me, this is important, as a lot of nanosa
 The integration of data sources to support nanosafety research was identified by several initiatives (Karcher et al., 2017).
 
 ## Findable in Zenodo
+
+<img src="{{ site.baseurl }}/images/FAIRification/TenActions_Zenodo.png" />
 
 To get a globally unique identifier for research output can easily be done with the
 digital object identifier (DOI). DOIs are routine minted by NSC projects using
@@ -55,6 +57,9 @@ and <a href="https://zenodo.org/communities/sbd4nano">SbD4Nano</a>.
 Link your research output on Zenodo to at least the
 <a href="https://zenodo.org/communities/nsc">NSC Community</a>.
 
+## Findable in the NSC Website
+
+<img src="{{ site.baseurl }}/images/FAIRification/TenActions_NSC.png" />
 ## Findable in Zenodo - let the NSC know
 
 The DOI makes it possible for other efforts to propagate the metadata of the research
@@ -138,14 +143,18 @@ This article gives ten simple actions to make EU NanoSafety Cluster research out
 
 References
 {: .references-header }
+- Ammar, A.; Bonaretti, S.; Winckers, L.; Quik, J.; Bakker, M.; Maier, D.; Lynch, I.; van Rijn, J.; Willighagen, E. A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences. Nanomaterials 2020, 10 (10), 2068. https://doi.org/10.3390/nano10102068.
 - Brase, 2009: 'Brase, J. DataCite - A Global Registration Agency for Research Data. In 2009 Fourth International Conference on Cooperation and Promotion of Information Resources in Science and Technology; <i>IEEE: Beijing, China</i>, <b>2009</b>; pp 257–261. <a href="https://doi.org/10.1109/COINFO.2009.66."></a>.'
 - GRACIOUS, 2019: 'European Commission. Joint Research Centre. GRACIOUS Data Logging Templates for the Environmental, Health and Safety Assessment of Nanomaterials.; <i>Publications Office: LU</i>, <b>2019</b>.'
 - Houweling and Willighagen, 2023: 'Houweling, J.; Willighagen, E. Research Output Management. <i>Qeios</i> <b>2023</b>. <a href="https://doi.org/10.32388/ZNWI7T">https://doi.org/10.32388/ZNWI7T</a>.'
 - Karcher et al., 2017: 'Karcher, S.; Willighagen, E. L.; Rumble, J.; Ehrhart, F.; Evelo, C. T.; Fritts, M.; Gaheen, S.; Harper, S. L.; Hoover, M. D.; Jeliazkova, N.; Lewinski, N.; Marchese Robinson, R. L.; Mills, K. C.; Mustad, A. P.; Thomas, D. G.; Tsiliki, G.; Hendren, C. O. Integration among Databases and Data Sets to Support Productive Nanotechnology: Challenges and Recommendations. <i>NanoImpact</i> <b>2017</b>, 9, 85–101. <a href="https://doi.org/10.1016/j.impact.2017.11.002">https://doi.org/10.1016/j.impact.2017.11.002</a>.'
+- Knigge, Xenia; Radnik, Jörg. Physico-Chemical Characterization of Sterile Fe3O4 Nanoparticles by XPS / HAXPES / SEM, 2023. https://doi.org/10.5281/ZENODO.7990302.
 - Kochev et al., 2020: 'Kochev, N.; Jeliazkova, N.; Paskaleva, V.; Tancheva, G.; Iliev, L.; Ritchie, P.; Jeliazkov, V. Your Spreadsheets Can Be FAIR: A Tool and FAIRification Workflow for the eNanoMapper Database. <i>Nanomaterials</i> <b>2020</b>, <i>10</i> (10), 1908. <a href="https://doi.org/10.3390/nano10101908">https://doi.org/10.3390/nano10101908</a>.'
+- Lynch, I.; Afantitis, A.; Exner, T.; Himly, M.; Lobaskin, V.; Doganis, P.; Maier, D.; Sanabria, N.; Papadiamantis, A. G.; Rybinska-Fryca, A.; Gromelski, M.; Puzyn, T.; Willighagen, E.; Johnston, B. D.; Gulumian, M.; Matzke, M.; Green Etxabe, A.; Bossa, N.; Serra, A.; Liampa, I.; Harper, S.; Tämm, K.; Jensen, A. C.; Kohonen, P.; Slater, L.; Tsoumanis, A.; Greco, D.; Winkler, D. A.; Sarimveis, H.; Melagraki, G. Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? Nanomaterials 2020, 10 (12), 2493. https://doi.org/10.3390/nano10122493.
 - Martens et al., 2023: 'Martens, M.; Stierum, R.; Schymanski, E. L.; Evelo, C. T.; Aalizadeh, R.; Aladjov, H.; Arturi, K.; Audouze, K.; Babica, P.; Berka, K.; Bessems, J.; Blaha, L.; Bolton, E. E.; Cases, M.; Damalas, D. Ε.; Dave, K.; Dilger, M.; Exner, T.; Geerke, D. P.; Grafström, R.; Gray, A.; Hancock, J. M.; Hollert, H.; Jeliazkova, N.; Jennen, D.; Jourdan, F.; Kahlem, P.; Klanova, J.; Kleinjans, J.; Kondic, T.; Kone, B.; Lynch, I.; Maran, U.; Martinez Cuesta, S.; Ménager, H.; Neumann, S.; Nymark, P.; Oberacher, H.; Ramirez, N.; Remy, S.; Rocca-Serra, P.; Salek, R. M.; Sallach, B.; Sansone, S.-A.; Sanz, F.; Sarimveis, H.; Sarntivijai, S.; Schulze, T.; Slobodnik, J.; Spjuth, O.; Tedds, J.; Thomaidis, N.; Weber, R. J. M.; Van Westen, G. J. P.; Wheelock, C. E.; Williams, A. J.; Witters, H.; Zdrazil, B.; Županič, A.; Willighagen, E. L. ELIXIR and Toxicology: A Community in Development. <i>F1000Research</i> <b>2023</b>, <i>10</i>, 1129. <a href="https://doi.org/10.12688/f1000research.74502.2">https://doi.org/10.12688/f1000research.74502.2</a>.'
 - Rocca-Serra et al., 2023: 'Rocca-Serra, P.; Gu, W.; Ioannidis, V.; Abbassi-Daloii, T.; Capella-Gutierrez, S.; Chandramouliswaran, I.; Splendiani, A.; Burdett, T.; Giessmann, R. T.; Henderson, D.; Batista, D.; Emam, I.; Gadiya, Y.; Giovanni, L.; Willighagen, E.; Evelo, C.; Gray, A. J. G.; Gribbon, P.; Juty, N.; Welter, D.; Quast, K.; Peeters, P.; Plasterer, T.; Wood, C.; Van Der Horst, E.; Reilly, D.; Van Vlijmen, H.; Scollen, S.; Lister, A.; Thurston, M.; Granell, R.; the FAIR Cookbook Contributors; Backianathan, G.; Baier, S.; Thomsen, A. C.; Cook, M.; Courtot, M.; d’Arcy, M.; Dauth, K.; Del Piico, E. M.; Garcia, L.; Goldmann, U.; Grouès, V.; Clarke, D. J. B.; Lefloch, E.; Liyanage, I.; Papadopoulos, P.; Pommier, C.; Reynares, E.; Ronzano, F.; Delfin-Rossaro, A.; Sagatopam, V.; Sedani, A.; Sedlyarov, V.; Shilova, L.; Singh, S.; Strubel, J.; Van Bochove, K.; Warnes, Z.; Woollard, P.; Xu, F.; Zaliani, A.; Sansone, S.-A. The FAIR Cookbook - the Essential Resource for and by FAIR Doers. <i>Sci. Data</i> <b>2023</b>, <i>10</i> (1), 292. <a href="https://doi.org/10.1038/s41597-023-02166-3">https://doi.org/10.1038/s41597-023-02166-3</a>.'
 - Totaro et al., 2016: 'Totaro, S.; Cotogno, G.; Rasmussen, K.; Pianella, F.; Roncaglia, M.; Olsson, H.; Riego Sintes, J. M.; Crutzen, H. P. The JRC Nanomaterials Repository: A Unique Facility Providing Representative Test Materials for nanoEHS Research. <i>Regul. Toxicol. Pharmacol.</i> <b>2016</b>, <i>81</i>, 334–340. <a href="https://doi.org/10.1016/j.yrtph.2016.08.008">https://doi.org/10.1016/j.yrtph.2016.08.008</a>.'
+- van Rijn, J.; Afantitis, A.; Culha, M.; Dusinska, M.; Exner, T. E.; Jeliazkova, N.; Longhin, E. M.; Lynch, I.; Melagraki, G.; Nymark, P.; Papadiamantis, A. G.; Winkler, D. A.; Yilmaz, H.; Willighagen, E. European Registry of Materials: Global, Unique Identifiers for (Undisclosed) Nanomaterials. J. Cheminformatics 2022, 14 (1), 57. https://doi.org/10.1186/s13321-022-00614-7.
 - Willighagen et al., 2018: 'Willighagen, E.; Najko Jahn; Nielsen, F. Å. The EU NanoSafety Cluster as Linked Data Visualized with Scholia. <i>NSC Newsl.</i> <b>2018</b>. <a href="https://doi.org/10.6084/M9.FIGSHARE.6727931">https://doi.org/10.6084/M9.FIGSHARE.6727931</a>.'
 - Willighagen, 2024: 'Willighagen, E. The ELIXIR Toxicology Community. <i>NSC Updat.</i> <b>2024</b>. <a href="https://doi.org/10.5281/zenodo.10551071">https://doi.org/10.5281/zenodo.10551071</a>.'
 {: .references }
