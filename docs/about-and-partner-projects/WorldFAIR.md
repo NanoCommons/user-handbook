@@ -44,6 +44,9 @@ One of the case studies is testing the pilot operationalisation of the FAIR prin
 [D4.1: Nanomaterials domain-specific FAIRification mapping](https://zenodo.org/records/7887341)
 {: .more-link .more-link--pdf}
 
+[D4.2: FAIRification of nanoinformatics tools and models recommendations](https://zenodo.org/records/10629631)
+{: .more-link .more-link--pdf}
+
 [MS11: Nanomaterials prototype](https://zenodo.org/records/10213878)
 {: .more-link .more-link--pdf}
 

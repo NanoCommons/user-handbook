@@ -5,6 +5,12 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: training-courses/WorldFAIR-training/
+    description: WorldFAIR webinars and trainings
+    date: 2024-04-30
+  - url: about-and-partner-projects/WorldFAIR/
+    description: WorldFAIR deliverable on FAIRification of nanoinformatics tools and models
+    date: 2024-04-30
   - url: FAIRification/ten-simple-actions
     description: Ten simple actions to make NSC Research Output more Findable
     date: 2024-03-18
