@@ -5,6 +5,15 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: training-courses/Asina-training/
+    description: ASINA trainings
+    date: 2024-05-15
+  - url: training-courses/SbD4Nano-training/
+    description: SbD4Nano trainings
+    date: 2024-05-15
+  - url: training-courses/SABYDOMA-training/
+    description: SABYDOMA training updates
+    date: 2024-05-15
   - url: training-courses/WorldFAIR-training/
     description: WorldFAIR webinars and trainings
     date: 2024-04-30
