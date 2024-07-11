@@ -40,7 +40,7 @@ To change this, training resources are collected here, which not only describe t
     5. Data is not used as a strategic resource for further exploitation and growth.
 7. Positive socio-economic value: a [recent study](https://ufm.dk/en/publications/2018/filer/preliminary-analysis-introduction-of-fair-data-in-denmark_oxford-research-og-hbs.pdf) commissioned by the Danish Agency for Science and Higher Education concluded that by making FAIR 50% of all data produced in Denmark, the socio-economic net present value will be about DKK 2 billion (€268mln) over a 40-year period. This estimate is based on the most conservative calculation assumptions found in literature, while disregarding the benefits that would fall to other countries if the FAIR data concept is introduced in Denmark; nor have any benefits gained from a FAIR data collaboration with other countries been included in the calculations.
 
-[Need more reasons why not sharing data is bad?](whyFAIR)
+[Need more reasons why not sharing data is bad?]({{ site.baseurl }}/FAIRification/why-FAIR/)
 {: .more-link .more-link--webpages}
 
 ## What are you using to be FAIR?
