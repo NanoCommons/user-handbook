@@ -5,6 +5,9 @@ nav_order: 2
 description: Data and nanoinformatics shepherds’ user guidance handbook
 permalink: /changelog/
 changes:
+  - url: SSbD/#what-is-ssbd-exactly-and-how-should-it-be-implemented---some-expert-opinions
+    description: Update of SSbD guidance (EU and Cefic)
+    date: 2024-07-17
   - url: training-courses/Asina-training/
     description: ASINA trainings
     date: 2024-05-15
