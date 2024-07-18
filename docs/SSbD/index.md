@@ -77,10 +77,6 @@ When these requirements are complied with and confidentiality as far as requeste
 
 
 
-[Inventories of S(S)bD tools]({{ site.baseurl }}/SSbD/inventories/)
-Collection of inventories with tools and services supporting SSbD e.g. from the OECD mapping study and JRC technical report linked above.
-{: .more-link .more-link--webpages}
-
 ## What is SSbD exactly and how should it be implemented? - some expert opinions   
 
 [Safe And Sustainable-By-Design @European Commission](https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/chemicals-and-advanced-materials/safe-and-sustainable-design_en)
@@ -117,10 +113,11 @@ The European Commission introduced 'safe and sustainable by design' (SSbD framew
 
 <p></p>
 
-[Safe And Sustainable-By-Design @CEFIC](https://cefic.org/a-solution-provider-for-sustainability/safe-and-sustainable-by-design/)
-<a href="https://cefic.org/a-solution-provider-for-sustainability/safe-and-sustainable-by-design/"><img src="{{ site.baseurl }}/images/SSbD/CEFIC-criteria.jpg" class="image--left"></a>
+[Safe And Sustainable By Design @CEFIC](https://cefic.org/a-solution-provider-for-sustainability/safe-and-sustainable-by-design/)
 _The European Chemical Industry Council and its members sees “Safe and sustainable-by-design” as a process to accelerate widespread market uptake of new and alternative chemical products and technologies that deliver greater consumer confidence in their safety, environmental and societal benefits and advance the transition towards a circular economy and climate-neutral society. They have been actively engaging and collaborating to define Safe and Sustainable by Design (SSbD) and its criteria, which are available in the form of two reports and a recently published guidance._<br clear="left">
 {: .more-link .more-link--webpage}
+
+<img src="{{ site.baseurl }}/images/SSbD/CEFIC-criteria.jpg">
 
 [SAFE AND SUSTAINABLE BY DESIGN: A GUIDANCE TO UNLEASH THE TRANSFORMATIVE POWER OF INNOVATION](https://cefic.org/app/uploads/2024/03/Safe-and-Sustainable-by-Design-a-guidance-to-unleash-the-transformative-power-of-innovation.pdf)
 {: .more-link .more-link--pdf}
@@ -149,11 +146,17 @@ Hear nano-specific SSbD definitions from speakers of [SABYDOMA's "A Stakeholder�
 ## [Safe-by-design and EU funded NanoSafety projects: Report on the EU nanomaterial SbD landscape in 2021](https://zenodo.org/record/4652587)
 The report was delivered to the European Commission as a contribution of the EU NanoSafetyCluster (NSC) to answer the request to contribute to their study on the state-of-the-art and ongoing research in the field of Safe-and-Sustainable-by-Design.
 
-<img src="{{ site.baseurl }}/images/SSbD/SABYDOMA-Word-cloud.png" width="400" class="image--right">
+<div class="image-container">
+  <img src="{{ site.baseurl }}/images/SSbD/SABYDOMA-Word-cloud.png" width="400" class="image--right">
+</div>
 _Safety aspects are amongst others very important to be addressed in the research, development and innovation (R&D&I) along the entire development chain, and specifically already from the earliest possible stages onwards. Considerable experience and knowledge have been gained in recent years tailored to nanomaterial related safety aspects. This enables the entire development and manufacturing areas to reduce delays to market launch of a product while extending their design processes to Safety and  Sustainability by Design (SSbD). SSbD concepts and solutions developed in the nanotechnology area have the potential to become an essential asset in the future SSbD approach. Hence, several EU-funded projects in the frame of H2020 have already begun to integrate such aspects into their activities. Application- and/or product-oriented frontrunner-projects (e.g R2R Biofluidics-project1) have already incorporated sustainability aspects [in relation to theUN SDGs]. In other projects, case studies have been performed and initial discussions on safe innovation approach took place. In a few ‘closer-to-the-market’ projects (e.g. OITBs) this has been included specifically. Of course, it is needed to further advance current SbD tools and models to be future proof. Thus, the H2020 projects that address SbD aspects either on materials- and models-level, as well as on complex systems, have to support the further development by implementing this in the standard development process, and in parallel, shall contribute to the establishing a nano risk governance council and a sustainable nanofabrication community. Furthermore, a key issue to implement SbD is data. To enable SbD-implementation, all the knowledge needs to be handled according to the “FAIR”-principles to secure its access and use in the long-run, connected with European initiatives (e.g. EOSC, EUON), made operational via an umbrella infrastructure (i.e. NanoCommons) that shall be the organisational center to include or make accessible all data from finished and/or ongoing H2020 (e.g. PROCETS, caLIBRAte, ACEnano, Purenano, Hi-Accuracy, etc.) as well as future projects that will be funded under Horizon Europe._
 
 ## Supporting S(S)bD
 During the final phase of H2020 and the first years of Horizon Europe, SbD for nanomaterials and then SSbD for many material sectors including nanomaterials and now advanced materials has been the topic of many funding calls. Keeping up-to-date with all the developments of these projects is a project in itself. Therefore, we start here with some early references and hope to be able to update this soon. 
+
+[Inventories of S(S)bD tools]({{ site.baseurl }}/SSbD/inventories/)
+Collection of inventories with tools and services supporting SSbD e.g. from the OECD mapping study and JRC technical report linked above.
+{: .more-link .more-link--webpages}
 
 [NanoCommons Safe-by-Design data and software platform interoperability and integration workshop]({{ site.baseurl }}/training-courses/2021-SbD-integration-workshop/)
 9 November 2021. Collaborative research supported by NanoCommons transnational access. [More info...](https://zenodo.org/record/5752073)
