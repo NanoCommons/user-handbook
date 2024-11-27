@@ -6,6 +6,15 @@ parent: FAIRification
 has_children: false
 nav_order: 302
 has_references: true
+bioschemas:
+  "@context": https://schema.org/
+  "@type": LearningResource
+  "http://purl.org/dc/terms/conformsTo":
+  - "@type": CreativeWork
+    "@id": "https://bioschemas/org/profiles/TrainTrainingMaterial/1.0-RELEASE"
+  author: ["Egon Willighagen"]
+  name: "Ten simple actions for NSC Research Output"
+  version: 1.0
 ---
 
 # Ten simple actions to make NSC Research Output more Findable
