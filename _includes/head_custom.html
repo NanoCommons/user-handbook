@@ -1,4 +1,9 @@
+  {% if page.bioschemas %}
   <!-- Bioschemas annotation -->
   <script type="application/ld+json">
     {{ page.bioschemas | jsonify }}
   </script>
+  {% else %}
+  <!-- None found. Consider adding Bioschemas annotation -->
+  {% endif %}
+  
