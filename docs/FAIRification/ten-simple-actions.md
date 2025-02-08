@@ -11,7 +11,7 @@ bioschemas:
   "@type": LearningResource
   "http://purl.org/dc/terms/conformsTo":
   - "@type": CreativeWork
-    "@id": "https://bioschemas/org/profiles/TrainTrainingMaterial/1.0-RELEASE"
+    "@id": "https://bioschemas/org/profiles/TrainingMaterial/1.0-RELEASE"
   author: ["Egon Willighagen"]
   name: "Ten simple actions for NSC Research Output more findable"
   description: "This document describes ten simple actions any researcher can take to make their NanoSafety Cluster research output more findable with platforms like Zenodo, the NanoSafety Cluster website, and ELIXIR."
